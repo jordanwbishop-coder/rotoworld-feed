@@ -1,9 +1,140 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:rw="https://example.com/rotoworld-feed">
+<rss xmlns:rw="https://example.com/rotoworld-feed" version="2.0" xmlns:rw="https://example.com/rotoworld-feed">
   <channel>
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-    <description>Feed will populate after the first successful GitHub Actions run.</description>
+    <description>Personal RSS feed generated from NBC Sports Rotoworld NFL Player News.</description>
     <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2026 18:08:12 +0000</lastBuildDate>
+    <item>
+      <title>Steelers HC Mike McCarthy told reporters WR DK Metcalf and WR Michael Pittman won’t practice this week.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c6ee6626e470c50bba8caa693815f7b3966248bbb838229e5a735be51a958cb8</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;DK Metcalf&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Both receivers are set to miss the Steelers’ upcoming preseason game against the Jets with undisclosed injuries. Without both starting wide receivers, you can expect Aaron Rodgers to sit out as well. Without much practice time remaining, the next time we see the Steelers’ starting offense very well may be in the regular season. - Nick Shlain Michael Pittman Jr.&lt;/p&gt;</description>
+      <rw:player>DK Metcalf</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date />
+    </item>
+    <item>
+      <title>Cardinals RB Jeremiyah Love (ankle) is out for at least a week.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:42fe220b0e96bc51e411a5eb4549a83d73bc7d9ffd03eb5f92f0e02640357ce4</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jeremiyah Love&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Love came out of the Cardinals preseason game on Thursday with an ankle injury. HC Mike LaFluer said after the game that Love could have returned. On Saturday morning, he changed his tune. LaFluer told reporters Love’s ankle is a “little more sore” and that he’ll be out for at least week. He didn’t commit to Love returning for the Cardinals third preseason game, only that the 21-year old running back will be re-evaluated in a week. Love totaled 73 scrimmage yards and looked like the clear-cut starter against the Raiders on Thursday, but Tyler Allgeier could end up being the de facto starter if Love’s ankle injury lingers into the regular season. - Nick Shlain&lt;/p&gt;</description>
+      <rw:player>Jeremiyah Love</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date />
+    </item>
+    <item>
+      <title>Seahawks signed CB Devon Witherspoon to a four-year, $132 million contract extension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6136b7ab88a8e73524c84f01abb811304e5bddaf26e8a38fea343ad2ab28e4b1</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Devon Witherspoon&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The deal includes $101 million guaranteed and makes Witherspoon the highest-paid cornerback in NFL history by both the total and average value of the contract. Witherspoon’s $132 million total value bests Rams CB Trent McDuffie, who signed a $124 million extension this offseason, for the biggest cornerback contract in the game. His $33 million per year average value overtakes Browns CB Denzel Ward’s $31.1 million for highest average value. Now attention should shift towards Patriots CB Christian Gonzalez, who appears to be next in line for an extension in this neighborhood. - Nick Shlain&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Devon Witherspoon</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date />
+    </item>
+    <item>
+      <title>Patriots CB Christian Gonzalez (undisclosed) won’t practice on Saturday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:966936e9172005ccdd167e820ee9ea26c4d871eca46102ee32fc68ef7d1f846d</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Gonzalez&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gonzalez missed practice on Tuesday, didn’t play in the Patriots’ preseason game on Thursday and remains off the field for Saturday’s practice. Still awaiting a contract extension from the Patriots, Gonzalez’ absence is related to an injury he suffered in practice last week, according to Patriots HC Mike Vrabel. While Gonzalez won’t practice, Vrabel said he’ll get treatment and work on conditioning, which implies the injury isn’t serious. - Nick Shlain&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Carlos A. Lopez&lt;/p&gt;</description>
+      <rw:player>Christian Gonzalez</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Carlos A. Lopez</rw:source>
+      <rw:author />
+      <rw:date />
+    </item>
+    <item>
+      <title>Bears WR Luther Burden (groin) was spotted running on the field before the Bears preseason game on Saturday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:88471967922431bcb766a5fd1695781d3e7b8eaea17520462b9553625a58d910</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Luther Burden&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Burden limped off the practice field a week ago and is expected to miss about a month with a groin injury. The injury isn’t considered serious and the hope is that he’ll be active for the Bears first regular season matchup against the Panthers in Week 1. Burden running on the field before the Bears first preseason game was a welcome sight for the organization and fantasy managers alike as the 22-year-old wide receiver appears to be progressing in his recovery. - Nick Shlain&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Chris Kwiecinski&lt;/p&gt;</description>
+      <rw:player>Luther Burden</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Chris Kwiecinski</rw:source>
+      <rw:author />
+      <rw:date />
+    </item>
+    <item>
+      <title>Lions HC Dan Campbell told reporters WR Isaac TeSlaa is going to be just fine.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ba0a0d9687fd8e336c7f8afdee38ee98c8e26199f8ad4b4f928d2d9a0d9c954d</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Isaac TeSlaa&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Even after TeSlaa’s training camp struggles extended into the Lions’ first preseason game, Detroit doesn’t seem worried about the 24-year-old receiver. TeSlaa had his first target go through his hands and off his helmet for an interception and later couldn’t hang on to a fourth down pass in the loss to the Bengals on Thursday. Still, his only competitor for the WR3 role is Greg Dortch, a journeyman receiver who also failed to catch a pass in the first preseason game. The Lions WR3 isn’t likely to be a fantasy-relevant role when everyone else in the offense is healthy, but Detroit would still like to see more development from their third-round pick in the 2025 NFL Draft. - Nick Shlain&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Dave Birkett&lt;/p&gt;</description>
+      <rw:player>Isaac TeSlaa</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Dave Birkett</rw:source>
+      <rw:author />
+      <rw:date />
+    </item>
+    <item>
+      <title>Steelers signed DL Keeanu Benton to a four-year, $72 million contract extension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:77b1a90e373e956ab67d1052a15d25412bd4e7ad659efca975c2b861e49844d7</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Keeanu Benton&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The deal was first reported by NFL Network’s Ian Rapoport. Benton, who turned 25 in July, is entering his fourth season in the league after the Steelers selected him in the second-round of the 2023 NFL Draft. Coming off a career-best season that saw him record 5.5 sacks, Benton would’ve been set to hit free agency next offseason without a contract extension. Now Benton joins LB Nick Herbig, TE Darnell Washington and K Chris Boswell on the list of Steelers to receive extensions this offseason. With his $18 million per year contract, Benton is now the highest-paid defensive lineman in Steelers history. - Nick Shlain&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Keeanu Benton</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date />
+    </item>
+    <item>
+      <title>Jets WR Omar Cooper caught 2-of-3 targets for 31 yards in Friday’s preseason game against the Buccaneers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:de0e7c6df50d4ffd67c303b0818a71d418a84e6745fd777288ffa7c0648d64cf</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Omar Cooper&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cooper entered the game on the Jets’ second drive, after the established starters called it a night. The usage meant Cooper played behind WR Isaiah Williams, who played 7-of-11 snaps on the first drive. Cooper continued playing through the Jets’ sixth drive. According to Rotoworld’s own Kyle Dvorchak, the last non-quarterback first-round rookie to play that late is former Titans WR Treylon Burks, back in his 2022 rookie season. This does not bode well for Cooper’s early-season usage. - Nic Bodiford&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kyle Dvorchak&lt;/p&gt;</description>
+      <rw:player>Omar Cooper</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Kyle Dvorchak</rw:source>
+      <rw:author />
+      <rw:date />
+    </item>
+    <item>
+      <title>Buccaneers WR Ted Hurst caught 2-of-6 targets for 19 yards in Friday’s preseason game against the Jets.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:59a43bc4aec738cbb2ec0da1543d7440306a931c7a26b1b4e81dad2bb1531e95</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ted Hurst&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Buccaneers rested their established starters, which takes a little shine off of Hurst’s start. Regardless, he led the team in targets through three drives and nearly hauled in a deep target after helpfully getting open during a scramble drill. The third-round rookie appeared to slip while diving for the catch, and he was unable to fully secure the pass before he and the ball hit the ground. Still, it was a decent start for him. He remains a worthwhile late-round dart throw. - Nic Bodiford&lt;/p&gt;</description>
+      <rw:player>Ted Hurst</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date />
+    </item>
+    <item>
+      <title>Jets RB Braelon Allen rushed four times for 44 yards and one touchdown in Friday’s preseason game against the Buccaneers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:567f5c305ed91a024c0115417abb8d540e4f32b15aa333feacdfe3daa5ec5270</guid>
+      <pubDate>Sat, 15 Aug 2026 18:08:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Braelon Allen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen stole one snap from starting RB Breece Hall on the first drive. Allen then stayed on the field for all of the second drive, breaking off a beautiful 31-yard touchdown run to put the Jets up 10-0 at the end of it. On his scoring play, Allen broke left at the snap before cutting it back and exploding through the line between the right guard and right tackle. It was a foot race to the end zone after that. The performance should solidify his grip on the RB2 role. - Nic Bodiford&lt;/p&gt;</description>
+      <rw:player>Braelon Allen</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date />
+    </item>
   </channel>
 </rss>

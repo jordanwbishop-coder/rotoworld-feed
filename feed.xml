@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 15 Aug 2026 18:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 19:01:07 +0000</lastBuildDate>
     <item>
       <title>Deshaun Watson completed 11-of-15 passes for 126 yards in Saturday’s preseason game against the Bears.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -23,10 +23,10 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:1bd5b16908f095839e4e81533b0959e26c924816c10b60f0df78ae0285f09314</guid>
       <pubDate>Sat, 15 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;DJ Moore DJ Moore caught 3-of-4 targets for 61 yards Saturday’s preseason game against the Panthers.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Moore’s first reception of the day came on a shallow crossing route that he turned upfield for a 32-yard gain. The new No. 1 target for Josh Allen would later haul in passes of 11 and 18 yards, but left the game with an apparent right ankle injury after having his leg rolled up on by a defender. Moore walked off under his own power and appeared in good spirits on the sideline, but we’ll likely get a better sense of his status after the game. Moore only ran six routes in this one, but his usage was very encouraging. It wouldn’t be surprising if we saw his ADP jump up a bit as a result of this strong first showing.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;DJ Moore BUF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Moore’s first reception of the day came on a shallow crossing route that he turned upfield for a 32-yard gain. The new No. 1 target for Josh Allen would later haul in passes of 11 and 18 yards, but left the game with an apparent right ankle injury after having his leg rolled up on by a defender. Moore walked off under his own power and appeared in good spirits on the sideline, but we’ll likely get a better sense of his status after the game. Moore only ran six routes in this one, but his usage was very encouraging. It wouldn’t be surprising if we saw his ADP jump up a bit as a result of this strong first showing.&lt;/p&gt;</description>
       <rw:player>DJ Moore</rw:player>
-      <rw:team>DJ</rw:team>
-      <rw:position>Moore caught 3-of-4 targets for 61 yards Saturday’s preseason game against the Panthers.</rw:position>
+      <rw:team>BUF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Aug 15, 2026</rw:date>
@@ -49,10 +49,10 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:51092648c3b0578c718e8d2db07f179a1c3fbdf14cc0d8c5a192488483c5fec1</guid>
       <pubDate>Sat, 15 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;DK Metcalf DK Metcalf&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Both receivers are set to miss the Steelers’ upcoming preseason game against the Jets with undisclosed injuries. Without both starting wide receivers, you can expect Aaron Rodgers to sit out as well. Without much practice time remaining, the next time we see the Steelers’ starting offense very well may be in the regular season.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;DK Metcalf PIT Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Both receivers are set to miss the Steelers’ upcoming preseason game against the Jets with undisclosed injuries. Without both starting wide receivers, you can expect Aaron Rodgers to sit out as well. Without much practice time remaining, the next time we see the Steelers’ starting offense very well may be in the regular season.&lt;/p&gt;</description>
       <rw:player>DK Metcalf</rw:player>
-      <rw:team>DK</rw:team>
-      <rw:position>Metcalf</rw:position>
+      <rw:team>PIT</rw:team>
+      <rw:position>Wide Receiver</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Aug 15, 2026</rw:date>
@@ -218,10 +218,10 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:398d1c2bbd8cc67a534f923ddbe35bca8f7dc25ce42fe7ffa12feb49259528e4</guid>
       <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jonah Coleman RJ Harvey&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coleman took a few snaps with tonight’s starters after replacing RB RJ Harvey on the second drive. Coleman picked up two first downs on the ground, barreling through contact on both plays. He earned one target as a receiver out of the backfield and took it for a five-yard gain. Unfortunately, the play was erased by a penalty, but it was good to see him get involved through the air regardless. Coleman looks like a capable player. He is worth speculatively stashing on fantasy benches at this time.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Jonah Coleman DEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coleman took a few snaps with tonight’s starters after replacing RB RJ Harvey on the second drive. Coleman picked up two first downs on the ground, barreling through contact on both plays. He earned one target as a receiver out of the backfield and took it for a five-yard gain. Unfortunately, the play was erased by a penalty, but it was good to see him get involved through the air regardless. Coleman looks like a capable player. He is worth speculatively stashing on fantasy benches at this time.&lt;/p&gt;</description>
       <rw:player>Jonah Coleman</rw:player>
-      <rw:team>RJ</rw:team>
-      <rw:position>Harvey</rw:position>
+      <rw:team>DEN</rw:team>
+      <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Aug 14, 2026</rw:date>
@@ -262,6 +262,32 @@
       <rw:team>JAC</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Jacksonville Jaguars</rw:source>
+      <rw:author />
+      <rw:date>Aug 14, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Mike Garafolo reports that the Bills, Bears and 49ers are among the teams that have inquired about Bucs DT Vita Vea’s availability.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:7c42c3aab0d2ab82a0660b90ac5bd87f02c5cb8f722208a8cd579fa8dc8412eb</guid>
+      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Vita Vea TB Nose Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Garafolo says that the Buccaneers remain steadfast in their position that Vea is not available. The team has also apparently kept the lines of communication open with Vea regarding a potential new deal, although “a deal is not imminent.” Vea is set to make roughly $18 million in the final year of his contract. Garafolo notes that the top of the defensive tackle market is now around $38 million annually, and Vea believes his production qualifies him for a contract extension in that tier.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
+      <rw:player>Vita Vea</rw:player>
+      <rw:team>TB</rw:team>
+      <rw:position>Nose Tackle</rw:position>
+      <rw:source>Mike Garafolo</rw:source>
+      <rw:author />
+      <rw:date>Aug 14, 2026</rw:date>
+    </item>
+    <item>
+      <title>Sports Illustrated’s John Shipley believes an expanded receiving role for Jaguars RB LeQuint Allen this season “seems legit.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:77472a97dd5a4673c91927821089325ddecfaac9b6eafe72bf95547f540f2180</guid>
+      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;LeQuint Allen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen’s pass-protection skills have him locked in as the Jaguars’ third-down running back. He played in all 17 games last season, but earned just 11 targets — hardly enough for a PPR-relevant role. Per Shipley, “has gotten more looks in the passing game in training camp this year than he did at this time a year ago.” He adds that it is unclear as to how much more involved Allen will be once the regular season arrives, but he closes by saying that “it does seem like the uptick is about to be very real.” With two other players expected to be involved in the backfield, it could still be tough for Allen to become FLEX-viable, but only time will tell.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sports Illustrated&lt;/p&gt;</description>
+      <rw:player>LeQuint Allen</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Sports Illustrated</rw:source>
       <rw:author />
       <rw:date>Aug 14, 2026</rw:date>
     </item>

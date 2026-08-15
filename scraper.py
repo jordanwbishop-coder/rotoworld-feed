@@ -1,91 +1,118 @@
 #!/usr/bin/env python3
-"""
-NBC Sports Rotoworld NFL Player News -> RSS + CSV
-
-Outputs:
-  feed.xml
-  news.csv
-
-Designed for:
-  https://www.nbcsports.com/fantasy/football/player-news
-
-Notes:
-- Uses only public HTML.
-- Does not bypass logins/paywalls.
-- Parsing is deliberately heuristic because NBC can change page markup.
-"""
-
 from __future__ import annotations
 
-import csv
-import hashlib
-import html
-import re
-import sys
-from dataclasses import dataclass, asdict
-from datetime import datetime, timezone
+import csv, hashlib, html, re, sys
+from dataclasses import dataclass
+from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
-from typing import Iterable
 from urllib.parse import urljoin
 import xml.etree.ElementTree as ET
 
 import requests
 from bs4 import BeautifulSoup, Tag
 
-PAGE_URL = "https://www.nbcsports.com/fantasy/football/player-news"
-BASE_URL = "https://www.nbcsports.com"
-OUT_CSV = Path("news.csv")
-OUT_RSS = Path("feed.xml")
-MAX_ITEMS = 100
+BASE = "https://www.nbcsports.com/fantasy/football/player-news"
+SITE = "https://www.nbcsports.com"
+PAGES = 6
+MAX_ITEMS = 500
+CSV_FILE = Path("news.csv")
+RSS_FILE = Path("feed.xml")
+UA = "Mozilla/5.0 (compatible; RotoworldFeed/2.0)"
 
-UA = (
-    "Mozilla/5.0 (compatible; RotoworldFeed/1.0; "
-    "+personal RSS reader)"
+try:
+    from zoneinfo import ZoneInfo
+    LOCAL_TZ = ZoneInfo("America/Chicago")
+except Exception:
+    LOCAL_TZ = timezone(timedelta(hours=-6))
+
+TEAM_RE = re.compile(r"^[A-Z]{2,3}$")
+META_RE = re.compile(r"^(?P<team>[A-Z]{2,3})\s+(?P<pos>.+?)(?:\s+#\d+)?$")
+REL_RE = re.compile(
+    r"\b(?P<n>\d+)\s*(?P<u>minute|minutes|min|mins|hour|hours|hr|hrs|day|days)\s+ago\b",
+    re.I,
 )
-
-ARTICLE_RE = re.compile(
-    r"/fantasy/football/player-news/"
-    r"(?P<year>\d{4})-(?P<month>\d{2})-(?P<day>\d{2})/"
-    r"(?P<slug>[^?#/]+)"
-)
-
-TEAM_POSITION_RE = re.compile(
-    r"^(?P<team>[A-Z]{2,3})\s+(?P<position>.+?)(?:\s+#\d+)?$"
-)
-
-SOURCE_RE = re.compile(r"^Source:\s*(.+)$", re.I)
-
 
 @dataclass
-class NewsItem:
-    player_name: str
-    team_initials: str
-    position: str
-    headline: str
-    news_snippet: str
-    source: str
-    rotoworld_author: str
-    date: str
-    url: str
+class Item:
+    player_name: str = ""
+    team_initials: str = ""
+    position: str = ""
+    headline: str = ""
+    news_snippet: str = ""
+    source: str = ""
+    rotoworld_author: str = ""
+    date: str = ""
+    url: str = ""
 
     @property
-    def guid(self) -> str:
-        if self.url:
-            return self.url
-        payload = "|".join(
-            [self.player_name, self.headline, self.date, self.news_snippet]
-        )
-        return "urn:sha256:" + hashlib.sha256(payload.encode("utf-8")).hexdigest()
+    def key(self):
+        s = "|".join([
+            clean(self.player_name).lower(),
+            clean(self.headline).lower(),
+            clean(self.news_snippet)[:180].lower(),
+        ])
+        return hashlib.sha256(s.encode()).hexdigest()
 
+    @property
+    def guid(self):
+        return self.url or "urn:sha256:" + self.key
 
-def clean(s: str | None) -> str:
-    if not s:
-        return ""
-    return re.sub(r"\s+", " ", s.replace("\xa0", " ")).strip()
+def clean(x):
+    return re.sub(r"\s+", " ", str(x or "").replace("\xa0", " ")).strip()
 
+def local_now():
+    return datetime.now(LOCAL_TZ)
 
-def get(url: str) -> str:
+def csv_date(dt):
+    return f"{dt.strftime('%b')} {dt.day}, {dt.year}"
+
+def parse_iso(s):
+    try:
+        dt = datetime.fromisoformat(clean(s).replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=LOCAL_TZ)
+        return dt.astimezone(LOCAL_TZ)
+    except Exception:
+        return None
+
+def parse_date_text(text):
+    t = clean(text)
+
+    # Absolute date anywhere in text.
+    m = re.search(
+        r"\b((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)"
+        r"[a-z]*\s+\d{1,2},\s+\d{4})\b", t, re.I
+    )
+    if m:
+        val = m.group(1).replace("Sept ", "Sep ")
+        for fmt in ("%b %d, %Y", "%B %d, %Y"):
+            try:
+                return datetime.strptime(val, fmt).replace(tzinfo=LOCAL_TZ)
+            except ValueError:
+                pass
+
+    now = local_now()
+    low = t.lower()
+
+    if "yesterday" in low:
+        return now - timedelta(days=1)
+    if "today" in low or "just now" in low:
+        return now
+
+    m = REL_RE.search(t)
+    if m:
+        n = int(m.group("n"))
+        u = m.group("u").lower()
+        if u.startswith(("minute", "min")):
+            return now - timedelta(minutes=n)
+        if u.startswith(("hour", "hr")):
+            return now - timedelta(hours=n)
+        if u.startswith("day"):
+            return now - timedelta(days=n)
+    return None
+
+def get(url):
     r = requests.get(
         url,
         headers={"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"},
@@ -94,415 +121,370 @@ def get(url: str) -> str:
     r.raise_for_status()
     return r.text
 
+def strings(card):
+    return [clean(x) for x in card.stripped_strings if clean(x)]
 
-def article_date_from_url(url: str) -> str:
-    m = ARTICLE_RE.search(url)
-    if not m:
-        return ""
-    dt = datetime(
-        int(m.group("year")),
-        int(m.group("month")),
-        int(m.group("day")),
-        tzinfo=timezone.utc,
-    )
-    return dt.strftime("%b %-d, %Y") if sys.platform != "win32" else dt.strftime("%b %#d, %Y")
-
-
-def candidate_article_links(soup: BeautifulSoup) -> list[str]:
-    urls = []
-    seen = set()
-    for a in soup.find_all("a", href=True):
-        href = a.get("href", "")
-        if ARTICLE_RE.search(href):
-            url = urljoin(BASE_URL, href)
-            if url not in seen:
-                seen.add(url)
-                urls.append(url)
-    return urls
-
-
-def looks_like_headline(text: str) -> bool:
-    t = clean(text)
-    if len(t) < 20 or len(t) > 400:
-        return False
-    bad = (
-        "player stats",
-        "more ",
-        "source:",
-        "personalize your",
-        "now playing",
-    )
-    return not any(t.lower().startswith(x) for x in bad)
-
-
-def find_card_for_article_link(a: Tag) -> Tag | None:
+def find_cards(soup):
     """
-    Walk upward until we find a container that appears to hold exactly one
-    Rotoworld news card: player metadata + headline + author/source area.
+    Rotoworld cards contain a 'Player Stats' marker. Walk upward to the
+    smallest ancestor that also contains 'More ... News'.
     """
-    node = a
-    best = None
-    for _ in range(8):
-        node = node.parent
-        if not isinstance(node, Tag):
-            break
-        text = clean(node.get_text(" ", strip=True))
-        if len(text) > 7000:
-            break
-        has_player_stats = "Player Stats" in text
-        has_more_news = bool(re.search(r"\bMore .+ News\b", text))
-        has_source_or_author = "Source:" in text or bool(node.find("h3"))
-        if has_player_stats and has_more_news and has_source_or_author:
-            best = node
-            # Prefer the smallest plausible card.
-            if len(text) < 3500:
-                return node
-    return best
-
-
-def parse_card(card: Tag, article_url: str) -> NewsItem | None:
-    # Player name: usually the first heading/link before "Player Stats".
-    player_name = ""
-    player_anchor = None
-    for a in card.find_all("a"):
-        txt = clean(a.get_text(" ", strip=True))
-        if not txt:
-            continue
-        if txt == "Player Stats" or txt.startswith("More "):
-            continue
-        href = a.get("href", "")
-        # Player profile links are typically not the news article URL.
-        if href and not ARTICLE_RE.search(href) and len(txt) <= 80:
-            player_anchor = a
-            player_name = txt
-            break
-
-    # Team + position: nearby short text like "NE Cornerback #0".
-    team = position = ""
-    texts = [clean(s) for s in card.stripped_strings]
-    for t in texts:
-        m = TEAM_POSITION_RE.match(t)
-        if m:
-            possible_team = m.group("team")
-            possible_pos = clean(m.group("position"))
-            if possible_team not in {"NFL", "NBC", "PFT"} and len(possible_pos) < 60:
-                team, position = possible_team, possible_pos
+    cards, seen = [], set()
+    for node in soup.find_all(string=lambda x: clean(x) == "Player Stats"):
+        cur = node.parent
+        chosen = None
+        for _ in range(10):
+            if not isinstance(cur, Tag):
                 break
-
-    # Headline: prefer h3; otherwise choose a prominent text node.
-    headline = ""
-    h3 = card.find("h3")
-    if h3:
-        headline = clean(h3.get_text(" ", strip=True))
-    if not headline:
-        for tag_name in ("h2", "h4"):
-            for h in card.find_all(tag_name):
-                t = clean(h.get_text(" ", strip=True))
-                if looks_like_headline(t):
-                    headline = t
+            text = clean(cur.get_text(" ", strip=True))
+            if len(text) > 7000:
+                break
+            if re.search(r"\bMore .+ News\b", text):
+                chosen = cur
+                if len(text) < 4000:
                     break
-            if headline:
+            cur = cur.parent
+        if chosen is not None and id(chosen) not in seen:
+            seen.add(id(chosen))
+            cards.append(chosen)
+    return cards
+
+def player_from_card(card, ss):
+    # Player profile link is usually the first short useful link.
+    for a in card.find_all("a", href=True):
+        t = clean(a.get_text(" ", strip=True))
+        if not t or t == "Player Stats" or t.startswith("More ") or len(t) > 80:
+            continue
+        href = clean(a.get("href"))
+        if "player-news?p=" not in href:
+            return t
+
+    # Fallback: text immediately before team metadata.
+    for i, t in enumerate(ss):
+        if (TEAM_RE.fullmatch(t) or META_RE.fullmatch(t)) and i:
+            p = ss[i - 1]
+            if len(p) <= 80 and p != "Player Stats":
+                return p
+    return ""
+
+def team_position(ss):
+    # Combined: "MIN Tight End #87"
+    for t in ss:
+        m = META_RE.fullmatch(t)
+        if m and m.group("team") not in {"NFL", "NBC", "PFT"}:
+            pos = re.sub(r"\s+#\d+$", "", m.group("pos")).strip()
+            return m.group("team"), pos
+
+    # Split: "MIN" then "Tight End" then "#87"
+    for i, t in enumerate(ss):
+        if TEAM_RE.fullmatch(t) and t not in {"NFL", "NBC", "PFT"}:
+            for p in ss[i+1:i+4]:
+                if p == "Player Stats" or p.startswith("More "):
+                    break
+                if re.fullmatch(r"#\d+", p):
+                    continue
+                if 2 <= len(p) <= 45 and not p.endswith("."):
+                    return t, re.sub(r"\s+#\d+$", "", p).strip()
+    return "", ""
+
+def headline_snippet(card, ss, player):
+    # Find start just after personalization text.
+    start = 0
+    for i, t in enumerate(ss):
+        if "personalize your rotoworld feed" in t.lower():
+            start = i + 1
+            break
+
+    skip = {
+        "Player Stats", "Headline", "Injury", "Recap", "Transaction",
+        "Link copied to clipboard!"
+    }
+
+    headline = ""
+    headline_idx = -1
+
+    # Prefer visible heading.
+    for h in card.find_all(["h2", "h3", "h4", "h5"]):
+        t = clean(h.get_text(" ", strip=True))
+        if 20 <= len(t) <= 500 and t != player and not t.startswith("More "):
+            headline = t
+            try: headline_idx = ss.index(t)
+            except ValueError: pass
+            break
+
+    # Fallback to first sentence-sized text after personalization.
+    if not headline:
+        for i, t in enumerate(ss[start:], start):
+            low = t.lower()
+            if t in skip or t == player or t.startswith("More ") or low.startswith("source:"):
+                continue
+            if TEAM_RE.fullmatch(t) or re.fullmatch(r"#\d+", t):
+                continue
+            if len(t) >= 20:
+                headline, headline_idx = t, i
                 break
 
-    # Author/source from text and links.
+    if not headline:
+        return "", ""
+
+    # First substantial text after headline is the analysis.
+    snippet = ""
+    for t in ss[headline_idx + 1:]:
+        low = t.lower()
+        if t in skip or t.startswith("More ") or low.startswith("source:"):
+            if snippet:
+                break
+            continue
+        if t == player or TEAM_RE.fullmatch(t) or re.fullmatch(r"#\d+", t):
+            if snippet:
+                break
+            continue
+        if t.startswith("- ") and snippet:
+            break
+        if len(t) >= 30 and t != headline:
+            snippet = t
+            break
+
+    return headline, snippet
+
+def source_author(card, ss, snippet):
     source = ""
     author = ""
 
-    source_text_node = None
-    for s in card.stripped_strings:
-        t = clean(s)
-        if SOURCE_RE.match(t):
-            source_text_node = t
-            source = clean(SOURCE_RE.match(t).group(1))
+    for i, t in enumerate(ss):
+        if t.lower().startswith("source:"):
+            source = clean(t.split(":", 1)[1])
+            if not source and i + 1 < len(ss):
+                source = ss[i + 1]
             break
 
-    # If "Source:" and source link are separate nodes, grab following link.
-    if (not source or source.lower() == "source:") and source_text_node:
-        pass
-    for a in card.find_all("a"):
-        txt = clean(a.get_text(" ", strip=True))
-        if not txt:
-            continue
-        parent_text = clean(a.parent.get_text(" ", strip=True)) if a.parent else ""
-        if parent_text.lower().startswith("source:"):
-            source = txt
-
-    # Author is often "- Nick Shlain" and commonly linked.
-    for s in card.stripped_strings:
-        t = clean(s)
-        if t.startswith("- ") and 2 <= len(t[2:]) <= 60:
-            author = clean(t[2:])
-            break
-
-    # Blurb: collect paragraphs after headline, excluding UI/meta text.
-    paragraphs = []
-    for p in card.find_all("p"):
-        t = clean(p.get_text(" ", strip=True))
-        if not t:
-            continue
-        low = t.lower()
-        if t == headline or t == player_name:
-            continue
-        if low.startswith("source:") or low.startswith("more "):
-            continue
-        if "personalize your rotoworld feed" in low:
-            continue
-        if t == "Player Stats":
-            continue
-        paragraphs.append(t)
-
-    # Some cards are not wrapped in <p>; fallback via ordered strings.
-    news_snippet = clean(" ".join(paragraphs))
-    if not news_snippet:
-        start = False
-        chunks = []
-        for t in texts:
-            if t == headline:
-                start = True
-                continue
-            if not start:
-                continue
-            if t.startswith("- ") or t.startswith("Source:") or t.startswith("More "):
-                break
-            if t not in {"Player Stats"}:
-                chunks.append(t)
-        news_snippet = clean(" ".join(chunks))
-
-    # Remove a trailing "- Author" if it got absorbed into the blurb.
-    if author:
-        news_snippet = re.sub(
-            r"\s*-\s*" + re.escape(author) + r"\s*$", "", news_snippet
-        ).strip()
-
-    if not headline or not news_snippet:
-        return None
-
-    return NewsItem(
-        player_name=player_name,
-        team_initials=team,
-        position=position,
-        headline=headline,
-        news_snippet=news_snippet,
-        source=source,
-        rotoworld_author=author,
-        date=article_date_from_url(article_url),
-        url=article_url,
+    # Typical Rotoworld byline at end: " ... - Nick Shlain"
+    m = re.search(
+        r"\s-\s([A-Z][A-Za-z.'’\-]+(?:\s+[A-Z][A-Za-z.'’\-]+){1,3})\s*$",
+        snippet
     )
+    if m:
+        author = m.group(1)
+    else:
+        for t in ss:
+            if t.startswith("- ") and 3 <= len(t[2:]) <= 80:
+                author = clean(t[2:])
+                break
 
+    if author:
+        snippet = re.sub(r"\s*-\s*" + re.escape(author) + r"\s*$", "", snippet).strip()
 
-def parse_landing_page(page_html: str) -> list[NewsItem]:
+    return source, author, snippet
+
+def card_date(card):
+    # 1. Best source: machine-readable <time datetime="">
+    for tag in card.find_all("time"):
+        dt = parse_iso(tag.get("datetime"))
+        if dt:
+            return csv_date(dt)
+        dt = parse_date_text(tag.get_text(" ", strip=True))
+        if dt:
+            return csv_date(dt)
+
+    # 2. Other machine-readable attributes.
+    for tag in card.find_all(True):
+        for attr in ("datetime", "data-date", "data-datetime", "data-timestamp"):
+            val = tag.get(attr)
+            if not val:
+                continue
+            dt = parse_iso(val)
+            if dt:
+                return csv_date(dt)
+            sval = clean(val)
+            if sval.isdigit() and len(sval) >= 10:
+                try:
+                    dt = datetime.fromtimestamp(int(sval[:10]), timezone.utc).astimezone(LOCAL_TZ)
+                    return csv_date(dt)
+                except Exception:
+                    pass
+
+    # 3. Visible absolute/relative time.
+    dt = parse_date_text(card.get_text(" ", strip=True))
+    if dt:
+        return csv_date(dt)
+
+    # 4. Last resort for a newly-seen item.
+    return csv_date(local_now())
+
+def card_url(card):
+    for a in card.find_all("a", href=True):
+        href = clean(a.get("href"))
+        full = urljoin(SITE, href)
+        if "/fantasy/football/player-news/" in full and "?p=" not in full:
+            return full
+    return ""
+
+def parse_page(page_html):
     soup = BeautifulSoup(page_html, "html.parser")
-    items = []
-    seen = set()
+    out, seen = [], set()
 
-    for a in soup.find_all("a", href=True):
-        href = a.get("href", "")
-        if not ARTICLE_RE.search(href):
-            continue
-        url = urljoin(BASE_URL, href)
-        if url in seen:
-            continue
-        card = find_card_for_article_link(a)
-        if not card:
-            continue
-        item = parse_card(card, url)
-        if item:
-            items.append(item)
-            seen.add(url)
-
-    return items
-
-
-def parse_generic_cards(page_html: str) -> list[NewsItem]:
-    """
-    Fallback for markup where article URLs aren't located inside the visible
-    card container. Uses headings and "More [Player] News" markers.
-    URL may be empty in this fallback.
-    """
-    soup = BeautifulSoup(page_html, "html.parser")
-    items = []
-
-    for h in soup.find_all(["h2", "h3", "h4"]):
-        headline = clean(h.get_text(" ", strip=True))
-        if not looks_like_headline(headline):
+    for card in find_cards(soup):
+        ss = strings(card)
+        player = player_from_card(card, ss)
+        team, pos = team_position(ss)
+        headline, snippet = headline_snippet(card, ss, player)
+        if not headline or not snippet:
             continue
 
-        card = h
-        for _ in range(6):
-            card = card.parent
-            if not isinstance(card, Tag):
-                break
-            txt = clean(card.get_text(" ", strip=True))
-            if "Player Stats" in txt and re.search(r"\bMore .+ News\b", txt):
-                break
-        if not isinstance(card, Tag):
-            continue
+        source, author, snippet = source_author(card, ss, snippet)
+        item = Item(
+            player_name=player,
+            team_initials=team,
+            position=pos,
+            headline=headline,
+            news_snippet=snippet,
+            source=source,
+            rotoworld_author=author,
+            date=card_date(card),
+            url=card_url(card),
+        )
 
-        # Look for a date-bearing URL anywhere in the card.
-        url = ""
-        for a in card.find_all("a", href=True):
-            if ARTICLE_RE.search(a["href"]):
-                url = urljoin(BASE_URL, a["href"])
-                break
+        if item.key not in seen:
+            seen.add(item.key)
+            out.append(item)
 
-        item = parse_card(card, url)
-        if item and not any(x.headline == item.headline for x in items):
-            items.append(item)
+    return out
 
-    return items
+def scrape_six_pages():
+    all_items, seen = [], set()
+    for p in range(1, PAGES + 1):
+        url = f"{BASE}?p={p}"
+        print(f"Scraping page {p}/{PAGES}: {url}")
+        items = parse_page(get(url))
+        print(f"  found {len(items)} items")
+        for x in items:
+            if x.key not in seen:
+                seen.add(x.key)
+                all_items.append(x)
+    return all_items
 
-
-def merge_existing(new_items: list[NewsItem]) -> list[NewsItem]:
-    """
-    Preserve older rows already in news.csv, then put newest scrape first.
-    De-duplicate by URL when available, otherwise by headline/player/date.
-    """
-    existing = []
-    if OUT_CSV.exists():
-        with OUT_CSV.open("r", encoding="utf-8-sig", newline="") as f:
-            reader = csv.DictReader(f)
-            for r in reader:
-                existing.append(
-                    NewsItem(
-                        player_name=r.get("Player Name", ""),
-                        team_initials=r.get("Team Initials", ""),
-                        position=r.get("Position", ""),
-                        headline=r.get("Headline", ""),
-                        news_snippet=r.get("News Snippet", ""),
-                        source=r.get("Source", ""),
-                        rotoworld_author=r.get("Rotoworld Author", ""),
-                        date=r.get("Date", ""),
-                        url=r.get("URL", ""),
-                    )
-                )
-
+def load_existing():
+    if not CSV_FILE.exists():
+        return []
     result = []
-    seen = set()
+    with CSV_FILE.open("r", encoding="utf-8-sig", newline="") as f:
+        for r in csv.DictReader(f):
+            if not r.get("Headline") or not r.get("News Snippet"):
+                continue
+            result.append(Item(
+                r.get("Player Name", ""),
+                r.get("Team Initials", ""),
+                r.get("Position", ""),
+                r.get("Headline", ""),
+                r.get("News Snippet", ""),
+                r.get("Source", ""),
+                r.get("Rotoworld Author", ""),
+                r.get("Date", ""),
+                r.get("URL", ""),
+            ))
+    return result
 
-    def key(x: NewsItem):
-        return x.url or (x.player_name, x.headline, x.date)
+def merge(new):
+    old = {x.key: x for x in load_existing()}
+    out, seen = [], set()
 
-    for item in new_items + existing:
-        k = key(item)
-        if k in seen:
-            continue
-        seen.add(k)
-        result.append(item)
+    for x in new:
+        if x.key in old:
+            y = old[x.key]
+            x.team_initials = x.team_initials or y.team_initials
+            x.position = x.position or y.position
+            x.source = x.source or y.source
+            x.rotoworld_author = x.rotoworld_author or y.rotoworld_author
+            x.date = x.date or y.date
+            x.url = x.url or y.url
+        if x.key not in seen:
+            seen.add(x.key)
+            out.append(x)
 
-    return result[:MAX_ITEMS]
+    for x in old.values():
+        if x.key not in seen:
+            seen.add(x.key)
+            out.append(x)
 
+    return out[:MAX_ITEMS]
 
-def write_csv(items: Iterable[NewsItem]) -> None:
+def write_csv(items):
     fields = [
-        "Player Name",
-        "Team Initials",
-        "Position",
-        "Headline",
-        "News Snippet",
-        "Source",
-        "Rotoworld Author",
-        "Date",
-        "URL",
+        "Player Name", "Team Initials", "Position", "Headline",
+        "News Snippet", "Source", "Rotoworld Author", "Date", "URL"
     ]
-    with OUT_CSV.open("w", encoding="utf-8-sig", newline="") as f:
+    with CSV_FILE.open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()
         for x in items:
-            w.writerow(
-                {
-                    "Player Name": x.player_name,
-                    "Team Initials": x.team_initials,
-                    "Position": x.position,
-                    "Headline": x.headline,
-                    "News Snippet": x.news_snippet,
-                    "Source": x.source,
-                    "Rotoworld Author": x.rotoworld_author,
-                    "Date": x.date,
-                    "URL": x.url,
-                }
-            )
+            w.writerow({
+                "Player Name": x.player_name,
+                "Team Initials": x.team_initials,
+                "Position": x.position,
+                "Headline": x.headline,
+                "News Snippet": x.news_snippet,
+                "Source": x.source,
+                "Rotoworld Author": x.rotoworld_author,
+                "Date": x.date,
+                "URL": x.url,
+            })
 
+def pubdate(s):
+    dt = parse_date_text(s) or local_now()
+    return format_datetime(dt.astimezone(timezone.utc))
 
-def rss_pubdate(date_text: str) -> str:
-    try:
-        dt = datetime.strptime(date_text, "%b %d, %Y").replace(tzinfo=timezone.utc)
-        return format_datetime(dt)
-    except Exception:
-        return format_datetime(datetime.now(timezone.utc))
-
-
-def write_rss(items: list[NewsItem]) -> None:
-    ET.register_namespace("rw", "https://example.com/rotoworld-feed")
-    rss = ET.Element("rss", {
-        "version": "2.0",
-        "xmlns:rw": "https://example.com/rotoworld-feed",
-    })
-    channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = "NBC Sports Rotoworld NFL Player News"
-    ET.SubElement(channel, "link").text = PAGE_URL
-    ET.SubElement(channel, "description").text = (
-        "Personal RSS feed generated from NBC Sports Rotoworld NFL Player News."
-    )
-    ET.SubElement(channel, "language").text = "en-us"
-    ET.SubElement(channel, "lastBuildDate").text = format_datetime(datetime.now(timezone.utc))
+def write_rss(items):
+    ns = "https://example.com/rotoworld-feed"
+    ET.register_namespace("rw", ns)
+    rss = ET.Element("rss", {"version": "2.0", "xmlns:rw": ns})
+    ch = ET.SubElement(rss, "channel")
+    ET.SubElement(ch, "title").text = "NBC Sports Rotoworld NFL Player News"
+    ET.SubElement(ch, "link").text = BASE
+    ET.SubElement(ch, "description").text = "Unofficial personal Rotoworld NFL player-news feed."
+    ET.SubElement(ch, "lastBuildDate").text = format_datetime(datetime.now(timezone.utc))
 
     for x in items:
-        item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "title").text = x.headline
-        ET.SubElement(item, "link").text = x.url or PAGE_URL
-        guid = ET.SubElement(item, "guid", {"isPermaLink": "true" if x.url else "false"})
-        guid.text = x.guid
-        ET.SubElement(item, "pubDate").text = rss_pubdate(x.date)
+        it = ET.SubElement(ch, "item")
+        ET.SubElement(it, "title").text = x.headline
+        ET.SubElement(it, "link").text = x.url or BASE
+        g = ET.SubElement(it, "guid", {"isPermaLink": "true" if x.url else "false"})
+        g.text = x.guid
+        ET.SubElement(it, "pubDate").text = pubdate(x.date)
 
-        desc_parts = [
-            f"<p><strong>{html.escape(x.player_name)}</strong>"
-            + (f" — {html.escape(x.team_initials)} {html.escape(x.position)}" if x.team_initials else "")
-            + "</p>",
-            f"<p>{html.escape(x.news_snippet)}</p>",
-        ]
+        meta = " ".join(v for v in (x.player_name, x.team_initials, x.position) if v)
+        desc = []
+        if meta:
+            desc.append(f"<p><strong>{html.escape(meta)}</strong></p>")
+        desc.append(f"<p>{html.escape(x.news_snippet)}</p>")
         if x.source:
-            desc_parts.append(f"<p><strong>Source:</strong> {html.escape(x.source)}</p>")
+            desc.append(f"<p><strong>Source:</strong> {html.escape(x.source)}</p>")
         if x.rotoworld_author:
-            desc_parts.append(
-                f"<p><strong>Rotoworld Author:</strong> {html.escape(x.rotoworld_author)}</p>"
-            )
-        ET.SubElement(item, "description").text = "".join(desc_parts)
+            desc.append(f"<p><strong>Rotoworld Author:</strong> {html.escape(x.rotoworld_author)}</p>")
+        ET.SubElement(it, "description").text = "".join(desc)
 
-        for tag, value in [
-            ("player", x.player_name),
-            ("team", x.team_initials),
-            ("position", x.position),
-            ("source", x.source),
-            ("author", x.rotoworld_author),
-            ("date", x.date),
-        ]:
-            ET.SubElement(item, f"{{https://example.com/rotoworld-feed}}{tag}").text = value
+        for tag, val in {
+            "player": x.player_name,
+            "team": x.team_initials,
+            "position": x.position,
+            "source": x.source,
+            "author": x.rotoworld_author,
+            "date": x.date,
+        }.items():
+            ET.SubElement(it, f"{{{ns}}}{tag}").text = val
 
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
-    tree.write(OUT_RSS, encoding="utf-8", xml_declaration=True)
+    tree.write(RSS_FILE, encoding="utf-8", xml_declaration=True)
 
-
-def main() -> None:
-    page_html = get(PAGE_URL)
-
-    items = parse_landing_page(page_html)
-    if not items:
-        items = parse_generic_cards(page_html)
-
-    if not items:
-        raise RuntimeError(
-            "No Rotoworld news items were parsed. NBC may have changed its HTML. "
-            "Open an issue or update the parser selectors."
-        )
-
-    merged = merge_existing(items)
-    write_csv(merged)
-    write_rss(merged)
-
-    print(f"Parsed {len(items)} current items.")
-    print(f"Wrote {len(merged)} total items to {OUT_CSV} and {OUT_RSS}.")
-
+def main():
+    current = scrape_six_pages()
+    if not current:
+        raise RuntimeError("No Rotoworld items parsed from pages 1-6.")
+    items = merge(current)
+    write_csv(items)
+    write_rss(items)
+    print(f"Parsed {len(current)} current items from pages 1-{PAGES}.")
+    print(f"Stored {len(items)} total items.")
 
 if __name__ == "__main__":
     main()

@@ -18,7 +18,7 @@ PAGES = 6
 MAX_ITEMS = 500
 CSV_FILE = Path("news.csv")
 RSS_FILE = Path("feed.xml")
-UA = "Mozilla/5.0 (compatible; RotoworldFeed/2.0)"
+UA = "Mozilla/5.0 (compatible; RotoworldFeed/2.1)"
 
 try:
     from zoneinfo import ZoneInfo
@@ -27,6 +27,11 @@ except Exception:
     LOCAL_TZ = timezone(timedelta(hours=-6))
 
 TEAM_RE = re.compile(r"^[A-Z]{2,3}$")
+NFL_TEAMS = {
+    "ARI","ATL","BAL","BUF","CAR","CHI","CIN","CLE","DAL","DEN","DET","GB",
+    "HOU","IND","JAX","KC","LAC","LAR","LV","MIA","MIN","NE","NO","NYG",
+    "NYJ","PHI","PIT","SEA","SF","TB","TEN","WAS"
+}
 META_RE = re.compile(r"^(?P<team>[A-Z]{2,3})\s+(?P<pos>.+?)(?:\s+#\d+)?$")
 REL_RE = re.compile(
     r"\b(?P<n>\d+)\s*(?P<u>minute|minutes|min|mins|hour|hours|hr|hrs|day|days)\s+ago\b",
@@ -161,7 +166,7 @@ def player_from_card(card, ss):
 
     # Fallback: text immediately before team metadata.
     for i, t in enumerate(ss):
-        if (TEAM_RE.fullmatch(t) or META_RE.fullmatch(t)) and i:
+        if ((TEAM_RE.fullmatch(t) and t in NFL_TEAMS) or (META_RE.fullmatch(t) and META_RE.fullmatch(t).group("team") in NFL_TEAMS)) and i:
             p = ss[i - 1]
             if len(p) <= 80 and p != "Player Stats":
                 return p
@@ -171,13 +176,13 @@ def team_position(ss):
     # Combined: "MIN Tight End #87"
     for t in ss:
         m = META_RE.fullmatch(t)
-        if m and m.group("team") not in {"NFL", "NBC", "PFT"}:
+        if m and m.group("team") in NFL_TEAMS:
             pos = re.sub(r"\s+#\d+$", "", m.group("pos")).strip()
             return m.group("team"), pos
 
     # Split: "MIN" then "Tight End" then "#87"
     for i, t in enumerate(ss):
-        if TEAM_RE.fullmatch(t) and t not in {"NFL", "NBC", "PFT"}:
+        if TEAM_RE.fullmatch(t) and t in NFL_TEAMS:
             for p in ss[i+1:i+4]:
                 if p == "Player Stats" or p.startswith("More "):
                     break
@@ -266,10 +271,22 @@ def source_author(card, ss, snippet):
     if m:
         author = m.group(1)
     else:
-        for t in ss:
-            if t.startswith("- ") and 3 <= len(t[2:]) <= 80:
-                author = clean(t[2:])
+        for i, t in enumerate(ss):
+            low = t.lower()
+            if low.startswith("by ") and 3 <= len(t[3:]) <= 80:
+                author = clean(t[3:])
                 break
+            if low in {"author", "rotoworld author"} and i + 1 < len(ss):
+                candidate = clean(ss[i + 1])
+                if 3 <= len(candidate) <= 80:
+                    author = candidate
+                    break
+            if t.startswith("- ") and 3 <= len(t[2:]) <= 80:
+                candidate = clean(t[2:])
+                # Avoid treating source/publication names as people.
+                if " " in candidate and not candidate.lower().startswith(("espn", "nfl", "nbc")):
+                    author = candidate
+                    break
 
     if author:
         snippet = re.sub(r"\s*-\s*" + re.escape(author) + r"\s*$", "", snippet).strip()
@@ -312,11 +329,29 @@ def card_date(card):
     return csv_date(local_now())
 
 def card_url(card):
+    candidates = []
     for a in card.find_all("a", href=True):
         href = clean(a.get("href"))
+        if not href or href.startswith("#"):
+            continue
         full = urljoin(SITE, href)
-        if "/fantasy/football/player-news/" in full and "?p=" not in full:
+        if "nbcsports.com" not in full or "?p=" in full:
+            continue
+        if full.rstrip("/") == BASE.rstrip("/"):
+            continue
+        text = clean(a.get_text(" ", strip=True))
+        candidates.append((full, text))
+
+    # Prefer a specific Rotoworld/player-news link.
+    for full, _ in candidates:
+        if "/fantasy/football/player-news/" in full:
             return full
+
+    # Otherwise use a specific NBC Sports link only if it is not navigation.
+    for full, text in candidates:
+        if text and text not in {"Player Stats", "More News"}:
+            if "/fantasy/football/" in full:
+                return full
     return ""
 
 def parse_page(page_html):

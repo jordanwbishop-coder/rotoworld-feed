@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:rw="https://example.com/rotoworld-feed">
+  <channel>
+    <title>NBC Sports Rotoworld NFL Player News</title>
+    <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+    <description>Feed will populate after the first successful GitHub Actions run.</description>
+    <language>en-us</language>
+  </channel>
+</rss>

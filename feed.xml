@@ -4,7 +4,46 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:44:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:44:03 +0000</lastBuildDate>
+    <item>
+      <title>Bears coach Ben Johnson said Kyler Gordon (calf) has a timeline to return of “unknown.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:923eac3f014801ad8351ba0967e12204b5857a3521337885442d7b9fda1ac635</guid>
+      <pubDate>Sun, 16 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kyler Gordon CHI Defensive Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It certainly looks like Gordon will hit reserve/PUP or injured reserve before the start of the season while he deals with this long-term calf injury. This makes both the Bears coach and GM telling you they’re frustrated with the situation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Courtney Cronin&lt;/p&gt;</description>
+      <rw:player>Kyler Gordon</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Defensive Back</rw:position>
+      <rw:source>Courtney Cronin</rw:source>
+      <rw:author />
+      <rw:date>Aug 16, 2026</rw:date>
+    </item>
+    <item>
+      <title>Malachi Fields caught 3-of-3 targets for 34 yards and a touchdown in the first week of the preseason against the Vikings.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:049c1758f85d5c5b71015fc9d37b7124f045628f6a501a147dbfbe8a0ff97b07</guid>
+      <pubDate>Sun, 16 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Malachi Fields NYG Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s a game that The Athletic’s Dan Duggan says “strengthened his push for the No. 2 receiver job.” His touchdown pass was from Jaxson Dart, but he was one of several receivers getting first-team snaps. It’s hard to believe Fields will be relevant early in 12-team redraft leagues unless Malik Nabers suffers a setback, but he’s squarely on the fantasy radar after a big camp.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
+      <rw:player>Malachi Fields</rw:player>
+      <rw:team>NYG</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>The Athletic</rw:source>
+      <rw:author />
+      <rw:date>Aug 16, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jonathon Brooks rushed three times for five yards, adding a nine-yard catch, in Carolina’s preseason opener against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:846a7f2ee01488dd94325480e519514828847460a29adbe80de0ff2d9bca9223</guid>
+      <pubDate>Sun, 16 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jonathon Brooks CAR Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It was his first game action in 20 months. The Panthers’ offense, playing their starters three series, looked dead on arrival against the Bills on Saturday. But Brooks did start with Chuba Hubbard sidelined, validating the training camp drumbeat that he’d be in the mix early. He’s at least an interesting bench option in standard leagues at this point, and could perhaps turn into more.&lt;/p&gt;</description>
+      <rw:player>Jonathon Brooks</rw:player>
+      <rw:team>CAR</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 16, 2026</rw:date>
+    </item>
     <item>
       <title>Camden Brown caught 3-of-3 targets for 62 yards and two touchdowns in Saturday’s preseason win over the Seahawks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -222,19 +261,6 @@
       <rw:player>DJ Moore</rw:player>
       <rw:team>BUF</rw:team>
       <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 15, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jaxson Dart completed 3-of-4 passes for 26 yards and a touchdown in Saturday’s preseason game against the Vikings.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e1bb21804844b0f6ea8605e3f811264ba9c2efc9e2ca70265bfc04b718bfd3da</guid>
-      <pubDate>Sat, 15 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jaxson Dart NYG Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dart made a trip to the blue medical tent at the end of the first quarter after going down hard on a sack from Vikings safety Jay Ward. After clearing concussion protocol, Dart would return to the field and fire a 15-yard touchdown pass to rookie Malachi Fields in the end zone. It would be the final play of the day for Dart, who took two sacks on the afternoon and didn’t add anything on the ground. While it’s good news to hear Dart cleared protocol, the visit to the tent is concerning for a player who was evaluated five times in 10 games for a concussion last season.&lt;/p&gt;</description>
-      <rw:player>Jaxson Dart</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Quarterback</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Aug 15, 2026</rw:date>
@@ -745,6 +771,19 @@
       <rw:source />
       <rw:author />
       <rw:date>Aug 14, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jaxson Dart completed 3-of-4 passes for 26 yards and a touchdown in Saturday’s preseason game against the Vikings.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e1bb21804844b0f6ea8605e3f811264ba9c2efc9e2ca70265bfc04b718bfd3da</guid>
+      <pubDate>Sat, 15 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jaxson Dart NYG Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dart made a trip to the blue medical tent at the end of the first quarter after going down hard on a sack from Vikings safety Jay Ward. After clearing concussion protocol, Dart would return to the field and fire a 15-yard touchdown pass to rookie Malachi Fields in the end zone. It would be the final play of the day for Dart, who took two sacks on the afternoon and didn’t add anything on the ground. While it’s good news to hear Dart cleared protocol, the visit to the tent is concerning for a player who was evaluated five times in 10 games for a concussion last season.&lt;/p&gt;</description>
+      <rw:player>Jaxson Dart</rw:player>
+      <rw:team>NYG</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 15, 2026</rw:date>
     </item>
     <item>
       <title>Jack Bech caught 3-of-3 targets for 25 yards and a touchdown in Thursday’s preseason opener against the Cardinals.</title>

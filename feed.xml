@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 03:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:44:43 +0000</lastBuildDate>
     <item>
       <title>Camden Brown caught 3-of-3 targets for 62 yards and two touchdowns in Saturday’s preseason win over the Seahawks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -266,6 +266,19 @@
       <rw:date>Aug 15, 2026</rw:date>
     </item>
     <item>
+      <title>Seahawks signed CB Devon Witherspoon to a four-year, $132 million contract extension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:236e9b6c802de10275e61e8e5267d9bdf37d5df024d79d9a44b05770fec82ec2</guid>
+      <pubDate>Sat, 15 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Devon Witherspoon SEA Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The deal includes $101 million guaranteed and makes Witherspoon the highest-paid cornerback in NFL history by both the total and average value of the contract. Witherspoon’s $132 million total value bests Rams CB Trent McDuffie, who signed a $124 million extension this offseason, for the biggest cornerback contract in the game. His $33 million per year average value overtakes Browns CB Denzel Ward’s $31.1 million for highest average value. Now attention should shift towards Patriots CB Christian Gonzalez, who appears to be next in line for an extension in this neighborhood.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Devon Witherspoon</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 15, 2026</rw:date>
+    </item>
+    <item>
       <title>Patriots CB Christian Gonzalez (undisclosed) won’t practice on Saturday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:26f31c0ac78e3351e72670bf6f59340b5051ac5cd9dcae8894b676f89edbb8a4</guid>
@@ -390,6 +403,19 @@
       <description>&lt;p&gt;&lt;strong&gt;De&amp;#x27;Von Achane MIA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Spring and summer reports indicated that the Dolphins’ new coaching staff wanted to operate a run-heavy offense. Those reports weren’t lying. Achane took run after run up the middle until he punched one in from one yard out. Questions remain as to how efficient this offense might be, but Achane is seemingly set to handle a large workload again this season. Backup RB Jaylen Wright was the RB2 tonight, taking his first carry for 13 yards up the middle.&lt;/p&gt;</description>
       <rw:player>De'Von Achane</rw:player>
       <rw:team>MIA</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 14, 2026</rw:date>
+    </item>
+    <item>
+      <title>Broncos RB Jonah Coleman rushed four times for 24 yards in Friday’s preseason game against the Falcons.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:398d1c2bbd8cc67a534f923ddbe35bca8f7dc25ce42fe7ffa12feb49259528e4</guid>
+      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jonah Coleman DEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coleman took a few snaps with tonight’s starters after replacing RB RJ Harvey on the second drive. Coleman picked up two first downs on the ground, barreling through contact on both plays. He earned one target as a receiver out of the backfield and took it for a five-yard gain. Unfortunately, the play was erased by a penalty, but it was good to see him get involved through the air regardless. Coleman looks like a capable player. He is worth speculatively stashing on fantasy benches at this time.&lt;/p&gt;</description>
+      <rw:player>Jonah Coleman</rw:player>
+      <rw:team>DEN</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />
@@ -784,32 +810,6 @@
       <rw:source />
       <rw:author />
       <rw:date>Aug 13, 2026</rw:date>
-    </item>
-    <item>
-      <title>Seahawks signed CB Devon Witherspoon to a four-year, $132 million contract extension.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:236e9b6c802de10275e61e8e5267d9bdf37d5df024d79d9a44b05770fec82ec2</guid>
-      <pubDate>Sat, 15 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Devon Witherspoon SEA Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The deal includes $101 million guaranteed and makes Witherspoon the highest-paid cornerback in NFL history by both the total and average value of the contract. Witherspoon’s $132 million total value bests Rams CB Trent McDuffie, who signed a $124 million extension this offseason, for the biggest cornerback contract in the game. His $33 million per year average value overtakes Browns CB Denzel Ward’s $31.1 million for highest average value. Now attention should shift towards Patriots CB Christian Gonzalez, who appears to be next in line for an extension in this neighborhood.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Devon Witherspoon</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Cornerback</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Aug 15, 2026</rw:date>
-    </item>
-    <item>
-      <title>Broncos RB Jonah Coleman rushed four times for 24 yards in Friday’s preseason game against the Falcons.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:398d1c2bbd8cc67a534f923ddbe35bca8f7dc25ce42fe7ffa12feb49259528e4</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jonah Coleman DEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coleman took a few snaps with tonight’s starters after replacing RB RJ Harvey on the second drive. Coleman picked up two first downs on the ground, barreling through contact on both plays. He earned one target as a receiver out of the backfield and took it for a five-yard gain. Unfortunately, the play was erased by a penalty, but it was good to see him get involved through the air regardless. Coleman looks like a capable player. He is worth speculatively stashing on fantasy benches at this time.&lt;/p&gt;</description>
-      <rw:player>Jonah Coleman</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
     </item>
     <item>
       <title>49ers WR De’Zhaun Stribling caught 7-of-8 targets for 62 yards in Thursday’s preseason game against the Titans.</title>

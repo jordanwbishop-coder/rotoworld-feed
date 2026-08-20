@@ -4,30 +4,134 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 19:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:57:53 +0000</lastBuildDate>
     <item>
-      <title>NFL Network’s Mike Garafolo reports that Ravens C Danny Pinter suffered a torn patellar tendon on Wednesday.</title>
+      <title>The Athletic’s Matt Barrows reports that “a Week 1 roster spot seems to be slipping away from” 49ers WR Christian Kirk (calf).</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7fc4dcffb3135337133ac4a0a87304edf462386c30f986c498b5bb246a6481ec</guid>
+      <guid isPermaLink="false">urn:sha256:01b20d79e5d03625cafb55b43ecda249d8a16b14e3b993e5b13af9f8ccf9c6c3</guid>
       <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Danny Pinter BAL Center&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is terribly unfortunate. We expect him to be placed on injured reserve soon, and we do not expect him to return until 2027. The Ravens brought in Pinter and C Ethan Pocic, who is coming off a season-ending Achilles tendon rupture, to compete for the starting center role after losing C Tyler Linderbaum in free agency to the Raiders. Pocic, 31, has been a reliable NFL starter since earning a spot on the PFWA All-Rookie Team in 2017. He earned a 62.3 PFF pass-blocking grade and a 63.2 PFF run-blocking grade before injuring his Achilles in Week 14 last year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
-      <rw:player>Danny Pinter</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Center</rw:position>
-      <rw:source>Mike Garafolo</rw:source>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Kirk SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Barrows’ phrasing leaves room for interpretation, but it seems as though he is suggesting Kirk could be a cut candidate. The veteran wide receiver was sidelined by a calf injury in the spring and reinjured it in the first practice of training camp. He is currently penciled in as the team’s WR4. He should probably be avoided in fantasy drafts at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
+      <rw:player>Christian Kirk</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>The Athletic</rw:source>
       <rw:author />
       <rw:date>Aug 20, 2026</rw:date>
     </item>
     <item>
-      <title>Puka Nacua (groin) remained sidelined for Thursday’s joint practice with the Saints.</title>
+      <title>Rams coach Sean McVay said he hopes to have some answers about Aaron Donald’s plans “sooner than later.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:91bbe2a8ef50ba9dc26127aa14238ea1b625e1dc1e0e798d90384f224dc898e6</guid>
+      <guid isPermaLink="false">urn:sha256:4132d34687ab9e16e614567cbb6e12b9edcf54d645a5c9a8db2e53332f22d54f</guid>
       <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We try not to go daily with training camp injuries, but Nacua has now missed the Rams’ entire slate of Saints sessions. Coach Sean McVay had previously said he would return this week. That still does not suggest anything other than standard summer caution, but it’s of course worth noting. For now there is no reason to alter course when it comes to selecting Nacua in the first round of fantasy drafts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sarah Barshop&lt;/p&gt;</description>
-      <rw:player>Puka Nacua</rw:player>
+      <description>&lt;p&gt;&lt;strong&gt;Aaron Donald&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Rams have now hosted Donald for two workouts in recent weeks. McVay believes there will be more. Donald is reportedly “feeling good” right now, but there doesn’t seem to be a lean one way or the other. With the regular season opener fast approaching, one assumes a decision will come in the next two or so weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; NBC Sports’ Pro Football Talk&lt;/p&gt;</description>
+      <rw:player>Aaron Donald</rw:player>
       <rw:team />
       <rw:position />
-      <rw:source>Sarah Barshop</rw:source>
+      <rw:source>NBC Sports’ Pro Football Talk</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>Cardinals coach Mike LaFleur said QB Carson Beck (rib) is unlikely to play in Saturday’s preseason game against the Cowboys.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:693ab390f8ec64269ed462a6f21a374b8b1bdea6ed7d683c9cad4f7df26fd0a8</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Carson Beck ARI Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Beck is scheduled to resume throwing after practice today, though, so the Cardinals’ rookie is indeed on the mend. Beck looked good in his prior preseason action. Hopefully, he has a chance to return in time for his team’s final preseason game against the Packers next week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Bo Brack&lt;/p&gt;</description>
+      <rw:player>Carson Beck</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Bo Brack</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports that 49ers QB Brock Purdy said he is “prepared to use his mobility more this year if needed.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:044c6378122247f00c3197d73a0b1ce266eef6be1b6dd5e2fc5a1745a458fddc</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Brock Purdy SF Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 49ers’ quarterback is not a straight-line burner, but he is more agile than he is given credit for. Purdy adds that he won’t constantly be looking for opportunities to run, however, he believes he can help the offense by scrambling for 10-12 yards from time to time. Purdy has racked up 113 carries over the past two NFL seasons, including the playoffs, proving himself an efficient scrambler with a 47.8 percent conversion rate that ranks first among quarterbacks with at least 50 attempts. He’s a borderline QB1/2. Scrambling more often could get him into the weekly low-end QB1 tier.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Brock Purdy</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>Broncos signed S Taylor Rapp, formerly of the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ab90c8c57923d31035c8fc11027d26573ac4f5579f98ef849b2d9d45e75767f5</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Taylor Rapp DEN Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapp spent the last three in Buffalo. He totaled 19 tackles and one quarterback pressure in six games last year. The Broncos correspondingly waived LB Levelle Bailey with an injury designation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Parker Gabriel&lt;/p&gt;</description>
+      <rw:player>Taylor Rapp</rw:player>
+      <rw:team>DEN</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source>Parker Gabriel</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>Cardinals activated CB Garrett Williams (Achilles) from the physically unable to perform list.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:410c17aeb3eafd59cdb717d3d83c5b537ad5dfde5e22b11d815385baa1e10417</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Garrett Williams ARI Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Williams spent Weeks 3-8 on injured reserve with a knee injury last year. He later ruptured an Achilles tendon in Week 16. He totaled three pass breakups, one interception, 37 tackles and three quarterback pressures while active.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Arizona Cardinals&lt;/p&gt;</description>
+      <rw:player>Garrett Williams</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Arizona Cardinals</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>Browns coach Todd Monken said he is “not worried” about RB Quinshon Judkins’ (undisclosed) “nagging injury.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:343e6463a648480558a298538e0329f20cfc102c51256f88af6071d2de82407f</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Quinshon Judkins CLE Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Judkins has now missed two practices in a row. Cleveland’s Mary Kay Cabot reported Judkins’ absence yesterday, noting that Monken abruptly ended Tuesday’s practice because the defense was playing with too much physicality. Per Cabot, Judkins was “the object of much of the chippiness” that day. Monken said Judkins’ injury is unrelated, though. The second-year running back suffered a season-ending fibula fracture and ankle dislocation last year. Hopefully, Judkins’ current issue is unrelated. He could return weekly RB2 value this year, though RB Dylan Sampson could keep Judkins stuck in a run-centric role.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mary Kay Cabot&lt;/p&gt;</description>
+      <rw:player>Quinshon Judkins</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Mary Kay Cabot</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>Saints RB Kendre Miller (back) resumed practicing on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1940f93f62355a42d3ab9ff6c2c09289bce5ace91f2b9968c9f612842a8eb21c</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kendre Miller NO Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Saints’ backup running back statuses continue to change. Veteran No. 2 RB Alvin Kamara (knee) is expected to be sidelined for at least one month, and RB Audric Estime is now sidelined with an undisclosed injury. Miller and RB Devin Neal (hamstring) both returned this week, though. Beat reporter Jeff Nowak notes that Miller, Neal and RB Ty Chandler were all allowed to rotate in for first-team reps today, as coach Kellen Moore presumably seeks out a viable primary backup for starting RB Travis Etienne. Per Nowak, Miller “looks sharp despite the time missed.” This is worth tracking for short-term bench stash purposes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeff Nowak&lt;/p&gt;</description>
+      <rw:player>Kendre Miller</rw:player>
+      <rw:team>NO</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Jeff Nowak</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports that Colts TE Tyler Warren (groin) “is going to be ready for” Week 1 against the Ravens.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:365a292af18b820c5c8986645e7323223d44e6e26c4c876cfac6f47e2aaa6f0f</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tyler Warren IND Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapoport believes Warren will resume practicing in “a week or so.” He also expects “Warren’s role to grow” in his second NFL season. That makes sense. Warren’s 106 targets trailed only WR Michael Pittman’s 110. Pittman left Indy to join the Steelers this offseason, clearing the way for Warren to be the team’s top target earner. The soft-tissue injury adds some risk to Warren’s profile, but he should still be drafted as a mid-to-high TE1.&lt;/p&gt;</description>
+      <rw:player>Tyler Warren</rw:player>
+      <rw:team>IND</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Mike Garafolo reports that Commanders RB Rachaad White’s hamstring injury is “not considered serious or long-term.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a7588d36a40abf2a51173a47720aadf7d1a60931fd05428c9aa3901429bab968</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rachaad White WAS Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Now we know why the Commanders’ receiving back has been absent at practice recently. White reportedly tweaked a hamstring during joint practices with the Dolphins last week. He worked out prior to Friday’s preseason game, but did not play. Garafolo adds that White has “excelled” in new OC David Blough’s offense during OTAs and training camp, though starting RB Jacory Croskey-Merritt has notably been praised for his pass-catching improvements recently.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
+      <rw:player>Rachaad White</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Mike Garafolo</rw:source>
       <rw:author />
       <rw:date>Aug 20, 2026</rw:date>
     </item>
@@ -162,19 +266,6 @@
       <rw:date>Aug 19, 2026</rw:date>
     </item>
     <item>
-      <title>ESPN’s John Keim reports that Commanders DT Johnny Newton is visiting a specialist regarding his recent pectoral injury.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:603795aa4591b93280e7169575f5786814bae8c00e097c591ec6f87ba4b2cbaa</guid>
-      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Johnny Newton WAS Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When asked for comment, Commanders coach Dan Quinn said, “anytime you’re seeing a specialist, of course, there is reason for concern.” Both starting edge rushers, OLB Odafe Oweh (calf) and OLB K’Lavon Chaisson (knee), and backup LB Jordan Magee (shoulder) are also sidelined by recent injuries. The Commanders’ defensive front is tasked with corralling the Eagles’ rushing attack in three and a half weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; John Keim&lt;/p&gt;</description>
-      <rw:player>Johnny Newton</rw:player>
-      <rw:team>WAS</rw:team>
-      <rw:position>Defensive Tackle</rw:position>
-      <rw:source>John Keim</rw:source>
-      <rw:author />
-      <rw:date>Aug 19, 2026</rw:date>
-    </item>
-    <item>
       <title>Commanders RB Rachaad White (undisclosed) did not practice on Wednesday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:391072892596b0698d3e9123d33ef03873b01051a2e1e3bb2fdc0eb3365eedbb</guid>
@@ -249,6 +340,19 @@
       <rw:team />
       <rw:position />
       <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 19, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Athletic’s James Boyd reports that Colts TE Tyler Warren met with trainers after suffering an apparent groin injury on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:507f84c0118b79c298417219963f0850ac3a6f8cc5530e2a48eef469ad29ac56</guid>
+      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tyler Warren IND Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to Boyd, Warren “went down” while running a route during 11-on-11 drills. He “got up clutching at his groin area” before making his way to the sideline to meet with the Colts’ training staff. FOX 59’s Mike Chappell said Warren was exhibiting a limp while leaving the field. This is not the kind of news we want to hear, but the second-year tight end still has time to rehab a minor tweak before the regular season opener. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; James Boyd&lt;/p&gt;</description>
+      <rw:player>Tyler Warren</rw:player>
+      <rw:team>IND</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>James Boyd</rw:source>
       <rw:author />
       <rw:date>Aug 19, 2026</rw:date>
     </item>
@@ -366,45 +470,6 @@
       <rw:team>TEN</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Pro Football Talk</rw:source>
-      <rw:author />
-      <rw:date>Aug 19, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Athletic’s Matt Barrows reports Kaelon Black is operating as the 49ers lead back with Christian McCaffrey (tightness) sidelined.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d34c459c929840e050c48601b64116f5fc20badc93fa2eeca6c756739ed2f3aa</guid>
-      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kaelon Black SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Black had missed two weeks with a thigh injury before emerging as the clear top running back with McCaffrey sidelined. Barrows said Black “certainly didn’t look rusty, taking an early carry to the left for 50 yards and showing violence and strength on several ensuing runs. Black also had a catch at the goal line in a red zone drill.” Niners players and coaches were impressed by Black, who was taken with the third round of the 2026 NFL Draft. “I thought he looked good hitting the hole and running hard,” Brock Purdy said. “You could tell there was a different level of intensity when he touched the ball.” With Jordan James struggling through a broken rib, Black will have a real chance to establish himself as the Niners’ RB2 ahead of the regular season. Black should be stashed in deeper fantasy formats in case CMC, 30, misses time in 2026.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
-      <rw:player>Kaelon Black</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>The Athletic</rw:source>
-      <rw:author />
-      <rw:date>Aug 19, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports Chargers C Tyler Biadasz is out indefinitely with a knee injury.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1e1319642df97f81cc550d3aea20bf9ab76c6554158e529c7e946c95ad487f41</guid>
-      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyler Biadasz LAC Center&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Biadasz sustained a major knee injury this week in joint practices with the 49ers. Schefter said Biadasz sustained “damage to his ACL and additional injuries to his left knee,” and will seek second opinions on how to deal with the injury. That’s never a good sign, and likely means Biadasz is done for the 2026 season. His absence could be a blow for Omarion Hampton and the Chargers’ run game under new OC Mike McDaniel.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Tyler Biadasz</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Center</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Aug 19, 2026</rw:date>
-    </item>
-    <item>
-      <title>Tank Bigsby (toe) returned to practice Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9533a06443e3d7887e71d29d3463d890e6284c65f471e2ccaa6bdcd624001a6b</guid>
-      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tank Bigsby PHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bigsby, who will operate as the Eagles’ No. 2 back behind Saquon Barkley, had missed some practice time with the toe issue. He appears fully back well ahead of the team’s regular season opener against Washington. One of the most efficient rushers over the past two seasons with the Jaguars and Eagles, Bigsby should be drafted as a high-upside contingency option in case Barkley misses any time in 2026.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeff McLane&lt;/p&gt;</description>
-      <rw:player>Tank Bigsby</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Jeff McLane</rw:source>
       <rw:author />
       <rw:date>Aug 19, 2026</rw:date>
     </item>
@@ -630,6 +695,84 @@
       <rw:date>Aug 18, 2026</rw:date>
     </item>
     <item>
+      <title>NFL Network’s Mike Garafolo reports that Ravens C Danny Pinter suffered a torn patellar tendon on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:7fc4dcffb3135337133ac4a0a87304edf462386c30f986c498b5bb246a6481ec</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Danny Pinter BAL Center&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is terribly unfortunate. We expect him to be placed on injured reserve soon, and we do not expect him to return until 2027. The Ravens brought in Pinter and C Ethan Pocic, who is coming off a season-ending Achilles tendon rupture, to compete for the starting center role after losing C Tyler Linderbaum in free agency to the Raiders. Pocic, 31, has been a reliable NFL starter since earning a spot on the PFWA All-Rookie Team in 2017. He earned a 62.3 PFF pass-blocking grade and a 63.2 PFF run-blocking grade before injuring his Achilles in Week 14 last year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
+      <rw:player>Danny Pinter</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Center</rw:position>
+      <rw:source>Mike Garafolo</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>Puka Nacua (groin) remained sidelined for Thursday’s joint practice with the Saints.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:91bbe2a8ef50ba9dc26127aa14238ea1b625e1dc1e0e798d90384f224dc898e6</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We try not to go daily with training camp injuries, but Nacua has now missed the Rams’ entire slate of Saints sessions. Coach Sean McVay had previously said he would return this week. That still does not suggest anything other than standard summer caution, but it’s of course worth noting. For now there is no reason to alter course when it comes to selecting Nacua in the first round of fantasy drafts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sarah Barshop&lt;/p&gt;</description>
+      <rw:player>Puka Nacua</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Sarah Barshop</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s John Keim reports that Commanders DT Johnny Newton is visiting a specialist regarding his recent pectoral injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:603795aa4591b93280e7169575f5786814bae8c00e097c591ec6f87ba4b2cbaa</guid>
+      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Johnny Newton WAS Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When asked for comment, Commanders coach Dan Quinn said, “anytime you’re seeing a specialist, of course, there is reason for concern.” Both starting edge rushers, OLB Odafe Oweh (calf) and OLB K’Lavon Chaisson (knee), and backup LB Jordan Magee (shoulder) are also sidelined by recent injuries. The Commanders’ defensive front is tasked with corralling the Eagles’ rushing attack in three and a half weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; John Keim&lt;/p&gt;</description>
+      <rw:player>Johnny Newton</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source>John Keim</rw:source>
+      <rw:author />
+      <rw:date>Aug 19, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Athletic’s Matt Barrows reports Kaelon Black is operating as the 49ers lead back with Christian McCaffrey (tightness) sidelined.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d34c459c929840e050c48601b64116f5fc20badc93fa2eeca6c756739ed2f3aa</guid>
+      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kaelon Black SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Black had missed two weeks with a thigh injury before emerging as the clear top running back with McCaffrey sidelined. Barrows said Black “certainly didn’t look rusty, taking an early carry to the left for 50 yards and showing violence and strength on several ensuing runs. Black also had a catch at the goal line in a red zone drill.” Niners players and coaches were impressed by Black, who was taken with the third round of the 2026 NFL Draft. “I thought he looked good hitting the hole and running hard,” Brock Purdy said. “You could tell there was a different level of intensity when he touched the ball.” With Jordan James struggling through a broken rib, Black will have a real chance to establish himself as the Niners’ RB2 ahead of the regular season. Black should be stashed in deeper fantasy formats in case CMC, 30, misses time in 2026.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
+      <rw:player>Kaelon Black</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>The Athletic</rw:source>
+      <rw:author />
+      <rw:date>Aug 19, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports Chargers C Tyler Biadasz is out indefinitely with a knee injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1e1319642df97f81cc550d3aea20bf9ab76c6554158e529c7e946c95ad487f41</guid>
+      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tyler Biadasz LAC Center&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Biadasz sustained a major knee injury this week in joint practices with the 49ers. Schefter said Biadasz sustained “damage to his ACL and additional injuries to his left knee,” and will seek second opinions on how to deal with the injury. That’s never a good sign, and likely means Biadasz is done for the 2026 season. His absence could be a blow for Omarion Hampton and the Chargers’ run game under new OC Mike McDaniel.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Tyler Biadasz</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Center</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 19, 2026</rw:date>
+    </item>
+    <item>
+      <title>Tank Bigsby (toe) returned to practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:9533a06443e3d7887e71d29d3463d890e6284c65f471e2ccaa6bdcd624001a6b</guid>
+      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tank Bigsby PHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bigsby, who will operate as the Eagles’ No. 2 back behind Saquon Barkley, had missed some practice time with the toe issue. He appears fully back well ahead of the team’s regular season opener against Washington. One of the most efficient rushers over the past two seasons with the Jaguars and Eagles, Bigsby should be drafted as a high-upside contingency option in case Barkley misses any time in 2026.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeff McLane&lt;/p&gt;</description>
+      <rw:player>Tank Bigsby</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Jeff McLane</rw:source>
+      <rw:author />
+      <rw:date>Aug 19, 2026</rw:date>
+    </item>
+    <item>
       <title>The Athletic’s James Boyd left DJ Giddens off his 53-man roster projection.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:57b9d297eced55ad8f5fbbce81c7c5ed44c1054b55309c773fe777d1844b1dcb</guid>
@@ -758,19 +901,6 @@
       <rw:source>Aaron Wilson</rw:source>
       <rw:author />
       <rw:date>Aug 18, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Athletic’s James Boyd reports that Colts TE Tyler Warren met with trainers after suffering an apparent groin injury on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:507f84c0118b79c298417219963f0850ac3a6f8cc5530e2a48eef469ad29ac56</guid>
-      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyler Warren IND Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to Boyd, Warren “went down” while running a route during 11-on-11 drills. He “got up clutching at his groin area” before making his way to the sideline to meet with the Colts’ training staff. FOX 59’s Mike Chappell said Warren was exhibiting a limp while leaving the field. This is not the kind of news we want to hear, but the second-year tight end still has time to rehab a minor tweak before the regular season opener. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; James Boyd&lt;/p&gt;</description>
-      <rw:player>Tyler Warren</rw:player>
-      <rw:team>IND</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>James Boyd</rw:source>
-      <rw:author />
-      <rw:date>Aug 19, 2026</rw:date>
     </item>
     <item>
       <title>Zavion Thomas (knee) returned to practice on Tuesday.</title>

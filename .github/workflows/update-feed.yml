@@ -2,8 +2,17 @@ name: Update Rotoworld feed
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "0 */6 * * *"
+    # CDT candidates
+    - cron: "0 1,12,21 * * *"
+    - cron: "0 6 * * *"
+    - cron: "30 16 * * *"
+
+    # CST candidates
+    - cron: "0 2,13,22 * * *"
+    - cron: "0 7 * * *"
+    - cron: "30 17 * * *"
 
 permissions:
   contents: write
@@ -13,24 +22,72 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check Central Time schedule
+        id: gate
+        shell: bash
+        run: |
+          # Manual runs should always proceed
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          OFFSET=$(TZ=America/Chicago date +%z)
+          SCHEDULE='${{ github.event.schedule }}'
+
+          RUN=false
+
+          # Central Daylight Time (UTC-5)
+          if [ "$OFFSET" = "-0500" ]; then
+            if [ "$SCHEDULE" = "0 1,12,21 * * *" ] || \
+               [ "$SCHEDULE" = "0 6 * * *" ] || \
+               [ "$SCHEDULE" = "30 16 * * *" ]; then
+              RUN=true
+            fi
+          fi
+
+          # Central Standard Time (UTC-6)
+          if [ "$OFFSET" = "-0600" ]; then
+            if [ "$SCHEDULE" = "0 2,13,22 * * *" ] || \
+               [ "$SCHEDULE" = "0 7 * * *" ] || \
+               [ "$SCHEDULE" = "30 17 * * *" ]; then
+              RUN=true
+            fi
+          fi
+
+          echo "run=$RUN" >> "$GITHUB_OUTPUT"
+
       - name: Get repository
+        if: steps.gate.outputs.run == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Python
+        if: steps.gate.outputs.run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install requirements
+        if: steps.gate.outputs.run == 'true'
         run: pip install -r requirements.txt
 
       - name: Update player news
+        if: steps.gate.outputs.run == 'true'
         run: python scraper.py
 
       - name: Save updated feed
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add feed.xml news.csv
-          git diff --cached --quiet || git commit -m "Update Rotoworld feed"
+
+          if git diff --cached --quiet; then
+            echo "No new player news to save."
+            exit 0
+          fi
+
+          git commit -m "Update Rotoworld feed"
+          git pull --rebase origin main
           git push

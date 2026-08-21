@@ -4,13 +4,78 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 17:57:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:55:05 +0000</lastBuildDate>
     <item>
-      <title>Seahawks WR Jake Bobo was carted from Friday’s practice with an apparent leg injury.</title>
+      <title>Texans signed WR Zay Jones, formerly of the Cardinals.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:fe1037e2d97538b129bdc94607f6266c03313b030364fef72f15841fd671dd3f</guid>
+      <guid isPermaLink="false">urn:sha256:7e00eeb9a016a6e6e9b35e5ade51510723ec8de7ebd68e12341a879af37dd8cf</guid>
       <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jake Bobo SEA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bobo reportedly went up to make a catch and landed awkwardly before leaving the field. The 28-year-old receiver signed a two-year deal with Bobo this offseason, opting to match an offer he received from the Jaguars. Bobo has caught 34 passes for 323 yards and three touchdowns in his career and has been primarily used on special teams since entering the league in 2023.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Bob Condotta&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Zay Jones HOU Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jones and former Buccaneers WR Sterling Shepard have been brought in to help shore up the Texans’ wide receiver corps. Second-year WR Jayden Higgins (knee) was placed on injured reserve today. The Texans are also still trying to figure out what they have in WR Tank Dell (knee), and WR Jaylin Noel (finger/hamstring) missed time in training camp with a pair of injuries. Jones is coming off a season-ending Achilles tendon rupture. Neither he nor Shepard are worth drafting.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
+      <rw:player>Zay Jones</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Mike Garafolo</rw:source>
+      <rw:author />
+      <rw:date>Aug 21, 2026</rw:date>
+    </item>
+    <item>
+      <title>Free agent WR Josh Reynolds worked out for the Texans on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fe3014f85c525970affd46616ba2c258e098958a42916c5e3fe187a279b69aa9</guid>
+      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Josh Reynolds&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Reynolds, 31, was joined by WR Sterling Shepard, 33, today. Reynolds caught 11 passes for 101 yards with the Jets last year. Shepard caught 39 passes for 371 yards and one touchdown with the Buccaneers last year. Neither player would be on the fantasy radar if they were signed.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Josh Reynolds</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 21, 2026</rw:date>
+    </item>
+    <item>
+      <title>NBC Houston’s Aaron Wilson reports that the Texans made an exploratory call about Ravens WR Rashod Bateman.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:bbc627a9898a80b53873235f2f1097f030073003e784623bdbbd2fc6d3462cc1</guid>
+      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rashod Bateman BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;While Bateman might ultimately be excited about a change of scenery, a trade to Houston could be bittersweet. The 26-year-old wide receiver is excited about the Ravens’ new offensive coaching staff and publicly discussed some positive changes just yesterday. Bateman has been moving around the formation in training camp, which may afford him pre-snap flexibility, even if he lands with a new organization. The Texans are searching for help at the position following WR Jayden Higgins’ ACL tear. Texans veteran WR Tank Dell (knee) is making good progress, as is Jaylin Noel (finger/hamstring), but the position group has obvious questions to answer about its 2026 readiness. Bateman would potentially be a boom-bust FLEX if he switches teams.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
+      <rw:player>Rashod Bateman</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Aaron Wilson</rw:source>
+      <rw:author />
+      <rw:date>Aug 21, 2026</rw:date>
+    </item>
+    <item>
+      <title>NBC Houston’s Aaron Wilson reports that the Texans inquired about Patriots WR Kayshon Boutte’s availability.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0b2827300b209db061acff960a9bccb3f7d6617804ccb5a148e0bf9634ee5ff2</guid>
+      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kayshon Boutte NE Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boutte has been the subject of trade rumors all offseason. Back in June, the Commanders and Raiders were linked to him in an ESPN report. Nothing has come to fruition thus far, and Boutte has received positive reviews throughout training camp. The Athletic’s Chad Graff described him as the camp “star” earlier this month. The Texans are attempting to improve their wide receiver corps after losing WR Jayden Higgins to an ACL tear recently. Fellow second-year wide receiver Jaylin Noel has also been dealing with finger and hamstring injuries. Boutte would give the Texans a solid vertical element if he ends up in Houston. He might warrant FLEX treatment in the right matchup.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
+      <rw:player>Kayshon Boutte</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Aaron Wilson</rw:source>
+      <rw:author />
+      <rw:date>Aug 21, 2026</rw:date>
+    </item>
+    <item>
+      <title>Free agent WR Zay Jones worked out for the Texans on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8797a23bfb7dc0bdae60e01bee624e084d490443c1f5b17580b8771f6506cf93</guid>
+      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Zay Jones&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jones played for the Cardinals last year, catching 12 passes for 183 yards before rupturing an Achilles tendon in Week 10 against the Seahawks. The Texans are hoping to bolster their wide receiver corps after losing WR Jayden Higgins to a torn ACL.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
+      <rw:player>Zay Jones</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Aaron Wilson</rw:source>
+      <rw:author />
+      <rw:date>Aug 21, 2026</rw:date>
+    </item>
+    <item>
+      <title>Seahawks WR Jake Bobo was carted from Friday’s practice with an apparent knee injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2e26e052103727fd876e2b0fbc6ff4e74d960a31e9b2f0fc2ba2d9e96bcaf5a7</guid>
+      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jake Bobo SEA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bobo reportedly went up to make a catch and landed awkwardly before leaving the field. The 28-year-old receiver signed a two-year deal with the Seahawks this offseason, opting to match an offer he received from the Jaguars. Bobo has caught 34 passes for 323 yards and three touchdowns in his career and has been primarily used on special teams since entering the league in 2023. Head coach Mike Macdonald said after the game that Bobo’s injury appears to be a serious one. It wouldn’t be surprising if we learned in the coming days that this is a season-ender.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Bob Condotta&lt;/p&gt;</description>
       <rw:player>Jake Bobo</rw:player>
       <rw:team>SEA</rw:team>
       <rw:position>Wide Receiver</rw:position>
@@ -424,9 +489,9 @@
     <item>
       <title>Broncos signed S Taylor Rapp, formerly of the Bills.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ab90c8c57923d31035c8fc11027d26573ac4f5579f98ef849b2d9d45e75767f5</guid>
+      <guid isPermaLink="false">urn:sha256:61b11e7fc0a575aafb95badeb67aae3986617143f8c2a3b8015b92434a46e81f</guid>
       <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Taylor Rapp DEN Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapp spent the last three in Buffalo. He totaled 19 tackles and one quarterback pressure in six games last year. The Broncos correspondingly waived LB Levelle Bailey with an injury designation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Parker Gabriel&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Taylor Rapp DEN Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapp spent the last three seasons in Buffalo. He totaled 19 tackles and one quarterback pressure in six games last year. The Broncos correspondingly waived LB Levelle Bailey with an injury designation. He later reverted to injured reserve.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Parker Gabriel&lt;/p&gt;</description>
       <rw:player>Taylor Rapp</rw:player>
       <rw:team>DEN</rw:team>
       <rw:position>Safety</rw:position>
@@ -719,6 +784,32 @@
       <rw:source>Marcel Louis-Jacques</rw:source>
       <rw:author />
       <rw:date>Aug 19, 2026</rw:date>
+    </item>
+    <item>
+      <title>Seahawks WR Jake Bobo was carted from Friday’s practice with an apparent leg injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fe1037e2d97538b129bdc94607f6266c03313b030364fef72f15841fd671dd3f</guid>
+      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jake Bobo SEA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bobo reportedly went up to make a catch and landed awkwardly before leaving the field. The 28-year-old receiver signed a two-year deal with Bobo this offseason, opting to match an offer he received from the Jaguars. Bobo has caught 34 passes for 323 yards and three touchdowns in his career and has been primarily used on special teams since entering the league in 2023.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Bob Condotta&lt;/p&gt;</description>
+      <rw:player>Jake Bobo</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Bob Condotta</rw:source>
+      <rw:author />
+      <rw:date>Aug 21, 2026</rw:date>
+    </item>
+    <item>
+      <title>Broncos signed S Taylor Rapp, formerly of the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ab90c8c57923d31035c8fc11027d26573ac4f5579f98ef849b2d9d45e75767f5</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Taylor Rapp DEN Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapp spent the last three in Buffalo. He totaled 19 tackles and one quarterback pressure in six games last year. The Broncos correspondingly waived LB Levelle Bailey with an injury designation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Parker Gabriel&lt;/p&gt;</description>
+      <rw:player>Taylor Rapp</rw:player>
+      <rw:team>DEN</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source>Parker Gabriel</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
     </item>
     <item>
       <title>Falcons placed RB Trey Sermon on injured reserve.</title>

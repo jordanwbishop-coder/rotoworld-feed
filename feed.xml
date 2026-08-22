@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 07:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:43:55 +0000</lastBuildDate>
+    <item>
+      <title>Drew Allar completed 11-of-23 passes for 110 yards in Friday’s preseason game against the Jets, adding one rush for four additional yards.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:65b98aa2c774642fc27a84cbf41cb0b49c581c01fd54d506a1cb679927092ab9</guid>
+      <pubDate>Sat, 22 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Drew Allar PIT Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allar struggled more in his second taste of preseason action, taking three sacks while completing only 47.8 percent of his passes, but were it not for three dropped passes and some garbage time heaves on the game’s final drive, his box score would have looked a little better. Allar’s most impressive throw came on his second drive of the game, when he evaded pressure and ran left to throw a 38-yard ball down the sideline that was placed neatly between two defenders to receiver Lake McRee for a big gain. In the fourth quarter, he would connect with Isaiah Winstead on a 17-yard gain, again on a tight pass near the sideline for his second-longest completion of the night. Allar fared better than second-year QB Will Howard, who completed 10-of-15 passes for 74 yards but was picked off twice in the first half. We would expect both quarterbacks to get extended opportunities in next week’s preseason finale against the Bills on Thursday.&lt;/p&gt;</description>
+      <rw:player>Drew Allar</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 22, 2026</rw:date>
+    </item>
     <item>
       <title>Broncos RB Jonah Coleman rushed three times for nine yards in Friday’s preseason game against the Packers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -249,19 +262,6 @@
       <rw:team />
       <rw:position />
       <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Aug 21, 2026</rw:date>
-    </item>
-    <item>
-      <title>NBC Houston’s Aaron Wilson reports that the Texans made an exploratory call about Ravens WR Rashod Bateman.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:bbc627a9898a80b53873235f2f1097f030073003e784623bdbbd2fc6d3462cc1</guid>
-      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Rashod Bateman BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;While Bateman might ultimately be excited about a change of scenery, a trade to Houston could be bittersweet. The 26-year-old wide receiver is excited about the Ravens’ new offensive coaching staff and publicly discussed some positive changes just yesterday. Bateman has been moving around the formation in training camp, which may afford him pre-snap flexibility, even if he lands with a new organization. The Texans are searching for help at the position following WR Jayden Higgins’ ACL tear. Texans veteran WR Tank Dell (knee) is making good progress, as is Jaylin Noel (finger/hamstring), but the position group has obvious questions to answer about its 2026 readiness. Bateman would potentially be a boom-bust FLEX if he switches teams.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
-      <rw:player>Rashod Bateman</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Aaron Wilson</rw:source>
       <rw:author />
       <rw:date>Aug 21, 2026</rw:date>
     </item>
@@ -771,6 +771,19 @@
       <rw:source />
       <rw:author />
       <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>NBC Houston’s Aaron Wilson reports that the Texans made an exploratory call about Ravens WR Rashod Bateman.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:bbc627a9898a80b53873235f2f1097f030073003e784623bdbbd2fc6d3462cc1</guid>
+      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rashod Bateman BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;While Bateman might ultimately be excited about a change of scenery, a trade to Houston could be bittersweet. The 26-year-old wide receiver is excited about the Ravens’ new offensive coaching staff and publicly discussed some positive changes just yesterday. Bateman has been moving around the formation in training camp, which may afford him pre-snap flexibility, even if he lands with a new organization. The Texans are searching for help at the position following WR Jayden Higgins’ ACL tear. Texans veteran WR Tank Dell (knee) is making good progress, as is Jaylin Noel (finger/hamstring), but the position group has obvious questions to answer about its 2026 readiness. Bateman would potentially be a boom-bust FLEX if he switches teams.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
+      <rw:player>Rashod Bateman</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Aaron Wilson</rw:source>
+      <rw:author />
+      <rw:date>Aug 21, 2026</rw:date>
     </item>
     <item>
       <title>NFL Network’s Mike Garafolo reports that Commanders RB Rachaad White’s hamstring injury is “not considered serious or long-term.”</title>

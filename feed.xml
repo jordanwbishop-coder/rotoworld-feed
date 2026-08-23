@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:47:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:45:23 +0000</lastBuildDate>
+    <item>
+      <title>Ty Simpson completed 8-of-12 passes for 73 yards in the Rams’ preseason win over the Saints on Saturday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b47110ffa077398697442f33e3b00267e6d3d20d399342e28c614d8d81bca971</guid>
+      <pubDate>Sun, 23 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ty Simpson&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Simpson sat the entire first half of Saturday’s game and didn’t get on the field until midway through the third quarter, thanks to a long opening drive by the Saints after halftime that ended in a pick-six by the Rams’ defense that immediately gave the ball back to New Orleans. In the 34-0 win, Simpson wasn’t asked to do too much. He dropped back to pass on 14 of his 26 offensive snaps and stuck mostly to short completions, as only three of his attempts on the day traveled 10 or more air yards. Both Simpson and Stetson Bennett, who started this game, will see extensive work in next week’s game against the Chargers before the real games begin in Week 1 with the Rams playing “host” to the 49ers in Australia.&lt;/p&gt;</description>
+      <rw:player>Ty Simpson</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 23, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jaydon Blue rushed 15 times for 75 yards in the Cowboys’ preseason win over the Cardinals on Saturday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:313725210029c794693aac982d088eacf7eb3c685aff4a1455170cb8003fdb67</guid>
+      <pubDate>Sun, 23 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jaydon Blue DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Blue led all Cowboys running backs in snaps, but played on just two snaps on the team’s opening drive of the game compared to Malik Davis’ 10. Davis would see just four snaps the rest of the way compared to Blue’s 24, but the second-year back made the most of his opportunities. Blue’s 75 rushing yards led all Cowboys players, with eight of his carries going for five or more yards. His usage, which extended into the third quarter, suggests Blue is battling with Phil Mafah and Israel Abanikanda for the RB3 role, which doesn’t come as much of a surprise after it was reported last week that Blue was the fourth player up in drills. It was a strong showing for Blue, who will need another convincing outing in the team’s preseason finale next week against the Saints.&lt;/p&gt;</description>
+      <rw:player>Jaydon Blue</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 23, 2026</rw:date>
+    </item>
     <item>
       <title>Spencer Rattler completed 14-of-23 passes for 141 yards and one interception in Saturday’s preseason game against the Rams.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -630,19 +656,6 @@
       <rw:date>Aug 20, 2026</rw:date>
     </item>
     <item>
-      <title>49ers WR De’Zhaun Stribling caught 4-of-5 targets for 46 yards in Thursday’s preseason game against the Chargers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:bb8cf7dd032ac967282239ce8fc81cb57873bb31f28b165b16ede1096c246432</guid>
-      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;De&amp;#x27;Zhaun Stribling SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Stribling starred on the 49ers’ first two drives. He caught three passes on the first drive, nabbing an eight-yard gain on a curl route, high-pointing a pass beyond the sticks and making a kneeling catch for a first down via a slant route from the perimeter. 49ers QB Brock Purdy beautifully threaded the needle to him on a post route downfield, sneaking the ball right past two defenders. Stribling nearly hauled in a 30-plus-yard pass down the left sideline, just a few yards from the end zone, but he couldn’t complete the catch. The result of that play might keep his ADP from inflating too much. The rookie wide receiver might warrant WR3 treatment right out of the gate.&lt;/p&gt;</description>
-      <rw:player>De'Zhaun Stribling</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 20, 2026</rw:date>
-    </item>
-    <item>
       <title>Chargers WR Brenen Thompson exited Thursday’s preseason game against the 49ers after suffering an apparent injury.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:7b7889fbe3201a19fcd84ac211b41a28dc5bba3e192cba4cc9b42a2fd6359b67</guid>
@@ -769,6 +782,19 @@
       <rw:team />
       <rw:position />
       <rw:source>ESPN</rw:source>
+      <rw:author />
+      <rw:date>Aug 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers WR De’Zhaun Stribling caught 4-of-5 targets for 46 yards in Thursday’s preseason game against the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:bb8cf7dd032ac967282239ce8fc81cb57873bb31f28b165b16ede1096c246432</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;De&amp;#x27;Zhaun Stribling SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Stribling starred on the 49ers’ first two drives. He caught three passes on the first drive, nabbing an eight-yard gain on a curl route, high-pointing a pass beyond the sticks and making a kneeling catch for a first down via a slant route from the perimeter. 49ers QB Brock Purdy beautifully threaded the needle to him on a post route downfield, sneaking the ball right past two defenders. Stribling nearly hauled in a 30-plus-yard pass down the left sideline, just a few yards from the end zone, but he couldn’t complete the catch. The result of that play might keep his ADP from inflating too much. The rookie wide receiver might warrant WR3 treatment right out of the gate.&lt;/p&gt;</description>
+      <rw:player>De'Zhaun Stribling</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
       <rw:author />
       <rw:date>Aug 20, 2026</rw:date>
     </item>

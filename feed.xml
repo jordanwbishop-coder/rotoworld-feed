@@ -4,7 +4,59 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 21:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 03:35:56 +0000</lastBuildDate>
+    <item>
+      <title>Texans DE Dylan Horton suffered torn ACL in practice Monday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0c7334c646aa089ab417a51f0ef5b73115052bf120fc11312ae6c7ff43d939f7</guid>
+      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dylan Horton HOU EDGE&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Horton missed part of his rookie season and some of the 2024 season after being diagnosed with lymphoma, returning to the team to notch 39 regular season appearances. He will be an unrestricted free agent entering 2027.&lt;/p&gt;</description>
+      <rw:player>Dylan Horton</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>EDGE</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 24, 2026</rw:date>
+    </item>
+    <item>
+      <title>Lions placed RB Raheem Blackshear and WR Cedrick Wilson on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d17019740319a56f74ecf6360132e312250d5ac71ea171092be909df65a9e9f9</guid>
+      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Raheem Blackshear DET Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The move ends the seasons of both players before they began, leaving them ineligible to play in 2026 unless released with an injury settlement. The team signed defensive back Jason Taylor and running back Roydell Williams in an associated move.&lt;/p&gt;</description>
+      <rw:player>Raheem Blackshear</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 24, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chargers OC Mike McDaniel said the offense “sustained a mild setback” with RB Keaton Mitchell.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e826fb693f2adc0d6e5787ecd77f9e3fdb9d4dce81959ed96192e961ea7a656b</guid>
+      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Keaton Mitchell LAC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This comes on the heels of a missed session on Sunday for the fourth-year back. The team has yet to release a complete injury update for Mitchell after failing to disclose an injury status the previous day, leaving fantasy managers stuck in limbo with less than three weeks until the start of the regular season. “We sustained a mild setback with Keaton, but realistically, that’s a position that you’re always wanting to have three, and I like what our young guys are doing to press into that group,” McDaniel said Monday. It is difficult to read too far into McDaniel’s remarks without further context, keeping Mitchell a strong streaming option in shallow leagues, for the time being.&lt;/p&gt;</description>
+      <rw:player>Keaton Mitchell</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 24, 2026</rw:date>
+    </item>
+    <item>
+      <title>Rams HC Sean McVay said he remains undecided on who Matthew Stafford’s backup will be to start the season.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:15b711f276cc46333b24f035f000ee90b3fa68fd39087314d5c5952279615716</guid>
+      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ty Simpson&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rookie Ty Simpson and 2023 fourth-rounder Stetson Bennett have both turned in solid performances in the team’s first two preseason games. Bennett drew the start in the first preseason game and has thrown for 219 scoreless yards on 37 attempts, while Simpson has thrown for 263-2-0, also on 37 attempts. McVay has already said that Simpson will “definitely” play in the team’s preseason finale against the Chargers, but didn’t commit to Bennett seeing snaps as well.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Los Angeles Daily News&lt;/p&gt;</description>
+      <rw:player>Ty Simpson</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Los Angeles Daily News</rw:source>
+      <rw:author />
+      <rw:date>Aug 24, 2026</rw:date>
+    </item>
     <item>
       <title>Saints RB Kendre Miller said he expects to see a bigger role this season with Alvin Kamara (knee) sidelined.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -162,9 +214,9 @@
       <rw:date>Aug 24, 2026</rw:date>
     </item>
     <item>
-      <title>Patriots acquired S Jaylen Reed from the Patriots in exchange for WR Kayshon Boutte.</title>
+      <title>Patriots acquired S Jaylen Reed from the Texans in exchange for WR Kayshon Boutte.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2e3fdfb2c30beb3580354d844eeb2f9506269930fc7fa37599bb4ca030d7ecca</guid>
+      <guid isPermaLink="false">urn:sha256:3a8372fd493a9257fd9e4d97594738fdfe255b764665e6500e7c560e04fec7ce</guid>
       <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Jaylen Reed NE Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Patriots also received a 2028 seventh-round pick in the deal. While Boutte gets a chance to earn a role with the Texans following the loss of Jayden Higgins, Reed will likely serve as added depth for the Patriots secondary. Reed appeared in seven games last year as a rookie while making one start, with most of his snaps coming on special teams.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
       <rw:player>Jaylen Reed</rw:player>
@@ -513,6 +565,32 @@
       <rw:date>Aug 23, 2026</rw:date>
     </item>
     <item>
+      <title>The Mercury News’ Cam Inman reports that 49ers WR Mike Evans (quad) left practice early as a “precautionary” measure.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1e8b45208346ac2d02ba1350a2331a572cc84f852ae179edc07f405a1119f960</guid>
+      <pubDate>Sun, 23 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It would be really nice to see Evans consistently practice in full at this point, but both Inman and ESPN’s Nick Wagoner appear mostly unconcerned by today’s development. Per Wagoner, Evans stopped practicing after running a deep route on Sunday. Evans “seemed to be moving fine” after exiting. Wagoner adds that it is “clear he and the Niners want to be cautious to get him to the regular season ready to go.” Evans’ soft tissue concerns remain present, but as long as he takes the field on game day, he is a WR2 with WR1 upside.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cam Inman&lt;/p&gt;</description>
+      <rw:player>Mike Evans</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Cam Inman</rw:source>
+      <rw:author />
+      <rw:date>Aug 23, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers WR De’Zhaun Stribling (shoulder) resumed practicing in a non-contact jersey on Sunday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:24b9edb1318c4cb4382cf910092394b118872a2ffe2e9b05fd07255bddf37dde</guid>
+      <pubDate>Sun, 23 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;De&amp;#x27;Zhaun Stribling SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team labeled Stribling as “day-to-day” yesterday. His limited return is a good sign for his Week 1 availability. Hopefully, the 49ers’ impressive rookie is back in pads before long. He can still be drafted as a FLEX starter with WR3 upside at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Wagoner&lt;/p&gt;</description>
+      <rw:player>De'Zhaun Stribling</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Nick Wagoner</rw:source>
+      <rw:author />
+      <rw:date>Aug 23, 2026</rw:date>
+    </item>
+    <item>
       <title>Texans signed S George Odum, formerly of the Colts.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:c007ead281d810a1391724e9734d1c5c720d1a8ac55f85ce9c0c7abba92c3747</guid>
@@ -695,6 +773,19 @@
       <rw:date>Aug 23, 2026</rw:date>
     </item>
     <item>
+      <title>Patriots acquired S Jaylen Reed from the Patriots in exchange for WR Kayshon Boutte.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2e3fdfb2c30beb3580354d844eeb2f9506269930fc7fa37599bb4ca030d7ecca</guid>
+      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jaylen Reed NE Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Patriots also received a 2028 seventh-round pick in the deal. While Boutte gets a chance to earn a role with the Texans following the loss of Jayden Higgins, Reed will likely serve as added depth for the Patriots secondary. Reed appeared in seven games last year as a rookie while making one start, with most of his snaps coming on special teams.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
+      <rw:player>Jaylen Reed</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source>Tom Pelissero</rw:source>
+      <rw:author />
+      <rw:date>Aug 24, 2026</rw:date>
+    </item>
+    <item>
       <title>Browns signed DE Derek Barnett, formerly of the Texans, to a one-year contract.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:af4200a383b7b6b72fef4852a4487ac81357f5424aea158a7a360f39dd4cb1d8</guid>
@@ -743,32 +834,6 @@
       <rw:team />
       <rw:position />
       <rw:source>Jamal St. Cyr</rw:source>
-      <rw:author />
-      <rw:date>Aug 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Mercury News’ Cam Inman reports that 49ers WR Mike Evans (quad) left practice early as a “precautionary” measure.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1e8b45208346ac2d02ba1350a2331a572cc84f852ae179edc07f405a1119f960</guid>
-      <pubDate>Sun, 23 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It would be really nice to see Evans consistently practice in full at this point, but both Inman and ESPN’s Nick Wagoner appear mostly unconcerned by today’s development. Per Wagoner, Evans stopped practicing after running a deep route on Sunday. Evans “seemed to be moving fine” after exiting. Wagoner adds that it is “clear he and the Niners want to be cautious to get him to the regular season ready to go.” Evans’ soft tissue concerns remain present, but as long as he takes the field on game day, he is a WR2 with WR1 upside.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cam Inman&lt;/p&gt;</description>
-      <rw:player>Mike Evans</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Cam Inman</rw:source>
-      <rw:author />
-      <rw:date>Aug 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>49ers WR De’Zhaun Stribling (shoulder) resumed practicing in a non-contact jersey on Sunday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:24b9edb1318c4cb4382cf910092394b118872a2ffe2e9b05fd07255bddf37dde</guid>
-      <pubDate>Sun, 23 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;De&amp;#x27;Zhaun Stribling SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team labeled Stribling as “day-to-day” yesterday. His limited return is a good sign for his Week 1 availability. Hopefully, the 49ers’ impressive rookie is back in pads before long. He can still be drafted as a FLEX starter with WR3 upside at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Wagoner&lt;/p&gt;</description>
-      <rw:player>De'Zhaun Stribling</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Nick Wagoner</rw:source>
       <rw:author />
       <rw:date>Aug 23, 2026</rw:date>
     </item>

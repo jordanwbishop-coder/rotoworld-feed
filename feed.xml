@@ -4,11 +4,635 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 14:27:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 01:28:21 +0000</lastBuildDate>
     <item>
-      <title>ESPN’s Adam Schefter reports Bucs LB Reuben Bain Jr. suffered a shoulder sprain.</title>
+      <title>49ers RB Kaelon Black rushed four times for 28 yards in Friday’s preseason game against the Raiders.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:80af8f8664a48019648da4562a8d9127fa4d08cefbabcaf884fd38dd869a64a7</guid>
+      <guid isPermaLink="false">urn:sha256:2e150a5e2d326e1cdddd00f2ffc0d723d226e7a58bd56110498aef8e0fe0039a</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kaelon Black SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Black had a nice run to the right side of the field before subbing out, which ultimately required him to spin over the top of the camera stand positioned awkwardly on the sideline. He seemingly escaped without injury and, most importantly, took 12-of-12 possible snaps on the first three drives. Black is the 49ers’ running back to stash on fantasy benches. Fellow RB Jordan James has recovered from the fractured rib he suffered late in July, but the time he missed in August has him behind Black on the depth chart.&lt;/p&gt;</description>
+      <rw:player>Kaelon Black</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Steelers WR Germie Bernard caught 1-of-2 targets for 13 yards and one touchdown in Thursday’s preseason game against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f475f2a6b405318b6cc1cce923b0ad239ab419305a2897b78fe8c981ded8c628</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Germie Bernard PIT Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bernard started alongside other Steelers backups this evening, indicating he has not yet earned a starting role in three-wide receiver sets. That said, he looked good. Bernard found the end zone via a screen pass on the Steelers’ second drive, shaking a defender immediately after the catch before muscling past another as he crossed the plane. He nearly scored again on the following drive, but QB Will Howard overthrew him in the end zone. The Steelers’ top-two WRs, DK Metcalf and Michael Pittman, are just getting over injuries, and No. 3 WR Roman Wilson should not be considered insurmountable in-house competition. Bernard could work his way into the lineup early in the year.&lt;/p&gt;</description>
+      <rw:player>Germie Bernard</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Raiders RB Mike Washington rushed eight times for 49 yards in Thursday’s preseason game against the 49ers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5e059e76e875013f9deb0e058f5b52332c09275109a580d40ef708a02a84d961</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mike Washington Jr. LV Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Washington could end up returning standalone FLEX value this season. He looks good. The fourth-round rookie does not go down easily, regularly powering through first contact, and he possesses the requisite speed to get to the edge and turn upfield quickly. He took a hard hit to the left side of his body while jumping for a pass, but showed no ill effects from it. With RB1 Ashton Jeanty (ankle) rehabbing, there is a chance Washington gets the start in Week 1 against the rebuilding Dolphins. Washington could warrant a top-15 positional ranking in this case. Target him in drafts.&lt;/p&gt;</description>
+      <rw:player>Mike Washington Jr.</rw:player>
+      <rw:team>LV</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Lions TE Sam LaPorta (hip) resumed practicing on Tuesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:408881cc5661185cf399acb714497d17d58cb6d6b50885468415334a3f270c76</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Sam LaPorta DET Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;LaPorta’s hip issue no longer appears to be a concern. The 25-year-old has continued practicing as the week progresses. He was out there catching passes from QB Jared Goff during Friday’s scrimmage. LaPorta is a locked-in TE1, playing in what should be one of the NFL’s highest-scoring offenses this season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Detroit Lions&lt;/p&gt;</description>
+      <rw:player>Sam LaPorta</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Detroit Lions</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Lions placed EDGE Payton Turner on injured reserve with a back injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5af6babbb04864d3fb55d098125f139bd3f56d4fbdeb978c973ae6d88d64b216</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Payton Turner DET EDGE&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is unfortunate. Turner missed the 2025 season with a ribs injury. Now, a back injury ends his season prematurely. The Lions correspondingly signed CB Eric Scott.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; NBC Sports’ Pro Football Talk&lt;/p&gt;</description>
+      <rw:player>Payton Turner</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>EDGE</rw:position>
+      <rw:source>NBC Sports’ Pro Football Talk</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Mass Live’s Mark Daniels believes Patriots TE Hunter Henry “will be important” this year.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:40c06fe36edad9b23d4a39485326e98b3e0bdeafaef464a71094e1d282ce24dc</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Hunter Henry NE Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Daniels adds that third-round rookie TE Eli Raridon “looks the part,” but he believes Henry is “by far the team’s best tight end and once again will be a security blanket” for QB Drake Maye. Henry posted a 6/768/7 receiving line in 2025 and a 66/674/ receiving line in 2024. A similar stat line this year would be unsurprising.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mass Live&lt;/p&gt;</description>
+      <rw:player>Hunter Henry</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Mass Live</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Nate Taylor reports that the Chiefs are counting on RB Kenneth Walker to help build a “more potent offense” this season.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:385c4c058472f709a81b94e521f684b4a8044fbc95ddc8275a1171b1b50a8265</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kenneth Walker KC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chiefs coach Andy Reid and QB Patrick Mahomes believe last season’s run game failed to make defenses respect their play-action run fakes. With Walker now on board, the Chiefs believe both the run game and play-action game will improve. The staff has catered to Walker by installing more plays from under center, which Walker prefers to shotgun. “One way Walker can help transform the offense,” per Taylor, “is by becoming a true dual-threat player.” Reid believes Walker’s “receiving skills and ability to make defenders miss” will allow Reid to incorporate “one of his favorite passing concepts: the variety of plays where a play-action fake to the running back is executed before a short screen pass is thrown back to the same running back.” Walker should be expected to handle a high-end, dual-threat workload. He is a locked-in RB1 with immense upside.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ESPN&lt;/p&gt;</description>
+      <rw:player>Kenneth Walker</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>ESPN</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Boston Globe’s Christopher Price reports that Patriots RB TreVeyon Henderson (ankle) should be “good to go” for Week 1 against the Seahawks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c4289161df91949127065823afc85c5d1474847e1de5c91e6b0cf7caea63f55b</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;TreVeyon Henderson NE Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to Price, a league source indicated Henderson “avoided a serious right ankle injury when he slipped on the turf at practice earlier in the week.” Henderson is still trying to unseat RB Rhamondre Stevenson as the team’s starter and will likely continue competing for the gig in-season. Henderson, 23, possesses intriguing, explosive dual-threat traits. Drafting him may require patience early on, but the payoff could be worth it.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Christopher Price&lt;/p&gt;</description>
+      <rw:player>TreVeyon Henderson</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Christopher Price</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Athletic’s Mike DeFabo believes it is “increasingly likely” that the Steelers will waive RB Kaleb Johnson.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:82c0a56a58461ac916ec080b47cb9272cb527480f682a8842dc204200b24b048</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kaleb Johnson PIT Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Steelers’ front office spent a third-round pick on Johnson in the 2025 NFL Draft. He has drastically underperformed since then, and could probably do with a change of scenery. DeFabo also thinks that RB/WR Eli Heidenreich “is a good candidate for the practice squad.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
+      <rw:player>Kaleb Johnson</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>The Athletic</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports that the Steelers and CB Joey Porter do not “appear” to be close to a contract extension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:efe63294a8e1c0fe86bae330ec1b741d691fe24b212059c843a4008671a8a72e</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Joey Porter PIT Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Schefter notes that Porter remains on the physically unable to perform list with a back injury, yet adds that “backs are often confused with contract-itis.” He stopped short of saying that Porter is on the trade block, but reminded Pat McAfee Show viewers that the NFL’s cut-down deadline is this weekend, and that “a lot of trades” occur around this time of year. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Joey Porter</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports that the Patriots and CB Christian Gonzalez “haven’t been close” to agreeing on a contract extension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fb04ea7ff1bc08684957bde6e88da1c06d26ba867f0804281a1232629c8146c1</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Gonzalez NE Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gonzalez employs the same agent as Seahawks CB Devon Witherspoon, who recently reset the positional market at $33 million per year. According to Schefter, the Patriots have never come close to that number. The Patriots exercised Gonzalez’s fifth-year option in April, so Gonzalez has two seasons remaining on his contract. Schefter believes that if the two sides fail to agree on a new deal early in the year, it “opens up a whole range of options” next offseason, like a potential trade.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Christian Gonzalez</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Browns signed CB Mekhi Blackmon, formerly of the Colts.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:391fc5b735a3ef92ec5c4c947e63faa0054221842b717a63368ac5ed18adedf0</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mekhi Blackmon CLE Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Blackmon, 27, broke up two passes and intercepted two more last season, while also totaling 59 tackles, one quarterback pressure and one sack last season. He adds depth to the Browns’ secondary and could start, if need be.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Daniel Oyefusi&lt;/p&gt;</description>
+      <rw:player>Mekhi Blackmon</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Daniel Oyefusi</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Team reporter Will McFadden reports the Falcons could increase their number of gap- and power-style run plays, while also using RB Bijan Robinson more in the screen game this year.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3866d12c97c382fbb5a7f19a510d5731e78ac0f0a170035350658cc4b981097f</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Bijan Robinson ATL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McFadden notes that Robinson had more outside runs than any other player last season. He believes new Falcons OC Tommy Rees and new OL coach Bill Callahan are focused on diversifying the run game tactics by adding a north-south approach. He thinks Falcons running backs “should benefit from a penetrating approach oriented around getting them into second-level space quickly.” McFadden also checked in with Robinson, who said Rees is implementing new screen game concepts, derived from his time with the Browns. Last year in Cleveland, Rees’ offense racked up 413 yards via the screen game, ranking second in the NFL. Adding more ways to get Robinson the ball in space only solidifies his status as the overall RB2 in fantasy drafts this year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Atlanta Falcons&lt;/p&gt;</description>
+      <rw:player>Bijan Robinson</rw:player>
+      <rw:team>ATL</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Atlanta Falcons</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Titans team reporter Jim Wyatt reports that Thursday’s joint practice against the Bears was “arguably” WR Carnell Tate’s “best day of camp.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:17352a31d81777c99a04b5e2fddca470efed6bbcb5338aee73908f466062dd4d</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Carnell Tate TEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Wyatt notes that Tate “had been quiet in recent practices, and he still doesn’t have a catch in two preseason games.” Today’s standout showing comes at the right time. The end of the preseason is fast approaching and the first-round rookie will be asked to contribute right away this season, especially with WR Wan’Dale Robinson currently undergoing evaluation for a concussion. The Titans’ offense is still a work in progress, so producing as a WR3 could be Tate’s ceiling for quite some time. Still, today’s report is nice to read.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tennessee Titans&lt;/p&gt;</description>
+      <rw:player>Carnell Tate</rw:player>
+      <rw:team>TEN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Tennessee Titans</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Colts signed P Rigoberto Sanchez to a two-year extension through 2028.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3efcf113dfb5ee7773c3f732a731af27595ed64ea350ac2f2b95bef158253de0</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rigoberto Sanchez IND Punter&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sanchez has played for the Colts since entering the NFL as an undrafted free agent in 2017. He averaged 48.8 yards per punt last season, marking the second-longest average of his career.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; NBC Sports’ Pro Football Talk&lt;/p&gt;</description>
+      <rw:player>Rigoberto Sanchez</rw:player>
+      <rw:team>IND</rw:team>
+      <rw:position>Punter</rw:position>
+      <rw:source>NBC Sports’ Pro Football Talk</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Ringer’s Tom Pelissero reports that the Brown County District Attorney “has formally charged Packers RB Josh Jacobs with two misdemeanors related to his May arrest.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a392a87270cbb01120f8ecf58baad21698e19b387d46fa08539f893927d10038</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Josh Jacobs GB Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pelissero reminds us that Jacobs was “originally booked on five charges, including felony strangulation.” He now faces “reduced charges of misdemeanor battery and criminal damage to property.” The NFL continues to monitor all developments in the matter, which remains under review. Jacobs could end up being suspended. His backups are RB MarShawn Lloyd, who has performed well all spring and summer, and RB Chris Brooks. Lloyd should be a priority in drafts at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
+      <rw:player>Josh Jacobs</rw:player>
+      <rw:team>GB</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Tom Pelissero</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Team reporter Darren Urban reports that Cardinals QB Carson Beck (ribs) is unlikely to play in Friday’s preseason game against the Packers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c10b96490e7571fa943db7c54f388c55afe949a7878de3761bbfc95bb354b928</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Carson Beck ARI Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is unfortunate. Beck looked great before injuring his ribs in the Hall of Fame game. Per Urban, Beck has been a very limited participant in practice ever since, which is costing him valuable reps. Only starting QB Jacoby Brissett will take first-team practice reps once the regular season begins. Beck practiced the week after the injury, “struggling much of the time,” and has sat out since then. The Cardinals have an extremely difficult schedule, so a rough record could bring Beck back onto the field at some point this year. Ideally, he would have spent all of August refining his play, though. He does not need to be rostered in 12-team re-draft leagues.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Arizona Cardinals&lt;/p&gt;</description>
+      <rw:player>Carson Beck</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Arizona Cardinals</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bears OT Jedrick Wills exited practice early on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:295dfe5178e737ca8ba11ec313858656a164a1767100ccba0331e7e4838233fd</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jedrick Wills CHI Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Wills was reportedly escorted away by a member of the Bears’ training staff. The 27-year-old tackle’s career has been badly impacted by injuries. He was competing for the Bears’ starting left tackle job, but was working with the second-team offense while OT Braxton Jones worked exclusively with the first-stringers today.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Brad Biggs&lt;/p&gt;</description>
+      <rw:player>Jedrick Wills</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source>Brad Biggs</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>NBC Houston’s Aaron Wilson reports that Texans EDGE Ali Gaye suffered a “major knee injury.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3c8e7c5e0cc8a3b2552fe8aa366e4af976717a2f826c2548e121567aa8020931</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ali Gaye HOU Defensive End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Per Wilson, Gaye’s recent MRI indicates he must undergo a procedure to correct the issue and will require a long recovery time. The backup pass rusher seems unlikely to play in 2026.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
+      <rw:player>Ali Gaye</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>Defensive End</rw:position>
+      <rw:source>Aaron Wilson</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Rams acquired WR Tutu Atwell from the Dolphins in exchange for RB Jarquez Hunter.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:162296fa4336b1bbf6175700adf5ee99de82fd3f6995b4fc52958452893c261f</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tutu Atwell&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Back with his old team, Atwell is highly unlikely to warrant FLEX treatment this season, but he provides the Rams with a speed element that the offense was somewhat lacking. The move also indicates that TE Terrance Ferguson will not be asked to stretch the field as much as he did last year, freeing him up for a potential breakout campaign. Last week, The Athletic’s Nate Atkins&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Tutu Atwell</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Seahawks coach Mike Macdonald said WR Tory Horton’s (undisclosed) “injury isn’t a long-term thing.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:4bcd9b66e041509e8fc416615df0c8252b75fc07e42611a00ccd47e37bfc39c8</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tory Horton SEA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Frankly, it is tough to trust this statement. The Seahawks kept things quiet almost all offseason about Horton’s season-ending shin injury. They do not have to disclose anything until Week 1 practices begin. Were he to miss time in the regular season, WR Rashid Shaheed might be able to earn an extra target or two, operating as the team’s uncontested field stretcher.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Brady Henderson&lt;/p&gt;</description>
+      <rw:player>Tory Horton</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Brady Henderson</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Team reporter Jim Wyatt reports that Titans WR Wan’Dale Robinson is being evaluated for a concussion on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1c5e5abd0591bf846f28dbd894539a37196ef8153ca2b9f46bd5f643557810b9</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Wan&amp;#x27;Dale Robinson TEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;FOX Sports’ Ben Arthur reported earlier that Bears DB Xavier Woods “laid out Wan’Dale Robinson over the middle of the field” during today’s joint practice, which “justifiably” prompted a response from the Titans’ sideline. Titans coach Robert Saleh called the hit “cheap.” The NFL reviews practice footage when available. We’ll see if anything comes of it. Losing Robinson for Week 1 would be consequential for QB Cam Ward, and would likely shift more work toward rookie WR Carnell Tate.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jim Wyatt&lt;/p&gt;</description>
+      <rw:player>Wan'Dale Robinson</rw:player>
+      <rw:team>TEN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Jim Wyatt</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Lions coach Dan Campbell said Isiah Pacheco is dealing with a back injury in addition to his MCL sprain.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ef10664a888aeba18d415d74a874ea3fb8fca8ba92c8a34d287f7f3de050a08d</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Isiah Pacheco DET Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Campbell said the MCL injury isn’t a concern, but he still could not give reporters a definitive answer on Pacheco’s Week 1 availability. The Lions worked out Pacheco’s former teammate Kareem Hunt earlier this week. With Pacheco banged up once again, it would be surprising for the team to sign Hunt ahead of Week 1. At this point, fantasy managers can ignore Pacheco in drafts until we get a better update.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Colton Pouncy&lt;/p&gt;</description>
+      <rw:player>Isiah Pacheco</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Colton Pouncy</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bears coach Ben Johnson is dealing with a hamstring injury and did not travel with the team for their preseason finale against the Titans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:4ad8146d1ad021da482e6738aea42570e74a21f4af7b2d9eb6d14f1e9680bf27</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Gervon Dexter CHI Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NFL insider Jordan Schultz reported yesterday that the Bears have had trade discussions surrounding Dexter. Given the timing of this hamstring injury, we’ll assume it and the trade rumors are related. Dexter is entering the final year of his rookie deal and has been considerably productive for an interior pass-rusher. He has 11 sacks and 95 combined tackles over the past two seasons. A team that trades for him will likely extend him as well.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Schultz&lt;/p&gt;</description>
+      <rw:player>Gervon Dexter</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Defensive Lineman</rw:position>
+      <rw:source>Jordan Schultz</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Packers signed Jonnu Smith, formerly of the Steelers, to a one-year contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0d7d5870e41a52d95b13fd82e5f5ebb9b39fc20e5f1126b3524b42c9d0b28d61</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jonnu Smith GB Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Smith reunited with Arthur Smith in Pittsburgh last year and posted 38 catches for 222 yards and two touchdowns. Even with NFL players actively returning to college football, Jonnu was unable to find a way to follow his favorite offensive coordinator to Ohio State. All signs point to Tucker Kraft being fully recovered from his torn ACL by Week 1, but backup tight end Luke Musgrave remains sidelined with an injury of his own. Smith won’t be on the fantasy radar as long as Kraft is healthy, but he should be a solid depth option for the Packers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Schultz&lt;/p&gt;</description>
+      <rw:player>Jonnu Smith</rw:player>
+      <rw:team>GB</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Jordan Schultz</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Seahawks signed Leonard Williams to a three-year, $90 million contract extension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:89e445761e99cf1b5bdbedbd7dcaae3f2282c2fada089d35114d4d40c9add418</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Leonard Williams SEA Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;ESPN’s Jeremy Fowler was first on the news, followed by contract details from Ian Rapoport. Seattle acquired Williams from the Giants during the 2023 season. In his two full seasons as a Seahawk, Williams has totaled 18 regular season sacks plus one during the team’s postseason last year. He is now one of the five highest-paid defensive tackles on an annual basis. Williams will be under contract through the 2029 season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Leonard Williams</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Browns waived Cedric Tillman.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:af5724524ee94b77a1bfb969e491f57182ba3ffd5f9b4a9587d8a4181e8f94c0</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cedric Tillman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 2023 third-round pick will be subject to waivers. If no team claims him, Tillman will be free to sign wherever he chooses. Tillman appeared to be on the precipice of a breakout in 2024, posting 330 yards over five games in the middle of the season. An injury then knocked him out for the remainder of the year, and he failed to find much of a role in 2025. Even if he clears waivers, several teams will likely be interested in taking a flyer on Tillman after 53-man rosters start to shake out.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Cedric Tillman</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Colts activated Alec Pierce (ankle) from the active/PUP list.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:85d202987474b1f678d6dfc7ba2c832b628d6519471bb26d4aab7555fe2be67d</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Alec Pierce IND Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pierce has been on the PUP list throughout training camp as he recovers from offseason ankle surgery. Head coach Shane Steichen said earlier this week that he expects Pierce to return to practice in the coming days. Pierce was spotted getting some individual work in today. Coming off the PUP list means Pierce shouldn’t miss four games to start the season, but it doesn’t guarantee that he is ready for the season opener. His health will be one of the biggest storylines to monitor for the Colts’ offense over the next two weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Alec Pierce</rw:player>
+      <rw:team>IND</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Steelers restructured DK Metcalf’s contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a9c755900aede680eb3a62175852b8863c1c7528488c34e2c898235cc8819e61</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;DK Metcalf PIT Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s a simple restructure, converting base salary into a signing bonus. Per ESPN’s Field Yates, the move creates nearly $18 million in cap space for Pittsburgh. The transaction could be an indication that the Steelers need cap space for another move, but it’s much more likely that the team simply wants flexibility down the road. Metcalf remains signed through the 2029 season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Field Yates&lt;/p&gt;</description>
+      <rw:player>DK Metcalf</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Field Yates</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Eagles signed Tahj Washington, formerly of the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0d1cb35a0c8f47de1d064479ba9a92947067bd229c38ed817c28058006f9b395</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tahj Washington PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Philadelphia released Brandon Hayes in a corresponding move. Miami released Washington earlier this week. A 2024 seventh-round pick, Washington did not play as a rookie and appeared in six games last year. He caught three passes for 37 yards.&lt;/p&gt;</description>
+      <rw:player>Tahj Washington</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports Braden Smith suffered an injury to his plantar fascia and could miss “a few weeks.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:aafc5d98ccad4827de3529bd3f16e423d27df9662b5b2e1afef9800cbeb654c9</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Braden Smith HOU Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The good news is that, according to Schefter, the injury isn’t considered a long-term issue. It’s still unclear if Smith will be ready for Week 1. Houston signed Smith to a two-year, $25 million deal in the offseason. He was set to compete with Trent Brown for the starting right tackle job, but this could give Brown the inside track early in the year. As long as Smith is back early in the year, Houston should have the necessary tackle depth to survive this injury.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Braden Smith</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports 49ers WR Mike Evans (groin) plans to play Week 1.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:9a73256c14a08fada8252e20afb3fbee3c65f2985fe9c494abeec5b678c27ff6</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Evans has been dealing with a myriad of injuries throughout training camp, the latest being a groin issue. The injuries have been reported as minor as the 33-year-old manages his way through practices after having missed significant time due to injuries the last couple seasons. He was already expected to miss minimal time - if any - and Fowler confirms that Evans and the 49ers are still preparing for him to play Week 1.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Mike Evans</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>The NFL sent a memo saying players who return to college after being cut are ineligible to sign with an NFL team within the same year.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:be1cb7e7c37a5ee7dd237f3ba422806282f428c204b4263f2a646f154e5000de</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Roger Goodell&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The gist of it is that players can return to college if they are cut, but NFL teams cannot make advance deals with the players about returning in the following season and the players also cannot sign an NFL deal within the same season. This situation came up with undrafted rookie free agent Dae’Quan Wright, who spent the offseason with the Eagles and Browns, but is looking to return to college and play for LSU. From an NFL perspective, Wright can return to college for 2026 but cannot return to the NFL until 2027, nor can an NFL team agree to an advance deal with him to sign him in 2027. It’s a sticky situation as the NCAA figures out player eligibility but the NFL has said its piece on the matter.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Roger Goodell</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Vikings head coach Kevin O’Connell said the goal is to get QB J.J. McCarthy (ankle) ready to start preseason Week 3 against the Broncos.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:81ab1835aa7449fc09ef481e1ecb58159ec1a87f3537fe6d629b2fb9c9e6f3be</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;J.J. McCarthy MIN Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McCarthy has been limited in practice this week as he deals with a mild deltoid sprain in his ankle. Despite the injury, the Vikings want to maximize the 23-year-old’s preseason reps with Kyler Murray already locked in as the starter. It’s also possible McCarthy competes with Carson Wentz for the No. 2 quarterback spot as both players split second-team reps earlier this week. O’Connell said the team is aiming to have McCarthy ready to start against the Broncos Friday, but also added, “if we can’t get him there, we can’t get him there.” Ultimately, the ankle injury seems minor but may prevent McCarthy from seeing valuable reps as he fights to stay as the QB2 on the Vikings depth chart.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kevin Seifert&lt;/p&gt;</description>
+      <rw:player>J.J. McCarthy</rw:player>
+      <rw:team>MIN</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Kevin Seifert</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Athletic’s Jonathan Jones reports the Pro Bowl “will no longer have a standalone game.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b0f3b62ffda4fbd31789617ba22b5b7accab48dd90a3bab6d3e610d4e17e48b0</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Roger Goodell&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We’re sad to see the Pro Bowl go, but this move has been several years in the making. Players consistently opted out of the event, forcing the league to name underwhelming alternates. Those who did play rarely took the game seriously. The NFL switched to a flag football format four years ago. This alleviated some injury risk for players but further separated the declining event from traditional football. Now the league will simply award 88 players across offense, defense, and special teams with the Pro Bowl designation. An in-person celebration of the Pro Bowl roster will be held in February.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
+      <rw:player>Roger Goodell</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>The Athletic</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Cardinals coach Mike LaFleur said it’s “too early to tell” if James Conner (ankle) will play in Week 1.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8151feb75cbf553d50fa278f5b9165f0ffdf03044bb8b0d88d0981f6f857d476</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;James Conner ARI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Conner suffered a season-ending ankle injury early in the 2025 season. He avoided the PUP list to start training camp but has yet to participate in 11-on-11 drills. With the season nearly two weeks away, it certainly doesn’t look like Conner will be available for Week 1. Trey Benson is on injured reserve and Jeremiyah Love is on the mend with an ankle issue of his own. It’s possible Tyler Allgeier earns a three-down role to open the season, making him a priority target for ZeroRB drafters.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Theo Mackie&lt;/p&gt;</description>
+      <rw:player>James Conner</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Theo Mackie</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Broncos released Taylor Rapp.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e6e310841af92e5374efc81c341cf4ae48ebb37aff5ce476c1c733eb2b6b7933</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Taylor Rapp&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapp was released by the Bills during the offseason. The Broncos signed him a week ago but are choosing to go in a different direction. Rapp has 72 career starts, including six last year, and won’t turn 29 until later this year. He should be able to find a team before the start of the season, but it might not happen until after teams let their 53-man rosters shake out over the next week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zac Stevens&lt;/p&gt;</description>
+      <rw:player>Taylor Rapp</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Zac Stevens</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Broncos signed Foster Sarell, formerly of the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e93fdb1df99d78d1d181b0e7003fe577d93a6f62452cb71b73bd654445182005</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Foster Sarell DEN Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team also signed defensive tackle Israel Antwine. Foster spent the first four years of his career with the Chargers. He appeared in six games last year, including his first career start. He will be fighting for a depth role on the Broncos’ roster.&lt;/p&gt;</description>
+      <rw:player>Foster Sarell</rw:player>
+      <rw:team>DEN</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chiefs coach Andy Reid said Patrick Mahomes (knee) will not play in the team’s final preseason game against the Seahawks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:87c5efd0bdfd4348608d1e8124d08e13500a94bb33937ceee8e4f46e7ea3844f</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Patrick Mahomes KC Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mahomes will sit the entire preseason, though that shouldn’t be taken as an indication that he won’t be ready for Week 1. He suffered a torn ACL and LCL in Week 15 last year, which would normally make the 2026 opener a tight turnaround. Superstars just recover differently from other players. Mahomes has had no issues throwing or running during training camp and his absence from the preseason is likely a precautionary measure from Andy Reid and the Chiefs. We fully expect him to take on the Broncos when Week 1 rolls around.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nate Taylor&lt;/p&gt;</description>
+      <rw:player>Patrick Mahomes</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Nate Taylor</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chiefs coach Andy Reid said Kenneth Walker’s shoe caused some swelling around his ankle, but he will be fine.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6333108ecfb705ac57727a0a7417dc54940f812e01b904cb715d6970d20c0889</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kenneth Walker KC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Walker was held out of practice recently because of the issue, but this seems to be as minor as it gets. It’s safe to assume Walker will be back at practice soon, likely without any limitations. Walker has been going at the top of the second round of fantasy drafts. This little injury scare shouldn’t move that ADP in the slightest. He remains a strong RB1 bet this year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sam McDowell&lt;/p&gt;</description>
+      <rw:player>Kenneth Walker</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Sam McDowell</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Josh Downs said he is dealing with a “very minor” calf injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f3a8b0b006fd2a73006be95b8e6a7d18ad65168339237935b64ecc1474902dc5</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Josh Downs IND Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Downs is out of practice once again. He previously missed time in camp with a groin injury. Downs dealt with a slew of health issues last year and the fact that things continue to crop up is concerning, but it doesn’t sound like the latest injury will hold him out long. he told reporters he thinks he will be back soon, and the fact that he was even allowed to talk to the media is a good sign. With Alec Pierce still on the mend from offseason ankle surgery, Downs and Keenan Allen could be the team’s top receivers to start the year. As long as Downs stays healthy, he should put up WR3 fantasy numbers this season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jake Arthur&lt;/p&gt;</description>
+      <rw:player>Josh Downs</rw:player>
+      <rw:team>IND</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Jake Arthur</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Luther Burden (groin) returned for a “short, light practice” on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:88141e80e575df1f04b23e0c60f6c124f59a8bf18b632b4f35b559167f1bc385</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Luther Burden CHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Chicago Tribune’s Sean Hammond made it clear that this was the first of many steps toward a full return for Burden, but it’s still a good sign that he’s back on the field. With more than two weeks until the Bears’ first game of the season, Burden appears to be on track to play in Week 1. Burden has been going outside the top 20 wide receivers in Best Ball drafts following the injury. That buying window is likely to close as long as he doesn’t suffer any setbacks. Burden remains a high-risk, high-reward WR2 bet.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sean Hammond&lt;/p&gt;</description>
+      <rw:player>Luther Burden</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Sean Hammond</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Falcons coach Kevin Stefanski said Michael Penix (knee) will not play in the team’s final preseason game against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:322789bbf0150247d0bd3cd36efb8c30a11ee1544b7b86c8bce5adf46b0d16c2</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Michael Penix ATL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tua Tagovailoa will start versus his old team. NFL Network’s Ian Rapoport said yesterday that Tua’s horrid play throughout training camp and the preseason has made it impossible for the team to name him the Week 1 starter. Penix finally joined 11-on-11 drills this week, but his absence from the preseason contest suggests the team isn’t quite ready to put him in harm’s way. The matchup with Miami will be Tua’s final shot at winning the job.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tori McElhaney&lt;/p&gt;</description>
+      <rw:player>Michael Penix</rw:player>
+      <rw:team>ATL</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Tori McElhaney</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Athletic’s Nicki Jhabvala said the Commanders offensive line was “inoperable” during a Wednesday joint practice with the Ravens.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6f7b2faa3b29b4a9176f6b5ead5f0ca9900ad10ad6252be44f89bcd2c51fa767</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jayden Daniels WAS Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Beat writers for the Commanders were aghast at what they saw during Wednesday’s joint practice, a dominant performance for Baltimore against an overmatched Washington offensive line. This is the worst I’ve ever seen the Commanders’ offense in years,” Jhabvala said. “Inoperable offensive line.” Washington this summer lost standout LT Laremy Tunsil to a tricep injury that will keep him sidelined throughout the regular season. The Commanders on Tuesday signed free agent OT DJ Humphries. If the team’s blocking issues are not adequately addressed in the coming weeks, it could be bad news for Jayden Daniels and the rest of the Commanders’ fantasy-relevant players. Last year Washington ranked 18th in pass blocking win rate and 21st in run blocking win rate.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; NickiJ habvala&lt;/p&gt;</description>
+      <rw:player>Jayden Daniels</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>NickiJ habvala</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Packers general manager Brian Gutekunst said the team has been “preparing” in case Josh Jacobs is suspended.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:7012cf8106b0fcbe0bec06798bf0813fdfe2fc86415943b5b2c5f9ccf294a6e5</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Josh Jacobs GB Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“We’ve obviously been preparing for that in case that happens,” Gutekunst said when asked about Jacobs, who in May was arrested on domestic abuse charges. “But at the same time, I feel really good about the guys we have in that room.” ESPN’s Adam Schefter said in August that the league would likely suspend Jacobs, though the length of the suspension had yet to be determined. MarShawn Lloyd would likely function as Green Bay’s lead back if Jacobs — who’s dealing with a lingering groin issue — misses regular season games. The oft-injured Lloyd has stayed healthy this offseason and has reportedly run well in training camp and joint practices. In last week’s preseason game against Denver, Lloyd played on 5-of-7 snaps during the first drive with the team’s starters.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jason Hirschhorn&lt;/p&gt;</description>
+      <rw:player>Josh Jacobs</rw:player>
+      <rw:team>GB</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Jason Hirschhorn</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jets offensive coordinator Frank Reich said he’s been “so impressed” with Geno Smith’s play.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:aa7d00fcee935ba4b07e54d0b264013f8bcdbc3e6fd1b7e0fad925556d83f73c</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Geno Smith NYJ Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Reich has reportedly added wrinkles to the offense he deployed as head coach of the Colts and Panthers. At both of those stops his offenses were near the bottom of the league in most basic offensive metrics. Smith, meanwhile, has looked sharp as the team’s starting quarterback throughout training camp and in limited preseason snaps. He’ll look to bounce back from a nightmarish statistical 2025 season in Vegas. Jets players, including Garrett Wilson, told The Athletic that they have enjoyed the “player empowerment” that comes along with Reich’s coaching style and his offensive scheming, which leaves room for improvisation. The Jets offense could be functional as long as Smith, 35, is healthy and upright.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
+      <rw:player>Geno Smith</rw:player>
+      <rw:team>NYJ</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>The Athletic</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Packers head coach Matt LaFleur said Tucker Kraft (knee) will participate in Wednesday’s joint practice with the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e8f4cc80ab997f50e63999ff527e0b348bba2930c24194df0191691e5fa9f81f</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tucker Kraft GB Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It looks like the Packers are ready to ease Kraft back into competition following the serious knee injury that ended his 2025 season. Kraft said recently that the team would “probably” keep him on a snap count to begin the regular season. That would make Kraft — one of the game’s most efficient tight ends — a dicy bet for fantasy purposes. Kraft might not be playable for the first month of the regular season, or even longer depending on his progress and the Packers’ strategies for keeping him healthy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
+      <rw:player>Tucker Kraft</rw:player>
+      <rw:team>GB</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Rob Demovsky</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Texans RT Braden Smith was carted off during Wednesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:9026d69c0f910dbc344a339fc9e0bb73e3ebf79bee7d28d14b0325996a5265af</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Braden Smith HOU Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Smith reportedly suffered a serious lower body injury during a joint practice with the Panthers. His loss would be significant for the Texans after Smith this offseason signed a two-year deal worth $20 million with Houston. The Texans last season had one of the NFL’s worst offensive lines, ranking 30th in pass blocking win rate and 32nd in run blocking win rate.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ari Mierov&lt;/p&gt;</description>
+      <rw:player>Braden Smith</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source>Ari Mierov</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports Bucs EDGE Reuben Bain Jr. suffered a shoulder sprain.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:4872a8c2cdf5e10b95690249c59c02d76d6122e49ad892bc967704432d7f198b</guid>
       <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Rueben Bain TB Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Schefter said Bain, the 15th pick in the 2026 NFL Draft, should be ready to go for Week 1 against the Bengals. Bain has wowed Bucs coaches and beat writers throughout the summer with his work ethic and intensity and should be a key part of a Tampa defense that struggled through parts of the 2025 season, allowing the league’s 11th highest offensive success rate. The Bucs ranked last in QB pressure rate last season. That should change with Bain in the lineup.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
       <rw:player>Rueben Bain</rw:player>
@@ -160,6 +784,19 @@
       <rw:source>Katherine Terrell</rw:source>
       <rw:author />
       <rw:date>Aug 25, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports Bucs LB Reuben Bain Jr. suffered a shoulder sprain.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:80af8f8664a48019648da4562a8d9127fa4d08cefbabcaf884fd38dd869a64a7</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rueben Bain TB Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Schefter said Bain, the 15th pick in the 2026 NFL Draft, should be ready to go for Week 1 against the Bengals. Bain has wowed Bucs coaches and beat writers throughout the summer with his work ethic and intensity and should be a key part of a Tampa defense that struggled through parts of the 2025 season, allowing the league’s 11th highest offensive success rate. The Bucs ranked last in QB pressure rate last season. That should change with Bain in the lineup.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Rueben Bain</rw:player>
+      <rw:team>TB</rw:team>
+      <rw:position>Outside Linebacker</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
     </item>
     <item>
       <title>Jets special teams coordinator Chris Banjo said Jason Sanders has won the team’s kicking job.</title>

@@ -4,11 +4,50 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 01:28:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:25:48 +0000</lastBuildDate>
     <item>
-      <title>49ers RB Kaelon Black rushed four times for 28 yards in Friday’s preseason game against the Raiders.</title>
+      <title>Bills WR Skyler Bell caught 7-of-10 targets for 49 yards in Thursday’s preseason game against the Steelers, adding one carry for 28 yards and one touchdown.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2e150a5e2d326e1cdddd00f2ffc0d723d226e7a58bd56110498aef8e0fe0039a</guid>
+      <guid isPermaLink="false">urn:sha256:5cb07106c3eba7c3d2cd66428002194ada64f0837883481ef6a34fea5de70a0b</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Skyler Bell BUF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A groin injury sidelined Bell for most of August. The coaching staff evidently wanted to get him up to speed. He played into the fourth quarter this evening. The Bills’ fourth-round rookie ran fantasy-friendly crossing routes against the Steelers this, hauling in a 16-yard pass on one such play. Tonight’s starting QB Shane Buechele badly overthrew him on another, but the two continued honing their connection all night. Bell scored a 28-yard touchdown on an end-around, speeding past defenders en route to the end zone. Bell does not need to be rostered in 12-team leagues, but the intriguing prospect could end up being a worthwhile waiver wire add in-season.&lt;/p&gt;</description>
+      <rw:player>Skyler Bell</rw:player>
+      <rw:team>BUF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Patriots WR Kyle Williams caught 2-of-2 targets for 55 yards and one touchdown in Thursday’s preseason game against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:07c6d23a3d9b5781f4d9eb529e27f81909592e1835661c765b844251a9142938</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kyle Williams NE Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is the performance Williams needed to have following WR Kayshon Boutte’s trade to the Texans. The Patriots still have a crowded wide receiver room, but at least one competitor has been removed from the equation. Williams delivered a 10-yard catch on a curl route on the Patriots’ third play from scrimmage. Three plays later, he shook his defender at the line of scrimmage and took off down the left sideline. He hauled in the pass from QB Tommy DeVito in stride and waltzed into the end zone for a 45-yard score. Williams does not yet need to be drafted in 12-team leagues, vying for the third wide receiver spot on the Patriots’ depth chart. He could be a worthwhile waiver wire add early on, though.&lt;/p&gt;</description>
+      <rw:player>Kyle Williams</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Raiders QB Kirk Cousins completed 8-of-11 passes for 51 yards in Thursday’s preseason game against the 49ers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f03360180c10e7c891571acc97e6a07c0b81626f42bf9509608c4f3323db06d3</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kirk Cousins LV Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Raiders coach Klint Kubiak declined to name a starting quarterback last week, but Cousins certainly received starter treatment this evening. He played two series, along with the Raiders’ other starters, before being subbed out for QB Fernando Mendoza. The rookie quarterback is playing well. He shares fault with WR Jalen Nailor for the interception. The throw was late, and Nailor tipped it to a 49ers defender. The 49ers’ pass rush also got home a few times against Mendoza as well. Cousins looks like the early-season starter at this time, but stashing Mendoza on benches in superflex leagues could eventually pay off.&lt;/p&gt;</description>
+      <rw:player>Kirk Cousins</rw:player>
+      <rw:team>LV</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers RB Kaelon Black rushed four times for 28 yards in Thursday’s preseason game against the Raiders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:57fe47ba778b92f96f9ccfd404a7aa88e475f67e4d3674b5d6831b1f7d4a13ae</guid>
       <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Kaelon Black SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Black had a nice run to the right side of the field before subbing out, which ultimately required him to spin over the top of the camera stand positioned awkwardly on the sideline. He seemingly escaped without injury and, most importantly, took 12-of-12 possible snaps on the first three drives. Black is the 49ers’ running back to stash on fantasy benches. Fellow RB Jordan James has recovered from the fractured rib he suffered late in July, but the time he missed in August has him behind Black on the depth chart.&lt;/p&gt;</description>
       <rw:player>Kaelon Black</rw:player>
@@ -487,19 +526,6 @@
       <rw:date>Aug 26, 2026</rw:date>
     </item>
     <item>
-      <title>Broncos signed Foster Sarell, formerly of the Chargers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e93fdb1df99d78d1d181b0e7003fe577d93a6f62452cb71b73bd654445182005</guid>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Foster Sarell DEN Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team also signed defensive tackle Israel Antwine. Foster spent the first four years of his career with the Chargers. He appeared in six games last year, including his first career start. He will be fighting for a depth role on the Broncos’ roster.&lt;/p&gt;</description>
-      <rw:player>Foster Sarell</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 26, 2026</rw:date>
-    </item>
-    <item>
       <title>Chiefs coach Andy Reid said Patrick Mahomes (knee) will not play in the team’s final preseason game against the Seahawks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:87c5efd0bdfd4348608d1e8124d08e13500a94bb33937ceee8e4f46e7ea3844f</guid>
@@ -745,6 +771,32 @@
       <rw:source>Nick Wagoner</rw:source>
       <rw:author />
       <rw:date>Aug 25, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers RB Kaelon Black rushed four times for 28 yards in Friday’s preseason game against the Raiders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2e150a5e2d326e1cdddd00f2ffc0d723d226e7a58bd56110498aef8e0fe0039a</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kaelon Black SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Black had a nice run to the right side of the field before subbing out, which ultimately required him to spin over the top of the camera stand positioned awkwardly on the sideline. He seemingly escaped without injury and, most importantly, took 12-of-12 possible snaps on the first three drives. Black is the 49ers’ running back to stash on fantasy benches. Fellow RB Jordan James has recovered from the fractured rib he suffered late in July, but the time he missed in August has him behind Black on the depth chart.&lt;/p&gt;</description>
+      <rw:player>Kaelon Black</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Broncos signed Foster Sarell, formerly of the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e93fdb1df99d78d1d181b0e7003fe577d93a6f62452cb71b73bd654445182005</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Foster Sarell DEN Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team also signed defensive tackle Israel Antwine. Foster spent the first four years of his career with the Chargers. He appeared in six games last year, including his first career start. He will be fighting for a depth role on the Broncos’ roster.&lt;/p&gt;</description>
+      <rw:player>Foster Sarell</rw:player>
+      <rw:team>DEN</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 26, 2026</rw:date>
     </item>
     <item>
       <title>Seahawks placed S Bud Clark (ankle) on season-ending injured reserve.</title>

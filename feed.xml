@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 21:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:57:37 +0000</lastBuildDate>
     <item>
       <title>The Athletic’s Paul Dehner Jr. reports, “any doubt about” Bengals DT Dexter Lawrence’s “condition and impact evaporated from the first 11-on-11 session of camp.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -526,6 +526,19 @@
       <rw:date>Aug 27, 2026</rw:date>
     </item>
     <item>
+      <title>Bears OT Jedrick Wills exited practice early on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:295dfe5178e737ca8ba11ec313858656a164a1767100ccba0331e7e4838233fd</guid>
+      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jedrick Wills CHI Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Wills was reportedly escorted away by a member of the Bears’ training staff. The 27-year-old tackle’s career has been badly impacted by injuries. He was competing for the Bears’ starting left tackle job, but was working with the second-team offense while OT Braxton Jones worked exclusively with the first-stringers today.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Brad Biggs&lt;/p&gt;</description>
+      <rw:player>Jedrick Wills</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source>Brad Biggs</rw:source>
+      <rw:author />
+      <rw:date>Aug 27, 2026</rw:date>
+    </item>
+    <item>
       <title>NBC Houston’s Aaron Wilson reports that Texans EDGE Ali Gaye suffered a “major knee injury.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:3c8e7c5e0cc8a3b2552fe8aa366e4af976717a2f826c2548e121567aa8020931</guid>
@@ -782,19 +795,6 @@
       <rw:team>LV</rw:team>
       <rw:position>Quarterback</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Aug 27, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bears OT Jedrick Wills exited practice early on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:295dfe5178e737ca8ba11ec313858656a164a1767100ccba0331e7e4838233fd</guid>
-      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jedrick Wills CHI Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Wills was reportedly escorted away by a member of the Bears’ training staff. The 27-year-old tackle’s career has been badly impacted by injuries. He was competing for the Bears’ starting left tackle job, but was working with the second-team offense while OT Braxton Jones worked exclusively with the first-stringers today.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Brad Biggs&lt;/p&gt;</description>
-      <rw:player>Jedrick Wills</rw:player>
-      <rw:team>CHI</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source>Brad Biggs</rw:source>
       <rw:author />
       <rw:date>Aug 27, 2026</rw:date>
     </item>

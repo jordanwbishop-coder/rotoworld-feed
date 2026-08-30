@@ -4,11 +4,128 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 21:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:05:48 +0000</lastBuildDate>
     <item>
-      <title>NFL Network’s Ian Rapoport reports Dolphins traded QB Quinn Ewers to the Jaguars for a 2028 pick swap.</title>
+      <title>Texans released QB Brett Rypien.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ab999a9476e01085d370359d24df8729378c376aaa898e8175e54afc654a67f7</guid>
+      <guid isPermaLink="false">urn:sha256:1d23466f9fdefacd11ac870f56cca219fd720512cd8913ba1a8e6de828662523</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Brett Rypien&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rypien was signed shortly after Graham Mertz suffered a torn ACL in the middle of August. The 30-year-old seems likely to make the practice squad, unless Houston finds a signal-caller they like more for that spot.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <rw:player>Brett Rypien</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author>Christopher Crawford</rw:author>
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports that the Saints are keeping Spencer Rattler despite trade interest.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fa464e8f61740e48b35378072e30c73723b94edca24d17d6087967440f634d5b</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Spencer Rattler NO Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rattler will remain the backup signal-caller behind Tyler Shough, it appears. The 25-year-old showed some flashes — short flashes, but flashes — when operating as the starter with New Orleans, but it’s hard to see him being more than a depth option going forward.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <rw:player>Spencer Rattler</rw:player>
+      <rw:team>NO</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author>Christopher Crawford</rw:author>
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Saints waived DE Malakai Williams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:898523b43b3454ef20c2021a6cb47e6c66c3d4855d9f96453ed5d619eae7e2a1</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Malakai Williams&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team waived or released 10 players ahead of Sunday’s roster cut deadline, including WR Ronnie Bell, S Elliott Davison, EDGE Garrett Nelson, DL Brien Taylor, OT Xavier Truss, QB Hunter Dekkers, WR Bub Means, TE Zaire Mitchell-Paden, DE Khalil Saunders, and DE Malakai Williams. The team will need to trim further Sunday.&lt;/p&gt;</description>
+      <rw:player>Malakai Williams</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Saints waived/released WR Ronnie Bell, S Elliott Davison, QB Hunter Dekkers, WR Bub Means, TE Zaire Mitchell-Paden, EDGE Garrett Nelson, DL Khalil Saunders,, DE Brien Taylor, T/G Xavier Truss and EDGE Malakai Williams</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:74c6ff537680c3742cf195a30ffb01750858fdf8540253e1fd39b81dbf0ad14c</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ronnie Bell&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Means was a fifth-round pick who showed some potential fantasy intrigue coming out of Pitt in 2024, but it hasn’t worked out. The same can be said for Bell. Both players and Dekkers are candidates for the practice squad. Everyone is a candidate for the practice squad, to be fair.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <rw:player>Ronnie Bell</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author>Christopher Crawford</rw:author>
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Falcons waived/released OT Andrew Stueber, WR Keelan Marion, DT Devonnsha Maxwell, LB Daveren Rayner, OG Jaeden Roberts, TE Joshua Simon and DB Keidron Smith.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2d357c7ff731de8b9e634fb0f53a5257ff21b78c1c205c21f1d1713dd3f78a40</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Andrew Stueber&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s an extremely low-wattage list as the Falcons work to get down to 53 players. 27-year-old Stueber has not appeared in a regular season game since 2024 in Cincinnati.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Josh Kendall&lt;/p&gt;</description>
+      <rw:player>Andrew Stueber</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Josh Kendall</rw:source>
+      <rw:author />
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Panthers waived/released WR Dan Chisena, DT Kyon Barrs, WR Elijah Cooks, RB Miles Davis, DT Tywone Malone, TE Caden Prieskorn, WR Roc Taylor, and OL Ryan Hayes.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:16341fa4bc68ac395dd67cf8c2f16ab6d4aa08562eadac6f91c049305c9dfc59</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dan Chisena&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A linchpin NFL special teamer since 2020, Chisena had been with the Panthers since 2024. He made only seven regular season appearances in Charlotte, suggesting he might ultimately be a poor bet to land back on the 53-man roster this year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Alex Zietlow&lt;/p&gt;</description>
+      <rw:player>Dan Chisena</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Alex Zietlow</rw:source>
+      <rw:author />
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Giants waived/released WR Isaiah Hodgins, RB Damon Bankston, WR Kobe Prentice, TE Josiah Deguara, OL Brenden Jaimesl, DL Leki Fotu, LB Anfernee Orji and CB Ugo Amadi.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1ec27060b1d40279dbdea0db0e62aa4b1d68d78981aa472c41bb76295a706626</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Isaiah Hodgins&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;27-year-old Hodgins has found himself on the periphery of the G-Men’s 53-man roster since 2022, making 35 appearances during that timespan. He provided some crucial snaps for an undermanned receiver corps but never did quite enough to crack the targets rotation. He could end up back on New York’s practice squad, though those odds are decreased by this being a new coaching staff.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Dan Duggan&lt;/p&gt;</description>
+      <rw:player>Isaiah Hodgins</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Dan Duggan</rw:source>
+      <rw:author />
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jets waived DT Mazi Smith.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e78fead35051b33a2ebb21182b7697f41c27b11801cb7b49e4a272b4cee65fdc</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mazi Smith&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Smith was one of the key pieces in the trade that sent Quinnen Williams to Dallas. The Jets declined his fifth-year option in April before eventually releasing him at final roster cuts. Smith graded as one of the worst defensive linemen in the league in 2025, per Pro Football Focus, and will likely be forced to settle for a depth role moving forward.&lt;/p&gt;</description>
+      <rw:player>Mazi Smith</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Steelers traded OT Broderick Jones to the Cowboys.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fff46541b789ea8fb68246bfae06632b7af24fafa19eddcc0e52acbd5a945eb3</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Broderick Jones DAL OFFENSIVE TACKLE (SUB)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The former first-round pick has significantly underperformed his high draft capital during his four-year professional career but provides an upside-depth piece for a Cowboys team returning all five starters along the offensive line from a season ago. Jones now presumably settles in behind Terence Steele on the right side in Dallas. The remaining details of the deal were not immediately made available.&lt;/p&gt;</description>
+      <rw:player>Broderick Jones</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>OFFENSIVE TACKLE (SUB)</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports Dolphins traded QB Quinn Ewers to the Jaguars for a 2028 sixth-round pick.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b15b72620d5ce9e3d283633a670129dd8d56e83a02882af94117800069304fc9</guid>
       <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Quinn Ewers&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ewers appeared in four games for the Dolphins during his rookie season, three of which were starts, and provides the ability to grow into Trevor Lawrence’s direct backup in 2026. While the details of the acquisition were not immediately made available, the deal appears to be a win-win for both sides considering the Dolphins currently find themselves in the midst of a multi-year rebuild.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
       <rw:player>Quinn Ewers</rw:player>
@@ -41,19 +158,6 @@
       <rw:team>CHI</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>Brad Biggs</rw:source>
-      <rw:author />
-      <rw:date>Aug 29, 2026</rw:date>
-    </item>
-    <item>
-      <title>Panthers agreed to terms with LB Bobby Okereke.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1b88d6d0f4946a0a31633bbfdcb3d7b09beace2bc33612dea103d7645fd0b881</guid>
-      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Bobby Okereke CAR Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The seven-year veteran last played for the Giants but was released early in the offseason. Okereke performed admirably in both pass defense and on the pass rush but struggled against the run in 2025, likely now set to fill a rotational role for a Panthers defense that completely re-tooled the interior of their second level. The financial details of the contract were not immediately made available.&lt;/p&gt;</description>
-      <rw:player>Bobby Okereke</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Linebacker</rw:position>
-      <rw:source />
       <rw:author />
       <rw:date>Aug 29, 2026</rw:date>
     </item>
@@ -147,19 +251,6 @@
       <rw:source>Ian Rapoport</rw:source>
       <rw:author />
       <rw:date>Aug 29, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cyrus Allen caught 1-of-2 targets for 12 yards in the Chiefs’ preseason game against the Seahawks.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d4cb108b7f7399cc5c06760d6940727eb241545117495e3b54a8d4306671ec33</guid>
-      <pubDate>Fri, 28 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cyrus Allen KC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Chiefs let most of their starters take the field in this game and Allen wasn’t among them. He didn’t see a snap until after Rashee Rice, Xavier Worthy, and Tyquan Thornton had all left the contest. His first target didn’t come until the third quarter, and it was a drop on a high throw. The rookie rebounded with a 12-yard gain for a first down on the very next play. After playing well into the second half of the team’s final preseason game, Allen is, at best, the Chiefs’ WR4 entering the season. Despite the strong training camp, he shouldn’t be in starting fantasy lineups for Week 1.&lt;/p&gt;</description>
-      <rw:player>Cyrus Allen</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 28, 2026</rw:date>
     </item>
     <item>
       <title>Odell Beckham caught 3-of-6 targets for 53 yards in the Giants’ preseason game against the Jets.</title>
@@ -288,19 +379,6 @@
       <rw:team>PHI</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Aug 28, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bengals WR Dohnte Meyers caught 3-of-3 targets for 51 yards in Friday’s preseason game against the Eagles.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b9ae87aeaaa1b38585f0a50e486490b107efb101c8a641541732cc6f64cc822d</guid>
-      <pubDate>Fri, 28 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Dohnte Meyers CIN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Meyers seemingly has the No. 4 wide receiver job locked up. On the first drive, he hauled in three passes. He bagged a nine-yard pass on an in-breaking route from the slot on the first, a 17-yard pass via a corner route from the slot and a 25-yard gain on the following play. The Athletic’s Paul Dehner Jr. labeled Meyers a “roster lock,” saying at first a special teams returner role seemed to be Meyers’ ticket to a roster spot, but “the consistency of his playmaking at every turn of camp and the preseason made him undeniable.” He ran with the first-team offense in practice this week, and Bengals wide receivers coach Troy Walters said, “he can play all three positions.” File Meyers’ name away for down the road.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
-      <rw:player>Dohnte Meyers</rw:player>
-      <rw:team>CIN</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>The Athletic</rw:source>
       <rw:author />
       <rw:date>Aug 28, 2026</rw:date>
     </item>
@@ -665,6 +743,58 @@
       <rw:team>NYG</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>ESPN</rw:source>
+      <rw:author />
+      <rw:date>Aug 28, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports Dolphins traded QB Quinn Ewers to the Jaguars for a 2028 pick swap.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ab999a9476e01085d370359d24df8729378c376aaa898e8175e54afc654a67f7</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Quinn Ewers&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ewers appeared in four games for the Dolphins during his rookie season, three of which were starts, and provides the ability to grow into Trevor Lawrence’s direct backup in 2026. While the details of the acquisition were not immediately made available, the deal appears to be a win-win for both sides considering the Dolphins currently find themselves in the midst of a multi-year rebuild.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Quinn Ewers</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Panthers agreed to terms with LB Bobby Okereke.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1b88d6d0f4946a0a31633bbfdcb3d7b09beace2bc33612dea103d7645fd0b881</guid>
+      <pubDate>Sat, 29 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Bobby Okereke CAR Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The seven-year veteran last played for the Giants but was released early in the offseason. Okereke performed admirably in both pass defense and on the pass rush but struggled against the run in 2025, likely now set to fill a rotational role for a Panthers defense that completely re-tooled the interior of their second level. The financial details of the contract were not immediately made available.&lt;/p&gt;</description>
+      <rw:player>Bobby Okereke</rw:player>
+      <rw:team>CAR</rw:team>
+      <rw:position>Linebacker</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Cyrus Allen caught 1-of-2 targets for 12 yards in the Chiefs’ preseason game against the Seahawks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d4cb108b7f7399cc5c06760d6940727eb241545117495e3b54a8d4306671ec33</guid>
+      <pubDate>Fri, 28 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cyrus Allen KC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Chiefs let most of their starters take the field in this game and Allen wasn’t among them. He didn’t see a snap until after Rashee Rice, Xavier Worthy, and Tyquan Thornton had all left the contest. His first target didn’t come until the third quarter, and it was a drop on a high throw. The rookie rebounded with a 12-yard gain for a first down on the very next play. After playing well into the second half of the team’s final preseason game, Allen is, at best, the Chiefs’ WR4 entering the season. Despite the strong training camp, he shouldn’t be in starting fantasy lineups for Week 1.&lt;/p&gt;</description>
+      <rw:player>Cyrus Allen</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 28, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bengals WR Dohnte Meyers caught 3-of-3 targets for 51 yards in Friday’s preseason game against the Eagles.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b9ae87aeaaa1b38585f0a50e486490b107efb101c8a641541732cc6f64cc822d</guid>
+      <pubDate>Fri, 28 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dohnte Meyers CIN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Meyers seemingly has the No. 4 wide receiver job locked up. On the first drive, he hauled in three passes. He bagged a nine-yard pass on an in-breaking route from the slot on the first, a 17-yard pass via a corner route from the slot and a 25-yard gain on the following play. The Athletic’s Paul Dehner Jr. labeled Meyers a “roster lock,” saying at first a special teams returner role seemed to be Meyers’ ticket to a roster spot, but “the consistency of his playmaking at every turn of camp and the preseason made him undeniable.” He ran with the first-team offense in practice this week, and Bengals wide receivers coach Troy Walters said, “he can play all three positions.” File Meyers’ name away for down the road.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
+      <rw:player>Dohnte Meyers</rw:player>
+      <rw:team>CIN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>The Athletic</rw:source>
       <rw:author />
       <rw:date>Aug 28, 2026</rw:date>
     </item>
@@ -6372,136 +6502,6 @@
       <rw:team>BUF</rw:team>
       <rw:position>Defensive Tackle</rw:position>
       <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL suspended Titans DB Nazeeh Johnson for the first six games of the regular season.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:209e0d03b376d7109aca97c4e47847f823c0751b5947e1b59fcf64b61642d0a4</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Nazeeh Johnson TEN Defensive Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Johnson was found to have violated the Performance Enhancing Drug Policy. He signed with the Titans this offseason after appearing in one game for the Chiefs last year. He is likely to play a backup role in Tennessee this year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
-      <rw:player>Nazeeh Johnson</rw:player>
-      <rw:team>TEN</rw:team>
-      <rw:position>Defensive Back</rw:position>
-      <rw:source>Mike Garafolo</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Athletic’s Nicki Jhabvala reports that the NFL suspended Commanders DE Dorance Armstrong for the first game of the regular season.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:3d89345340b38c7add964031f711069ea37db9619a55e9ab1919536286c66ffa</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Dorance Armstrong WAS Defensive End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The league has ruled that Armstrong violated the league’s Personal Conduct Policy. Armstrong, 29, suffered a season-ending knee injury in October last year. He currently projects as a rotational edge rusher in Washington.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nicki Jhabvala&lt;/p&gt;</description>
-      <rw:player>Dorance Armstrong</rw:player>
-      <rw:team>WAS</rw:team>
-      <rw:position>Defensive End</rw:position>
-      <rw:source>Nicki Jhabvala</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Packers coach Matt LaFleur said RB Josh Jacobs (groin) could “potentially” resume practicing late next week.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:6df6e00d91ff9477a2b54c0560ec428c8c6b6396e47ec46de5b50d8544b0c922</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Josh Jacobs GB Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jacobs has been sidelined since August 6th and still faces a possible suspension from the NFL if the league determines that he violated the Personal Conduct Policy. He is still the starting running back in what has been an efficient offense, but 28-year-old running backs have certainly enjoyed better circumstances in the lead-up to a new season. He makes for a risky RB2 candidate at the moment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
-      <rw:player>Josh Jacobs</rw:player>
-      <rw:team>GB</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Rob Demovsky</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Marc Raimondi reports that the NFL suspended Falcons EDGE James Pearce for the first eight regular season games.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:86a666149b09ab71a184ded40bfdec5cfc5503d431ce048d8322bde4ac091373</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;James Pearce ATL Defensive End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The NFL determined that Pearce violated the league’s Personal Conduct Policy. He will be suspended without pay, but is allowed to participate in all preseason activities, including games. The suspension begins on August 30th, and he will be eligible for reinstatement on November 2nd. The Falcons go on bye in Week 11, so Week 9 marks his earliest possible return to the field. Pearce was arrested in February and initially charged with three felonies and one misdemeanor, including aggravated battery with a deadly weapon, fleeing and eluding police, and resisting an officer with violence to his or her person.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Marc Raimondi&lt;/p&gt;</description>
-      <rw:player>James Pearce</rw:player>
-      <rw:team>ATL</rw:team>
-      <rw:position>Defensive End</rw:position>
-      <rw:source>Marc Raimondi</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport said that the 49ers “are pretty excited about WR De’Zhaun Stribling” after Thursday’s preseason performance.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:28e5619b4f4c37fb5efbaf871a29e50d8a83fbc81e99b0803a31dd53cdd63839</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;De&amp;#x27;Zhaun Stribling SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapoport adds that Stribling’s “ability to catch basically everything has impressed.” The second-round rookie has soared since draft season. Once discussed as some film analysts’ preferred Day 1/2 options, Stribling now projects as a potentially reliable starter in the 49ers’ banged-up pass-catching corps.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>De'Zhaun Stribling</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Seahawks RB Jadarian Price (upper-leg soreness) participated in Friday’s walkthrough “after missing five of the previous six practices.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:92eb21348fba14615ac251763ffb37728b7176429731cf5d2ba821a2fe88774c</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jadarian Price SEA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This comes from The News Tribune’s Gregg Bell, who may be correcting the record on Price’s ailment. Price’s soreness has variously been reported as lower-body soreness, leg soreness, upper-body soreness and now upper-leg soreness. The young man has certainly been sore, and the upper-body report is not like the others. A leg issue is seemingly the most likely answer. Regardless, the Seahawks play their first preseason game tomorrow. Bell previously said it “doesn’t sound like” Price will be active, and today he emphasized that this was just a “light” walkthrough. If Price suits up, we might gain a little insight into the Seahawks’ intended running back rotation. If not, we will have to wait until the following week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Gregg Bell&lt;/p&gt;</description>
-      <rw:player>Jadarian Price</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Gregg Bell</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Saints HC Kellen Moore said Jordyn Tyson is dealing with a right hamstring injury.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ea84a19928d8e62abbac7df0671cc0a9eecf1ef5a50048594a2790a0a40437b7</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jordyn Tyson NO Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to Moore, this is not related to the previous hamstring injuries Tyson has dealt with, and the team is gathering more information before determining a recovery timeline. Moore also said the possibility of Tyson missing Week 1 can’t be ruled out. It’s not exactly encouraging news, but we’re holding out hope that, at worst, this is a short-term absence for Tyson, whose pre-draft process was hampered by hamstring injuries. Tyson profiles as a decent WR3 play in fantasy if/when he is on the field this season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Triplett&lt;/p&gt;</description>
-      <rw:player>Jordyn Tyson</rw:player>
-      <rw:team>NO</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Mike Triplett</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Raiders HC Klint Kubiak said he expects Dont’e Thornton (undisclosed) to return at some point in the preseason.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:0b105bd73a83fd1b85a2d800f04780ccb1c0a91eebb1492e70f68099b424b24e</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Dont&amp;#x27;e Thornton LV Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Thornton has missed nearly a whole week of practice, paving the way for Jack Bech and rookie Malik Benson to see more reps. Kubiak said Thornton has “been banged up a little bit” this training camp, but did not go into further detail on his situation. Thornton caught 10 passes for 135 scoreless yards last season after generating plenty of camp hype. He is not on the fantasy radar at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ryan McFadden&lt;/p&gt;</description>
-      <rw:player>Dont'e Thornton</rw:player>
-      <rw:team>LV</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Ryan McFadden</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Raiders HC Klint Kubiak said “all three (QBs) deserve first team reps” this week after Thursday’s preseason game against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ddcf4a4297928bb9d0c16db51a3f2b7c264173fa6960abd56c7a83b0016cf0ec</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fernando Mendoza LV Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kubiak didn’t come right out and say Mendoza could see more first-team reps, but it feels like things are trending that way. His response came after he was asked if Mendoza specifically deserved more first-team reps after a nice outing in his first taste of preseason action, to which Kubiak said the team will put together a plan to ensure all three QBs get first-team reps, which feels somewhat evasive and unrealistic, given that we know career backup Aidan O’Connell isn’t contending for a starting job in camp. Kubiak went on record after Thursday’s game, saying that the battle for QB1 remains Kirk Cousins’ to lose. It wouldn’t be surprising if Mendoza did see more first-team reps in the coming days, but we would be surprised if O’Connell began working in with the first team. That said, it will be worth monitoring Mendoza’s first-team reps going forward, as he could still push Cousins for the starting role before Week 1.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ryan McFadden&lt;/p&gt;</description>
-      <rw:player>Fernando Mendoza</rw:player>
-      <rw:team>LV</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Ryan McFadden</rw:source>
-      <rw:author />
-      <rw:date>Aug 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cardinals HC Mike LaFleur said he has ‘no concern’ over the rib injury that sidelined Carson Beck in Thursday’s preseason game against the Raiders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7c7a9aa10a0ffc699b07ae45fbff3bec007c0ef903555f76ebf91a827a355680</guid>
-      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Carson Beck ARI Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;LaFleur said Beck would have been well enough to throw if it were seven-on-seven drills, adding that the team “didn’t want to risk it” when it came to starting the rookie in Thursday’s preseason game. Beck already has some preseason experience under his belt. He threw for 188 yards and a touchdown in the Hall of Fame Game last week against the Panthers and will hopefully have a chance to suit up in next week’s preseason game against the Cowboys on Saturday.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ProFootballTalk on NBCSports.com&lt;/p&gt;</description>
-      <rw:player>Carson Beck</rw:player>
-      <rw:team>ARI</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>ProFootballTalk on NBCSports.com</rw:source>
       <rw:author />
       <rw:date>Aug 14, 2026</rw:date>
     </item>

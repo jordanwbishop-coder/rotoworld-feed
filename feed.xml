@@ -4,7 +4,46 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:38:03 +0000</lastBuildDate>
+    <item>
+      <title>Eagles beat writer EJ Smith reports a reunion with TE Zach Ertz (knee) is on the table.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d6ca227ac70e49f94ed0bb4a628ed98de470b986c8ca8b6824b07f85634f88ae</guid>
+      <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Zach Ertz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ertz is on the mend after tearing his ACL last year. While nothing is imminent, Ertz could make sense for the Eagles current tight end room. Philadelphia is lacking in legitimate receiving options behind Dallas Goedart despite keeping four tight ends on their initial 53-man roster. Ertz turns 36 in November and is unlikely to be a fantasy factor at this point in his career, but could still be an upgrade on the Eagles’ current tight end depth.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; EJ Smith&lt;/p&gt;</description>
+      <rw:player>Zach Ertz</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>EJ Smith</rw:source>
+      <rw:author />
+      <rw:date>Aug 31, 2026</rw:date>
+    </item>
+    <item>
+      <title>Eagles signed RB Dameon Pierce to the practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2e78cf4c250b5adc251d34d74edb476add5816a82c4d6261699c72e29151989c</guid>
+      <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dameon Pierce PHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The news was first reported by ESPN’s Jeremy Fowler. Pierce was released by the Eagles on Sunday with the team keeping Tank Bigsby and Will Shipley to backup Saquon Barkley. Pierce will head to the practice squad and be the next running back up if an injury arises.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Dameon Pierce</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Aug 31, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Brady Henderson believes the Seahawks will “roll with [Jadarian] Price as their lead back while mixing in a heavy dose of George Holani.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b0be1eceec77de25255b690cc750b28238b8b1c265597461e765d2dc4913ea33</guid>
+      <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;George Holani SEA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Though Price did not play a single preseason snap and has missed time over the past few weeks with muscle soreness, he is widely expected to function as Seattle’s lead back in Week 1 against the Patriots, with Zach Charbonnet (knee) on the PUP list to begin the regular season. Holani, however, should see significant usage in the Seahawks backfield. His “receiving and pass-blocking skills seem perfectly suited for third-down work,” Henderson said. Emanuel Wilson, Henderson added, will be the “power complement to those two” if he’s fully recovered from an undisclosed injury. “Whatever plan Seattle has going into Week 1 will start to change once Charbonnet returns,” Henderson said. “Whenever Charbonnet is all the way back, it’s easy to envision the Seahawks splitting the work in their backfield fairly evenly between him and Price the way they did last season with Charbonnet and Kenneth Walker III.” Sam Darnold has called Price a “special player” who excels as a pass catcher. For now it appears he’ll be an early-down option for Seattle’s offense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ESPN.com&lt;/p&gt;</description>
+      <rw:player>George Holani</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>ESPN.com</rw:source>
+      <rw:author />
+      <rw:date>Aug 31, 2026</rw:date>
+    </item>
     <item>
       <title>Ravens released WR Chris Moore.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -487,19 +526,6 @@
       <rw:date>Aug 30, 2026</rw:date>
     </item>
     <item>
-      <title>Steelers activated Joey Porter Jr. (back) from the active/PUP list.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f18d418f478e47284b6b68badff58ff78cdef7ea512d387a41455352b5144ed8</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Joey Porter PIT Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Porter Jr. spent all of training camp on the PUP list with a back issue. He was also searching for a new contract without much luck, so it’s safe to assume the back and bank issues were related. Without much leverage in the situation, he is likely stuck playing out the 2026 season on his rookie deal.&lt;/p&gt;</description>
-      <rw:player>Joey Porter</rw:player>
-      <rw:team>PIT</rw:team>
-      <rw:position>Cornerback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
       <title>Cardinals placed James Conner on injured reserve.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:f02ecc2a104fb2d3e2db7e1e2afe3a7ab62f65345e5624381a76dc4d40b3e239</guid>
@@ -742,6 +768,19 @@
       <rw:player>Tank Dell</rw:player>
       <rw:team>HOU</rw:team>
       <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Aug 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Steelers activated Joey Porter Jr. (back) from the active/PUP list.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f18d418f478e47284b6b68badff58ff78cdef7ea512d387a41455352b5144ed8</guid>
+      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Joey Porter PIT Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Porter Jr. spent all of training camp on the PUP list with a back issue. He was also searching for a new contract without much luck, so it’s safe to assume the back and bank issues were related. Without much leverage in the situation, he is likely stuck playing out the 2026 season on his rookie deal.&lt;/p&gt;</description>
+      <rw:player>Joey Porter</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Cornerback</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Aug 30, 2026</rw:date>
@@ -6463,45 +6502,6 @@
       <rw:team>PIT</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>Nick Farabaugh</rw:source>
-      <rw:author />
-      <rw:date>Aug 19, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chiefs WR Tyquan Thornton (hamstring) resumed practicing on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:670940788fc09046a99262874182b4b8f28b271ad6c00157e7a4ce1dd9bd7d7f</guid>
-      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyquan Thornton KC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Thornton left Tuesday’s practice early after reportedly straining a hamstring. Apparently, it was a very mild strain. The Chiefs’ field-stretching wide receiver was back in pads, practicing on Wednesday. We do not yet know if he was a full participant, but it seems as though he is good to go.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Farzin Vousoughian&lt;/p&gt;</description>
-      <rw:player>Tyquan Thornton</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Farzin Vousoughian</rw:source>
-      <rw:author />
-      <rw:date>Aug 19, 2026</rw:date>
-    </item>
-    <item>
-      <title>Tony Pollard (foot) returned to practice Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:3d88f6c1f40fc60a149447f8f9e2e3ca50f1a07e90049596d3580e083580ec4c</guid>
-      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tony Pollard TEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pollard had missed two practices with a foot issue he picked up in the Titans’ preseason game against the Niners over the weekend. Pollard went for 22 yards and a touchdown on four carries against San Francisco while Tyjae Spears had 35 yards on four rushes. Spears caught one pass in the game while Pollard was not involved in the pass game. Pollard profiles as a flex option in 12-team leagues, though he could be touchdown dependent with Spears taking on much of the pass-catching role.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Pro Football Talk&lt;/p&gt;</description>
-      <rw:player>Tony Pollard</rw:player>
-      <rw:team>TEN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Pro Football Talk</rw:source>
-      <rw:author />
-      <rw:date>Aug 19, 2026</rw:date>
-    </item>
-    <item>
-      <title>Makai Lemon (hamstring) did not practice Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c2aa14737e215040338a2e6a728324712a365078f0085040f9db428972d40c58</guid>
-      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Makai Lemon PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The rookie first-round pick has been sidelined for nearly two weeks with the hamstring issue, as DeVonta Smith deals with his own hamstring injury. While Lemon was seen running on the side at practice earlier this week, the Eagles will probably be careful with the wideout ahead of their Week 1 game against Washington. Lemon should operate as the team’s WR2 when healthy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zach Berman&lt;/p&gt;</description>
-      <rw:player>Makai Lemon</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Zach Berman</rw:source>
       <rw:author />
       <rw:date>Aug 19, 2026</rw:date>
     </item>

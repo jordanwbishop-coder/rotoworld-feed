@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 06:04:50 +0000</lastBuildDate>
     <item>
       <title>Rich Cimini of ESPN reports that the Jets will sign Bailey Zappe to their practice squad.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -136,6 +136,19 @@
       <rw:date>Aug 31, 2026</rw:date>
     </item>
     <item>
+      <title>Ravens WR Zay Flowers (lower body) did not practice Monday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e55f3b74442191ab88746ab633312d885c795c74ed85493bfc9e758292cdef4e</guid>
+      <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flowers has been a bit banged up in the latter portions of the offseason program, missing practices for two separate issues over the previous month. Even so, the team continues to assert he will be fine for Week 1. Fantasy managers will want to track his status over the coming two weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jonas Shaffer&lt;/p&gt;</description>
+      <rw:player>Zay Flowers</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Jonas Shaffer</rw:source>
+      <rw:author />
+      <rw:date>Aug 31, 2026</rw:date>
+    </item>
+    <item>
       <title>ESPN’s Brooke Pryor reports Steelers WRs DK Metcalf and Michael Pittman are “expected to be ready” for Week 1.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:6c38d8b1c40991f0c7e977d9b67e9d38d81ce90009304e0d83554d3b3330b04e</guid>
@@ -188,9 +201,9 @@
       <rw:date>Aug 31, 2026</rw:date>
     </item>
     <item>
-      <title>Dolphins claimed QB Brady Cook via waivers.</title>
+      <title>Dolphins claimed QB Brady Cook off waivers from the Jets.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:da7d12e2bb11898a85df01ff8468dea53e546f72304b64377448432604a64297</guid>
+      <guid isPermaLink="false">urn:sha256:a2d18f2130a2c82ab077e2356d7f3586b2a11908f75016026ed8892ad911aae4</guid>
       <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Brady Cook MIA Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cook joins starter Malik Willis and recent acquisition Kyle McCord in the pecking order at quarterback for the Dolphins, with the assumption that McCord will serve as the primary backup on game days during the regular season. Either way, Cook now gets a fresh start after four starts across five appearances for the Jets during his rookie season. Tight end Justin Joly also joins the Dolphins after being released by the Broncos. The team kept four tight ends through final cuts, making the path to a roster spot more muddied, but he lands on his feet after being forced to contemplate a potential practice squad spot in Denver. Also claimed were DB Marcellus Dial, T Chukwuebuka Godrick, T Jarrett Kingston, DB Reese Taylor, and DB Julius Wood.&lt;/p&gt;</description>
       <rw:player>Brady Cook</rw:player>
@@ -201,9 +214,9 @@
       <rw:date>Aug 31, 2026</rw:date>
     </item>
     <item>
-      <title>Cowboys claimed RB Emari Demercado via waivers.</title>
+      <title>Cowboys claimed RB Emari Demercado off waivers from the Chiefs.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e51a81744354854e31dfa7716c3d9f98e815078f3c72805eaeb5894bd6d30321</guid>
+      <guid isPermaLink="false">urn:sha256:cc64a79e61286a07a517c95454ac30b627f0a2f200291d0529d8f099cd92d9f4</guid>
       <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Emari Demercado DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Demercado enters a wide open backfield depth chart behind starter Javonte Williams and primary backup Malik Davis, the two of whom were the only running backs to survive 53-man roster cuts Sunday. It does not appear the Cowboys are finished adding to their backfield, with most teams keeping four running backs on the active roster throughout the season. More to come.&lt;/p&gt;</description>
       <rw:player>Emari Demercado</rw:player>
@@ -379,6 +392,19 @@
       <rw:team />
       <rw:position />
       <rw:source>New York Jets</rw:source>
+      <rw:author />
+      <rw:date>Aug 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Panthers placed Ikem Ekwonu (knee) on the reserve/PUP list.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:9d716c8f108aa3c3134fc5bd8ee90c7f2c2c2f93c7e7dc4cdfbe20c042b3b292</guid>
+      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ikem Ekwonu CAR Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ewkonu suffered a torn patellar tendon in the playoffs. He is expected to return “at some point” this year, though that does not rule out a lengthy absence for the veteran tackle. Fellow starting tackle Taylor Moton was placed on the reserve/NFI list because of a blood clot in his lung. He will also miss at least four weeks.&lt;/p&gt;</description>
+      <rw:player>Ikem Ekwonu</rw:player>
+      <rw:team>CAR</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source />
       <rw:author />
       <rw:date>Aug 30, 2026</rw:date>
     </item>
@@ -760,30 +786,30 @@
       <rw:date>Aug 30, 2026</rw:date>
     </item>
     <item>
-      <title>Ravens WR Zay Flowers (lower body) did not practice Monday.</title>
+      <title>Dolphins claimed QB Brady Cook via waivers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e55f3b74442191ab88746ab633312d885c795c74ed85493bfc9e758292cdef4e</guid>
+      <guid isPermaLink="false">urn:sha256:da7d12e2bb11898a85df01ff8468dea53e546f72304b64377448432604a64297</guid>
       <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flowers has been a bit banged up in the latter portions of the offseason program, missing practices for two separate issues over the previous month. Even so, the team continues to assert he will be fine for Week 1. Fantasy managers will want to track his status over the coming two weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jonas Shaffer&lt;/p&gt;</description>
-      <rw:player>Zay Flowers</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Jonas Shaffer</rw:source>
+      <description>&lt;p&gt;&lt;strong&gt;Brady Cook MIA Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cook joins starter Malik Willis and recent acquisition Kyle McCord in the pecking order at quarterback for the Dolphins, with the assumption that McCord will serve as the primary backup on game days during the regular season. Either way, Cook now gets a fresh start after four starts across five appearances for the Jets during his rookie season. Tight end Justin Joly also joins the Dolphins after being released by the Broncos. The team kept four tight ends through final cuts, making the path to a roster spot more muddied, but he lands on his feet after being forced to contemplate a potential practice squad spot in Denver. Also claimed were DB Marcellus Dial, T Chukwuebuka Godrick, T Jarrett Kingston, DB Reese Taylor, and DB Julius Wood.&lt;/p&gt;</description>
+      <rw:player>Brady Cook</rw:player>
+      <rw:team>MIA</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source />
       <rw:author />
       <rw:date>Aug 31, 2026</rw:date>
     </item>
     <item>
-      <title>Panthers placed Ikem Ekwonu (knee) on the reserve/PUP list.</title>
+      <title>Cowboys claimed RB Emari Demercado via waivers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9d716c8f108aa3c3134fc5bd8ee90c7f2c2c2f93c7e7dc4cdfbe20c042b3b292</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ikem Ekwonu CAR Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ewkonu suffered a torn patellar tendon in the playoffs. He is expected to return “at some point” this year, though that does not rule out a lengthy absence for the veteran tackle. Fellow starting tackle Taylor Moton was placed on the reserve/NFI list because of a blood clot in his lung. He will also miss at least four weeks.&lt;/p&gt;</description>
-      <rw:player>Ikem Ekwonu</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Tackle</rw:position>
+      <guid isPermaLink="false">urn:sha256:e51a81744354854e31dfa7716c3d9f98e815078f3c72805eaeb5894bd6d30321</guid>
+      <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Emari Demercado DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Demercado enters a wide open backfield depth chart behind starter Javonte Williams and primary backup Malik Davis, the two of whom were the only running backs to survive 53-man roster cuts Sunday. It does not appear the Cowboys are finished adding to their backfield, with most teams keeping four running backs on the active roster throughout the season. More to come.&lt;/p&gt;</description>
+      <rw:player>Emari Demercado</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
+      <rw:date>Aug 31, 2026</rw:date>
     </item>
     <item>
       <title>Falcons released RB Tyler Goodson.</title>
@@ -6478,32 +6504,6 @@
       <rw:source>Jeremy Reisman</rw:source>
       <rw:author />
       <rw:date>Aug 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>Eagles WR Makai Lemon (hamstring) returned to practice on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:8628160f2584f836d8fd5940247838d9f742ce8eef79fe979ea619d1ab8dd237</guid>
-      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Makai Lemon PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Lemon was back at practice for the first time in weeks. The first-round receiver missed most of minicamp and training camp up to this point with a hamstring injury. While Lemon is playing from behind, there’s plenty of time for him to work his way into the offensive game plan ahead of the Eagles’ Week 1 matchup against the Commanders.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jimmy Kempski&lt;/p&gt;</description>
-      <rw:player>Makai Lemon</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Jimmy Kempski</rw:source>
-      <rw:author />
-      <rw:date>Aug 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Athletic’s Nicki Jhabvala reports that Commanders DT Johnny Newton is expected to miss significant time after undergoing surgery for a torn pectoral muscle.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e1c8bd60d36f2e7ca6cbaa3b88bd6c3c740c941a3dc63aeb73f34142df3acbf4</guid>
-      <pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Johnny Newton WAS Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Just a few hours ago, ESPN’s John Keim reported that Newton was visiting a specialist today. Apparently, the decision to undergo surgery was made fairly quickly. This is a tough loss for the Commanders’ defensive front. Newton ranked fourth on the team in quarterback pressures (27) and third in sacks (six) last year. Commanders edge rushers, OLB Odafe Oweh (calf) and OLB K’Lavon Chaisson (knee), are also nursing injuries at the moment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nicki Jhabvala&lt;/p&gt;</description>
-      <rw:player>Johnny Newton</rw:player>
-      <rw:team>WAS</rw:team>
-      <rw:position>Defensive Tackle</rw:position>
-      <rw:source>Nicki Jhabvala</rw:source>
-      <rw:author />
-      <rw:date>Aug 19, 2026</rw:date>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:05:02 +0000</lastBuildDate>
+    <item>
+      <title>Vikings signed LB Kyle Van Noy, formerly of the Ravens, to their practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:964c9724d4d95e4ccbf6e93c3765bb05da887e8a05e4592eb9c12bcc8cc6f8cb</guid>
+      <pubDate>Tue, 01 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kyle Van Noy MIN Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Van Noy spent time with Vikings defensive coordinator Brian Flores in both Miami and New England, making this a reunion for the two. The 35-year-old linebacker spent the past three seasons with the Ravens, tallying 12.5 sacks during a 2024 Pro Bowl campaign. The Vikings will start Van Noy out on the practice squad, but fans shouldn’t be surprised to see him in the middle of the Minnesota defense later this season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
+      <rw:player>Kyle Van Noy</rw:player>
+      <rw:team>MIN</rw:team>
+      <rw:position>Outside Linebacker</rw:position>
+      <rw:source>Tom Pelissero</rw:source>
+      <rw:author />
+      <rw:date>Sep 1, 2026</rw:date>
+    </item>
+    <item>
+      <title>NOF Network’s Nick Underhill reports Saints RB Kendre Miller will be “fine” after he left practice early Tuesday with a “minor issue.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:35efab85a7d6012eaf601174094ae9c0361b4cd369cb41488cc64a76532ae178</guid>
+      <pubDate>Tue, 01 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kendre Miller NO Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Miller left practice early under his own power Tuesday, an all-too-familiar picture for the oft-injured back coming off an ACL tear from last October. However, Underhill reports it is a minor issue for the 24-year-old. With Alvin Kamara (knee) missing time, Miller has seen a lot of preseason work. Miller, when healthy, can be the Saints’ RB2 and primary handcuff to Travis Etienne.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Underhill&lt;/p&gt;</description>
+      <rw:player>Kendre Miller</rw:player>
+      <rw:team>NO</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Nick Underhill</rw:source>
+      <rw:author />
+      <rw:date>Sep 1, 2026</rw:date>
+    </item>
     <item>
       <title>Ravens signed TE Nick Vannett to their practice squad.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -526,6 +552,19 @@
       <rw:date>Sep 1, 2026</rw:date>
     </item>
     <item>
+      <title>Lions signed TE Tyler Conklin.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a55d5e34852dd8634d649de35106e70884330d9aeb6ead97e338f86791484301</guid>
+      <pubDate>Tue, 01 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tyler Conklin DET Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;They released him on Sunday, but it was merely roster manipulation as vested veterans aren’t subject to waivers. The 31-year-old should play a role as one of Detroit’s lower-end tight ends behind Sam LaPorta.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt Zenitz&lt;/p&gt;</description>
+      <rw:player>Tyler Conklin</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Matt Zenitz</rw:source>
+      <rw:author />
+      <rw:date>Sep 1, 2026</rw:date>
+    </item>
+    <item>
       <title>Browns signed EDGE Sam Williams to a one-year contract.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:3ecd74cde5a0452b12037ab66a1bb8cb7f26296d5b54e98bc0eed31ab8e4b355</guid>
@@ -784,19 +823,6 @@
       <rw:source />
       <rw:author>Christopher Crawford</rw:author>
       <rw:date>Aug 31, 2026</rw:date>
-    </item>
-    <item>
-      <title>Lions signed TE Tyler Conklin.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:a55d5e34852dd8634d649de35106e70884330d9aeb6ead97e338f86791484301</guid>
-      <pubDate>Tue, 01 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyler Conklin DET Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;They released him on Sunday, but it was merely roster manipulation as vested veterans aren’t subject to waivers. The 31-year-old should play a role as one of Detroit’s lower-end tight ends behind Sam LaPorta.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt Zenitz&lt;/p&gt;</description>
-      <rw:player>Tyler Conklin</rw:player>
-      <rw:team>DET</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Matt Zenitz</rw:source>
-      <rw:author />
-      <rw:date>Sep 1, 2026</rw:date>
     </item>
     <item>
       <title>Eagles signed RB Jaydon Blue to their practice squad.</title>
@@ -6474,32 +6500,6 @@
       <description>&lt;p&gt;&lt;strong&gt;Jonathon Brooks CAR Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brooks played 11-of-13 plays over the Panthers’ first two drives, giving way to RB Trevor Etienne on a 3rd-and-4 play. Brooks subbed right back in after that and punched in a one-yard touchdown two plays later. With RB Chuba Hubbard (hamstring) currently sidelined, it’s tough to draw a complete conclusion, but as things currently stand, Brooks looks like the featured running back in Carolina. Hopefully, he can refine his pass protection and remain on the field for third downs at some point.&lt;/p&gt;</description>
       <rw:player>Jonathon Brooks</rw:player>
       <rw:team>CAR</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 21, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jets WR Omar Cooper caught 1-of-1 targets for nine yards in Friday’s preseason game against the Steelers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c718c507dd5bf90262150a8555e0721fb01f3aef2164b98847a4981642aa2cdf</guid>
-      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Omar Cooper NYJ Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cooper played extensively in the Jets’ first preseason game, prompting The Athletic’s Zach Rosenblatt to write that WR Isaiah Williams appeared to have overtaken Cooper for the starting slot receiver job. This week, Cooper out-snapped WR Isaiah Williams six to one on the first drive. Williams continued playing on the second drive before rotating with Cooper on the third. PFF’s Nathan Jahnke notes that when Cooper returned, he lined up out wide while Williams manned the slot. Williams caught 3-of-5 targets for 17 yards and one fumble, though it was recovered by the Jets. It appears as though Cooper may have regained his spot as the Jets’ WR3 behind WR1 Garrett Wilson and WR2 Adonai Mitchell. Cooper still makes for a risky late-round dart throw, but he will get more chances to contribute.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nathan Jahnke&lt;/p&gt;</description>
-      <rw:player>Omar Cooper</rw:player>
-      <rw:team>NYJ</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Nathan Jahnke</rw:source>
-      <rw:author />
-      <rw:date>Aug 21, 2026</rw:date>
-    </item>
-    <item>
-      <title>Steelers RB Jaylen Warren rushed five times for 17 yards in Friday’s preseason game against the Jets.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:8d6ef66b337ac335afcfc0af6257f93877992a1f5b222892b6f5146506374bfd</guid>
-      <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jaylen Warren PIT Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Warren played 3-of-3 snaps on the first drive. Steelers RB Rico Dowdle played 4-of-4 snaps on the second. The two backs then rotated on the third. Dowdle rushed five times for 18 yards, adding one reception for two yards. This is about what we expected, though a recent report did indicate that Dowdle would be the Steelers’ “workhorse.” For now, treat both players as reliable FLEX starters with RB2 upside in what should be a split backfield, at least early on.&lt;/p&gt;</description>
-      <rw:player>Jaylen Warren</rw:player>
-      <rw:team>PIT</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />

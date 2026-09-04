@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 01:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:04:47 +0000</lastBuildDate>
+    <item>
+      <title>Cowboys restructured TE Jake Ferguson’s contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:69abce5f2239fd9b738edb73576787c7d125c7f7e07c399030f403e81df452f1</guid>
+      <pubDate>Thu, 03 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jake Ferguson DAL Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to ESPN’s Todd Archer, the Cowboys now have $33.2 million in salary cap space this year. They also reworked DT Kenny Clark and CB DaRon Bland’s deals. Ferguson’s $7.25 million base salary was turned into a signing bonus. For fantasy purposes, this does not alter Ferguson’s standing. The front office could have a personnel move in mind, though. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ESPN&lt;/p&gt;</description>
+      <rw:player>Jake Ferguson</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>ESPN</rw:source>
+      <rw:author />
+      <rw:date>Sep 3, 2026</rw:date>
+    </item>
     <item>
       <title>ESPN’s Adam Schefter reports that Bears RB D’Andre Swift left practice early on Thursday due to “a cramp.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -383,6 +396,19 @@
       <rw:date>Sep 2, 2026</rw:date>
     </item>
     <item>
+      <title>Ravens signed Chuma Edoga, formerly of the Jaguars.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:18ffc6b8c1ecfb5d0a37eba1c7c99bc776cc9d93213aabba1302840243ef29b0</guid>
+      <pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Chuma Edoga BAL Guard&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Edoga appeared in 14 games for the Jags last year and made two starts. He has 25 career starts across both tackle spots and left guard. Edoga will be a versatile depth option for the Ravens.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Chuma Edoga</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Guard</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Sep 2, 2026</rw:date>
+    </item>
+    <item>
       <title>CBS Sports’ Matt Zenitz reports “there’s currently optimism” from the Bills that Khalil Shakir will play in Week 1 against the Texans.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:62bd072ef6e399e2fc181bcce4f2e25b063798d6a92eb7b43580f8835f5692c3</guid>
@@ -630,6 +656,19 @@
       <rw:date>Sep 2, 2026</rw:date>
     </item>
     <item>
+      <title>ESPN’s Dan Graziano believes Chuba Hubbard will lead the Panthers backfield in 2026.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c0dfb17c00a5a6fc0b573e81d005d452d31b505caaf9102dd61d8d01b1963dcc</guid>
+      <pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Chuba Hubbard CAR Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team’s plan, per Graziano, is for Hubbard and Jonathon Brooks to split carries this season. That comes as little surprise. “If Hubbard stays healthy, he’s the one in whom they’ve built up more trust, so I’d expect him to be the one the Panthers lean on to try to grind out games when they have the lead,” Graziano said. “The split should be pretty close, but it would not be a surprise at all to get to the end of the season and see that Hubbard got the majority of the work.” Brooks on Tuesday practiced to the side while Hubbard (hamstring) practiced in full. It’s a concerning situation for those who have gone in on Brooks as Carolina’s lead back.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ESPN.com&lt;/p&gt;</description>
+      <rw:player>Chuba Hubbard</rw:player>
+      <rw:team>CAR</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>ESPN.com</rw:source>
+      <rw:author />
+      <rw:date>Sep 2, 2026</rw:date>
+    </item>
+    <item>
       <title>ESPN’s Dan Graziano believes Jameson Williams could lead the Lions in receiving this season.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:1aea6418c049f770e106a2ae6b551bc429de3204373a54e5c962801265d1d6ab</guid>
@@ -758,32 +797,6 @@
       <rw:source />
       <rw:author />
       <rw:date>Sep 1, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ravens signed Chuma Edoga, formerly of the Jaguars.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:18ffc6b8c1ecfb5d0a37eba1c7c99bc776cc9d93213aabba1302840243ef29b0</guid>
-      <pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chuma Edoga BAL Guard&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Edoga appeared in 14 games for the Jags last year and made two starts. He has 25 career starts across both tackle spots and left guard. Edoga will be a versatile depth option for the Ravens.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
-      <rw:player>Chuma Edoga</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Guard</rw:position>
-      <rw:source>Jeremy Fowler</rw:source>
-      <rw:author />
-      <rw:date>Sep 2, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Dan Graziano believes Chuba Hubbard will lead the Panthers backfield in 2026.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c0dfb17c00a5a6fc0b573e81d005d452d31b505caaf9102dd61d8d01b1963dcc</guid>
-      <pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chuba Hubbard CAR Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team’s plan, per Graziano, is for Hubbard and Jonathon Brooks to split carries this season. That comes as little surprise. “If Hubbard stays healthy, he’s the one in whom they’ve built up more trust, so I’d expect him to be the one the Panthers lean on to try to grind out games when they have the lead,” Graziano said. “The split should be pretty close, but it would not be a surprise at all to get to the end of the season and see that Hubbard got the majority of the work.” Brooks on Tuesday practiced to the side while Hubbard (hamstring) practiced in full. It’s a concerning situation for those who have gone in on Brooks as Carolina’s lead back.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ESPN.com&lt;/p&gt;</description>
-      <rw:player>Chuba Hubbard</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>ESPN.com</rw:source>
-      <rw:author />
-      <rw:date>Sep 2, 2026</rw:date>
     </item>
     <item>
       <title>Raiders GM John Spytek said Ashton Jeanty (ankle) is in a “good spot” and said “I expect him to be back as quick he can, maybe quicker than some people would expect. When that is, we’ll see.”</title>
@@ -6489,19 +6502,6 @@
       <rw:team>SF</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>Cam Inman</rw:source>
-      <rw:author />
-      <rw:date>Aug 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>49ers WR De’Zhaun Stribling (shoulder) resumed practicing in a non-contact jersey on Sunday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:24b9edb1318c4cb4382cf910092394b118872a2ffe2e9b05fd07255bddf37dde</guid>
-      <pubDate>Sun, 23 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;De&amp;#x27;Zhaun Stribling SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team labeled Stribling as “day-to-day” yesterday. His limited return is a good sign for his Week 1 availability. Hopefully, the 49ers’ impressive rookie is back in pads before long. He can still be drafted as a FLEX starter with WR3 upside at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Wagoner&lt;/p&gt;</description>
-      <rw:player>De'Zhaun Stribling</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Nick Wagoner</rw:source>
       <rw:author />
       <rw:date>Aug 23, 2026</rw:date>
     </item>

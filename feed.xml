@@ -4,7 +4,46 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 06:04:02 +0000</lastBuildDate>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports that the Falcons’ starting quarterback decision could be announced “as early as Monday.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d53a4b494fea6497d868f3744d8df33725cec84e95e2b81c3c8b1a43dc531d61</guid>
+      <pubDate>Fri, 04 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Michael Penix ATL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Fowler notes that the official depth chart will be set on Wednesday, so the decision could be delayed by two days. Regardless, media members will surely ask coach Kevin Stefanski about it during Monday’s media session. NFL Network’s Cameron Wolfe previously reported that the Falcons plan to start QB Michael Penix (knee) “eventually.” That said, QB Tua Tagovailoa could start a game or two early on.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Michael Penix</rw:player>
+      <rw:team>ATL</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Sep 4, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports that the Patriots and CB Christian Gonzalez “remain apart on several key elements” in contract negotiations.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8c13d22f882e127e58475c4feca3fa1822dbb5f65e43e8864418efa6b6aad0e6</guid>
+      <pubDate>Fri, 04 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Gonzalez NE Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gonzalez is apparently “non-committal” about playing in Week 1 against the Seahawks. The Patriots, meanwhile, are reportedly prepared to make Gonzalez the NFL’s highest-paid cornerback by surpassing the $33 million-per-year mark set by Seahawks CB Devon Witherspoon. The problem is that the two sides have “fundamental” disagreements over the deal’s length and structure. Kickoff is five days away. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Christian Gonzalez</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Sep 4, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers place EDGE Sam Okuayinonu on injured reserve with a foot injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5088aa63460e67ca7d9833a9f8d084df576d40f1eec80c81c1937cfa5f195381</guid>
+      <pubDate>Fri, 04 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Sam Okuayinonu SF Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Okuayinonu totaled 30 tackles, 28 quarterback pressures and three sacks for the 49ers last season. He will be eligible to return in Week 5. Losing him softens San Francisco’s pass rush in the short term.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cam Inman&lt;/p&gt;</description>
+      <rw:player>Sam Okuayinonu</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Defensive Lineman</rw:position>
+      <rw:source>Cam Inman</rw:source>
+      <rw:author />
+      <rw:date>Sep 4, 2026</rw:date>
+    </item>
     <item>
       <title>Jaguars general manager James Gladstone said the team would be open to negotiating an extension with WR Parker Washington in-season.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6463,45 +6502,6 @@
       <rw:team>PIT</rw:team>
       <rw:position>Cornerback</rw:position>
       <rw:source>ESPN</rw:source>
-      <rw:author />
-      <rw:date>Aug 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>49ers owner Jed York was arrested on misdemeanor charges of disorderly conduct and possession criminal tools on Sunday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d9758dcacf38851853a5a9fa04075aa5d6459a2148ad8a951008c1fb100dfa34</guid>
-      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jed York SF Center&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to an NBC4 article, York was arrested in East Palestine, Ohio, and found guilty of both charges after pleading no contest. NBC’s Matt Maiocco later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; NBC4i.com&lt;/p&gt;</description>
-      <rw:player>Jed York</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Center</rw:position>
-      <rw:source>NBC4i.com</rw:source>
-      <rw:author />
-      <rw:date>Aug 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Shedeur Sanders will start the season as the QB2 for the Browns.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:82d3bed81e4f996d86b87b4687de5114e03dc3a5d50a5e7f805b723042f6cfd3</guid>
-      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Shedeur Sanders CLE Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Multiple outlets reported on Monday that Deshaun Watson would be the starter for Week 1 against the Jaguars, with Sanders as the backup. Sanders was solid in his second preseason game, completing 9-of-11 passes for 74 yards, a touchdown, and an interception in one half of play, but this camp battle was always expected to work in Watson’s favor, barring an obvious breakout by Sanders in camp. While it’s not the result Sanders and his fantasy managers hoped for, Watson’s job is anything but secure. He’ll start in Week 1, but the veteran QB will likely be evaluated on a week-to-week basis, meaning head coach Todd Monken could turn the job over to Sanders at any point in time.&lt;/p&gt;</description>
-      <rw:player>Shedeur Sanders</rw:player>
-      <rw:team>CLE</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Dolphins WR Chris Bell was seen without a non-contact jersey at Monday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e11344e085f615725dbd156836b2ed08b952a2ad640c9fdfd6376974dae5e6e6</guid>
-      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chris Bell MIA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s yet another encouraging sign for Bell, who was activated off the PUP list last Monday after recovering from a torn ACL he suffered during his 2025 season at Louisville. The rookie third-rounder has been getting up to speed since making his return and could have a chance to contribute to the Dolphins’ offense later this season.&lt;/p&gt;</description>
-      <rw:player>Chris Bell</rw:player>
-      <rw:team>MIA</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
       <rw:author />
       <rw:date>Aug 24, 2026</rw:date>
     </item>

@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:09:11 +0000</lastBuildDate>
+    <item>
+      <title>ESPN’s Mike Reiss reports Patriots RB TreVeyon Henderson (ankle) did not practice Saturday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c37e9f44464ca4a5de353936f340fc7eda2326fdf9f9ef9c162515509e662f99</guid>
+      <pubDate>Sat, 05 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;TreVeyon Henderson NE Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The absence is notable considering the team kicks off the 2026 regular season Wednesday, with the team’s first full injury report due later today. Henderson has yet to participate in practice since sustaining the injury on 24 August and now appears to be in legitimate trouble of missing Week 1 when the Patriots square off against the defending Super Bowl Champions on the road in Seattle. Rhamondre Stevenson would be in line to soak up the bulk of the work out of the backfield should Henderson be forced to sit considering the only other back on the roster is recent acquisition Corey Kiner.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Reiss&lt;/p&gt;</description>
+      <rw:player>TreVeyon Henderson</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Mike Reiss</rw:source>
+      <rw:author />
+      <rw:date>Sep 5, 2026</rw:date>
+    </item>
     <item>
       <title>ESPN’s Jeremy Fowler reports that the Falcons’ starting quarterback decision could be announced “as early as Monday.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6489,19 +6502,6 @@
       <rw:team>CAR</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Joseph Person</rw:source>
-      <rw:author />
-      <rw:date>Aug 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Steelers HC Mike McCarthy said the Steelers are at an “impasse” with CB Joey Porter Jr. on contract extension talks.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:631bd189902203f035392ff0b866c9c5fc622caf8c68830f7013bc2102384773</guid>
-      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Joey Porter PIT Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In an article published by ESPN’s Brooke Pryor, Pryor writes that a source familiar with the situation shared there “hasn’t been meaningful progress on extension talks.” The 26-year-old corner has spent all of training camp on the active/PUP list with a back injury, but we haven’t heard much about him since. Despite the current situation between Porter and the Steelers, the team said it has neither received nor made any trade calls regarding the star corner. Porter still needs to be activated off the PUP list in order to be ready for the start of the season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ESPN&lt;/p&gt;</description>
-      <rw:player>Joey Porter</rw:player>
-      <rw:team>PIT</rw:team>
-      <rw:position>Cornerback</rw:position>
-      <rw:source>ESPN</rw:source>
       <rw:author />
       <rw:date>Aug 24, 2026</rw:date>
     </item>

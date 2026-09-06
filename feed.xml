@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 12:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 16:40:49 +0000</lastBuildDate>
+    <item>
+      <title>Vikings signed S Harrison Smith.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3ae97ac9711efff6e387af4272d88ab61129a7f248b42e7040c0a547af0bf045</guid>
+      <pubDate>Sun, 06 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Harrison Smith MIN Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The signing was first reported by NFL Insider Ian Rapoport. It’s a one-year, $12.25 million deal with a maximum value of $16.25 million. Smith, 37, spent the offseason contemplating retirement before returning to the Vikings, the team that drafted him in the first-round in 2012, for his 15th season. He had a 68.9 overall PFF grade in 2025, which was 33rd out of 98 graded safeties.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Harrison Smith</rw:player>
+      <rw:team>MIN</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Sep 6, 2026</rw:date>
+    </item>
     <item>
       <title>ESPN’s Mike Reiss reports Patriots RB TreVeyon Henderson (ankle) did not practice Saturday.</title>
       <link>https://www.nbcsports.com/fantasy/football/rotoworld-2026-fantasy-football-draft-kit-rankings-cheat-sheets-player-profiles</link>
@@ -6489,19 +6502,6 @@
       <rw:team>NE</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Mike Reiss</rw:source>
-      <rw:author />
-      <rw:date>Aug 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Panthers HC Dave Canales said the team will use a running back by committee approach if Chuba Hubbard (hamstring) and Jonathon Brooks are both available.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:67583821ecc634985b1ee8b6ac3c9adb363dc93fa1bd225a23801dcc60d6b6a8</guid>
-      <pubDate>Mon, 24 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chuba Hubbard CAR Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hubbard is still working his way back from a hamstring injury that has sidelined him since mid-August, but if the 27-year-old back is good to go, he is expected to see work alongside Jonathon Brooks, who seems to finally be healthy after an injury-plagued start to his first three years in the league. An RBBC situation would be a pain for fantasy managers to navigate during the early part of the season, but if it comes down to it, hopefully we will get an early sense of how Canales plans to deploy both backs so we can better understand their viability for fantasy purposes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Joseph Person&lt;/p&gt;</description>
-      <rw:player>Chuba Hubbard</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Joseph Person</rw:source>
       <rw:author />
       <rw:date>Aug 24, 2026</rw:date>
     </item>

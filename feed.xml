@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 01:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:04:45 +0000</lastBuildDate>
+    <item>
+      <title>49ers OC Klay Kubiak said TE George Kittle “looks good” for Week 1.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b3a3315b5f39f6f782be4453dd99a62557239fcc7f03585198205436ac8b22fb</guid>
+      <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;George Kittle SF Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Asked whether Kittle would play in Week 1, 49ers offensive coordinator Klay Kubiak said, “We have two more practices, but Kittle looks good.” That was not as explicit as defensive coordinator Raheem Morris’ quote on Nick Bosa’s expected status just minutes earlier, but it certainly seems to confirm mounting reports that Kittle is on track to suit up for Week 1. Kubiak added at the end of his response that Kittle’s “workload will be determined,” also reinforcing earlier reports that the team was likely to monitor his snap rate closely. Fantasy managers are likely better off taking a wait-and-see approach with Kittle until he has proven to be capable of a normal workload.&lt;/p&gt;</description>
+      <rw:player>George Kittle</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 7, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers DC Raheem Morris said DE Nick Bosa is going to play in Week 1 against the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:65a4d44a4f2eb6248c8eaf83102afeb70e5ab328be6a6ec64d95f328ef129485</guid>
+      <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Nick Bosa SF Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;During a media sessions late Monday, Morris was asked if Bosa would be able to go in Week 1 against the Rams, to which he responded, “Oh, he’s going out there. He’s going.” There’s no room left for interpretation about that quote, meaning Bosa is expected to make his return to the field after tearing his ACL in Week 3 of the 2025 season. Don’t expect a normal allotment of snaps in his first game in almost a calendar year, but the veteran pass-rusher can still make a significant impact when on the field. IDP managers will want to confirm his status on the team’s injury report Tuesday before making plans to insert him into Week 1 lineups.&lt;/p&gt;</description>
+      <rw:player>Nick Bosa</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Defensive Lineman</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 7, 2026</rw:date>
+    </item>
     <item>
       <title>Seahawks WR Tory Horton (hamstring) was limited in practice Monday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6478,32 +6504,6 @@
       <rw:source>Nick Wagoner</rw:source>
       <rw:author />
       <rw:date>Aug 25, 2026</rw:date>
-    </item>
-    <item>
-      <title>49ers RB Kaelon Black rushed four times for 28 yards in Friday’s preseason game against the Raiders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2e150a5e2d326e1cdddd00f2ffc0d723d226e7a58bd56110498aef8e0fe0039a</guid>
-      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kaelon Black SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Black had a nice run to the right side of the field before subbing out, which ultimately required him to spin over the top of the camera stand positioned awkwardly on the sideline. He seemingly escaped without injury and, most importantly, took 12-of-12 possible snaps on the first three drives. Black is the 49ers’ running back to stash on fantasy benches. Fellow RB Jordan James has recovered from the fractured rib he suffered late in July, but the time he missed in August has him behind Black on the depth chart.&lt;/p&gt;</description>
-      <rw:player>Kaelon Black</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 27, 2026</rw:date>
-    </item>
-    <item>
-      <title>Broncos signed Foster Sarell, formerly of the Chargers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e93fdb1df99d78d1d181b0e7003fe577d93a6f62452cb71b73bd654445182005</guid>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Foster Sarell DEN Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team also signed defensive tackle Israel Antwine. Foster spent the first four years of his career with the Chargers. He appeared in six games last year, including his first career start. He will be fighting for a depth role on the Broncos’ roster.&lt;/p&gt;</description>
-      <rw:player>Foster Sarell</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 26, 2026</rw:date>
     </item>
   </channel>
 </rss>

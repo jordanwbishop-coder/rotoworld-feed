@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 06:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:14:29 +0000</lastBuildDate>
+    <item>
+      <title>The Patriots and CB Christian Gonzalez are in agreement on a four-year, $135 million deal, according to ESPN’s Ian Rapoport.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:73db64b316213fcf9f15497078509f3590650df9e87eb675bff7120c4a2798d7</guid>
+      <pubDate>Tue, 08 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Gonzalez NE Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s $102 million guaranteed for the 24-year-old Gonzalez, who is entering his fourth season after being drafted 17th overall in 2023. Gonzalez went without an interception during the regular season last year, but he was a Pro Bowler anyway and he did come up with a huge pick in the fourth quarter of the AFC Championship versus the Broncos. The Patriots had him under control for two more years after exercising his fifth-year option in April.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Christian Gonzalez</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Sep 8, 2026</rw:date>
+    </item>
     <item>
       <title>49ers OC Klay Kubiak said TE George Kittle “looks good” for Week 1.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6489,19 +6502,6 @@
       <rw:team>MIN</rw:team>
       <rw:position>Quarterback</rw:position>
       <rw:source>Kevin Seifert</rw:source>
-      <rw:author />
-      <rw:date>Aug 25, 2026</rw:date>
-    </item>
-    <item>
-      <title>Mike Evans (groin) did not practice Tuesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:fa2a4b1ca30e24e9661a9717b126e7fecdf018da8a581f1170eef8dcdf85a005</guid>
-      <pubDate>Tue, 25 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kyle Shanahan indicated Evans should be back to practice next week before leaving for Australia. The line between “Evans is being treated very carefully” and “Evans is always hurt” has been blurred for a few years now, but it doesn’t seem like he’s in any danger of missing time yet.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Wagoner&lt;/p&gt;</description>
-      <rw:player>Mike Evans</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Nick Wagoner</rw:source>
       <rw:author />
       <rw:date>Aug 25, 2026</rw:date>
     </item>

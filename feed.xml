@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:04:36 +0000</lastBuildDate>
+    <item>
+      <title>49ers DT Alfred Collins suffered a torn patellar tendon and is out for the 2026 season.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3ca1665c89db8b805a6a86489153ef551b8758331a70f75c524e2dfc7f644468</guid>
+      <pubDate>Tue, 08 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Alfred Collins SF Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Collins tore his patellar tendon during the 49ers’ first Australia practice last night. It’s an unfortunate break for the 2025 second-round pick, set to start Week 1 for the 49ers defensive line against the Rams. Collins’ biggest play last season was forcing a goal-line Kyren Williams fumble in Week 5. He will instead need knee surgery and begin a journey back from injury for 2027. The 49ers will reach into their defensive tackle depth and may activate Kevin Givens or Sebastian Valdez from the practice squad for Week 1 in Australia against the Rams.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt Barrows&lt;/p&gt;</description>
+      <rw:player>Alfred Collins</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source>Matt Barrows</rw:source>
+      <rw:author />
+      <rw:date>Sep 8, 2026</rw:date>
+    </item>
     <item>
       <title>NFL Network’s Mike Garafolo reports the Steelers made a contract extension offer to CB Joey Porter Jr.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6488,19 +6501,6 @@
       <rw:player>Cedric Tillman</rw:player>
       <rw:team />
       <rw:position />
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Aug 27, 2026</rw:date>
-    </item>
-    <item>
-      <title>Colts activated Alec Pierce (ankle) from the active/PUP list.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:85d202987474b1f678d6dfc7ba2c832b628d6519471bb26d4aab7555fe2be67d</guid>
-      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Alec Pierce IND Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pierce has been on the PUP list throughout training camp as he recovers from offseason ankle surgery. Head coach Shane Steichen said earlier this week that he expects Pierce to return to practice in the coming days. Pierce was spotted getting some individual work in today. Coming off the PUP list means Pierce shouldn’t miss four games to start the season, but it doesn’t guarantee that he is ready for the season opener. His health will be one of the biggest storylines to monitor for the Colts’ offense over the next two weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Alec Pierce</rw:player>
-      <rw:team>IND</rw:team>
-      <rw:position>Wide Receiver</rw:position>
       <rw:source>Adam Schefter</rw:source>
       <rw:author />
       <rw:date>Aug 27, 2026</rw:date>

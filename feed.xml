@@ -4,7 +4,59 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 21:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:10:00 +0000</lastBuildDate>
+    <item>
+      <title>NFL Network’s Mike Garafolo reports the Steelers made a contract extension offer to CB Joey Porter Jr.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:917dd6f75ab3e0aad9d75c3df5b65ed091f64880a30a4bcb4135e5c91eea98d9</guid>
+      <pubDate>Tue, 08 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Joey Porter PIT Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to Garafolo, the Steelers made an offer to Porter but it is “not good enough” for a contract extension to be imminent. This seems to be the first offer Pittsburgh has made to the 26-year-old, so there are at least negotiations happening. With both Devon Witherspoon and Christian Gonzalez getting top-of-market deals done, all eyes are on Porter as last among the big cornerback extensions to get done. Garafolo adds the Steelers will not negotiate into the season past Week 1, so both sides have a few days to get a deal done before talks are tabled until the end of the season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
+      <rw:player>Joey Porter</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Mike Garafolo</rw:source>
+      <rw:author />
+      <rw:date>Sep 8, 2026</rw:date>
+    </item>
+    <item>
+      <title>Rams EDGE Myles Garrett (knee) did not participate in Tuesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:31bbcc915737458f192745a52825ce600616eaffca62299e3cf0713a40be6188</guid>
+      <pubDate>Tue, 08 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Myles Garrett&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Garrett was a non-participant in practice Tuesday, but it looks to be a load management day with other Rams players listed as DNP due to rest and head coach Sean McVay saying Tuesday he expects Garrett to play Week 1. Though the team will be without Aaron Donald for opening day, the Rams are still expecting to have Garrett good to go against the 49ers.&lt;/p&gt;</description>
+      <rw:player>Myles Garrett</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 8, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers TE George Kittle (Achilles) was limited in Tuesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e598dd3ea8170dfdfe3632adad371eb571aace09a4e0b5f1f6ca8c5d90210e4b</guid>
+      <pubDate>Tue, 08 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;George Kittle SF Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kittle continues to work his way back from an Achilles tear in January and is seemingly on track to play Week 1. He practiced on Monday and gets in a limited practice again on Tuesday. Offensive coordinator Klay Kubiak was confident in Kittle’s availability this week, saying the 32-year-old looked good while the team practices in Australia. The entire 49ers offense practiced in some capacity Tuesday. Kittle’s chances of playing are trending upward; he’s a low-end TE1 if he plays against the Rams this week.&lt;/p&gt;</description>
+      <rw:player>George Kittle</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 8, 2026</rw:date>
+    </item>
+    <item>
+      <title>Buccaneers signed QB Baker Mayfield to a three-year, $165 million contract extension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:00df23e554507629ed131de5b6f6adf6a7514b21c9191c494ee009bce06da987</guid>
+      <pubDate>Tue, 08 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Baker Mayfield TB Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Buccaneers apparently reached out to Mayfield’s agent over the weekend; deadline do drive action after all. Mayfield is now under contract through his age-34 season. It’s not exactly a curious move for the Buccaneers — they didn’t have much of an avenue to find another quarterback given where they usually pick and rookie UDFA Jalon Daniels is their current backup. It is still a little surprising they let it twist in the wind as long as it did. Mayfield likely will be near the $50 million average annual value club once all the figures come in. (Some of this will be folded into the already-existing one-year contract.) He’ll be a reasonable superflex QB2 with a shot to rebound now that last year’s injuries are behind him.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
+      <rw:player>Baker Mayfield</rw:player>
+      <rw:team>TB</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Mike Garafolo</rw:source>
+      <rw:author />
+      <rw:date>Sep 8, 2026</rw:date>
+    </item>
     <item>
       <title>Christian Barmore (knee) is not on New England’s final injury report for Week 1’s game against the Seahawks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -396,6 +448,32 @@
       <rw:date>Sep 7, 2026</rw:date>
     </item>
     <item>
+      <title>Titans LB Cedric Gray is in concussion protocol.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e204a9c56a0e6085cde4067f6a3562514c74b8c26b2c334dc030574cc8b11d41</guid>
+      <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cedric Gray TEN Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to Titans beat Jim Wyatt, Gray was entered into concussion protocol after being involved in an accident while in an ultra terrain vehicle. The Titans released a statement saying that Gray “sustained a concussion and minor injuries” and that they expect him to be on the field once he clears concussion protocol. Gray is entering his third year in the league and is coming off a 2025 season in which he totaled 164 tackles, one sack, and two fumble recoveries while starting all 16 games he appeared in.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jim Wyatt&lt;/p&gt;</description>
+      <rw:player>Cedric Gray</rw:player>
+      <rw:team>TEN</rw:team>
+      <rw:position>Linebacker</rw:position>
+      <rw:source>Jim Wyatt</rw:source>
+      <rw:author />
+      <rw:date>Sep 7, 2026</rw:date>
+    </item>
+    <item>
+      <title>Giants released WR Darius Slayton.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:dd641f55e331e3afbeb1d1e0a2e8e24fd4798b19b8986a446136af89b96252db</guid>
+      <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Darius Slayton&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The longest-tenured Giants player is now in search of a new home after the team opted to release the 29-year-old receiver on Monday. Slayton was reportedly at risk of not making the initial 53-man roster out of camp, but survived the initial cuts only to be released a week later. During his seven seasons with the Giants, Slayton totaled 296 receptions for 4,435 yards and 22 touchdowns while serving primarily as a field stretcher. He posted four seasons of 724 or more receiving yards and had an impressive rookie campaign when he went for 48-740-8 as a rookie fifth-rounder out of Auburn. Slayton should have no trouble finding a new home in the coming days, but it may take some time before he’s back to seeing the field in a meaningful capacity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt Zenitz&lt;/p&gt;</description>
+      <rw:player>Darius Slayton</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Matt Zenitz</rw:source>
+      <rw:author />
+      <rw:date>Sep 7, 2026</rw:date>
+    </item>
+    <item>
       <title>Cardinals HC Mike LaFleur said he feels “good” about Jeremiyah Love’s (ankle) chances of playing in Week 1 against the Chargers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:c3dffa102ba3f861da8c16d9dacfcbb122bf626145d3a662c5653b5517c5f816</guid>
@@ -756,32 +834,6 @@
       <rw:team>ATL</rw:team>
       <rw:position>Quarterback</rw:position>
       <rw:source>Tom Pelissero</rw:source>
-      <rw:author />
-      <rw:date>Sep 7, 2026</rw:date>
-    </item>
-    <item>
-      <title>Titans LB Cedric Gray is in concussion protocol.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e204a9c56a0e6085cde4067f6a3562514c74b8c26b2c334dc030574cc8b11d41</guid>
-      <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cedric Gray TEN Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to Titans beat Jim Wyatt, Gray was entered into concussion protocol after being involved in an accident while in an ultra terrain vehicle. The Titans released a statement saying that Gray “sustained a concussion and minor injuries” and that they expect him to be on the field once he clears concussion protocol. Gray is entering his third year in the league and is coming off a 2025 season in which he totaled 164 tackles, one sack, and two fumble recoveries while starting all 16 games he appeared in.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jim Wyatt&lt;/p&gt;</description>
-      <rw:player>Cedric Gray</rw:player>
-      <rw:team>TEN</rw:team>
-      <rw:position>Linebacker</rw:position>
-      <rw:source>Jim Wyatt</rw:source>
-      <rw:author />
-      <rw:date>Sep 7, 2026</rw:date>
-    </item>
-    <item>
-      <title>Giants released WR Darius Slayton.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:dd641f55e331e3afbeb1d1e0a2e8e24fd4798b19b8986a446136af89b96252db</guid>
-      <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Darius Slayton&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The longest-tenured Giants player is now in search of a new home after the team opted to release the 29-year-old receiver on Monday. Slayton was reportedly at risk of not making the initial 53-man roster out of camp, but survived the initial cuts only to be released a week later. During his seven seasons with the Giants, Slayton totaled 296 receptions for 4,435 yards and 22 touchdowns while serving primarily as a field stretcher. He posted four seasons of 724 or more receiving yards and had an impressive rookie campaign when he went for 48-740-8 as a rookie fifth-rounder out of Auburn. Slayton should have no trouble finding a new home in the coming days, but it may take some time before he’s back to seeing the field in a meaningful capacity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt Zenitz&lt;/p&gt;</description>
-      <rw:player>Darius Slayton</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Matt Zenitz</rw:source>
       <rw:author />
       <rw:date>Sep 7, 2026</rw:date>
     </item>
@@ -6452,58 +6504,6 @@
       <rw:source>Adam Schefter</rw:source>
       <rw:author />
       <rw:date>Aug 27, 2026</rw:date>
-    </item>
-    <item>
-      <title>Steelers restructured DK Metcalf’s contract.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:a9c755900aede680eb3a62175852b8863c1c7528488c34e2c898235cc8819e61</guid>
-      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;DK Metcalf PIT Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s a simple restructure, converting base salary into a signing bonus. Per ESPN’s Field Yates, the move creates nearly $18 million in cap space for Pittsburgh. The transaction could be an indication that the Steelers need cap space for another move, but it’s much more likely that the team simply wants flexibility down the road. Metcalf remains signed through the 2029 season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Field Yates&lt;/p&gt;</description>
-      <rw:player>DK Metcalf</rw:player>
-      <rw:team>PIT</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Field Yates</rw:source>
-      <rw:author />
-      <rw:date>Aug 27, 2026</rw:date>
-    </item>
-    <item>
-      <title>Eagles signed Tahj Washington, formerly of the Dolphins.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:0d1cb35a0c8f47de1d064479ba9a92947067bd229c38ed817c28058006f9b395</guid>
-      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tahj Washington PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Philadelphia released Brandon Hayes in a corresponding move. Miami released Washington earlier this week. A 2024 seventh-round pick, Washington did not play as a rookie and appeared in six games last year. He caught three passes for 37 yards.&lt;/p&gt;</description>
-      <rw:player>Tahj Washington</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 27, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports Braden Smith suffered an injury to his plantar fascia and could miss “a few weeks.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:aafc5d98ccad4827de3529bd3f16e423d27df9662b5b2e1afef9800cbeb654c9</guid>
-      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Braden Smith HOU Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The good news is that, according to Schefter, the injury isn’t considered a long-term issue. It’s still unclear if Smith will be ready for Week 1. Houston signed Smith to a two-year, $25 million deal in the offseason. He was set to compete with Trent Brown for the starting right tackle job, but this could give Brown the inside track early in the year. As long as Smith is back early in the year, Houston should have the necessary tackle depth to survive this injury.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Braden Smith</rw:player>
-      <rw:team>HOU</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Aug 27, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Jeremy Fowler reports 49ers WR Mike Evans (groin) plans to play Week 1.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9a73256c14a08fada8252e20afb3fbee3c65f2985fe9c494abeec5b678c27ff6</guid>
-      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Evans has been dealing with a myriad of injuries throughout training camp, the latest being a groin issue. The injuries have been reported as minor as the 33-year-old manages his way through practices after having missed significant time due to injuries the last couple seasons. He was already expected to miss minimal time - if any - and Fowler confirms that Evans and the 49ers are still preparing for him to play Week 1.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
-      <rw:player>Mike Evans</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Jeremy Fowler</rw:source>
-      <rw:author />
-      <rw:date>Aug 26, 2026</rw:date>
     </item>
   </channel>
 </rss>

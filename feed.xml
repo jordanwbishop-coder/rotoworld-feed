@@ -4,11 +4,206 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Fri, 11 Sep 2026 12:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:43:22 +0000</lastBuildDate>
     <item>
-      <title>49ers HC Kyle Shanahan told reporters that Kyle Tonges suffered and MCL injury against the Rams.</title>
+      <title>Tua Tagovailoa (oblique) was not spotted at Friday’s practice.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1c776252e90e6311935ebc5d6287085e0f9b3ef13f35084121f5d6388af386ec</guid>
+      <guid isPermaLink="false">urn:sha256:bbae119f58187dcc4e392da28ffbdb60cbd7321b67a607f4a908996b8a07e77d</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tua Tagovailoa ATL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tua wasn’t spotted during the portion of practice open to the media, so it’s possible he takes the field later in the day. That said, his absence from practice on Friday wouldn’t bode well for his Week 1 availability after he popped up on Thursday’s injury report with an oblique issue. Veteran Cooper Rush took all first-team snaps for the Falcons on Thursday and would be in line to start on Sunday if Tua is unable to go. We should have an updated injury report soon, which will lay out Tagovailoa’s availability heading into the weekend.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Marc Raimondi&lt;/p&gt;</description>
+      <rw:player>Tua Tagovailoa</rw:player>
+      <rw:team>ATL</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Marc Raimondi</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bengals CB DJ Turner (hamstring) will play in Week 1 against the Buccaneers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e74e7afee474fdbf4a8e7624c52a4d2ebcf50b6ea09167ce0fc8d1e84973ed67</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;DJ Turner CIN Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Turner popped up on Thursday’s injury report with the hamstring issue, but head coach Zac Taylor said the fourth-year corner will be good to go for Sunday’s game. Turner posted career highs in pass breakups (18) and interceptions (2) last season while earning a PFF coverage grade of 78.1. The Bengals will rely heavily on him in Week 1 to slow down Baker Mayfield and a revamped Buccaneers passing game. While Turner is healthy and good to go, Taylor said DE Shemar Stewart (knee) is doubtful, making him unlikely to play in Week 1.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ben Baby&lt;/p&gt;</description>
+      <rw:player>DJ Turner</rw:player>
+      <rw:team>CIN</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Ben Baby</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Tee Higgins (heel) will play in Week 1 against the Buccaneers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0b3f049945f4055b9ddea28938b678c0d35a9a40ba83346c7ac8f391585c784c</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tee Higgins CIN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bengals HC Zac Taylor said Higgins and fellow receiver Ja’Marr Chase (knee) will both be good to go for Sunday’s game against the Buccaneers. Higgins has been dealing with a heel/foot injury in recent weeks but will be on the field for the team’s season-opener. He profiles as a high-end WR2 in what is expected to be a high-scoring game to kick off the Bengals’ 2026 season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ben Baby&lt;/p&gt;</description>
+      <rw:player>Tee Higgins</rw:player>
+      <rw:team>CIN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Ben Baby</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ja’Marr Chase (knee) will play in Week 1 against the Buccaneers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6fe4498ea6c122081e3c7d2a910c2e77769e0b824a14c6dd6a48ad2259744cb8</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ja&amp;#x27;Marr Chase CIN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chase was a full participant in each of the Bengals’ first two practices to start the week and is good to go for Week 1, according to head coach Zac Taylor. Chase can be trusted as a high-end WR1 for fantasy players in a matchup against the Buccaneers that should be ripe for fantasy points.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ben Baby&lt;/p&gt;</description>
+      <rw:player>Ja'Marr Chase</rw:player>
+      <rw:team>CIN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Ben Baby</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Titans LB Cedric Gray (concussion) will not play in Week 1 against the Jets.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:800073bdae9b79aed27ca8234cd27ac70c2c3f6d99fc8669c03909619977b059</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cedric Gray TEN Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gray suffered a concussion over the weekend after being involved in an accident while driving an ultra-terrain vehicle. Gray is expected to be back on the field after he clears concussion protocol, but his absence creates a glaring hole in the middle of the Titans’ defense. Gray totaled 164 tackles and one sack last season. His absence could lead to an increased role for rookie Anthony Hill Jr. on Sunday.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Turron Davenport&lt;/p&gt;</description>
+      <rw:player>Cedric Gray</rw:player>
+      <rw:team>TEN</rw:team>
+      <rw:position>Linebacker</rw:position>
+      <rw:source>Turron Davenport</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jonathon Brooks (groin) was seen practicing on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3ec087d5bbb4c31bdeaff55512f749ce90d7222e8710666e94bb14cf6227e854</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jonathon Brooks CAR Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We’ll have a better sense of Brooks’ Week 1 availability in a few hours when the Panthers release their final injury report for the week, but the third-year back logged limited practices on Wednesday and Thursday and is trending in the right direction for Sunday’s game against the Bears. If he’s active, Brooks is expected to split touches with Chuba Hubbard, which could put a hard cap on both players’ upside in the season-opener.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Alex Zietlow&lt;/p&gt;</description>
+      <rw:player>Jonathon Brooks</rw:player>
+      <rw:team>CAR</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Alex Zietlow</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jaguars HC Liam Coen said Parker Washington will “absolutely” be the team’s punt returner to start the season.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b9041d1ec5a7a7c63ad37b1a15a73825cab9fa63058171b73c8770a46ccb87a2</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Parker Washington&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coen also noted that Washington is “the guy right now,” suggesting that his role as the returner could change at some point in the year. Washington returned 25 punts for the Jaguars last season and racked up 341 return yards and two touchdowns on those returns. Coen said the Jaguars will hope to get Travis Hunter involved as the punt returner at some point, but Washington will start the season in the role. Washington profiles as a solid WR2 to start the fantasy season after going for 58-847-5 last year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ryan O’Halloran&lt;/p&gt;</description>
+      <rw:player>Parker Washington</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Ryan O’Halloran</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Commanders released OT D.J. Humphries.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c2de68f5651a4bd6b35c04bc938cee012128dcd4f347b9d6a4b1cfa32cd54a1e</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;D.J. Humphries&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Humphries’ release comes just a few weeks after the Commanders signed him to bolster an offensive line that had recently lost Laremy Tunsil. The veteran tackle apparently failed to make much of an impression in his brief stint with the Commanders, although it’s possible this is a roster management decision, and at some point he re-signs with Washington’s practice squad with a chance to be elevated in future weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Zach Selby&lt;/p&gt;</description>
+      <rw:player>D.J. Humphries</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Zach Selby</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Patriots signed DT DaQuan Jones, formerly of the Bills, to a one-year contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:972908b07303cc5fff195dee878884c0fe7fb59807f9742b2bc5e54e13c4bc91</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;DaQuan Jones NE Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to NFL Network’s Ian Rapoport, Jones will receive $3.5 million in base salary with a chance to earn up to $6 million on his deal. The 34-year-old vet started in all 12 games he appeared in for the Bills last season, totaling 22 tackles, three TFLs, and three sacks while also forcing a fumble. Jones played under head coach Mike Vrabel from 2018 to 2020 and should provide immediate help up front for the Pats’ d-line.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>DaQuan Jones</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jets HC Aaron Glenn said Jason Sanders will serve as the team’s kicker in Week 1 against the Titans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:9a2a00a3ccecd1a93e70eb13be67de7f5a6aecf4a4004d56287ef16880452341</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jason Sanders NYJ Kicker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is notable because Sanders is currently on the Jets’ practice squad while veteran kicker Blake Grupe is on the 53-man roster. Fantasy managers expecting Grupe to contribute to their Week 1 lineups will want to make sure they find a replacement. Sanders certainly makes for a viable option after he converted 37-of-41 field goal attempts last season while going 12-of-14 from distances of 50-plus yards.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rich Cimini&lt;/p&gt;</description>
+      <rw:player>Jason Sanders</rw:player>
+      <rw:team>NYJ</rw:team>
+      <rw:position>Kicker</rw:position>
+      <rw:source>Rich Cimini</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Josh Weinfuss reports “the expectation is that Jeremiyah Love will play Sunday against the Chargers.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f662a886a1bb42abc7dcc9f1c9c19fe9102b017ab76d683d6b3a2f01400d7e89</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jeremiyah Love ARI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Weinfuss received this information from a source familiar with the situation, but this news isn’t all that surprising. Love has logged back-to-back limited practices to start the week, and ESPN’s Adam Schefter reported on Thursday that “it looks like” Love will suit up in Week 1. The first-round rookie is expected to split touches with Tyler Allgeier, who was listed as the RB1 on the Cardinals’ unofficial depth chart earlier this week, but we would still expect Love to see enough touches to warrant starting as a mid- to low-end RB2 in his regular-season debut.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Josh Weinfuss&lt;/p&gt;</description>
+      <rw:player>Jeremiyah Love</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Josh Weinfuss</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Cowboys signed Ryan Flournoy to a one-year, $6 million contract extension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ba0a783f53c5e599800fc7e5f7afd3563a79ea520c1fcd5b7db467bf00dc3dde</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ryan Flournoy DAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flournoy is now under contract through the 2027 season. The 26-year-old receiver caught 40 passes for 475 yards and four touchdowns last season, while finishing third among Cowboys receivers in routes run (273) and fourth on the team in targets. It was reported earlier this summer that he was seeing more snaps in the slot, but it’s hard to imagine Flournoy making enough of an impact to be fantasy-relevant as long as CeeDee Lamb, George Pickens, and Jake Ferguson are healthy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Schultz&lt;/p&gt;</description>
+      <rw:player>Ryan Flournoy</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Jordan Schultz</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Myles Garrett said his goal ahead of Week 2’s game against the Giants is to “get healthy.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e01795bf10cf9954589ef3f8922568b69d21c851b9e51831afbdc25153444273</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Myles Garrett&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coming off an underwhelming debut in which he failed to even record a tackle in Week 1’s loss against the 49ers, Garrett said he was “the worst version” of himself in Thursday’s game. The star pass rusher was dealing with a knee injury in the days leading up to the game, but was ultimately removed from the injury report on Wednesday. Speaking after the game, he said his knee didn’t feel 100 percent, but Garrett still managed to play on 40 snaps, per PFF. Unfortunately, he generated only three pressures and failed to get a hit on the quarterback. Hopefully, some extended time off before next Monday’s game against the Giants will be enough for Garrett to get right in the Rams’ official 2026 home debut.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nate Atkins&lt;/p&gt;</description>
+      <rw:player>Myles Garrett</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Nate Atkins</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers HC Kyle Shanahan said Christian McCaffrey played through cramps in Week 1’s win over the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:bd55c3e03eba4ed34345b54864515f49d1414a66d786e19648c00ca71d17acbe</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian McCaffrey SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McCaffrey’s usage was a bit underwhelming in the first half of Thursday’s win. The 30-year-old running back played on 20 offensive snaps to Kaelon Black’s, while Black’s seven rush attempts more than doubled the three carries we saw from CMC, who also saw six first-half targets. McCaffrey’s second-half usage saw a slight uptick, but it’s possible some of what we saw as it pertains to last night’s split was related to this cramping issue. McCaffrey was undoubtedly the more efficient of the two Niners backs in last night’s win, but Black was solid in his debut, rushing 14 times for 65 yards. McCaffrey should be positioned for a big Week 2 game next week against the Dolphins.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Wagoner&lt;/p&gt;</description>
+      <rw:player>Christian McCaffrey</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Nick Wagoner</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers HC Kyle Shanahan said De’Zhaun Stribling’s Achilles was intact after Week 1’s win over the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:72db4b5eef55f410fc5c2b74584273530c05cf5df5a1ac2f3625293f11bdda10</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;De&amp;#x27;Zhaun Stribling SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Stribling was carted from the game late in the second quarter after briefly attempting to play through the ankle injury he suffered earlier in the game. While there was some concern that his injury was Achilles-related, Shanahan’s comments after the game suggest there’s little reason to be concerned about his Achilles at this time. Stribling played 21 snaps in the first half of Thursday’s game but was held without a catch. We’ll likely get more clarity on his status in the coming days, but hopefully the worst was avoided here.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>De'Zhaun Stribling</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers HC Kyle Shanahan told reporters that Jake Tonges suffered an MCL injury against the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ce4f23375d0a7c1a4d5a8ed850748d649b5a5803c1e5c4e3619158714bf6d964</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Jake Tonges SF Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shanahan told reporters that it “doesn’t look good.” The 27-year-old tight end suffered the injury near the end of the first half, and it sounds like San Francisco will be without the backup tight end for some time. Luke Ferrell will likely see more snaps with Tonges unavailable.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt Lively&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
       <rw:player>Jake Tonges</rw:player>
@@ -34,9 +229,9 @@
     <item>
       <title>Davante Adams caught 3-of-6 targets for 26 yards in the Rams’ Week 1 loss to the 49ers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:fe9c68f53496c7d2883d08b5ace3379924453982f0942ae67f8b7f898be26490</guid>
+      <guid isPermaLink="false">urn:sha256:12d8bd168f3cd332fced58417c3da07a8357603af0892a431cfc9e0578030ead</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Davante Adams&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There was much talk about how great Adams looked in the precursor to the season, but it wasn’t on display in Week 1. The 33-year-old had a long gain of just 13 yards, and he and Matthew Stafford were unable to find much opening against the San Francisco secondary. Adams will get a chance to rebound in Week 2 in a Monday Night Football contest against the Giants.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Davante Adams&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There was plenty of talk about how great Adams looked in the precursor to the season, but it wasn’t on display in Week 1. The 33-year-old had a long gain of just 13 yards, and he and Matthew Stafford were unable to find many openings against the San Francisco secondary. Adams will get a chance to rebound in Week 2 in a Monday Night Football contest against the Giants.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
       <rw:player>Davante Adams</rw:player>
       <rw:team />
       <rw:position />
@@ -49,7 +244,7 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:80418bedbae104c8b3883ae702c619cde6bf5a5403c27df718b1f4606ac2dfe7</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nacua did bring in a 41-yard connection in the first half, but outside of that, it was a disappointing first effort to the season for one of the best wideouts in the game. It’s tough to blame much — if any — of it on Nacua, as Matthew Stafford and the Rams’ passing attack was completely shut down by the 49ers’ defense. All things considered, it could have been worse. Nacua remains near the top of the wideout rankings for Week 2 against the Giants.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nacua did bring in a 41-yard connection in the first half, but outside of that, it was a disappointing first effort to the season for one of the best wideouts in the game. It’s tough to blame much — if any — of it on Nacua, as Matthew Stafford and the Rams’ passing attack were completely shut down by the 49ers’ defense. All things considered, it could have been worse. Nacua remains near the top of the wideout rankings for Week 2 against the Giants.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
       <rw:player>Puka Nacua</rw:player>
       <rw:team />
       <rw:position />
@@ -62,7 +257,7 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:91ff8858df2900c540019d4f1bf05933c577d388997356bbd16187d980f4adc8</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Demarcus Robinson SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Robinson snagged one of three touchdown passes from Brock Purdy, with his being the longest connection on a 39-yard strike. The 31-year-old had just one other catch, and while he’s still capable of making a deep play or two, it’s hard to trust him as fantasy option. He’ll have a chance to prove the doubters wrong again in Week 2 against the Dolphins.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Demarcus Robinson SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Robinson snagged one of three touchdown passes from Brock Purdy, with his being the longest connection on a 39-yard strike. The 31-year-old had just one other catch, and while he’s still capable of making a deep play or two, it’s hard to trust him as a fantasy option. He’ll have a chance to prove the doubters wrong again in Week 2 against the Dolphins.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
       <rw:player>Demarcus Robinson</rw:player>
       <rw:team>SF</rw:team>
       <rw:position>Wide Receiver</rw:position>
@@ -73,9 +268,9 @@
     <item>
       <title>George Kittle caught 2-of-5 targets for 12 yards in the 49ers’ Week 1 win over the Rams.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d44fda3bf049744cb7be480bebcf91164485d0d7e875672e5f2b768474ac79f7</guid>
+      <guid isPermaLink="false">urn:sha256:d59a397ad018b498894c9a970c7c0403cffbc3502e890ce6b36b6b734d35b606</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;George Kittle SF Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brock Purdy tried to get Kittle involved early in the contest, but it was the one legitimate option that Purdy wasn’t able to find success will. It’s amazing that the 32-year-old was even able to play in this game considering he tore his Achilles in January, but it is also fair to say it was a fantasy dud. Expect better things going forward for Kittle, and the next chance comes in Week 2 against a not-so-great Dolphins’ defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;George Kittle SF Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brock Purdy tried to get Kittle involved early in the contest, but it was the one legitimate option that Purdy wasn’t able to find success with. It’s amazing that the 32-year-old was even able to play in this game considering he tore his Achilles in January, but it is also fair to say it was a fantasy dud. Expect better things going forward for Kittle, and the next chance comes in Week 2 against a not-so-great Dolphins defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
       <rw:player>George Kittle</rw:player>
       <rw:team>SF</rw:team>
       <rw:position>Tight End</rw:position>
@@ -88,7 +283,7 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:dd4aef33b92aafb969138cb871d9c670bf03ef6d79b7e3eb15c760ca7556cd36</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Deebo Samuel SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In addition to those receptions, Samuel also added a rush for five yards and returned two kicks for 74 yards with a long of 45. The 30-year-old’s time with the Commanders was disappointing, but his return to San Francisco — at least in this first contest — was a successful one, even without much yardage. The 30-year-old’s targets were likely helped by De’Zhaun Stribling leaving with an ankle injury, but the connection between Samuel and Purdy looked solid enough in the Australia opener. Samuel will be back in action in Week 2 in a matchup against the Dolphins.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Deebo Samuel SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In addition to those receptions, Samuel also added a rush for five yards and returned two kicks for 74 yards with a long of 45. The 30-year-old’s time with the Commanders was disappointing, but his return to San Francisco — at least in this first contest — was a successful one, even without much yardage. Samuel’s targets were likely helped by De’Zhaun Stribling leaving with an ankle injury, but the connection between Samuel and Purdy looked solid enough in the Australia opener. Samuel will be back in action in Week 2 in a matchup against the Dolphins.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
       <rw:player>Deebo Samuel</rw:player>
       <rw:team>SF</rw:team>
       <rw:position>Wide Receiver</rw:position>
@@ -101,7 +296,7 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:88aa778855df494b1c8761ed23dc0f75430aa5b63bf08ee6805b83b3981e707b</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Evans made his debut with the 49ers and high-pointed a touchdown pass from Brock Purdy the way we’ve seen him do it for well over a decade with the Buccaneers. He did have a drop, but he was targeted early as the 49ers were pass-happy in the first half before needing less of an arial attack over the final two quarters. Evans is always going to be a red-zone threat with his 6-foot-5 size, and stands a decent chance of scoring again in Week 2 against the Dolphins.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Evans made his debut with the 49ers and high-pointed a touchdown pass from Brock Purdy the way we’ve seen him do it for well over a decade with the Buccaneers. He did have a drop, but he was targeted early as the 49ers were pass-happy in the first half before needing less of an aerial attack over the final two quarters. Evans is always going to be a red-zone threat with his 6-foot-5 size, and stands a decent chance of scoring again in Week 2 against the Dolphins.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
       <rw:player>Mike Evans</rw:player>
       <rw:team>SF</rw:team>
       <rw:position>Wide Receiver</rw:position>
@@ -114,7 +309,7 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:8f52ae9e218792aebc5a6eff205c6986c915fd46d12ae23a03eadb970d2a2c36</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Blake Corum&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Corum was unable to find the end zone while Kyren Williams did, but Corum was the more efficient tailback between the 20s with Williams only tallying 41 yards. He was also a non-factor in the passing game, but the Rams were basically a non factor in the passing game with Matthew Stafford struggling to figure out the 49ers’ defense. Corum could see more touches in Week 2 against the Giants, but there’s no guarantee.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Blake Corum&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Corum was unable to find the end zone while Kyren Williams did, but Corum was the more efficient tailback between the 20s with Williams only tallying 41 yards. He was also a non-factor in the passing game, but the Rams were basically a non-factor in the passing game with Matthew Stafford struggling to figure out the 49ers’ defense. Corum could see more touches in Week 2 against the Giants, but there’s no guarantee.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
       <rw:player>Blake Corum</rw:player>
       <rw:team />
       <rw:position />
@@ -125,9 +320,9 @@
     <item>
       <title>Kaelon Black rushed 14 times for 65 yards in the 49ers’ Week 1 win over the Rams.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f0c474041e8c08fe97b769af0bf11d8c1d5e0dbdd5ce5c20e2d3d1a5e98ba9c4</guid>
+      <guid isPermaLink="false">urn:sha256:6f1195f1512830d0e745b6667de54d3b0edbf662c6789de6f22e0d63ff4328e1</guid>
       <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kaelon Black SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It was Black’s NFL debut, and all things considered, it was a pretty good one. The former Indiana star had four more carries than Christian McCaffrey, and was much more involved in the rushing attack in the first half; although CMC was obviously a factor in the passing attack and Black had just one catch for five yards. It wasn’t the most impressive statline you’ll see from a debut, but there were definitely flashes that suggest success for the 24-year-old. Black and the 49ers will get a chance to face the Dolphins in Week 2.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Kaelon Black SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It was Black’s NFL debut, and all things considered, it was a pretty good one. The former Indiana star had four more carries than Christian McCaffrey and was much more involved in the rushing attack in the first half, though CMC was obviously a factor in the passing attack and Black had just one catch for five yards. It wasn’t the most impressive statline you’ll see from a debut, but there were definitely flashes that suggest success for the 24-year-old. Black and the 49ers will get a chance to face the Dolphins in Week 2.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
       <rw:player>Kaelon Black</rw:player>
       <rw:team>SF</rw:team>
       <rw:position>Running Back</rw:position>
@@ -314,19 +509,6 @@
       <rw:team>NE</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 10, 2026</rw:date>
-    </item>
-    <item>
-      <title>Seahawks QB Sam Darnold suffered an “unusual muscle strain,” and injured reserve is not being considered at this time.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:eb59a37b66afb242dc6d251f2ae005d9e07d4c155ef60ec7f7daabc7ec743ea3</guid>
-      <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Sam Darnold SEA Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The report comes from the Ringer’s Tom Pelissero, who adds that “there is no timetable” for Darnold’s recovery, which will be based on “how he feels and how he recovers.” Pelissero referred to QB Drew Lock as “the likely starter” for the Seahawks’ Week 2 game against the Cardinals.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
-      <rw:player>Sam Darnold</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Tom Pelissero</rw:source>
       <rw:author />
       <rw:date>Sep 10, 2026</rw:date>
     </item>
@@ -561,6 +743,71 @@
       <rw:team>BAL</rw:team>
       <rw:position>Defensive Lineman</rw:position>
       <rw:source>Adam Caplan</rw:source>
+      <rw:author />
+      <rw:date>Sep 10, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers HC Kyle Shanahan told reporters that Kyle Tonges suffered and MCL injury against the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1c776252e90e6311935ebc5d6287085e0f9b3ef13f35084121f5d6388af386ec</guid>
+      <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jake Tonges SF Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shanahan told reporters that it “doesn’t look good.” The 27-year-old tight end suffered the injury near the end of the first half, and it sounds like San Francisco will be without the backup tight end for some time. Luke Ferrell will likely see more snaps with Tonges unavailable.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt Lively&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <rw:player>Jake Tonges</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Matt Lively</rw:source>
+      <rw:author>Christopher Crawford</rw:author>
+      <rw:date>Sep 10, 2026</rw:date>
+    </item>
+    <item>
+      <title>Davante Adams caught 3-of-6 targets for 26 yards in the Rams’ Week 1 loss to the 49ers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fe9c68f53496c7d2883d08b5ace3379924453982f0942ae67f8b7f898be26490</guid>
+      <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Davante Adams&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There was much talk about how great Adams looked in the precursor to the season, but it wasn’t on display in Week 1. The 33-year-old had a long gain of just 13 yards, and he and Matthew Stafford were unable to find much opening against the San Francisco secondary. Adams will get a chance to rebound in Week 2 in a Monday Night Football contest against the Giants.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <rw:player>Davante Adams</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author>Christopher Crawford</rw:author>
+      <rw:date>Sep 10, 2026</rw:date>
+    </item>
+    <item>
+      <title>George Kittle caught 2-of-5 targets for 12 yards in the 49ers’ Week 1 win over the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d44fda3bf049744cb7be480bebcf91164485d0d7e875672e5f2b768474ac79f7</guid>
+      <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;George Kittle SF Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brock Purdy tried to get Kittle involved early in the contest, but it was the one legitimate option that Purdy wasn’t able to find success will. It’s amazing that the 32-year-old was even able to play in this game considering he tore his Achilles in January, but it is also fair to say it was a fantasy dud. Expect better things going forward for Kittle, and the next chance comes in Week 2 against a not-so-great Dolphins’ defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <rw:player>George Kittle</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author>Christopher Crawford</rw:author>
+      <rw:date>Sep 10, 2026</rw:date>
+    </item>
+    <item>
+      <title>Kaelon Black rushed 14 times for 65 yards in the 49ers’ Week 1 win over the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f0c474041e8c08fe97b769af0bf11d8c1d5e0dbdd5ce5c20e2d3d1a5e98ba9c4</guid>
+      <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kaelon Black SF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It was Black’s NFL debut, and all things considered, it was a pretty good one. The former Indiana star had four more carries than Christian McCaffrey, and was much more involved in the rushing attack in the first half; although CMC was obviously a factor in the passing attack and Black had just one catch for five yards. It wasn’t the most impressive statline you’ll see from a debut, but there were definitely flashes that suggest success for the 24-year-old. Black and the 49ers will get a chance to face the Dolphins in Week 2.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <rw:player>Kaelon Black</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author>Christopher Crawford</rw:author>
+      <rw:date>Sep 10, 2026</rw:date>
+    </item>
+    <item>
+      <title>Seahawks QB Sam Darnold suffered an “unusual muscle strain,” and injured reserve is not being considered at this time.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:eb59a37b66afb242dc6d251f2ae005d9e07d4c155ef60ec7f7daabc7ec743ea3</guid>
+      <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Sam Darnold SEA Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The report comes from the Ringer’s Tom Pelissero, who adds that “there is no timetable” for Darnold’s recovery, which will be based on “how he feels and how he recovers.” Pelissero referred to QB Drew Lock as “the likely starter” for the Seahawks’ Week 2 game against the Cardinals.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
+      <rw:player>Sam Darnold</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Tom Pelissero</rw:source>
       <rw:author />
       <rw:date>Sep 10, 2026</rw:date>
     </item>
@@ -6255,253 +6502,6 @@
       <rw:team />
       <rw:position />
       <rw:source>Jeremy Fowler</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cowboys waived RB Jaydon Blue.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:40e3571822d1eea6f9ae495647fd4638c6d28229023d8247f89faedfad8b3a5f</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jaydon Blue&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Well this one is going to leave a mark. 2025 fifth-rounder Blue was a summer ’25 fantasy creation the Cowboys never seemed to get behind, confirming as much when they made him a Week 1 healthy scratch. That set the tone for a bitterly disappointing rookie year that featured just 39 touches. This offseason seemed to be different, however, with head coach Brian Schottenheimer spending the spring dishing out over-the-top positive quotes on his second-year back. The praise again died down during training camp, but Blue showed well in his preseason action. Just apparently nowhere close to well enough to beat out survivor veteran Malik Davis for No. 2 status behind Javonte Williams. Blue is still only 22 years old, but his back-to-back failures to earn pass-catching duties in a backfield that could really use such a player is an ominous sign for his NFL future. He’s now a tenuous hold in dynasty leagues despite his youth and past high expectations. All of that being said, it is possible once the cut-down dust settles that either Blue or fellow waived sophomore Phil Mafah end up back on the Cowboys’ 53-man roster.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Jaydon Blue</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Texans waived Jamal Hill.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:6769ab07655a38a4f12cd0c5101f6266f65065d4328fa5dd4e1476cf7cc68597</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jamal Hill&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A 2024 sixth-round pick, Hill has appeared in 20 games for the Texans over the past two years. He has only three defensive snaps to his name but has taken the field for 365 special teams reps. Hill’s special teams prowess could earn him a spot on Houston’s practice squad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
-      <rw:player>Jamal Hill</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Aaron Wilson</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Broncos waived S Miles Scott.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2f52f74069544a09f4eadad35d06f4ce0f5dea559ec968c68fee4bbd82e81b30</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Miles Scott&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Broncos reportedly want to bring back the seventh-round rookie via the practice squad. They will be able to do so if he clears waivers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Chris Tomasson&lt;/p&gt;</description>
-      <rw:player>Miles Scott</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Chris Tomasson</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Commanders released Trent Scott.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:92ac4711d69f548456f90f9c49e13882ff4ef7fe07076107cc9ba9bb653bc54d</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Trent Scott&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Scott has been with the Commanders for each of the past three seasons, appearing in 35 games with six starts, not including the postseason. He even caught Jayden Daniels’ first touchdown pass in 2024. Scott is a candidate to land on Washington’s practice squad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>Trent Scott</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cardinals released OL Matt Pryor.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c7a2a1930f51e0dc0a082e6482471a96ec8172115f02aaaaa1525c23d31d1b9e</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Matt Pryor&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a tad surprising because the Cardinals needed help on the offensive line following OG Chase Bisontis’ knee injury, and Pryor has experience at OT and OG. Pryor could return via the practice squad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
-      <rw:player>Matt Pryor</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Mike Garafolo</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers released S Tony Jefferson.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:29080f3c3c3fb484a184accebc84f1971ca1dac19d89a6336e898cd02a8f4872</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tony Jefferson&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 34-year-old will likely be kept in some form — practice squad or re-signed after some shuffling at last cuts — and this will just be roster manipulation. The 34-year-old started eight games last year and played in 13 for the Chargers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Tony Jefferson</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Commanders waived QB Sam Hartman.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7200d8d0859eeb3b528b5d1ed79bd2b5f30590260c731220058db0985be83486</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Sam Hartman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Although he entered the league just two years ago, Hartman is already 27 years old. He has never seriously competed for the Commanders’ No. 2 job. He will likely head back to the practice squad, but the odds are getting longer Hartman ever makes a regular season appearance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
-      <rw:player>Sam Hartman</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Tom Pelissero</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Seahawks acquired CB Avery Smith from the Chargers in exchange for a sixth-round pick.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9a6b5e7c7d445c9330d8524a30a5b52c20ab1d3896e2841c6c231d5c33b5ce64</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Avery Smith SEA Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The news was first reported by NFL Insider Tom Pelissero. It’s no secret that the Seahawks have been looking for cornerback depth this preseason. Seattle signed Trevon Diggs and Terrion Arnold in recent weeks. Now the Seahawks send out a sixth-round pick to bring in Smith, a UDFA from Toledo who was a standout in Chargers training camp.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
-      <rw:player>Avery Smith</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Cornerback</rw:position>
-      <rw:source>Tom Pelissero</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Texans released S George Odum.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2fcebbae6532692efb89db64ab45fb3248e30c53817096916bdee99c8b941f6f</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;George Odum&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The former 49ers and Colts special teams star will not make the roster in Houston. Another team could give him a chance, though. He totaled four special teams tackles in three games last year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
-      <rw:player>George Odum</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Aaron Wilson</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Giants released QB Brandon Allen.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:766343ec4c0d8abf08c3890ba2895f3057f5407e4abab546a66d2545ba96b5ba</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brandon Allen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen backed up Cam Ward for the Titans last season, but was little more than a camp arm for the Giants behind Jaxson Dart and Jameis Winston. About to turn 34 with just 97 attempts since the 2020 season, Allen is probably nearing the end of the NFL line.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
-      <rw:player>Brandon Allen</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Mike Garafolo</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Daniel Oyefusi reports QB Taylen Green has made the Browns’ initial 53-man roster.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:58bf53602fe5decf8c615f87053c92b5ac59b15f5fd02ba03bd1c32059ab6771</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Taylen Green CLE Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cleveland is expected to keep all four of its quarterbacks for the 53-man roster. That includes Deshaun Watson, the team’s Week 1 starter, along with Shedeur Sanders, Dillon Gabriel, and Green, who was selected with the 182nd pick in the 2026 draft. The hyper-athletic Green could be used as a trick play option in Todd Monken’s offense. Green in 2025 led all college football players in EPA per rush.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Daniel Oyefusi&lt;/p&gt;</description>
-      <rw:player>Taylen Green</rw:player>
-      <rw:team>CLE</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Daniel Oyefusi</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cowboys released Marquez Valdes-Scantling.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:df7281727549b5ffcfcf894c13cf26c0f2fe3229e83c6f04905aeb303deaae97</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Marquez Valdes-Scantling&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Valdes-Scantling signed a one-year deal with the Cowboys this offseason. He barely garnered more than the veteran minimum and was clearly nothing more than a depth option for the team. With well over 100 career games across six teams to his name, MVS should still find a team willing to carry him on their practice squad in the coming days.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
-      <rw:player>Marquez Valdes-Scantling</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Aaron Wilson</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cardinals released CB Sean Murphy-Bunting.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:09bc0f35050ddf0307429da70a9715baee77285d25dad28fc1f1a79d8a28731e</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Sean Murphy-Bunting&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Murphy-Bunting missed 2025 with a torn ACL. He missed a portion of training camp this month, but it is unclear why. He resumed practicing on August 17th. If healthy, he could compete for a backup role elsewhere.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt Zenitz&lt;/p&gt;</description>
-      <rw:player>Sean Murphy-Bunting</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Matt Zenitz</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Titans waived QB Will Levis.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:30bf09fc63162ce21fbe37dbd29809baaf99d012d702ca50ceaa1132064b1bda</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Will Levis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An ill-fated “second-round savior” in the 2023 Draft, now 27-year-old Levis is sent packing from the Music City with 21 starts under his belt. That included zero in 2025 as Levis missed the entire season with a shoulder injury behind No. 1 overall pick Cam Ward. In theory, Levis “competed” for the backup job this summer, but journeyman free agent Mitch Trubisky was always the heavy favorite. Levis has all the physical talent in the world, but not the accuracy or processing, at least so far. It’s possible a more functional franchise could turn him in to a legit No. 2 quarterback, but that does not seem terribly likely at this point.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Schultz&lt;/p&gt;</description>
-      <rw:player>Will Levis</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Jordan Schultz</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Giants released DT Zacch Pickens.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:db2a0401888cd210a53b5da0ec5c4a5a88e44ad6b862f2a188f36ea7bab450e0</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Zacch Pickens&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pickens is a former third-round pick, appearing in games for the Bears and Chiefs since being drafted in 2023. The 26-year-old signed with the Giants this offseason and took some first-team reps in camp as the team tried several different things to solve their defensive tackle puzzle. Ultimately, the Giants decided Pickens is not a part of the equation for 2026.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Raanan&lt;/p&gt;</description>
-      <rw:player>Zacch Pickens</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Jordan Raanan</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Ringer’s Tom Pelissero reports Puka Nacua is expected to avoid the commissioner’s exempt list to begin the regular season.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d6a621f902883ce8b8928b57fef2a9d55ba28c5e5f65dbaf4032c7bec8481fd8</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Three players landed on what amounts to the “suspended with pay” list on Sunday, but Pelissero reports Nacua isn’t one of them. That does not necessarily mean Nacua is out of the woods for all time with the NFL, but his situation did not rise to the level of Josh Jacobs’ in the eyes of the shield. Now the main Week 1 question mark for Nacua is his groin injury, but it is not expected to keep him out of the Rams’ Australian opener vs. the 49ers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
-      <rw:player>Puka Nacua</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Tom Pelissero</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cowboys waived RB Phil Mafah.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:58dba49c37771b2984a2e42e27e3e9d92b05036d40ef90f188787790e71c0d44</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Phil Mafah&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mafah became the off man out of the backfield rotation behind starter Javonte Williams Sunday, leaving Malik Davis and Jaydon Blue left to fight for primary backup duties. Blue appears to have an established change-of-pace role, making it more likely Davis operates in more of a pure handcuff fashion to begin the season.&lt;/p&gt;</description>
-      <rw:player>Phil Mafah</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chiefs waived Esa Pole.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f27af88478f8be07b1d2807bdfb0301b716f4d8c9540a651160507e63f672139</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Esa Pole&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pole signed with the Chiefs as a UDFA last year. He didn’t make their final roster and spent some time on the Jets’ practice squad before returning to the Chiefs late in the season. Pole went on to make four starts at left tackle late in the year and played reasonably well. His release is a bit of a surprise.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sam McDowell&lt;/p&gt;</description>
-      <rw:player>Esa Pole</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Sam McDowell</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Ringer’s Tom Pelissero reports the NFL will place Broncos EDGE Jonathan Cooper on the commissioner’s exempt list.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:95d7a8c7a1ab5d85ff8547244e888bf4a20e36ceec817484f76213c99c20e594</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jonathon Cooper DEN Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cooper is facing felony assault charges in addition to other chargers including domestic violence and harassment. The 28-year-old was slated to be Denver’s starting outside linebacker opposite Nik Bonitto, but now they’ll have to look at depth options while waiting for the commissioner to clear Cooper.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
-      <rw:player>Jonathon Cooper</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Outside Linebacker</rw:position>
-      <rw:source>Tom Pelissero</rw:source>
       <rw:author />
       <rw:date>Aug 30, 2026</rw:date>
     </item>

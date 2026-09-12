@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 01:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:04:44 +0000</lastBuildDate>
+    <item>
+      <title>ESPN’s Todd Archer reports that Cowboys Malik Davis (hip) will have surgery and be placed on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:57685cfc163840d3dcd351fa7d483f7deb4bca1a763cf5af5b41705aaff938b9</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Malik Davis DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It is unclear whether this is a season-ending injury or if Davis has a chance to return later in the year. ESPN’s Jeremy Fowler reported earlier that the Cowboys were “bracing for an extended absence” and that a source told him, “it’s bad.” It sounds like Davis’ 2026 season may be over. Cowboys RB Emari Demercado now sits behind starting RB Javonte Williams, and RB Israel Abanikanda is on the practice squad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Todd Archer&lt;/p&gt;</description>
+      <rw:player>Malik Davis</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Todd Archer</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
     <item>
       <title>NFL Network’s Cameron Wolfe reports that the Panthers will “likely” decide whether to offer QB Bryce Young an extension in the 2027 offseason.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -205,7 +218,7 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:d9c03f28023b337d5836e1a369d6a4cd03bb2ec3741108bc6c7320084deb775d</guid>
       <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Malik Davis DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Regarding Davis’ injury, Fowler’s source said simply, “it’s bad.” The Cowboys’ No. 2 running back is undergoing further testing, but we expect them to place him on injured reserve before long. The Cowboys waived RB Jaydon Blue and RB Phil Mafah last month. Blue has since signed with the Eagles’ practice squad. Currently, only RB Israel Abanikanda resides on the practice squad in Dallas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Malik Davis DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Regarding Davis’ injury, Fowler’s source said simply, “it’s bad.” The Cowboys’ No. 2 running back is undergoing further testing, but we expect them to place him on injured reserve before long. The Cowboys waived RB Jaydon Blue and RB Phil Mafah last month. Blue has since signed with the Eagles’ practice squad. The Cowboys have RB Emari Demercado on the active roster behind RB Javonte Williams. Currently, only RB Israel Abanikanda is on the practice squad in Dallas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
       <rw:player>Malik Davis</rw:player>
       <rw:team>DAL</rw:team>
       <rw:position>Running Back</rw:position>
@@ -6489,19 +6502,6 @@
       <rw:team>PIT</rw:team>
       <rw:position>Cornerback</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cardinals placed James Conner on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f02ecc2a104fb2d3e2db7e1e2afe3a7ab62f65345e5624381a76dc4d40b3e239</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;James Conner ARI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Conner will miss at least four games to start the year as he continues to work his way back from the ankle injury that ended his 2025 season. The team can designate him to return after Week 4. With Jeremiyah Love also banged up, Tyler Allgeier could be in for a hefty workload early in the season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
-      <rw:player>James Conner</rw:player>
-      <rw:team>ARI</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Tom Pelissero</rw:source>
       <rw:author />
       <rw:date>Aug 30, 2026</rw:date>
     </item>

@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 06:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 12:12:40 +0000</lastBuildDate>
+    <item>
+      <title>ESPN’s Adam Schefter reports an extension for Lamar Jackson is likely “on hold” until 2027.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fb9f255d4b4ec653ba315b3adb277e2c16626f4c03f199c21c9854063284be00</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Lamar Jackson BAL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jackson and the Ravens engaged in contract talks throughout the offseason but never got the deal across the finish line. Jackson doesn’t have an agent, meaning he represents himself in contract negotiations. The added time and stress of that likely means neither side wants to continue contract discussions in the midst of the regular season. Jackson is under contract through the 2027 season, giving the team one more offseason to get him locked down long-term.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Lamar Jackson</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Cameron Wolfe reports the Jaguars are “unlikely” to extend Parker Washington before Week 1.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2217b7f7f258ba15ef645830780e9f0f06116a11ebcb8120487327b49a734d71</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Parker Washington&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Per Wolfe, the Jags explored a deal similar to that of Michael Wilson, who just landed a three-year, $75 million extension. The two sides couldn’t agree to terms, and Washington will now start his contract year. It’s a highly risky move for a largely unheralded player who caught lightning in a bottle at the end of last year. Washington caught 29 passes for 507 yards and three touchdowns in his final five games, including one postseason appearance. If he repeats anything close to those numbers over a full season this year, Washington will make far more than Wilson as a free agent next offseason.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cameron Wolfe&lt;/p&gt;</description>
+      <rw:player>Parker Washington</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Cameron Wolfe</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
     <item>
       <title>Texans and QB C.J. Stroud will pause contract discussion until after the 2026 season.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -108,32 +134,6 @@
       <rw:source>Over the Cap</rw:source>
       <rw:author />
       <rw:date>Sep 12, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Todd Archer reports that Cowboys Malik Davis (hip) will have surgery and be placed on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:57685cfc163840d3dcd351fa7d483f7deb4bca1a763cf5af5b41705aaff938b9</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Malik Davis DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It is unclear whether this is a season-ending injury or if Davis has a chance to return later in the year. ESPN’s Jeremy Fowler reported earlier that the Cowboys were “bracing for an extended absence” and that a source told him, “it’s bad.” It sounds like Davis’ 2026 season may be over. Cowboys RB Emari Demercado now sits behind starting RB Javonte Williams, and RB Israel Abanikanda is on the practice squad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Todd Archer&lt;/p&gt;</description>
-      <rw:player>Malik Davis</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Todd Archer</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Cameron Wolfe reports that the Panthers will “likely” decide whether to offer QB Bryce Young an extension in the 2027 offseason.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1577fa7bfa8bbd9ee7527e7f428203e093820c83db3a22543f6a2db2cc1d02c7</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Bryce Young CAR Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Young has two years remaining on his contract, but is currently eligible for an extension. According to Wolfe, Young needs to improve in three areas. First, Young must check down when it’s the responsible thing to do, in turn elevating his completion rate to the “high 60s, low 70s” range. Second, Young must be comfortable playing with tempo and diverse personnel formations, including WR Tetairoa McMillan lining up in the slot more often. Third, Young must play quickly and decisively. Whether he can accomplish these feats is up in the air. He’s a mid-to-low QB2 for fantasy purposes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cameron Wolfe&lt;/p&gt;</description>
-      <rw:player>Bryce Young</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Cameron Wolfe</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
     </item>
     <item>
       <title>The Athletic’s Dan Duggan reports that the Giants’ plan to elevate WR Braxton Berrios from the practice squad is unrelated to WR Malik Nabers (knee).</title>
@@ -366,19 +366,6 @@
       <rw:team>LAC</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Kris Rhim</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ravens WR Zay Flowers (hamstring) was removed from the injury report and will play in Week 1 against the Colts.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:be2ca3547b1406ce8a8165fb77e29632dd125de2ddd5be44d073b8ff08eb3ec6</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flowers kicked off the week with a limited session before upgrading to full participation on Thursday and Friday. Ravens QB Lamar Jackson has expressed excitement about new OC Declan Doyle’s offensive scheme, which is set to feature Flowers as the top target earner. Treat him as a WR2 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Baltimore Ravens&lt;/p&gt;</description>
-      <rw:player>Zay Flowers</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Baltimore Ravens</rw:source>
       <rw:author />
       <rw:date>Sep 11, 2026</rw:date>
     </item>
@@ -756,6 +743,45 @@
       <rw:team>TB</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>Greg Auman</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Todd Archer reports that Cowboys Malik Davis (hip) will have surgery and be placed on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:57685cfc163840d3dcd351fa7d483f7deb4bca1a763cf5af5b41705aaff938b9</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Malik Davis DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It is unclear whether this is a season-ending injury or if Davis has a chance to return later in the year. ESPN’s Jeremy Fowler reported earlier that the Cowboys were “bracing for an extended absence” and that a source told him, “it’s bad.” It sounds like Davis’ 2026 season may be over. Cowboys RB Emari Demercado now sits behind starting RB Javonte Williams, and RB Israel Abanikanda is on the practice squad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Todd Archer&lt;/p&gt;</description>
+      <rw:player>Malik Davis</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Todd Archer</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Cameron Wolfe reports that the Panthers will “likely” decide whether to offer QB Bryce Young an extension in the 2027 offseason.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1577fa7bfa8bbd9ee7527e7f428203e093820c83db3a22543f6a2db2cc1d02c7</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Bryce Young CAR Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Young has two years remaining on his contract, but is currently eligible for an extension. According to Wolfe, Young needs to improve in three areas. First, Young must check down when it’s the responsible thing to do, in turn elevating his completion rate to the “high 60s, low 70s” range. Second, Young must be comfortable playing with tempo and diverse personnel formations, including WR Tetairoa McMillan lining up in the slot more often. Third, Young must play quickly and decisively. Whether he can accomplish these feats is up in the air. He’s a mid-to-low QB2 for fantasy purposes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cameron Wolfe&lt;/p&gt;</description>
+      <rw:player>Bryce Young</rw:player>
+      <rw:team>CAR</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Cameron Wolfe</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ravens WR Zay Flowers (hamstring) was removed from the injury report and will play in Week 1 against the Colts.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:be2ca3547b1406ce8a8165fb77e29632dd125de2ddd5be44d073b8ff08eb3ec6</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flowers kicked off the week with a limited session before upgrading to full participation on Thursday and Friday. Ravens QB Lamar Jackson has expressed excitement about new OC Declan Doyle’s offensive scheme, which is set to feature Flowers as the top target earner. Treat him as a WR2 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Baltimore Ravens&lt;/p&gt;</description>
+      <rw:player>Zay Flowers</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Baltimore Ravens</rw:source>
       <rw:author />
       <rw:date>Sep 11, 2026</rw:date>
     </item>
@@ -6476,32 +6502,6 @@
       <rw:team>MIN</rw:team>
       <rw:position>Center</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>49ers placed Christian Kirk (calf) on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:79f8d86c45043f8f617ea83dcf6b28f5ce2a53d16896757a4895f4bfe37c7984</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Christian Kirk SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;San Francisco also placed offensive lineman Austen Pleasants on injured reserve. Both players will miss at least four games to start the year. Kirk missed most of training camp with the calf issue. Mike Evans, De’Zhaun Stribling, and Deebo Samuel will start for the team in three-receiver sets. Even when Kirk comes back, he’s likely stuck as the WR4 on the depth chart.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt Maiocco&lt;/p&gt;</description>
-      <rw:player>Christian Kirk</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Matt Maiocco</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Seahawks released CB Trevon Diggs.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2e49b38402a27d9e7ba46f6d641bb9bf2d9d5c1cba22a016ee698871213c4117</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Trevon Diggs&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Diggs, who doesn’t have an interception since the 2024 season, will likely latch on with another secondary in need of depth pieces. Diggs never had much of a chance of making the roster in Seattle, a defense sporting one of the league’s best coverage units. He totaled 31 pass breakups and 17 interceptions in his first three NFL seasons, from 2020-22. He’s totaled just six pass breakups and three interceptions since then. Diggs is entering his age-28 season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Greg Bell&lt;/p&gt;</description>
-      <rw:player>Trevon Diggs</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Greg Bell</rw:source>
       <rw:author />
       <rw:date>Aug 30, 2026</rw:date>
     </item>

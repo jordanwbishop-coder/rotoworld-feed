@@ -4,7 +4,241 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 15:34:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:09:23 +0000</lastBuildDate>
+    <item>
+      <title>ESPN’s Adam Schefter reports A.J. Brown won’t require surgery on his injured ankle.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0dab3e012029c23516b1ce20bcda72bf832058faa1ba837df655be6eeb776279</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;A.J. Brown NE Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Schefter added Brown will miss four to six weeks with the high ankle sprain he sustained on Wednesday night against the Seahawks. It could be much longer than that before Brown is back to full health and operating as the Patriots’ alpha WR1. For now, Mack Hollins will slide into three-receiver sets and Romeo Doubs — who didn’t catch any of his three targets against Seattle — will likely function as Drake Maye’s top option. Demario Douglas could be an interesting add in deeper formats after leading the team with seven targets in Week 1.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>A.J. Brown</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Falcons declared QB Tua Tagovailoa, QB Michael Penix, DB Billy Bowman Jr., DB Malcom DeWalt IV, ILB Christian Harris, and OL Ethan Onianwa inactive for Week 1 against the Steelers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:feed2f693da4dfb4d1fc60421e33c2a3ae22b94e73b2905dfa4dfdc0dcb46d3e</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Za&amp;#x27;Darius Smith ATL Defensive End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We knew earlier this week that both Penix (knee) and Tagovailoa (back) would be sidelined, and that Cooper Rush would start. EDGE Za’Darius Smith was listed as questionable with a shoulder injury, but he will suit up for this one. Christian Harris, who had been a favorite to start at inside linebacker, is a healthy inactive, which means rookies Kendal Daniels or Harold Perkins Jr. will see extended run.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Marc Raimondi&lt;/p&gt;</description>
+      <rw:player>Za'Darius Smith</rw:player>
+      <rw:team>ATL</rw:team>
+      <rw:position>Defensive End</rw:position>
+      <rw:source>Marc Raimondi</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Joey Porter Jr. (back) is inactive for Week 1 against the Falcons.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c551f20da040ac0833613545b6c0f3bc5a88cb31bb78f9f21bf9909e1e37efc8</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Joey Porter PIT Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It was trending this way after Porter Jr. missed all of training camp with a back injury; however, the Steelers had held out hope that the 26-year-old would be able to return to the field for Week 1. Unfortunately, it sounds like the issue preventing him from being on the field may be more about a new contract than his back. The Steelers will likely turn to Asante Samuel Jr. to take Porter Jr.&amp;#x27;s role, and it might matter more if the Falcons weren’t starting Cooper Rush at quarterback. The Steelers’ other inactives are QB Drew Allar, QB Will Howard, OG Gennings Dunker, DL Kevin Jobity Jr., and DL Gabriel Rubio.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mark Kaboly&lt;/p&gt;</description>
+      <rw:player>Joey Porter</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Mark Kaboly</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jaguars declared RB LeQuint Allen Jr. active for Week 1 against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6bb60acc2dedf5aa0e11448c2379fb21a9ceaf17c9aef45c9f4da9164e054f8e</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;LeQuint Allen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen entered the weekend questionable with a hip injury. With some limited practices leading up to gameday, Allen is declared active and should be involved on passing downs for the Jaguars. His potential receiving role dampens Bhayshul Tuten’s upside against the Browns. Jaguars declared QB Quinn Ewers, OL Daniel Faalele, S Jalen Huskey, TE Tanner Koziol, DE Bryan Thomas Jr., and DE Wesley Williams inactive for Week 1 against the Browns.&lt;/p&gt;</description>
+      <rw:player>LeQuint Allen</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bengals declared EDGE Shemar Stewart, WR Ke’Shawn Williams, CB Josh Newton, C Connor Lew, OT Myles Hinton, TE Jack Endries and DL Landon Robinson inactive for Week 1 against the Bucs.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:dd432fda6cd3698bdb24ef8e84a48a5993caff64c2839a2649e25f930eb2ff85</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Shemar Stewart CIN Defensive End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Bengals would obviously prefer Stewart to be out there vs. the Bucs, but it’s an otherwise quiet list for the opener.&lt;/p&gt;</description>
+      <rw:player>Shemar Stewart</rw:player>
+      <rw:team>CIN</rw:team>
+      <rw:position>Defensive End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Colts declared QB Riley Leonard, LB Austin Ajiake, CB Johnathan Edwards, DE George Gumbs Jr., and OG Dalton Tucker inactive for Week 1 against the Ravens.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:cf67e4cde91abc2d58573043e67083dd99180a25f563f23dbfe102e83fc93763</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Riley Leonard IND Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There’s nothing too surprising here. Ajiake was the only player carrying an injury designation heading into the weekend, but after popping up as a DNP on Friday, it was assumed he would be sidelined for the season opener. The Colts are set to play host to the Ravens in what will be Daniel Jones’ first game back since he suffered a torn Achilles in Week 14 last season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Indianapolis Colts&lt;/p&gt;</description>
+      <rw:player>Riley Leonard</rw:player>
+      <rw:team>IND</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Indianapolis Colts</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Panthers declared TE Ja’Tavion Sanders, WR John Metchie, QB Haynes King, S Zakee Wheatley, OT Albert Reese, OLB Patrick Jones II, and DT Cam Jackson inactive for Week 1 against the Bears.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2064f33b69585140fe857fac94a5ad6b59365df693c5db793be7695a596f46c4</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ja&amp;#x27;Tavion Sanders CAR Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sanders, who worked through a lingering ankle injury this offseason, won’t suit up for the team’s season opener. That leaves Darren Waller and Tommy Tremble as the Panthers’ top two tight ends against Chicago. Waller will be a touchdown-dependent TE2 option who probably won’t run many routes in the run-first Carolina offense. Tremble should remain on waiver wires.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jared Feinberg&lt;/p&gt;</description>
+      <rw:player>Ja'Tavion Sanders</rw:player>
+      <rw:team>CAR</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Jared Feinberg</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Titans declared LB Cedric Gray (concussion) inactive for Tennessee’s Week 1 game against the Jets.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:11eddec9c4212b30a34351982a80452e69b049a7ba44cc628704f4577d44d96c</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cedric Gray TEN Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He was ruled out on Friday and the only person who made it to Tennessee’s final injury report of the week. The healthy scratches here are RB Nick Singleton, LB Owen Pappoe, CB Jaylon Jones, G Atonio Mafi, T Brandon Crenshaw-Dickson and DT Jackie Marshall.&lt;/p&gt;</description>
+      <rw:player>Cedric Gray</rw:player>
+      <rw:team>TEN</rw:team>
+      <rw:position>Linebacker</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jets declared CB D’Angelo Ponds (calf) inactive for New York’s Week 1 game against the Titans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e598cae9abe89e33af75512687496194d9837a1d9c744da50c73fe5d9ac5a2f4</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;D&amp;#x27;Angelo Ponds NYJ Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ponds had a doubtful status despite three limited practices this week and looks to be questionable for Week 2, when he’ll again try to make his NFL Debut. Also inactive for the Jets are: KR Kene Nwangwu (back), K Blake Grupe, LB Trevin Wallace and ED Joseph Ossai (foot.) Ossai is regarded as week-to-week and Nwangwu’s back was a surprise Friday listing on the injury report.&lt;/p&gt;</description>
+      <rw:player>D'Angelo Ponds</rw:player>
+      <rw:team>NYJ</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ravens declared WR Devontez Walker, WR Elijah Sarratt, CB Chandler Rivers, LB Teddye Buchanan, OG Emery Jones, DT Nnamdi Madubuike, and QB Joe Fagnano inactive for Week 1 against the Colts.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5d06b510f470ffa0d7477ed6b213039ba8206b770017d7adfa3e4b483d8f981c</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Devontez Walker BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Walker (groin) entered the weekend with a questionable tag, but will be held out of the season opener, while both Madubuike and Buchanan were ruled out on Friday. The Ravens enter Week 1 at near full strength as they prepare to usher in the Jesse Minter era in Baltimore after being led by former head coach John Harbaugh the previous 19 seasons.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Baltimore Ravens&lt;/p&gt;</description>
+      <rw:player>Devontez Walker</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Baltimore Ravens</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Sean Tucker (hamstring) is inactive for Week 1 against the Bengals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e2f4486392a18950604c4b3a2e40989fe07749918995f68b2f236d5be4710a87</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Sean Tucker TB Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tucker’s expected absence is a nice little boost for Bucky Irving as he looks to shore up his RB2 value following a disastrous 2025. Kenneth Gainwell is unlikely to battle Iriving for goal-line handles. Seeing as Tucker received a “doubtful” tag for Week 1, he’s likely on the wrong side of questionable for Week 2, but his return will at least be a possibility.&lt;/p&gt;</description>
+      <rw:player>Sean Tucker</rw:player>
+      <rw:team>TB</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Browns declared QB Taylen Green, LB Justin Jefferson, CB Noah Igbinoghene, S Daniel Thomas, Toriano Pride Jr., C Parker Brailsford, and G Teven Jenkins inactive for Week 1 against the Jaguars.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:29766c326ca0a360f4c523fea7e6a4e19069da1d98db388376587dc8e81b17c5</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Teven Jenkins CLE Guard&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jenkins missed the last two practices of Week 1 with a back injury that flared up. He is the starting right guard for the Browns’ offensive line but will now miss this week against the Jaguars. The other injury inactive is backup center Parker Brailsford (thumb), who got in some limited practices but is not healthy enough to be active just yet. Rookie Taylen Green will serve as the team’s emergency third quarterback.&lt;/p&gt;</description>
+      <rw:player>Teven Jenkins</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Guard</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Alvin Kamara (knee) is inactive for Week 1 against the Lions.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:707d600fb420bf2074bb5dc6ea8c7a71adcce08380354a6411ae24afb389f6d7</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Alvin Kamara NO Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kamara practiced in full this week, but the Saints are going to give him at least seven more days to get fully healthy. Kendre Miller will back up Travis Etienne. Also inactive for the Saints are TE Oscar Delp, QB Zach Wilson, OL Mason Murphy, EDGE Cameron Jordan, DL John Ridgeway III, and DL Khristian Boyd.&lt;/p&gt;</description>
+      <rw:player>Alvin Kamara</rw:player>
+      <rw:team>NO</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Rome Odunze (calf) is active for Week 1 against the Panthers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3193cdf788e4087876139de9a82f8cf5cef799c831b4227a08da43b9d0a84dc8</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rome Odunze CHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Odunze missed some practice time this week with the calf issue and was considered questionable headed into the weekend. He could see his snaps and routes limited if the calf is still bothering him. Odunze should be considered a high-variance flex option with a frightening floor against the Panthers. Bears declared QB Tyson Bagent, QB Miller Moss, S Xavier Woods, OT Ozzy Trapilo, DE Jamree Kromah, and OL Jordan McFadden inactive for the team’s season opener.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kevin Fishbain&lt;/p&gt;</description>
+      <rw:player>Rome Odunze</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Kevin Fishbain</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jalen McMillan (knee) is inactive for Week 1 against the Bengals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3aa64815e7490bab31fcf02a6f4e6584174d961997420205f2fc35ad8afce706</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jalen McMillan TB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As is Sean Tucker (hamstring). McMillan’s immediate absence will force the Bucs to dig in to their young receiving depth earlier than they would have liked, but rookie Ted Hurst is not a bad fall-back option for the club. For fantasy managers, however, Hurst is not yet an option even in 14-team leagues. Also inactive for the Bucs are OT Justin Skule, CB Ayden Garnes, DL DeMonte Capehart, DL Elijah Simmons and OG Billy Schrauth.&lt;/p&gt;</description>
+      <rw:player>Jalen McMillan</rw:player>
+      <rw:team>TB</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Lions declared S Christian Izien, EDGE Ahmed Hassanein, CB Ennis Rakestraw, LB Jimmy Rolder, and DT Mekhi Wingo inactive for Week 1 against the Saints.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ac2038f2fd175637e1e223420fcf01cc17c75ed7d0daed2488e47251c456be22</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Izien DET Defensive Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Izien was dealing with a groin issue this week and received a questionable designation on Friday. The Lions are otherwise a fairly healthy team headed into Week 1.&lt;/p&gt;</description>
+      <rw:player>Christian Izien</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Defensive Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bills declared RB Ty Johnson (hamstring) inactive for Buffalo’s Week 1 game against the Texans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:50f34cc4210ab7ede39070bd36c3163154a383ec9b23b1b339a7f869b311342c</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ty Johnson BUF Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He came on to the practice field for the first time since suffering the injury in training camp on Friday, but it was too little, too late. Ray Davis will likely pick up extra snaps and James Cook will be more involved in the passing game in Week 1 in a tough matchup. Also inactive for the Bills are: WR Skyler Bell, OT Jude Bowry, G Ar’maj Reed-Adams, DL T.J. Sanders, OLB Mike Danna and S Jalon Kilgore.&lt;/p&gt;</description>
+      <rw:player>Ty Johnson</rw:player>
+      <rw:team>BUF</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Texans declared TE Brevin Jordan, CB Collin Wright, LB Aiden Fisher, OL Febechi Nwaiwu, OL Nate Thomas and DT Jaden Crumedy inactive for Houston’s Week 1 game against the Jets.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a9d325ace16f405e197582d7b0481db8f312d3190f64e5cf31466424b4b61433</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Brevin Jordan HOU Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jordan is a healthy scratch after missing most of the last two seasons to injury. No real surprises here. Thomas was just acquired in trade at last cuts and will likely play his way into a reserve role at some point. The only player who was out or questionable for the Texans on the Friday injury report was Kayden McDonald, who headed to injured reserve.&lt;/p&gt;</description>
+      <rw:player>Brevin Jordan</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
     <item>
       <title>The Ringer’s Tom Pelissero reports Myles Garrett will undergo arthroscopic surgery and be placed on injured reserve.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -190,9 +424,9 @@
     <item>
       <title>Eagles placed TE Eli Stowers (hamstring, quad) on injured reserve.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9d37f8ef2a1ca727b3f547e13d1d3fa5f68a2f7fa29d101ba79d33c55d74f998</guid>
+      <guid isPermaLink="false">urn:sha256:86d969880e2800d20c282158f50bf93d4b8a837b7be69ce25d251299f9197efa</guid>
       <pubDate>Sat, 12 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Eli Stowers PHI Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Stowers entered his rookie season unlikely to contribute in a meaningful way but will not be forced to miss the next four games, at minimum, while on injured reserve, something that could stunt his growth at the professional level further. Dallas Goedert remains a locked-in TE1 in fantasy circles moving forward.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Eli Stowers PHI Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Stowers entered his rookie season unlikely to contribute in a meaningful way but will now be forced to miss the next four games, at minimum, while on injured reserve, something that could stunt his growth at the professional level further. Dallas Goedert remains a locked-in TE1 in fantasy circles moving forward.&lt;/p&gt;</description>
       <rw:player>Eli Stowers</rw:player>
       <rw:team>PHI</rw:team>
       <rw:position>Tight End</rw:position>
@@ -205,7 +439,7 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:01ac34f462c06f2c02b1c2ad173e5e6592745e2d1fb48f34e82701c58a98d6c9</guid>
       <pubDate>Sat, 12 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kaden Davis CHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This wouldn’t be news under normal circumstances but takes on additional meaning with Rome Odunze listed questionable for Week 1. It is of particular note that the Bears already have five wide receivers on the active roster and still chose to elevate another. While recent reports seemed to indicate a sense of optimism regarding Odunze’s potential availability, he could be on the wrong side of questionable given the recent transaction. Fantasy managers will want to confirm his status when the team released its inactives 90-minutes prior to first kick. Luther Burden and Colston Loveland would be in line to benefit greatly should Odunze be unable to go.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Kaden Davis CHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This wouldn’t be news under normal circumstances but takes on additional meaning with Rome Odunze listed questionable for Week 1. It is of particular note that the Bears already have five wide receivers on the active roster and still chose to elevate another. While recent reports seemed to indicate a sense of optimism regarding Odunze’s potential availability, he could be on the wrong side of questionable given the recent transaction. Fantasy managers will want to confirm his status when the team releases its inactives 90 minutes prior to first kick. Luther Burden and Colston Loveland would be in line to benefit greatly should Odunze be unable to go.&lt;/p&gt;</description>
       <rw:player>Kaden Davis</rw:player>
       <rw:team>CHI</rw:team>
       <rw:position>Wide Receiver</rw:position>
@@ -383,6 +617,19 @@
       <rw:date>Sep 11, 2026</rw:date>
     </item>
     <item>
+      <title>Jaguars RB LeQuint Allen (hip) is questionable for Week 1 against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f558363a8b9fa969a28d542f299ec0c2b1e166b65d48d8e5fc63377287a0fa30</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;LeQuint Allen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen was expected to take on an expanded receiving role, in addition to his pass-protection duties, but a hip injury has stalled that plan. If active, he is unlikely to do more than help keep QB Trevor Lawrence upright. If he is inactive, the team could employ a committee approach in addressing his vacated duties.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jacksonville Jaguars&lt;/p&gt;</description>
+      <rw:player>LeQuint Allen</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Jacksonville Jaguars</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
       <title>Packers signed WR Bo Melton to the practice squad.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:bffd9a1581f4c80aa4c4a5c07f697ec6582e4a9bd51d6bd217218796f2f39f2c</guid>
@@ -409,106 +656,15 @@
       <rw:date>Sep 11, 2026</rw:date>
     </item>
     <item>
-      <title>Jaguars OT Cole Van Lanen (knee) was removed from the injury report for Week 1 against the Browns.</title>
+      <title>Ravens WR Zay Flowers (hamstring) was removed from the injury report and will play in Week 1 against the Colts.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:614011a761a487f47bc20072f2fddc2f8e22a55adc639e47c3cd83a881469944</guid>
+      <guid isPermaLink="false">urn:sha256:be2ca3547b1406ce8a8165fb77e29632dd125de2ddd5be44d073b8ff08eb3ec6</guid>
       <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cole Van Lanen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Van Lanen should at least be active, although he is not guaranteed to start. The veteran blocker broke out last year, playing all across the line before settling in at left tackle. He suffered a knee injury in Week 18, which forced the coaching staff to get OT Anton Harrison for left tackle duties while penciling Van Lanen in at right tackle. The team also has capable OT Walker Little at the ready. Unfortunately, Harrison appeared on the injury report with a foot injury and was unable to practice on Friday. Hopefully, his sidelining was a precaution and he is not seriously injured. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sports Illustrated&lt;/p&gt;</description>
-      <rw:player>Cole Van Lanen</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Sports Illustrated</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chiefs DT Chris Jones (calf) was added to the injury report on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:4fe09ac81bd685703114f21c03a8661e0aa2760594730924e02bad328be64ab5</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chris Jones KC Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jones was officially limited today, which likely means he injured his calf in practice. Depending on the severity, this injury could cost him Week 1. He is one of the best interior defenders in the league. This one is worth watching.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt McMullen&lt;/p&gt;</description>
-      <rw:player>Chris Jones</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Defensive Tackle</rw:position>
-      <rw:source>Matt McMullen</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Raiders ruled out TE Brock Bowers (knee) for Week 1 against the Dolphins.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:52c834a4d927cf998e287dd9e353b1278acf71d70d7c28cb2866ca729084876b</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brock Bowers LV Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Earlier today, Raiders coach Klint Kubiak said he was initially optimistic that Bowers could play in Week 1, even after undergoing a recent meniscus trim, which is surprising. Kubiak, however, declined to discuss an updated return timeline for his star tight end. We do not yet know when he is expected back. In the meantime, Michael Mayer is a TE1 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Las Vegas Raiders&lt;/p&gt;</description>
-      <rw:player>Brock Bowers</rw:player>
-      <rw:team>LV</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Las Vegas Raiders</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Raiders RB Ashton Jeanty (ankle) is not on the final injury report and will play in Week 1 against the Dolphins.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:031d27b1191e3f10094aba720b48d16bfb9533f57cfaec4d7c423e6c633b0890</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ashton Jeanty LV Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jeanty practiced fully this week, setting him up for a solid workload against a soft defense. When he takes the field on Sunday, it will be exactly three weeks since he suffered his ankle injury. During that span, rookie RB Mike Washington seemingly carved out a rotational role for himself, though Jeanty still warrants RB1 treatment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Las Vegas Raiders&lt;/p&gt;</description>
-      <rw:player>Ashton Jeanty</rw:player>
-      <rw:team>LV</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Las Vegas Raiders</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Jeremy Fowler reports that the Cowboys “are bracing for an extended absence” after RB Malik Davis suffered a hip injury on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d9c03f28023b337d5836e1a369d6a4cd03bb2ec3741108bc6c7320084deb775d</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Malik Davis DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Regarding Davis’ injury, Fowler’s source said simply, “it’s bad.” The Cowboys’ No. 2 running back is undergoing further testing, but we expect them to place him on injured reserve before long. The Cowboys waived RB Jaydon Blue and RB Phil Mafah last month. Blue has since signed with the Eagles’ practice squad. The Cowboys have RB Emari Demercado on the active roster behind RB Javonte Williams. Currently, only RB Israel Abanikanda is on the practice squad in Dallas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
-      <rw:player>Malik Davis</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Jeremy Fowler</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers EDGE Tuli Tuipulotu (hip) is questionable to play in Week 1 against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b0ff6e82609f52d35b98ec73e8cda066419ac85cf5032402a65a1cb67e62b2cf</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tuli Tuipulotu LAC Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tuipulotu was limited all week by a hip injury. He is also seeking a lucrative contract extension after leading the team with 70 quarterback pressures and 13 sacks last season. He held in during training camp. The Chargers ruled out CB Deane Leonard (abdomen).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
-      <rw:player>Tuli Tuipulotu</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Outside Linebacker</rw:position>
-      <rw:source>Kris Rhim</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers WR Brenen Thompson (hip) was removed from the injury report and will play in Week 1 against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f3ed6ef73c5a0b4f4d0f4384f4a9c1781f91c5e20b920b6a452660257c54e025</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brenen Thompson LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The speedy rookie injured his hip on August 20th in the Chargers’ preseason game against the 49ers. Although he is stuck in the No. 4 spot on the depth chart, it was an encouraging preseason showing prior to the injury. Thompson was in for all three first-team reps and continued playing with the second team for a while before exiting. He does not need to be rostered in 12-team leagues, but can be stashed in 14-team leagues.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
-      <rw:player>Brenen Thompson</rw:player>
-      <rw:team>LAC</rw:team>
+      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flowers kicked off the week with a limited session before upgrading to full participation on Thursday and Friday. Ravens QB Lamar Jackson has expressed excitement about new OC Declan Doyle’s offensive scheme, which is set to feature Flowers as the top target earner. Treat him as a WR2 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Baltimore Ravens&lt;/p&gt;</description>
+      <rw:player>Zay Flowers</rw:player>
+      <rw:team>BAL</rw:team>
       <rw:position>Wide Receiver</rw:position>
-      <rw:source>Kris Rhim</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers RB Keaton Mitchell (hamstring) was removed from the injury report and will play in Week 1 against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:84bbce0a3bfa40032724a1beade149f5c4af64102f30cd3e3f57747749c64958</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Keaton Mitchell LAC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s been more than three weeks since Mitchell strained his hamstring in the Chargers’ preseason game against the 49ers. Mitchell upgraded to full participation on Friday after two limited sessions to begin the week. He should be fully recovered and ready for rotational duties against a beatable Cardinals defense. Consider him a volatile RB4/FLEX, potentially aided by increased passing game usage.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
-      <rw:player>Keaton Mitchell</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Kris Rhim</rw:source>
+      <rw:source>Baltimore Ravens</rw:source>
       <rw:author />
       <rw:date>Sep 11, 2026</rw:date>
     </item>
@@ -626,6 +782,123 @@
       <rw:team>CHI</rw:team>
       <rw:position>Offensive Lineman</rw:position>
       <rw:source />
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Eagles placed TE Eli Stowers (hamstring, quad) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:9d37f8ef2a1ca727b3f547e13d1d3fa5f68a2f7fa29d101ba79d33c55d74f998</guid>
+      <pubDate>Sat, 12 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Eli Stowers PHI Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Stowers entered his rookie season unlikely to contribute in a meaningful way but will not be forced to miss the next four games, at minimum, while on injured reserve, something that could stunt his growth at the professional level further. Dallas Goedert remains a locked-in TE1 in fantasy circles moving forward.&lt;/p&gt;</description>
+      <rw:player>Eli Stowers</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 12, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jaguars OT Cole Van Lanen (knee) was removed from the injury report for Week 1 against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:614011a761a487f47bc20072f2fddc2f8e22a55adc639e47c3cd83a881469944</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cole Van Lanen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Van Lanen should at least be active, although he is not guaranteed to start. The veteran blocker broke out last year, playing all across the line before settling in at left tackle. He suffered a knee injury in Week 18, which forced the coaching staff to get OT Anton Harrison for left tackle duties while penciling Van Lanen in at right tackle. The team also has capable OT Walker Little at the ready. Unfortunately, Harrison appeared on the injury report with a foot injury and was unable to practice on Friday. Hopefully, his sidelining was a precaution and he is not seriously injured. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sports Illustrated&lt;/p&gt;</description>
+      <rw:player>Cole Van Lanen</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Sports Illustrated</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chiefs DT Chris Jones (calf) was added to the injury report on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:4fe09ac81bd685703114f21c03a8661e0aa2760594730924e02bad328be64ab5</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Chris Jones KC Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jones was officially limited today, which likely means he injured his calf in practice. Depending on the severity, this injury could cost him Week 1. He is one of the best interior defenders in the league. This one is worth watching.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt McMullen&lt;/p&gt;</description>
+      <rw:player>Chris Jones</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source>Matt McMullen</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Raiders ruled out TE Brock Bowers (knee) for Week 1 against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:52c834a4d927cf998e287dd9e353b1278acf71d70d7c28cb2866ca729084876b</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Brock Bowers LV Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Earlier today, Raiders coach Klint Kubiak said he was initially optimistic that Bowers could play in Week 1, even after undergoing a recent meniscus trim, which is surprising. Kubiak, however, declined to discuss an updated return timeline for his star tight end. We do not yet know when he is expected back. In the meantime, Michael Mayer is a TE1 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Las Vegas Raiders&lt;/p&gt;</description>
+      <rw:player>Brock Bowers</rw:player>
+      <rw:team>LV</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Las Vegas Raiders</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Raiders RB Ashton Jeanty (ankle) is not on the final injury report and will play in Week 1 against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:031d27b1191e3f10094aba720b48d16bfb9533f57cfaec4d7c423e6c633b0890</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ashton Jeanty LV Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jeanty practiced fully this week, setting him up for a solid workload against a soft defense. When he takes the field on Sunday, it will be exactly three weeks since he suffered his ankle injury. During that span, rookie RB Mike Washington seemingly carved out a rotational role for himself, though Jeanty still warrants RB1 treatment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Las Vegas Raiders&lt;/p&gt;</description>
+      <rw:player>Ashton Jeanty</rw:player>
+      <rw:team>LV</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Las Vegas Raiders</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports that the Cowboys “are bracing for an extended absence” after RB Malik Davis suffered a hip injury on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d9c03f28023b337d5836e1a369d6a4cd03bb2ec3741108bc6c7320084deb775d</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Malik Davis DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Regarding Davis’ injury, Fowler’s source said simply, “it’s bad.” The Cowboys’ No. 2 running back is undergoing further testing, but we expect them to place him on injured reserve before long. The Cowboys waived RB Jaydon Blue and RB Phil Mafah last month. Blue has since signed with the Eagles’ practice squad. The Cowboys have RB Emari Demercado on the active roster behind RB Javonte Williams. Currently, only RB Israel Abanikanda is on the practice squad in Dallas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Malik Davis</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chargers EDGE Tuli Tuipulotu (hip) is questionable to play in Week 1 against the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b0ff6e82609f52d35b98ec73e8cda066419ac85cf5032402a65a1cb67e62b2cf</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tuli Tuipulotu LAC Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tuipulotu was limited all week by a hip injury. He is also seeking a lucrative contract extension after leading the team with 70 quarterback pressures and 13 sacks last season. He held in during training camp. The Chargers ruled out CB Deane Leonard (abdomen).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
+      <rw:player>Tuli Tuipulotu</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Outside Linebacker</rw:position>
+      <rw:source>Kris Rhim</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chargers WR Brenen Thompson (hip) was removed from the injury report and will play in Week 1 against the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f3ed6ef73c5a0b4f4d0f4384f4a9c1781f91c5e20b920b6a452660257c54e025</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Brenen Thompson LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The speedy rookie injured his hip on August 20th in the Chargers’ preseason game against the 49ers. Although he is stuck in the No. 4 spot on the depth chart, it was an encouraging preseason showing prior to the injury. Thompson was in for all three first-team reps and continued playing with the second team for a while before exiting. He does not need to be rostered in 12-team leagues, but can be stashed in 14-team leagues.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
+      <rw:player>Brenen Thompson</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Kris Rhim</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chargers RB Keaton Mitchell (hamstring) was removed from the injury report and will play in Week 1 against the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:84bbce0a3bfa40032724a1beade149f5c4af64102f30cd3e3f57747749c64958</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Keaton Mitchell LAC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s been more than three weeks since Mitchell strained his hamstring in the Chargers’ preseason game against the 49ers. Mitchell upgraded to full participation on Friday after two limited sessions to begin the week. He should be fully recovered and ready for rotational duties against a beatable Cardinals defense. Consider him a volatile RB4/FLEX, potentially aided by increased passing game usage.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
+      <rw:player>Keaton Mitchell</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Kris Rhim</rw:source>
       <rw:author />
       <rw:date>Sep 11, 2026</rw:date>
     </item>
@@ -769,32 +1042,6 @@
       <rw:team>ARI</rw:team>
       <rw:position>Cornerback</rw:position>
       <rw:source>Josh Weinfuss</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jaguars RB LeQuint Allen (hip) is questionable for Week 1 against the Browns.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f558363a8b9fa969a28d542f299ec0c2b1e166b65d48d8e5fc63377287a0fa30</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;LeQuint Allen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen was expected to take on an expanded receiving role, in addition to his pass-protection duties, but a hip injury has stalled that plan. If active, he is unlikely to do more than help keep QB Trevor Lawrence upright. If he is inactive, the team could employ a committee approach in addressing his vacated duties.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jacksonville Jaguars&lt;/p&gt;</description>
-      <rw:player>LeQuint Allen</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Jacksonville Jaguars</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ravens WR Zay Flowers (hamstring) was removed from the injury report and will play in Week 1 against the Colts.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:be2ca3547b1406ce8a8165fb77e29632dd125de2ddd5be44d073b8ff08eb3ec6</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flowers kicked off the week with a limited session before upgrading to full participation on Thursday and Friday. Ravens QB Lamar Jackson has expressed excitement about new OC Declan Doyle’s offensive scheme, which is set to feature Flowers as the top target earner. Treat him as a WR2 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Baltimore Ravens&lt;/p&gt;</description>
-      <rw:player>Zay Flowers</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Baltimore Ravens</rw:source>
       <rw:author />
       <rw:date>Sep 11, 2026</rw:date>
     </item>
@@ -6257,253 +6504,6 @@
       <rw:source>Jeremy Fowler</rw:source>
       <rw:author />
       <rw:date>Aug 31, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Brady Henderson believes the Seahawks will “roll with [Jadarian] Price as their lead back while mixing in a heavy dose of George Holani.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b0be1eceec77de25255b690cc750b28238b8b1c265597461e765d2dc4913ea33</guid>
-      <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;George Holani SEA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Though Price did not play a single preseason snap and has missed time over the past few weeks with muscle soreness, he is widely expected to function as Seattle’s lead back in Week 1 against the Patriots, with Zach Charbonnet (knee) on the PUP list to begin the regular season. Holani, however, should see significant usage in the Seahawks backfield. His “receiving and pass-blocking skills seem perfectly suited for third-down work,” Henderson said. Emanuel Wilson, Henderson added, will be the “power complement to those two” if he’s fully recovered from an undisclosed injury. “Whatever plan Seattle has going into Week 1 will start to change once Charbonnet returns,” Henderson said. “Whenever Charbonnet is all the way back, it’s easy to envision the Seahawks splitting the work in their backfield fairly evenly between him and Price the way they did last season with Charbonnet and Kenneth Walker III.” Sam Darnold has called Price a “special player” who excels as a pass catcher. For now it appears he’ll be an early-down option for Seattle’s offense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ESPN.com&lt;/p&gt;</description>
-      <rw:player>George Holani</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>ESPN.com</rw:source>
-      <rw:author />
-      <rw:date>Aug 31, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ravens released WR Chris Moore.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:46a3a6cad5c51a62ff45fb57963c515e3a5c5389029b26d724737d5e51e49508</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chris Moore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Ravens aslso waived/released LB Michael Barrett, G Evan Beerntsen, DL Rayshaun Benny, WR Cortez Braham, C Corey Bullock, OL Gerad Lichtenhan, C Nick Dawkins, ILB Dominic DeLuca, DT Aaron Graves, WR Xavier Guillory, OLB Adisa Isaac, WR Cornelius Johnson, LB Jamon Johnson, LB Carl Jones, CB Robert Longerbeam, RB Dontae McMillan, DT David Olajiga, TE Ty Pezza, QB Austin Reed, CB Marquise Robinson, LB Kaimon Rucker, FB Lucas Scott, WR Octavian Smith, RB Elijah Tau-Toliver, WR Dayton Wade, S Silas Walters, CB Lardarius Webb Jr., LB Dion Wilson Jr., CB Amani Oruwariye, OT David Sharpe, S K’Von Wallace and RB Jonathan Ward.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jamison Hensley&lt;/p&gt;</description>
-      <rw:player>Chris Moore</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Jamison Hensley</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Ringer’s Tom Pelissero reports that the NFL has granted a two-game roster exemption for Rams DT Aaron Donald.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1b79b60155baf9c77565be4bb1b08f56d0ad5cbddeca8997034f8770e05b9319</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Aaron Donald&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The exemption timeline is a little strange. Per Pelissero, it expires on September 11th, one day after the Rams’ Week 1 game against the 49ers. Regardless, it helps the team save roster space since Donald was officially reinstated to the active roster today.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
-      <rw:player>Aaron Donald</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Tom Pelissero</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Lions place S Brian Branch on the reserve/physically unable to perform list with an Achilles injury.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f7c76d2fde687652514bca49ed2cd57604b0d909bb239dabd8c7c0c71d54e15b</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brian Branch DET Defensive Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Branch ruptured an Achilles tendon in Week 14 last year. He is still recovering. The Lions also placed C Cade Mays (wrist) on the injured reserve/designated for return list due to his summer injury. Both players will be eligible to return after missing four games.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
-      <rw:player>Brian Branch</rw:player>
-      <rw:team>DET</rw:team>
-      <rw:position>Defensive Back</rw:position>
-      <rw:source>Tom Pelissero</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ravens placed Adam Randall on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:81c11ac1f19f6c5eef781d59c1bd628fd5e769f54efa652502cbc2887d9d3819</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Adam Randall BAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cornerback Bilhal Kone was also placed on IR. Both players can return after four games. Randall was likely parked behind Justice Hill as the Ravens’ RB3 heading into the season. That role now belongs to Rasheen Ali, at least until Randall is back in action. He played in the team’s final preseason game and the team has not said what this injury is yet.&lt;/p&gt;</description>
-      <rw:player>Adam Randall</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Buccaneers waived WR Garrett Greene.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2dc9c5e270ffe4e92cc51a93fdc92d7a14b49e54f6ad7cc2d2dba9c24058e9c3</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Garrett Greene&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Buccaneers also waived QB Connor Bazelak, OLB Chris Braswell, LB John Bullock, TE Devin Culp, TE Kenny Fletcher Jr., OT Marshall Foerner, DL Josiah Green, WR Matthew Henry, OLB Yasir Holmes, OG Nash Hutmacher, WR Jha’Quan Jackson, LB Nick Jackson, DL Jayson Jones, G Elijah Klein, RB Barika Kpeenu, OG Henry Lutovsky, S Robert McDaniel, CB Roman Parodie, WR Dean Patterson IV, K B.T. Potter, OLB Jack Pyburn, WR Eric Rivers Jr., S J.J. Roberts, OT Paul Rubelt, C Ben Scott, DL Travis Shaw, RB Josh Williams, S Rashad Wisdom and LB LB Javin Wright. The Buccaneers released QB Jake Browning, LS Scott Daly and S Ifeatu Melifonwu. The Buccaneers placed CB Josh Hayes and WR David Sills V on injured reserve.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tampa Bay Buccaneers&lt;/p&gt;</description>
-      <rw:player>Garrett Greene</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Tampa Bay Buccaneers</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers placed Scott Matlock on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:35f6269fe433df8d47e6afa28f1e9adb08fc5867327ea1b994a7fc37c4c86591</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Scott Matlock LAC Fullback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Offensive lineman Brandson Taylor was also placed on injured reserve. Rookie offensive tackle Isaiah World was placed on the reserve/NFI list. All three players will miss at least four games to start the year.&lt;/p&gt;</description>
-      <rw:player>Scott Matlock</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Fullback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chiefs waived RB Emari Demercado.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e27aa2d7f57d3496dc8d3c837b52ef8e164a289538ddc29e23989c9bf24d8b38</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Emari Demercado KC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Demercado’s departure leaves rookie RB Emmett Johnson and second-year RB Brashard Smith to back up starting RB Kenneth Walker. The Chiefs also waived DE Vincent Anthony, LB Kam Arnold, WR Andrew Armstrong, WR Wesley Bissainthe, DT Cole Brevard, WR Jason Brownlee, WR Jacob De Jesus, OT Ethan Driskell, WR Omari Evans, OT Chukwuebuka Godrick, LB Cam Jones, WR Xavier Loyd, S Tanner McCalister, DT Amari McNeill, C Pete Nygra, RB Jaydn Ott, DT Damon Payne, CB D’Arco Perkins-McAllister, TE Mason Pline, S DeShon Singleton, CB Melvin Smith, EDGE Tyreke Smith, OG Josh Thompson, CB Zelmar Vedder, TE Tre Watson and WR Jeff Weimer. The Chiefs released LB Cole Christiansen, CB Kaiir Elam, CB Kader Kohou and EDGE Emmanuel Ogbah. The Chiefs placed DT Omarr Norman-Lott (knee) on the reserve/physically unable to play list and WR Jimmy Holiday on injured reserve. The Chiefs also waived OG C.J. Hanson, QB Chris Oladokun and RB EJ Smith with injury designations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kansas City Chiefs&lt;/p&gt;</description>
-      <rw:player>Emari Demercado</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Kansas City Chiefs</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers released Jarrett Patterson.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:45ce2b650f0b3b1244113a5bafc38373b24cc7e5a3155fb565e41a9a0c3d1f40</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jaret Patterson&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Patterson was a depth option for LA last year, but his services were no longer needed with Keaton Mitchell in the mix on top of Omarion Hampton and Kimani Vidal. He could wind up on the team’s practice squad later this week. The Chargers also waived/released S Noah Avinger, LB Lander Barton, LS Peter Bowden, TE Jerand Bradley, OLB Andre Carter, DL Jahmeer Carter, WR Liam Clifford, LB Junior Colson, RB Gregory Desrosiers, S Devin Grant, DL Jacobian Guillory, WR JaQuae Jackson, WR Gary Jennings, RB Amar Johnson, LB Emany Johnson, C Josh Kaltenberger, TE Johnny Pascuzzi, S Myles Purchase, OLB Garmon Randolph, CB Nikko Reed, CB Eric Rogers, WR Devonte Ross, TE Evan Svoboda, OLB Nadame Tucker, QB DJ Uiagalelei, T Laekin Vakalahi, CB Isas Waxter, DL Terry Webb, WR Sincere Brown, WR Dalevon Campbell, OLB Kyle Kennard, and P JK Scott.&lt;/p&gt;</description>
-      <rw:player>Jaret Patterson</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Lions released TE Tyler Conklin.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:6468bd05544e84c96bca84f2fff16528ddb619c9b38a71bcbd09b952fb591210</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyler Conklin&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Signed near the end of the opening week of free agency, 31-year-old Conklin couldn’t make the team after a down year for the Chargers in 2025. Although he’s inarguably in decline, Conklin is well-rounded enough that he will porbably make 2026 regular season appearances. Also waived/released by the Lions were DL Myles Adams, LB Joe Bachie, WR Greg Dortch, WR Tom Kennedy LB Amen Ogbongbemiga, LB Troy Reeder, DL Ben Stille, RB Trayveon Williams, QB Luke Altmyer, WR Tarik Black, CB Ekow Boye-Doe, DB Aamaris Brown, OL Devin Cochran, CB Bump Cooper Jr., WR Malik Cunningham, TE Thomas Gordon, OL Gus Hartwig, TE Zach Horton, LB Erick Hunter, S Dan Jackson, WR Lucky Jackson, WR Dominic Lovett, EDGE Anthony Lucas, OG Mason Miller, OG Melvin Priestly, CB Eric Scott Jr., DL Chris Smith, OL Colby Sorsdal, S Jason Taylor II, DL Tyre West, CB Nick Whiteside, RB Roydell Williams and OL Michael Niese.&lt;/p&gt;</description>
-      <rw:player>Tyler Conklin</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jets waived QB Brady Cook.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:51712078baeb307c2f7f6f268f22f288e12d9b39f187823898a2a77886200fb4</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brady Cook&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cook and fellow quarterback Bailey Zappe were let go as a part of the Jets’ final cuts. As a result, they will be keeping two quarterbacks on the active roster, with rookie Cade Klubnik winning the backup job. Also waived/released by the Jets were DB Mory Bamba, WR Junior Bergen, WR Cam Camper, S Dean Clark, DB Jordan Clark, EDGE Anthony Dunn Jr., LB Paschal Ekeji, OL Courtland Ford, G Liam Fornadel, DB Keenan Garber, G Marquis Hayes, DT Jack Heflin, OL Xavier Hill, LB Jaden Keller, Edge Nate Lynn, WR Malik McClain, S Jarius Monroe, DL Payton Page, WR Jamaal Pritchett, WR Quincy Skinner, DL Mazi Smith, DT Junior Tafuna, S Tanner Wall, LB Chase Wilson, OL Xavier Newman-Johnson, CB Samuel Womack III, OL Landon Young, QB Bailey Zappe, TE Chase Curtis, TE Connor Hulstein, and RB Dominic Richardson.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; New York Jets&lt;/p&gt;</description>
-      <rw:player>Brady Cook</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>New York Jets</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Panthers placed Ikem Ekwonu (knee) on the reserve/PUP list.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9d716c8f108aa3c3134fc5bd8ee90c7f2c2c2f93c7e7dc4cdfbe20c042b3b292</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ikem Ekwonu CAR Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ewkonu suffered a torn patellar tendon in the playoffs. He is expected to return “at some point” this year, though that does not rule out a lengthy absence for the veteran tackle. Fellow starting tackle Taylor Moton was placed on the reserve/NFI list because of a blood clot in his lung. He will also miss at least four weeks.&lt;/p&gt;</description>
-      <rw:player>Ikem Ekwonu</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>49ers placed DL Mykel Williams (knee) on the reserve/PUP list.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f9498e544f7802b30a7a3c3867d9153c00cb3edcbf5076e50ae4af4782ac6b90</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Mykel Williams SF Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Williams is still recovering from an ACL tear from last November. The 49ers will start him out on the reserve/physically unable to perform list, meaning the second-year pass rusher will miss at least the first four games of the season. Without the 2025 first-round pick in the pass-rush rotation to start the year, the 49ers will rely on Keion White to try and fill the void.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Mykel Williams</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Defensive Lineman</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports the Chargers have not released Tony Jefferson.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:da4dc37ac668cb382b4eae289d6c02fca1d96f9e97122f29fab37bd6a6fc868e</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tony Jefferson LAC Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Chargers made multiple trades, including one right at the roster cuts deadline, freeing up a roster spot for Jefferson. The team was initially expected to cut him before their second trade. Jefferson will remain a depth option for LA’s defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Tony Jefferson</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Safety</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Raiders waived RB Roman Hemby.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:bdd1d1447f0761a4f6fd6c93cbd669f03fb8b7ccfb3ee65602e43b4b18176501</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Roman Hemby&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Fresh off a national championship with the Hoosiers, Hemby was a “name” UDFA but couldn’t crack the Raiders’ suddenly deep backfield even after Ashton Jeanty’s ankle injury. He will be a candidate for the practice squad. Also waived/released by the Raiders were QB Jacob Clark, DT Brandon Cleveland, OL Braeden Daniels, LS Tyler Duzansky, FB Patrick Gurd, EDGE Jahfari Harvey, OT Niklas Henning, WR Shedrick Jackson, OT Isaish Jatta, S Devin Lafayette, DT Treven Ma’ae, K Kansei Matsuzawa, T Kamar Missouri, CB Caleb Offord, CB Devyn Perkins, C Will Putnam, DE Cian Slone, LB Xavian Sorey, DT Gary Smith, CB Greedy Vance, OT Dalton Wagner, WR E.J. Williams Jr., WR Phillip Dorsett, WR Brandon Johnson, LB Buddy Johnson, LB Cameron McGrone, TE Chris Myarick, RB Dare Ogunbowale, TE Albert Okwuegbunam, LB Segun Olubi and WR Deven Thompkins.&lt;/p&gt;</description>
-      <rw:player>Roman Hemby</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Panthers released WR David Moore.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e001e1996af0f979a338c979a76ef82351bb847841e70d965c9c1603de63aff9</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;David Moore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Moore didn’t see much playing time in 2025 after posting 352 yards and three touchdowns for Carolina in 2024. The eight-year NFL veteran will likely wind up on another roster in the coming days. Carolina’s final roster cuts included defensive tackle Elijah Garcia, offensive lineman Jake Curhan, cornerback Robert Rochell, safety Isaiah Simmons, outside linebacker Cam Gill, offensive lineman Ja’Tyre Carter, quarterback Kyle Trask, tight end James Mitchell, and outside linebacker Jeremiah Moon, cornerback DeCarlos Nicholson, cornerback Cam Miller, safety Demani Richardson, outside linebacker Isaiah Smith, linebacker Maz Mwansa, defensive tackle Parker Petersen, offensive lineman Isaia Glass, cornerback Devonta Smith, linebacker Maema Njongmeta, center Nick Samac, running back Tre Tyus, cornerback Corey Thornton, wide receiver Casey Washington, wide receiver Ja’seem Reed, linebacker Trevin Wallace, and defensive tackle Jared Harrison-Hunte.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Panthers.com&lt;/p&gt;</description>
-      <rw:player>David Moore</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Panthers.com</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Broncos waived RB Jaleel McLaughlin.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:84509e4b7650c40783dcb7155371a3ef04944f1dd26e5c416d8f044b716b527c</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jaleel McLaughlin&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McLaughlin could return to the Broncos as a practice squad player. The Broncos also waived DT Israel Antwine, CB Brent Austin, wide receiver Michael Bandy, LS Luke Basso, CB Sean Fresch, DB Ricardo Hallman, OT Reid Holskey, TE Justin Joly, WR Kolbe Katsis, WR Dane Key, WR Joseph Manjack, OLB Dasan McCullough, DT Jordan Miller, OT Tyler Miller, LB Red Murdock, OL Gavin Ortega, S Parker Robertson, WR Cameron Ross, WR Kyrese Rowan, RB Cody Schrader, S Miles Scott, OLB Ron Stone Jr., CB Reese Taylor, OLB Johnny Walker Jr., DT Kristian Williams and LB Taurean York. The Broncos waived LB Drew Sanders with an injury designation. The Broncos released LS Mitchell Fraboni, TE Lucas Krull, FB Adam Prentice, OT Foster Sarell, C Lecitus Smith and OG Calvin Throckmorton. The Broncos placed DT Frank Crum and TE Caleb Lohner on injured reserve with a designation to return, and OG Nick Gargiulo on the reserve/physically unable to perform list. Those three players must miss at least four games.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Denver Broncos&lt;/p&gt;</description>
-      <rw:player>Jaleel McLaughlin</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Denver Broncos</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Panthers placed RB Trevor Etienne on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:22574411a283d0c9fe0106703d2c9e14eb420b03b9ae6efdec5f34756ce8cb4d</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Trevor Etienne CAR Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Etienne will be eligible to come off IR after the first four weeks of the 2026 regular season. He got some buzz during offseason workouts and training camp but has exceedingly little chance of seeing significant regular season snaps for Carolina. Etienne as a rookie in 2025 had 20 carries for 94 scoreless yards, functioning mostly as a kick returner. AJ Dillon will be the depth back behind Chuba Hubbard and Jonathon Brooks as things stand right now.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Panthers.com&lt;/p&gt;</description>
-      <rw:player>Trevor Etienne</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Panthers.com</rw:source>
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>49ers released Khalil Herbert.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:109d1bc4ccfe1b5125ab77f3ff3cd416ea0e9de8ebf24ae877c43d3d5f984abd</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Khalil Herbert&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Herbert was a camp body for the 49ers when several of their running backs were banged up, but the room is fairly healthy now. He could wind up on San Francisco’s practice squad. Also waived/released were OL Isaac Alarcon, DL Evan Anderson, TE Khalil Dinkins, DL Bryson Eason, DL Viliami Fehoko Jr., LB Jalen Graham, WR Wesley Grimes, DL Jah Joyner, CB Darrell Luter Jr., QB Adrian Martinez, RB Sincere McCormick, S Patrick McMorris, OL Drake Nugent, WR Will Pauling, CB Jakob Robinson, CB Eli Apple, DL Quinton Bell, S Ashtyn Davis, WR KhaDarel Hodge, WR Trenton Irwin, LB Deion Jones, OL Robert Jones, OL Doug Kramer Jr., DL Ogbo Okoronkwo, OL Brandon Parker, WR Malik Turner, P Corliss Waitman, and LS Jon Weeks.&lt;/p&gt;</description>
-      <rw:player>Khalil Herbert</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
     </item>
   </channel>
 </rss>

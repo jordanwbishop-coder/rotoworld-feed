@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 16:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:42:59 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Adam Schefter reports A.J. Brown won’t require surgery on his injured ankle.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -656,6 +656,110 @@
       <rw:date>Sep 11, 2026</rw:date>
     </item>
     <item>
+      <title>Jaguars OT Cole Van Lanen (knee) was removed from the injury report for Week 1 against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:614011a761a487f47bc20072f2fddc2f8e22a55adc639e47c3cd83a881469944</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cole Van Lanen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Van Lanen should at least be active, although he is not guaranteed to start. The veteran blocker broke out last year, playing all across the line before settling in at left tackle. He suffered a knee injury in Week 18, which forced the coaching staff to get OT Anton Harrison for left tackle duties while penciling Van Lanen in at right tackle. The team also has capable OT Walker Little at the ready. Unfortunately, Harrison appeared on the injury report with a foot injury and was unable to practice on Friday. Hopefully, his sidelining was a precaution and he is not seriously injured. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sports Illustrated&lt;/p&gt;</description>
+      <rw:player>Cole Van Lanen</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Sports Illustrated</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chiefs DT Chris Jones (calf) was added to the injury report on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:4fe09ac81bd685703114f21c03a8661e0aa2760594730924e02bad328be64ab5</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Chris Jones KC Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jones was officially limited today, which likely means he injured his calf in practice. Depending on the severity, this injury could cost him Week 1. He is one of the best interior defenders in the league. This one is worth watching.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt McMullen&lt;/p&gt;</description>
+      <rw:player>Chris Jones</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source>Matt McMullen</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Raiders ruled out TE Brock Bowers (knee) for Week 1 against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:52c834a4d927cf998e287dd9e353b1278acf71d70d7c28cb2866ca729084876b</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Brock Bowers LV Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Earlier today, Raiders coach Klint Kubiak said he was initially optimistic that Bowers could play in Week 1, even after undergoing a recent meniscus trim, which is surprising. Kubiak, however, declined to discuss an updated return timeline for his star tight end. We do not yet know when he is expected back. In the meantime, Michael Mayer is a TE1 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Las Vegas Raiders&lt;/p&gt;</description>
+      <rw:player>Brock Bowers</rw:player>
+      <rw:team>LV</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Las Vegas Raiders</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Raiders RB Ashton Jeanty (ankle) is not on the final injury report and will play in Week 1 against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:031d27b1191e3f10094aba720b48d16bfb9533f57cfaec4d7c423e6c633b0890</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ashton Jeanty LV Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jeanty practiced fully this week, setting him up for a solid workload against a soft defense. When he takes the field on Sunday, it will be exactly three weeks since he suffered his ankle injury. During that span, rookie RB Mike Washington seemingly carved out a rotational role for himself, though Jeanty still warrants RB1 treatment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Las Vegas Raiders&lt;/p&gt;</description>
+      <rw:player>Ashton Jeanty</rw:player>
+      <rw:team>LV</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Las Vegas Raiders</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports that the Cowboys “are bracing for an extended absence” after RB Malik Davis suffered a hip injury on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d9c03f28023b337d5836e1a369d6a4cd03bb2ec3741108bc6c7320084deb775d</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Malik Davis DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Regarding Davis’ injury, Fowler’s source said simply, “it’s bad.” The Cowboys’ No. 2 running back is undergoing further testing, but we expect them to place him on injured reserve before long. The Cowboys waived RB Jaydon Blue and RB Phil Mafah last month. Blue has since signed with the Eagles’ practice squad. The Cowboys have RB Emari Demercado on the active roster behind RB Javonte Williams. Currently, only RB Israel Abanikanda is on the practice squad in Dallas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Malik Davis</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chargers EDGE Tuli Tuipulotu (hip) is questionable to play in Week 1 against the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b0ff6e82609f52d35b98ec73e8cda066419ac85cf5032402a65a1cb67e62b2cf</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tuli Tuipulotu LAC Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tuipulotu was limited all week by a hip injury. He is also seeking a lucrative contract extension after leading the team with 70 quarterback pressures and 13 sacks last season. He held in during training camp. The Chargers ruled out CB Deane Leonard (abdomen).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
+      <rw:player>Tuli Tuipulotu</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Outside Linebacker</rw:position>
+      <rw:source>Kris Rhim</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chargers WR Brenen Thompson (hip) was removed from the injury report and will play in Week 1 against the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f3ed6ef73c5a0b4f4d0f4384f4a9c1781f91c5e20b920b6a452660257c54e025</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Brenen Thompson LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The speedy rookie injured his hip on August 20th in the Chargers’ preseason game against the 49ers. Although he is stuck in the No. 4 spot on the depth chart, it was an encouraging preseason showing prior to the injury. Thompson was in for all three first-team reps and continued playing with the second team for a while before exiting. He does not need to be rostered in 12-team leagues, but can be stashed in 14-team leagues.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
+      <rw:player>Brenen Thompson</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Kris Rhim</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chargers RB Keaton Mitchell (hamstring) was removed from the injury report and will play in Week 1 against the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:84bbce0a3bfa40032724a1beade149f5c4af64102f30cd3e3f57747749c64958</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Keaton Mitchell LAC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s been more than three weeks since Mitchell strained his hamstring in the Chargers’ preseason game against the 49ers. Mitchell upgraded to full participation on Friday after two limited sessions to begin the week. He should be fully recovered and ready for rotational duties against a beatable Cardinals defense. Consider him a volatile RB4/FLEX, potentially aided by increased passing game usage.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
+      <rw:player>Keaton Mitchell</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Kris Rhim</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
       <title>Ravens WR Zay Flowers (hamstring) was removed from the injury report and will play in Week 1 against the Colts.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:be2ca3547b1406ce8a8165fb77e29632dd125de2ddd5be44d073b8ff08eb3ec6</guid>
@@ -797,110 +901,6 @@
       <rw:source />
       <rw:author />
       <rw:date>Sep 12, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jaguars OT Cole Van Lanen (knee) was removed from the injury report for Week 1 against the Browns.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:614011a761a487f47bc20072f2fddc2f8e22a55adc639e47c3cd83a881469944</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cole Van Lanen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Van Lanen should at least be active, although he is not guaranteed to start. The veteran blocker broke out last year, playing all across the line before settling in at left tackle. He suffered a knee injury in Week 18, which forced the coaching staff to get OT Anton Harrison for left tackle duties while penciling Van Lanen in at right tackle. The team also has capable OT Walker Little at the ready. Unfortunately, Harrison appeared on the injury report with a foot injury and was unable to practice on Friday. Hopefully, his sidelining was a precaution and he is not seriously injured. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sports Illustrated&lt;/p&gt;</description>
-      <rw:player>Cole Van Lanen</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Sports Illustrated</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chiefs DT Chris Jones (calf) was added to the injury report on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:4fe09ac81bd685703114f21c03a8661e0aa2760594730924e02bad328be64ab5</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chris Jones KC Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jones was officially limited today, which likely means he injured his calf in practice. Depending on the severity, this injury could cost him Week 1. He is one of the best interior defenders in the league. This one is worth watching.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Matt McMullen&lt;/p&gt;</description>
-      <rw:player>Chris Jones</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Defensive Tackle</rw:position>
-      <rw:source>Matt McMullen</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Raiders ruled out TE Brock Bowers (knee) for Week 1 against the Dolphins.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:52c834a4d927cf998e287dd9e353b1278acf71d70d7c28cb2866ca729084876b</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brock Bowers LV Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Earlier today, Raiders coach Klint Kubiak said he was initially optimistic that Bowers could play in Week 1, even after undergoing a recent meniscus trim, which is surprising. Kubiak, however, declined to discuss an updated return timeline for his star tight end. We do not yet know when he is expected back. In the meantime, Michael Mayer is a TE1 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Las Vegas Raiders&lt;/p&gt;</description>
-      <rw:player>Brock Bowers</rw:player>
-      <rw:team>LV</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Las Vegas Raiders</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Raiders RB Ashton Jeanty (ankle) is not on the final injury report and will play in Week 1 against the Dolphins.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:031d27b1191e3f10094aba720b48d16bfb9533f57cfaec4d7c423e6c633b0890</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ashton Jeanty LV Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jeanty practiced fully this week, setting him up for a solid workload against a soft defense. When he takes the field on Sunday, it will be exactly three weeks since he suffered his ankle injury. During that span, rookie RB Mike Washington seemingly carved out a rotational role for himself, though Jeanty still warrants RB1 treatment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Las Vegas Raiders&lt;/p&gt;</description>
-      <rw:player>Ashton Jeanty</rw:player>
-      <rw:team>LV</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Las Vegas Raiders</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Jeremy Fowler reports that the Cowboys “are bracing for an extended absence” after RB Malik Davis suffered a hip injury on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d9c03f28023b337d5836e1a369d6a4cd03bb2ec3741108bc6c7320084deb775d</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Malik Davis DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Regarding Davis’ injury, Fowler’s source said simply, “it’s bad.” The Cowboys’ No. 2 running back is undergoing further testing, but we expect them to place him on injured reserve before long. The Cowboys waived RB Jaydon Blue and RB Phil Mafah last month. Blue has since signed with the Eagles’ practice squad. The Cowboys have RB Emari Demercado on the active roster behind RB Javonte Williams. Currently, only RB Israel Abanikanda is on the practice squad in Dallas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
-      <rw:player>Malik Davis</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Jeremy Fowler</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers EDGE Tuli Tuipulotu (hip) is questionable to play in Week 1 against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b0ff6e82609f52d35b98ec73e8cda066419ac85cf5032402a65a1cb67e62b2cf</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tuli Tuipulotu LAC Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tuipulotu was limited all week by a hip injury. He is also seeking a lucrative contract extension after leading the team with 70 quarterback pressures and 13 sacks last season. He held in during training camp. The Chargers ruled out CB Deane Leonard (abdomen).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
-      <rw:player>Tuli Tuipulotu</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Outside Linebacker</rw:position>
-      <rw:source>Kris Rhim</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers WR Brenen Thompson (hip) was removed from the injury report and will play in Week 1 against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f3ed6ef73c5a0b4f4d0f4384f4a9c1781f91c5e20b920b6a452660257c54e025</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brenen Thompson LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The speedy rookie injured his hip on August 20th in the Chargers’ preseason game against the 49ers. Although he is stuck in the No. 4 spot on the depth chart, it was an encouraging preseason showing prior to the injury. Thompson was in for all three first-team reps and continued playing with the second team for a while before exiting. He does not need to be rostered in 12-team leagues, but can be stashed in 14-team leagues.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
-      <rw:player>Brenen Thompson</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Kris Rhim</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers RB Keaton Mitchell (hamstring) was removed from the injury report and will play in Week 1 against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:84bbce0a3bfa40032724a1beade149f5c4af64102f30cd3e3f57747749c64958</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Keaton Mitchell LAC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s been more than three weeks since Mitchell strained his hamstring in the Chargers’ preseason game against the 49ers. Mitchell upgraded to full participation on Friday after two limited sessions to begin the week. He should be fully recovered and ready for rotational duties against a beatable Cardinals defense. Consider him a volatile RB4/FLEX, potentially aided by increased passing game usage.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
-      <rw:player>Keaton Mitchell</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Kris Rhim</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
     </item>
     <item>
       <title>Rome Odunze (calf) is questionable for Week 1 against the Panthers.</title>

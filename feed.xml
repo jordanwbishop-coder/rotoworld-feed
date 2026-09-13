@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 15:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 15:34:06 +0000</lastBuildDate>
+    <item>
+      <title>The Ringer’s Tom Pelissero reports Myles Garrett will undergo arthroscopic surgery and be placed on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:89f0cef8ccc5dfacdc437cbe07af364ba2610e4a7ecf4c2d393adf890108b7c6</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Myles Garrett&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to Pelissero, Garrett had been dealing with lower leg pain and “wasn’t himself” in Week 1 against the 49ers. Garrett was routinely taken off the field and failed to record a single stat in the contest. Per Pelissero, the team hopes he will miss only a minimum of four weeks while on injured reserve. The impending return of Aaron Donald should help ease the loss of Garrett, but this is undoubtedly a massive blow to the Rams’ defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
+      <rw:player>Myles Garrett</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Tom Pelissero</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
     <item>
       <title>ESPN’s Adam Schefter reports Malik Nabers’ status for Week 1 is “murky at best.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -370,19 +383,6 @@
       <rw:date>Sep 11, 2026</rw:date>
     </item>
     <item>
-      <title>Jaguars RB LeQuint Allen (hip) is questionable for Week 1 against the Browns.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f558363a8b9fa969a28d542f299ec0c2b1e166b65d48d8e5fc63377287a0fa30</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;LeQuint Allen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen was expected to take on an expanded receiving role, in addition to his pass-protection duties, but a hip injury has stalled that plan. If active, he is unlikely to do more than help keep QB Trevor Lawrence upright. If he is inactive, the team could employ a committee approach in addressing his vacated duties.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jacksonville Jaguars&lt;/p&gt;</description>
-      <rw:player>LeQuint Allen</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Jacksonville Jaguars</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
       <title>Packers signed WR Bo Melton to the practice squad.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:bffd9a1581f4c80aa4c4a5c07f697ec6582e4a9bd51d6bd217218796f2f39f2c</guid>
@@ -509,19 +509,6 @@
       <rw:team>LAC</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Kris Rhim</rw:source>
-      <rw:author />
-      <rw:date>Sep 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ravens WR Zay Flowers (hamstring) was removed from the injury report and will play in Week 1 against the Colts.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:be2ca3547b1406ce8a8165fb77e29632dd125de2ddd5be44d073b8ff08eb3ec6</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flowers kicked off the week with a limited session before upgrading to full participation on Thursday and Friday. Ravens QB Lamar Jackson has expressed excitement about new OC Declan Doyle’s offensive scheme, which is set to feature Flowers as the top target earner. Treat him as a WR2 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Baltimore Ravens&lt;/p&gt;</description>
-      <rw:player>Zay Flowers</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Baltimore Ravens</rw:source>
       <rw:author />
       <rw:date>Sep 11, 2026</rw:date>
     </item>
@@ -782,6 +769,32 @@
       <rw:team>ARI</rw:team>
       <rw:position>Cornerback</rw:position>
       <rw:source>Josh Weinfuss</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jaguars RB LeQuint Allen (hip) is questionable for Week 1 against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f558363a8b9fa969a28d542f299ec0c2b1e166b65d48d8e5fc63377287a0fa30</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;LeQuint Allen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen was expected to take on an expanded receiving role, in addition to his pass-protection duties, but a hip injury has stalled that plan. If active, he is unlikely to do more than help keep QB Trevor Lawrence upright. If he is inactive, the team could employ a committee approach in addressing his vacated duties.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jacksonville Jaguars&lt;/p&gt;</description>
+      <rw:player>LeQuint Allen</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Jacksonville Jaguars</rw:source>
+      <rw:author />
+      <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ravens WR Zay Flowers (hamstring) was removed from the injury report and will play in Week 1 against the Colts.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:be2ca3547b1406ce8a8165fb77e29632dd125de2ddd5be44d073b8ff08eb3ec6</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flowers kicked off the week with a limited session before upgrading to full participation on Thursday and Friday. Ravens QB Lamar Jackson has expressed excitement about new OC Declan Doyle’s offensive scheme, which is set to feature Flowers as the top target earner. Treat him as a WR2 this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Baltimore Ravens&lt;/p&gt;</description>
+      <rw:player>Zay Flowers</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Baltimore Ravens</rw:source>
       <rw:author />
       <rw:date>Sep 11, 2026</rw:date>
     </item>
@@ -6486,19 +6499,6 @@
       <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Khalil Herbert&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Herbert was a camp body for the 49ers when several of their running backs were banged up, but the room is fairly healthy now. He could wind up on San Francisco’s practice squad. Also waived/released were OL Isaac Alarcon, DL Evan Anderson, TE Khalil Dinkins, DL Bryson Eason, DL Viliami Fehoko Jr., LB Jalen Graham, WR Wesley Grimes, DL Jah Joyner, CB Darrell Luter Jr., QB Adrian Martinez, RB Sincere McCormick, S Patrick McMorris, OL Drake Nugent, WR Will Pauling, CB Jakob Robinson, CB Eli Apple, DL Quinton Bell, S Ashtyn Davis, WR KhaDarel Hodge, WR Trenton Irwin, LB Deion Jones, OL Robert Jones, OL Doug Kramer Jr., DL Ogbo Okoronkwo, OL Brandon Parker, WR Malik Turner, P Corliss Waitman, and LS Jon Weeks.&lt;/p&gt;</description>
       <rw:player>Khalil Herbert</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
-      <rw:author />
-      <rw:date>Aug 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bengals released RB Gary Brightwell.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c17897173b4b237e0a16c0bf0779c3a9b6a802d96662ba3cbc86dc8d7ab5f01c</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Gary Brightwell&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brightwell, who played in two games for the Bengals in 2025, won’t make the 53-man roster, though he should catch on with another team ahead of the regular season. The rest of the Bengals’ final roster cuts Sunday included LB Joe Giles-Harris, QB Josh Johnson, S Russ Yeast, LB Liam Anderson, S Daijahn Anthony, G Liam Brown, HB Kentrel Bullock, QB Sean Clifford, OT Andrew Coker, DT Howard Cross III, LB Jack Dingle, DE Isaiah Foskey, LB Eric Gentry, TE Cam Grandy, HB Jamal Haynes, LB Shaka Heyward, DT McKinnley Jackson, DT Jordan Jefferson, WR Xavier Johnson, WR Charlie Jones, OT Christian Jones, TE Josh Kattus, CB Jalen Kimber, CB Bralyn Lux, CB Matthew McDoom, HB Kendall Milton, WR Jordan Moore, DE Antwaun Powell-Ryland, WR Kendric Pryor, G Corey Robinson II, WR Noah Thomas. WR Mitch Tinsley, and CB Ceyair Wright&lt;/p&gt;</description>
-      <rw:player>Gary Brightwell</rw:player>
       <rw:team />
       <rw:position />
       <rw:source />

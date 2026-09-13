@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 17:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 17:48:21 +0000</lastBuildDate>
+    <item>
+      <title>Browns RB Dylan Sampson (knee) went to the locker room and is questionable to return Week 1 against the Jaguars.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6e243e208ab58227584a47008d5141d0fd2feb093fd270b551dc746bf208f28a</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dylan Sampson CLE Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sampson went to the medical tent during the first quarter of the Browns’ Week 1 game against the Jaguars. He then headed to the locker room to be further evaluated for a knee injury and is questionable to return. Sampson is the Browns’ third-down/passing-down back; Quinshon Judkins will see more of those snaps while Sampson is out.&lt;/p&gt;</description>
+      <rw:player>Dylan Sampson</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
     <item>
       <title>ESPN’s Adam Schefter reports A.J. Brown won’t require surgery on his injured ankle.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -379,19 +392,6 @@
       <rw:team>BAL</rw:team>
       <rw:position>Quarterback</rw:position>
       <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Sep 13, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Cameron Wolfe reports the Jaguars are “unlikely” to extend Parker Washington before Week 1.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2217b7f7f258ba15ef645830780e9f0f06116a11ebcb8120487327b49a734d71</guid>
-      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Parker Washington&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Per Wolfe, the Jags explored a deal similar to that of Michael Wilson, who just landed a three-year, $75 million extension. The two sides couldn’t agree to terms, and Washington will now start his contract year. It’s a highly risky move for a largely unheralded player who caught lightning in a bottle at the end of last year. Washington caught 29 passes for 507 yards and three touchdowns in his final five games, including one postseason appearance. If he repeats anything close to those numbers over a full season this year, Washington will make far more than Wilson as a free agent next offseason.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cameron Wolfe&lt;/p&gt;</description>
-      <rw:player>Parker Washington</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Cameron Wolfe</rw:source>
       <rw:author />
       <rw:date>Sep 13, 2026</rw:date>
     </item>
@@ -784,6 +784,19 @@
       <rw:source>Jordan Raanan</rw:source>
       <rw:author />
       <rw:date>Sep 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Cameron Wolfe reports the Jaguars are “unlikely” to extend Parker Washington before Week 1.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2217b7f7f258ba15ef645830780e9f0f06116a11ebcb8120487327b49a734d71</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Parker Washington&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Per Wolfe, the Jags explored a deal similar to that of Michael Wilson, who just landed a three-year, $75 million extension. The two sides couldn’t agree to terms, and Washington will now start his contract year. It’s a highly risky move for a largely unheralded player who caught lightning in a bottle at the end of last year. Washington caught 29 passes for 507 yards and three touchdowns in his final five games, including one postseason appearance. If he repeats anything close to those numbers over a full season this year, Washington will make far more than Wilson as a free agent next offseason.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cameron Wolfe&lt;/p&gt;</description>
+      <rw:player>Parker Washington</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Cameron Wolfe</rw:source>
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
     </item>
     <item>
       <title>Eagles ruled out EDGE Jonathan Greenard (pec) for Week 1 against the Commanders.</title>
@@ -6489,19 +6502,6 @@
       <rw:team />
       <rw:position />
       <rw:source>EJ Smith</rw:source>
-      <rw:author />
-      <rw:date>Aug 31, 2026</rw:date>
-    </item>
-    <item>
-      <title>Eagles signed RB Dameon Pierce to the practice squad.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2e78cf4c250b5adc251d34d74edb476add5816a82c4d6261699c72e29151989c</guid>
-      <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Dameon Pierce PHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The news was first reported by ESPN’s Jeremy Fowler. Pierce was released by the Eagles on Sunday with the team keeping Tank Bigsby and Will Shipley to backup Saquon Barkley. Pierce will head to the practice squad and be the next running back up if an injury arises.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
-      <rw:player>Dameon Pierce</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Jeremy Fowler</rw:source>
       <rw:author />
       <rw:date>Aug 31, 2026</rw:date>
     </item>

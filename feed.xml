@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:14:10 +0000</lastBuildDate>
     <item>
       <title>Malachi Fields caught 2-of-4 targets for 25 yards in the Giants’ Week 1 win over the Cowboys.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -118,19 +118,6 @@
       <rw:player>CeeDee Lamb</rw:player>
       <rw:team>DAL</rw:team>
       <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 13, 2026</rw:date>
-    </item>
-    <item>
-      <title>Javonte Williams rushed 12 times for 41 yards and a touchdown in the Cowboys’ Week 1 loss to the Giants, adding five receptions for 31 yards and a touchdown.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:4a9f462b818455698114a8591c79b94eb4f59b0dd1b751fa049eb87fba01ca1d</guid>
-      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Javonte Williams DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Williams understandably operated as a clear workhorse for a Cowboys team with little depth at the position following Malik Davis’ season-ending injury earlier in the week. His two second half scores and five receptions masked poor rushing efficiency on a night the Cowboys ran only 52 offensive plays, although a robust 32.7 percent total opportunity share foreshadows the potential for continued elite counting stats for the remainder of the regular season. Fantasy managers can continue to start Williams as a volume-driven RB1 as the team prepares to host the Commanders in Week 2.&lt;/p&gt;</description>
-      <rw:player>Javonte Williams</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Sep 13, 2026</rw:date>
@@ -643,19 +630,6 @@
       <rw:date>Sep 13, 2026</rw:date>
     </item>
     <item>
-      <title>Quentin Johnston caught 2-of-6 targets for 17 yards in the Chargers’ Week 1 loss to the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:dbe90f1c9a71c497aa0098cc37a47666f9fd9ba74ea4262826015260f725925b</guid>
-      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Quentin Johnston LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Johnston saw most of his targets after Ladd McConkey left the game in the third quarter with a chest injury. He totaled 61 air yards, trailing McConley and Tre Harris. The low-octane LA offense had just 27 pass attempts on the day, limiting every pass catcher besides McConkey. Johnston in Week 2 will continue operating as a high variance WR3 or flex play when the Bolts take on the Raiders.&lt;/p&gt;</description>
-      <rw:player>Quentin Johnston</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 13, 2026</rw:date>
-    </item>
-    <item>
       <title>Chig Okonkwo caught 2-of-3 targets for 16 yards in the Commanders’ Week 1 loss to the Eagles.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:c955ca7062eaeaa390a9a89fa9b54b6a255341a4fbed37971821dfe17f218582</guid>
@@ -768,6 +742,32 @@
       <rw:player>Cole Kmet</rw:player>
       <rw:team>CHI</rw:team>
       <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Javonte Williams rushed 12 times for 41 yards and a touchdown in the Cowboys’ Week 1 loss to the Giants, adding five receptions for 31 yards and a touchdown.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:4a9f462b818455698114a8591c79b94eb4f59b0dd1b751fa049eb87fba01ca1d</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Javonte Williams DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Williams understandably operated as a clear workhorse for a Cowboys team with little depth at the position following Malik Davis’ season-ending injury earlier in the week. His two second half scores and five receptions masked poor rushing efficiency on a night the Cowboys ran only 52 offensive plays, although a robust 32.7 percent total opportunity share foreshadows the potential for continued elite counting stats for the remainder of the regular season. Fantasy managers can continue to start Williams as a volume-driven RB1 as the team prepares to host the Commanders in Week 2.&lt;/p&gt;</description>
+      <rw:player>Javonte Williams</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Quentin Johnston caught 2-of-6 targets for 17 yards in the Chargers’ Week 1 loss to the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:dbe90f1c9a71c497aa0098cc37a47666f9fd9ba74ea4262826015260f725925b</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Quentin Johnston LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Johnston saw most of his targets after Ladd McConkey left the game in the third quarter with a chest injury. He totaled 61 air yards, trailing McConley and Tre Harris. The low-octane LA offense had just 27 pass attempts on the day, limiting every pass catcher besides McConkey. Johnston in Week 2 will continue operating as a high variance WR3 or flex play when the Bolts take on the Raiders.&lt;/p&gt;</description>
+      <rw:player>Quentin Johnston</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Sep 13, 2026</rw:date>

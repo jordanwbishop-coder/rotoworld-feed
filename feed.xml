@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 10:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:18:21 +0000</lastBuildDate>
+    <item>
+      <title>Browns signed Jimmy Horn Jr., formerly of the Panthers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:daa9adc3d7f25b47454e91cb69f0d9404bdae86506fd18440efcad589022bd88</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jimmy Horn CLE Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Carolina waived Horn Jr. earlier this week after he muffed a punt in Week 1. NFL insider Jordan Schultz was first on this news, though he didn’t note whether Horn Jr. will be joining the Browns’ active roster or practice squad. We suspect the latter.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Schultz&lt;/p&gt;</description>
+      <rw:player>Jimmy Horn</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Jordan Schultz</rw:source>
+      <rw:author />
+      <rw:date>Sep 17, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports Nico Collins’ status for Week 2 against the Bengals “is in jeopardy” because of his hamstring injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6debaef142d8c6e789af09855f1d59242e096b7f3e798f54383538407f5cc41e</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Nico Collins HOU Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Collins suffered the hamstring injury during yesterday’s practice and immediately met with doctors. The team doesn’t believe the issue is serious, but that’s a cold comfort for a player with an extensive history of soft tissue injuries. Kayshon Boutte and Xavier Hutchinson will take on every-down roles if Collins misses Week 2. Neither player would push past the WR4 fantasy ranks. Second-year wideout Jaylin Noel would also see more work, though the team has been reluctant to play him much so far.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Nico Collins</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Sep 17, 2026</rw:date>
+    </item>
     <item>
       <title>Saints LS Zach Wood suffered a calf strain and is expected to miss four-to-six weeks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -23,7 +49,7 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:185c2bc56a86df06be03f4f65cf27ac4aa0d36d108d5e5cfd9705a2b1e3137b7</guid>
       <pubDate>Wed, 16 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Trey McBride ARI Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;No need to panic after McBride was seen working off to the side Wednesday; the Cardinals listed him as DNP with a rest/back designation. Despite the back being added to the designation, it does not seem like a serious injury worry with the Cardinals also giving him the “resting player” tag. This reads as a rest day for McBride, he is still good to go for Week 2 against the Seahawks.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Trey McBride ARI Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;No need to panic after McBride was seen working off to the side Wednesday; the Cardinals listed him as DNP with a rest/back designation. Despite the back being added to the designation, it does not seem like a serious injury worry with the Cardinals also giving him the “resting player” tag. This reads as a rest day for McBride. He is still good to go for Week 2 against the Seahawks.&lt;/p&gt;</description>
       <rw:player>Trey McBride</rw:player>
       <rw:team>ARI</rw:team>
       <rw:position>Tight End</rw:position>
@@ -6476,32 +6502,6 @@
       <rw:team>ARI</rw:team>
       <rw:position>Quarterback</rw:position>
       <rw:source>ESPN</rw:source>
-      <rw:author />
-      <rw:date>Sep 10, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Mike Garafolo reports the “preliminary diagnosis” for A.J. Brown is a high-ankle sprain.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:bd2419791bd19257ca2e93ebffdf4fe71c93e734574d029e040fe06a81671b55</guid>
-      <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;A.J. Brown NE Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Garafolo added, “MRI today after X-rays were negative.” That’s a good sign, but there is currently no timeline for Brown’s return. It will ultimately be a multi-week injury that could linger well into the season. Demario Douglas led the Pats with seven targets last night, though his looks are generally low-value check-downs. Mack Hollins and Romeo Doubs will serve as the team’s primary outside receivers until Brown is healthy. Hollins led the Pats in receiving yards at a modest 51. Hollins is worth adding in deeper leagues, but it’s hard to imagine him putting up anything more than WR4 numbers while Brown is sidelined. Doubs should improve in Week 2 after failing to catch any of his three targets versus the Seahawks. He will get another shot at WR3 numbers against Pittsburgh next week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
-      <rw:player>A.J. Brown</rw:player>
-      <rw:team>NE</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Mike Garafolo</rw:source>
-      <rw:author />
-      <rw:date>Sep 10, 2026</rw:date>
-    </item>
-    <item>
-      <title>A.J. Brown (ankle) was seen wearing a boot in the locker room after the Patriots’ Week 1 loss to the Seahawks.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ee1914f045967e5a428b4f078aa5d6a82f26025714ed300f7650cf475184d73c</guid>
-      <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;A.J. Brown NE Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Romeo Doubs said to reporters after the game that Brown told teammates, “Everything was going to be alright.” He added that Brown was doing really well. Brown had his ankle rolled on while going to the ground in the third quarter of last night’s game. He immediately grabbed his ankle in pain and eventually limped off the field. New England ruled him out after a trip to the locker room. It sounds like a high-ankle sprain, which would sideline Brown for at least a few weeks. Mack Hollins and Romeo Doubs will both play more in his absence. Demario Douglas, who led the team with seven targets in Week 1, will also see more work.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Boston Herald&lt;/p&gt;</description>
-      <rw:player>A.J. Brown</rw:player>
-      <rw:team>NE</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Boston Herald</rw:source>
       <rw:author />
       <rw:date>Sep 10, 2026</rw:date>
     </item>

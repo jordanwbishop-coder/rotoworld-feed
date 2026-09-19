@@ -4,7 +4,59 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 18:46:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 22:41:10 +0000</lastBuildDate>
+    <item>
+      <title>Ravens downgraded WR Zay Flowers (hamstring) to out for Week 2 against the Saints.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:055cce820f1a3f63106b4f87860915c68e9f7a69c39bbf03ab4e3268055caf66</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The team pulled the plug on Flowers’ potential to play in Week 2 after the veteran receiver departed the team’s Week 1 win with a hamstring injury. No word yet on how long the injury is expected to sideline Flowers, who appears to have a good shot at suiting up when the team faces off against the Cowboys on the road in Week 3. Tight end Mark Andrews could see a slight uptick in volume in the interim.&lt;/p&gt;</description>
+      <rw:player>Zay Flowers</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 19, 2026</rw:date>
+    </item>
+    <item>
+      <title>KPRC2’s Aaron Wilson reports Texans WR Nico Collins (hamstring) could miss two games.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3e6e1b20a6e3d4469ab57103a18945ee90aa071d11b982aca93837d6a139085d</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Nico Collins HOU Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Texans received relatively good news from initial testing, which revealed a Grade 1 hamstring injury. Even so, word around the team is that they are preparing to be without their star receiver for two games, which makes sense considering his lengthy soft tissue injury history. Fantasy managers will want to make alternate plans after losing one of their top selections off the board.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
+      <rw:player>Nico Collins</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Aaron Wilson</rw:source>
+      <rw:author />
+      <rw:date>Sep 19, 2026</rw:date>
+    </item>
+    <item>
+      <title>Giants CB Deonte Banks (calf) is questionable for Week 2 against the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fef23cea80635b4d66146f0d296af9aab7a7511a533732482694df27453af840</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Deonte Banks NYG Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Also listed questionable is LB Micah McFadden, while CB Greg Newsome, T Andrew Thomas, DL Chauncey Golston, and OL Francis Mauigoa were removed from the injury report and will play. While Banks’ status is of particular concern against the high-flying Rams aerial attack, their opponent could be without All-Pro wide receiver Puka Nacua, who is listed as questionable with a groin injury.&lt;/p&gt;</description>
+      <rw:player>Deonte Banks</rw:player>
+      <rw:team>NYG</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 19, 2026</rw:date>
+    </item>
+    <item>
+      <title>Rams WR Puka Nacua (groin) is questionable for Week 2 against the Giants.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:015f2178bbc6c1a47682da25c61c52f6526b02852f612d74fe40dd246055eb45</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nacua did not practice for the second consecutive day Saturday, prompting the questionable designation for Monday Night Football. The issue is now being called a groin ailment and is reportedly unrelated to the psoas injury he dealt with during the offseason. Fantasy managers will want to start making alternate plans for their first-round pick considering the Rams don’t play until the final game of the week. Jordan Whittington is listed as doubtful with a quad injury.&lt;/p&gt;</description>
+      <rw:player>Puka Nacua</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 19, 2026</rw:date>
+    </item>
     <item>
       <title>Patriots downgraded CB Carlton Davis (neck) to out for Week 2 against the Steelers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -396,6 +448,19 @@
       <rw:date>Sep 18, 2026</rw:date>
     </item>
     <item>
+      <title>Chiefs ruled out LT Josh Simmons (back) for Week 2 against the Colts.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1d34a11ca035bdc1cb0259785155ad6eab6c2e5a3bed43b3c96390f7e51b8937</guid>
+      <pubDate>Fri, 18 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Josh Simmons KC Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Backup OT Kahlil Benson will start in Simmons’ stead. He did so last week and avoided major mistakes. The Chiefs also ruled out CB Chamarri Conner (knee).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; NBC Sports’ Pro Football Talk&lt;/p&gt;</description>
+      <rw:player>Josh Simmons</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source>NBC Sports’ Pro Football Talk</rw:source>
+      <rw:author />
+      <rw:date>Sep 18, 2026</rw:date>
+    </item>
+    <item>
       <title>Seahawks S Nick Emmanwori (ankle/hip) is questionable to play in Week 2 against the Cardinals.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:ef62c1e64012ed60041ad0061ada75047f5d4aeba873e8c8f682ade79fd45768</guid>
@@ -769,19 +834,6 @@
       <rw:team>ARI</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Theo Mackie</rw:source>
-      <rw:author />
-      <rw:date>Sep 18, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chiefs ruled out LT Josh Simmons (back) for Week 2 against the Colts.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1d34a11ca035bdc1cb0259785155ad6eab6c2e5a3bed43b3c96390f7e51b8937</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Josh Simmons KC Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Backup OT Kahlil Benson will start in Simmons’ stead. He did so last week and avoided major mistakes. The Chiefs also ruled out CB Chamarri Conner (knee).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; NBC Sports’ Pro Football Talk&lt;/p&gt;</description>
-      <rw:player>Josh Simmons</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source>NBC Sports’ Pro Football Talk</rw:source>
       <rw:author />
       <rw:date>Sep 18, 2026</rw:date>
     </item>
@@ -6450,58 +6502,6 @@
       <rw:team>SF</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 13, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Jeremiyah Love (ankle) is expected to play in Week 1 against the Chargers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c83387361634b4f373b58bb5010f2ab40b1ca5a94d92842e1eed7231ecb26ba3</guid>
-      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jeremiyah Love ARI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Love was limited in practice throughout the week. Head coach Mike LaFleur, however, said he would have no limitations in practice as early as Wednesday, so the limited designation is likely a technicality. He was listed as questionable at the end of the week and LaFleur called him a game-time decision. Love has been trending in the right direction for a while and should be good to go when the Cardinals release their inactives. He will likely split work with Tyler Allgeier, keeping him in the RB2 ranks for his NFL debut.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>Jeremiyah Love</rw:player>
-      <rw:team>ARI</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 13, 2026</rw:date>
-    </item>
-    <item>
-      <title>Alvin Kamara (knee) is not expected to play in Week 1 against the Lions.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:826790d87d3ae1e7f34526634fc8777ec89dd2a2c1c4b99a9ce830ba2d627ced</guid>
-      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Alvin Kamara NO Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kamara practiced in full on Friday but was still listed as questionable for Week 1. It doesn’t sound like there are any immediate concerns with the knee issue, but rather the team wants to ease him back into action with another week of practice. Kendre Miller will serve as the team’s RB2 for this game.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>Alvin Kamara</rw:player>
-      <rw:team>NO</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 13, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Rome Odunze (calf) is expected to play in Week 1 against the Panthers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c0834dd6383e68033ddf1f1da56a122f5f0233f0c74a236bea41fbc667288445</guid>
-      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Rome Odunze CHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Odunze was limited by the calf issue throughout the week before being listed as questionable on Friday. He will suit up today but might not be at full strength. Odunze will be a high-risk WR3 for his 2026 opener. To no one’s surprise, Colston Loveland trails only Trey McBride in the tight end rankings, while Luther Burden is a speculative WR2.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>Rome Odunze</rw:player>
-      <rw:team>CHI</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 13, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports Joey Porter Jr. (back) is unlikely to play in Week 1 against the Falcons.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:fc5a1b056b73da94ceea606999ea964a4e84da7af5d8a2b1ab32ceab81faecd3</guid>
-      <pubDate>Sun, 13 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Joey Porter PIT Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Porter Jr. missed all of training camp with the back issue, but, as Schefter notes, he has also been engaged in unsuccessful contract talks with the Steelers all offseason. Schefter immediately added, “The possibility of a trade remains in play.” It sounds like his Week 1 absence is almost entirely based on the lack of a new contract, meaning he could continue to miss games until that changes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Joey Porter</rw:player>
-      <rw:team>PIT</rw:team>
-      <rw:position>Cornerback</rw:position>
-      <rw:source>Adam Schefter</rw:source>
       <rw:author />
       <rw:date>Sep 13, 2026</rw:date>
     </item>

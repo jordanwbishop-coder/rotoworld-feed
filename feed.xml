@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 16:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:22:42 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Adam Schefter reports the Steelers are planning for Joey Porter (back) to return in Week 3 but whether or not he does return “is a bit more ambiguous.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -396,6 +396,19 @@
       <rw:date>Sep 20, 2026</rw:date>
     </item>
     <item>
+      <title>The Ringer’s Tom Pelissero reports Joe Burrow (back) will play in Week 2 against the Texans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d17980b2f9aacc7e35bc1905529cd08932c781b8c516b32e331f16b88a631f97</guid>
+      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Joe Burrow CIN Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Bengals called up Josh Johnson from the practice squad over the weekend, raising some eyebrows regarding Burrow’s health. The move, however, was purely a precaution. Burrow has already said he is playing this week. He remains near the top of the QB1 ranks despite a tough matchup with the Houston defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Joe Burrow</rw:player>
+      <rw:team>CIN</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Sep 20, 2026</rw:date>
+    </item>
+    <item>
       <title>ESPN’s Adam Schefter reports the Broncos maintain a “high level of confidence and comfort” in offensive coordinator Davis Webb.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:ea3168becc884d04415b500af2cd8ef5ef0a7fafd0f715e499eb38ba0a6e85a2</guid>
@@ -771,19 +784,6 @@
       <rw:source>New England Patriots</rw:source>
       <rw:author />
       <rw:date>Sep 18, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Ringer’s Tom Pelissero reports Joe Burrow (back) will play in Week 2 against the Texans.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d17980b2f9aacc7e35bc1905529cd08932c781b8c516b32e331f16b88a631f97</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Joe Burrow CIN Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Bengals called up Josh Johnson from the practice squad over the weekend, raising some eyebrows regarding Burrow’s health. The move, however, was purely a precaution. Burrow has already said he is playing this week. He remains near the top of the QB1 ranks despite a tough matchup with the Houston defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Joe Burrow</rw:player>
-      <rw:team>CIN</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
     </item>
     <item>
       <title>Broncos coach Sean Payton said WR Jaylen Waddle “is going to have his touches.”</title>

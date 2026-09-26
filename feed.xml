@@ -4,7 +4,72 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 19:19:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 23:22:46 +0000</lastBuildDate>
+    <item>
+      <title>49ers placed WR Demarcus Robinson (ankle) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:139e544621954f7c0538efad24fd2e1c0a054df7431a4318b5097b456384b6ac</guid>
+      <pubDate>Sat, 26 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Demarcus Robinson SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The high-ankle injury will now cost the veteran receiver a minimum of four games, thinning an already reeling group of pass-catchers in San Francisco. Jacob Cowing is technically the next man up, although the offense appears more likely to concentrate on the remaining veterans.&lt;/p&gt;</description>
+      <rw:player>Demarcus Robinson</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Eagles WR DeVonta Smith (hamstring) practiced in full Saturday and will play in Week 3 against the Bears.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3eec8a325fccec099583b70d6cb1b0411d5269f344d04fcf9fb2666d81810014</guid>
+      <pubDate>Sat, 26 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;DeVonta Smith PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Smith’s week of practiced steadily increased from a limited showing to full-go, paving the way for him to operate as the clear-cut top option through the air against a porous Bears secondary. Fantasy managers can start him with confidence is an upside WR2 in Week 3.&lt;/p&gt;</description>
+      <rw:player>DeVonta Smith</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Eagles RB Saquon Barkley (stinger) was removed from the injury report Saturday and will play in Week 3 against the Bears.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a0a63388da58f264fbb5e1fa4c7b9c74568897bb4039832508a752c9d007af63</guid>
+      <pubDate>Sat, 26 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Saquon Barkley PHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Barkley briefly left the team’s Week 2 win with a stinger but would return in the second half to finish the game. He’ll be a back-end RB1 against the Bears through clear offensive struggles from the Eagles.&lt;/p&gt;</description>
+      <rw:player>Saquon Barkley</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Broncos placed RB Jonah Coleman (ankle) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a1e6f4c9b05295fd453a6dcd7d361613b9edb308b0266e8a00840ea93da48488</guid>
+      <pubDate>Sat, 26 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jonah Coleman DEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;That escalated quickly. Coleman was potentially in line to serve as the starter in Week 3 with both J.K. Dobbins and RJ Harvey nursing various injuries. Coleman missed practice throughout the week with an ankle injury that wasn’t revealed until Wednesday’s practice report, with the injury now taking the next four games, at minimum, from the talented rookie. Both Harvey and Dobbins have been cleared to play in Week 3, forming a backfield tandem in the wake of Coleman’s injury.&lt;/p&gt;</description>
+      <rw:player>Jonah Coleman</rw:player>
+      <rw:team>DEN</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 26, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bears QB Caleb Williams (hamstring) was ruled out for Week 3 against the Eagles.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:09edd461b93a5bb81e4704648835a7182e0532e009d4f8bd9423e1fc68fed8f4</guid>
+      <pubDate>Sat, 26 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Caleb Williams CHI Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Williams is likely looking at a multi-week absence after injuring his hamstring in Week 2. Tyson Bagent is in the final stages of the concussion protocol after practicing in full Saturday but will need to be cleared by an independent neurologist Sunday to suit up on Monday Night Football against the Eagles. Bagent is officially listed as questionable.&lt;/p&gt;</description>
+      <rw:player>Caleb Williams</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 26, 2026</rw:date>
+    </item>
     <item>
       <title>Cowboys placed S P.J. Locke (plantar fascia) on injured reserve.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6437,71 +6502,6 @@
       <rw:team>ATL</rw:team>
       <rw:position>Cornerback</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>Vikings declared QB Kyler Murray, WR, Jauan Jennings, CB Zemaiah Vaughn, S Jakobe Thomas, C Nick Samac, OT Caleb Tiernan and DL Elijah Williams inactive for Week 2 against the Bears.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:24efc6db0c566109f5692adce1406d37e202370a0438589d62769b92a6292179</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kyler Murray MIN Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;ESPN’s Adam Schefter reported Sunday morning Murray is “on track” to return in Week 3 against the Bucs. Jennings, who is out for non-football reasons, has a less clear return timeline.&lt;/p&gt;</description>
-      <rw:player>Kyler Murray</rw:player>
-      <rw:team>MIN</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>Joe Burrow (back) is active for Cincinnati’s Week 2 game against the Texans.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:819b57f6fcb4cc7698d0062f2484d5b3b87dc37968abfa1ec1ec341b4a542505</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Joe Burrow CIN Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It never seemed like there was a real chance Burrow would miss this game, even after Josh Johnson was elevated from the practice squad yesterday. Burrow will be on the QB1 line against a Texans defense looking to rebound. Inactive for the Bengals are: Johnson, WR Ke’Shawn Williams, CB Josh Newton, C Connor Lew, OL Myles Hinton, DT B.J. Hill (Achilles), and DT Landon Robinson.&lt;/p&gt;</description>
-      <rw:player>Joe Burrow</rw:player>
-      <rw:team>CIN</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports Kyler Murray (concussion) “is on track” to play in Week 3 against the Bucs.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:4230a6764758e87324e81d7ac4fa16e1555528ff61f462ccfbf2d1527ed09a34</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kyler Murray MIN Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Schefter added that Murray is expected to clear concussion protocol next week. He was limited throughout practice this week before being ruled out on Friday. Murray made progress through the protocol during the week but couldn’t get the green light before the weekend. Carson Wentz will make one more start. Even with another strong showing, Wentz is all but certain to return to backup duties once Murray is healthy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Kyler Murray</rw:player>
-      <rw:team>MIN</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Ed Oliver (hip) “has a chance” to play in Week 3 against the Chargers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:4ed0f9785f9565669e7345441770bba6a9d413775a6c49ce8d5ffe44c1a57546</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ed Oliver BUF Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He is considered day-to-day. Per Rapoport, Oliver experienced hip spasms during warmups ahead of the Bills’ Week 2 game against the Lions. The Bills ruled him out right at the deadline for inactives. Oliver only appeared in three games last year but still managed three sacks. He logged one TFL and a fumble recovery in Week 1 of this year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>Ed Oliver</rw:player>
-      <rw:team>BUF</rw:team>
-      <rw:position>Defensive Lineman</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports DJ Moore (shoulder) is considered “day-to-day” and is expected to practice next week.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:826a84e9c6065b892232abe0a6d7622f5dbc15b2496181d6c6f7981aa754338c</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;DJ Moore BUF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Moore is believed to have suffered an AC joint sprain in Week 2. He left in the first half after landing on his shoulder and did not return. His status for Week 3 remains up in the air, but an immediate return to practice would be a good sign. He got off to a hot start in Week 1 with 100 yards and a touchdown before being shut out in his brief Week 2 showing. The extra rest between Thursday’s game and Buffalo’s upcoming matchup with the Chargers will hopefully be enough to get more back on the field.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>DJ Moore</rw:player>
-      <rw:team>BUF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
       <rw:author />
       <rw:date>Sep 20, 2026</rw:date>
     </item>

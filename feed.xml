@@ -4,7 +4,46 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 23:50:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:52:10 +0000</lastBuildDate>
+    <item>
+      <title>Lions RT Blake Miller (knee) is not on the injury report for Week 3 against the Jets.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e5090cf1c8702ab309c17897b057de6788c215ec52fb2cdf5c19e78558a4c81c</guid>
+      <pubDate>Fri, 25 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Blake Miller DET Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Lions LG Christian Mahogany (hip) will also make his return after a week-long absence, and RG Tate Ratledge (elbow) is good to go after two limited sessions early in the week. The Lions’ starting offensive line’s health is improving. Backup OG Ben Bartch (foot) has been ruled out.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Detroit Lions&lt;/p&gt;</description>
+      <rw:player>Blake Miller</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source>Detroit Lions</rw:source>
+      <rw:author />
+      <rw:date>Sep 25, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chiefs DT Chris Jones (calf) is not on the injury report for Week 3 against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ad5a85042c4f6f29e8d00faf99136274c261706f5c9f96d3d578ddbea7c3ba6e</guid>
+      <pubDate>Fri, 25 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Chris Jones KC Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Chiefs kept Jones limited in all three practices this week, so this injury isn’t totally behind him yet. Regardless, he should have a productive day against the Dolphins’ offense this week.&lt;/p&gt;</description>
+      <rw:player>Chris Jones</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 25, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport said “it seems like” 49ers WR Mike Evans (hip) “has a pretty good chance” to play in Week 3 against the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:ac2d15d4cbe2a513a6002f1708b6fc2b51d1e45aae30123cc9aad1a770fad493</guid>
+      <pubDate>Fri, 25 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapoport made the statement, and then immediately referenced 49ers coach Kyle Shanahan’s comments earlier this week, when he said Evans had a “good” chance to play this week, so it is unclear if Rapoport is actually breaking news. That said, no news is good news. If the NFL Network star had learned something contradictory, we would have heard about it. Evans returned to practice in a limited capacity today. Stay tuned for updates and treat him as a WR2 for the time being.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Mike Evans</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Sep 25, 2026</rw:date>
+    </item>
     <item>
       <title>NFL Network’s Ian Rapoport reports that Commanders QB Jayden Daniels (elbow) is unlikely to play in Week 4 against the Colts.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -261,6 +300,19 @@
       <rw:player>Chig Okonkwo</rw:player>
       <rw:team>WAS</rw:team>
       <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 25, 2026</rw:date>
+    </item>
+    <item>
+      <title>Kaytron Allen (hip) is not on Washington’s final Week 3 injury report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1128284f4bfe6c1573346a806a898135f7faff9a1eb20e15a6841a944a388de3</guid>
+      <pubDate>Fri, 25 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kaytron Allen WAS Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen will be available for third-string running back duties against the Seahawks, and considering the likelihood the Commanders are blown out, stands some chance at scoring about 1-3 fantasy points.&lt;/p&gt;</description>
+      <rw:player>Kaytron Allen</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Sep 25, 2026</rw:date>
@@ -6450,58 +6502,6 @@
       <rw:team>NO</rw:team>
       <rw:position>Defensive End</rw:position>
       <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Chris Lindstrom (concussion) is expected to play in Week 2 against the</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7897c336ba44efed3c6ff9d2134feefccceacd7b4a95744a791d21b3b65defee</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chris Lindstrom ATL Guard&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Atlanta is also going to have AJ Terrell (shoulder) available for Week 2. Both players were listed as questionable on Friday. It’s a good start for Atlanta, but what the team really needs is a healthy quarterback. Even third-stringer Cooper Rush is playing through a back injury, and the results were downright pitiful in Week 1.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>Chris Lindstrom</rw:player>
-      <rw:team>ATL</rw:team>
-      <rw:position>Guard</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Ringer’s Tom Pelissero reports Joe Burrow (back) will play in Week 2 against the Texans.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d17980b2f9aacc7e35bc1905529cd08932c781b8c516b32e331f16b88a631f97</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Joe Burrow CIN Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Bengals called up Josh Johnson from the practice squad over the weekend, raising some eyebrows regarding Burrow’s health. The move, however, was purely a precaution. Burrow has already said he is playing this week. He remains near the top of the QB1 ranks despite a tough matchup with the Houston defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Joe Burrow</rw:player>
-      <rw:team>CIN</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports the Broncos maintain a “high level of confidence and comfort” in offensive coordinator Davis Webb.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ea3168becc884d04415b500af2cd8ef5ef0a7fafd0f715e499eb38ba0a6e85a2</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Davis Webb DEN Coaching Staff&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Webb took over play-calling duties from Sean Payton this year. The results were disastrous in Week 1. Denver scored 10 points against the Chiefs, Bo Nix was held to 131 yards, and Jaylen Waddle caught one pass all night. It’s a little early for the Broncos to be reminding us that switching to Webb as play-caller wasn’t a bad decision, but the Week 1 results were alarming. If the team continues to struggle on offense, Payton could be back on the headset by midseason.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Davis Webb</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Coaching Staff</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Sep 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports Joey Porter Jr. (back) is “considering a second opinion.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:57aeec1b2753b09fe8c3ffcfa99c2ef44a3bbdfb89fbcbcc638558f718503b04</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Joey Porter PIT Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Porter Jr. missed training camp and the first two weeks of the regular season with the back issue. His absence was initially believed to be purely related to his contract situation. He lobbied for a new deal all summer and never seemed to make much progress. But the fact that he is seeking additional medical opinions indicates the back issue is real. The Steelers, on the other hand, aren’t buying it. According to Schefter, they are planning for him to potentially play in Week 3. This situation is getting uglier by the week. It’s possible a trade is best for everyone involved. Until some progress is made, the Steelers will continue to be without their top corner.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Joey Porter</rw:player>
-      <rw:team>PIT</rw:team>
-      <rw:position>Cornerback</rw:position>
-      <rw:source>Adam Schefter</rw:source>
       <rw:author />
       <rw:date>Sep 20, 2026</rw:date>
     </item>

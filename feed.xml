@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 06:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:21:24 +0000</lastBuildDate>
     <item>
       <title>Jaylen Waddle caught 2-of-7 targets for 10 yards in the Broncos’ Week 3 win over the Rams, adding 14 yards on one carry.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -617,19 +617,6 @@
       <rw:date>Sep 27, 2026</rw:date>
     </item>
     <item>
-      <title>Elic Ayomanor caught 1-of-3 targets for 11 yards in the Titans’ Week 3 loss to the Giants.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1b91c51c52239e6f8305322c40ccc743cc8c83035046c427d4b4fe98e898006c</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Elic Ayomanor TEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It goes down as his second one-catch, three-target, 11-yard game of the season. He posted those exact numbers in Week 1, though with a touchdown for good measure. Ayomanor popped for 69 yards in Week 2 but failed to find the big play in this game, cratering his numbers. As the WR3 on one of the worst offenses in football, he is not on the fantasy radar for Week 4.&lt;/p&gt;</description>
-      <rw:player>Elic Ayomanor</rw:player>
-      <rw:team>TEN</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 27, 2026</rw:date>
-    </item>
-    <item>
       <title>Trey McBride caught 9-of-11 targets for 75 yards in the Cardinals’ Week 3 loss to the 49ers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:330d5ac676fa9e2ba42d1124ddee4c76f380e5b666f96413e8859715848b6803</guid>
@@ -754,6 +741,19 @@
       <description>&lt;p&gt;&lt;strong&gt;Tre Tucker LV Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tucker had a bigger impact in real life than he did in fantasy. On the plus side, he helped set up a field goal and a touchdown, first by finding the soft spot in the Saints’ zone coverage in the two-minute drill. Later, his 15-yard gain on a deep crossing route helped set up the Raiders. He also committed a holding penalty, which erased a short gain for RB Ashton Jeanty. Tucker is a WR4/FLEX against the Chiefs next week.&lt;/p&gt;</description>
       <rw:player>Tre Tucker</rw:player>
       <rw:team>LV</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>Elic Ayomanor caught 1-of-3 targets for 11 yards in the Titans’ Week 3 loss to the Giants.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1b91c51c52239e6f8305322c40ccc743cc8c83035046c427d4b4fe98e898006c</guid>
+      <pubDate>Sun, 27 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Elic Ayomanor TEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It goes down as his second one-catch, three-target, 11-yard game of the season. He posted those exact numbers in Week 1, though with a touchdown for good measure. Ayomanor popped for 69 yards in Week 2 but failed to find the big play in this game, cratering his numbers. As the WR3 on one of the worst offenses in football, he is not on the fantasy radar for Week 4.&lt;/p&gt;</description>
+      <rw:player>Elic Ayomanor</rw:player>
+      <rw:team>TEN</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source />
       <rw:author />

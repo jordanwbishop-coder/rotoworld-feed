@@ -4,7 +4,85 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 11:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:42:03 +0000</lastBuildDate>
+    <item>
+      <title>ESPN’s Adam Schefter said it “sounds like” Jayden Daniels (elbow) is going to need surgery after the season and he’s put it off so he can play with his team now.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c467c716f969f8e646bba06e3f8ec20be3f5742b5b93391e22a1324cbbbcd3a4</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jayden Daniels WAS Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Schefter added that he doesn’t think Daniels will play this week but that he may play “sooner rather than later.” Dan Quinn said Daniels will practice in “some capacity this week,” but they may just be trying to understand where Daniels is at physically in these practices. This update does not augur particularly well for Daniels’ chances of staying active if the Commanders go into a tailspin or if he reaggravates the injury; it seems like he’s simply trying to play through the injury to help his team if he can.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Jayden Daniels</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Sep 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Texans coach DeMeco Ryans said he is open to leaning more into the passing game.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8df47f14053153625aeef0cf7ab85be917aaacda39c2939beaff07e240c3d468</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;C.J. Stroud HOU Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“The thing for me about offensive football is you have to make sure you move the ball and try to score as many points as possible,” Ryans is quoted as saying by the Houston Chronicle. “How that looks to me, it really doesn’t matter. You can think or want to be a certain thing. But if you’re shown that that’s not the case and it’s not getting done, then you have to adjust. That’s where we are.” The Texans already abandoned the run against the Bengals in Week 2, throwing the ball 55 times. Perhaps Nico Collins’ return this week will raise all ships, but if it was as simple as the Texans needing to throw more, they probably would have scored more than six points against the Bengals. C.J. Stroud has a streamable matchup against the Cowboys this week if it all comes together.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Houston Chronicle&lt;/p&gt;</description>
+      <rw:player>C.J. Stroud</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Houston Chronicle</rw:source>
+      <rw:author />
+      <rw:date>Sep 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>Giants released Odell Beckham, Jr.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e9be1ec48564be6b0e8838cec3aeaa6c1933d2f8f65e49c1cad0be50b2e77a09</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Odell Beckham&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Beckham’s reuniting with his former team lasted all of three games, during which Beckham was targeted once on 11 pass routes. An afterthought in the New York offense, OBJ will look to land in an offense that might use his diminished skills. NFL insider Jordan Schultz said both the Giants and Beckham “decided a mutual parting was best for everyone.” It’s hard to imagine who would want Beckham at this point in his fading NFL career. He has nine catches since the start of the 2024 regular season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Schultz&lt;/p&gt;</description>
+      <rw:player>Odell Beckham</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Jordan Schultz</rw:source>
+      <rw:author />
+      <rw:date>Sep 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Mike Garafolo reports Panthers G Damien Lewis (elbow) will be out “a few weeks.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e543d07e13bd7c7e02007997df2afc1c9171e3f94e47ddaf5dd861f0ed3cb184</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Damien Lewis CAR Guard&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s yet another significant loss for the Panthers, who saw Jaycee Horn and Jalen Coker go down with injury in Week 3 against the Browns. Carolina will be without their starting guard for a little while, including this week against the Lions. Through three weeks the Panthers rank 25th in ESPN’s pass blocking win rate and 11th in run block win rate.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolol&lt;/p&gt;</description>
+      <rw:player>Damien Lewis</rw:player>
+      <rw:team>CAR</rw:team>
+      <rw:position>Guard</rw:position>
+      <rw:source>Mike Garafolol</rw:source>
+      <rw:author />
+      <rw:date>Sep 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>SNY’s Connor Hughes believes the Giants could start JJ McCarthy in “the near future.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f87cfccafd9e3d83c89faffd4f06a01992fc08e96dee4f3b1e59feef413e77d9</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;J.J. McCarthy NYG Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;New York acquired McCarthy from the Vikings on Monday in exchange for a 2027 fifth round draft pick. Hughes spoke with NFL sources who said “the Giants do not give up a fifth-round pick unless they plan to play McCarthy in the near future.” Head coach John Harbaugh and the team’s coaching staff, per Hughes, see McCarthy as a starting-caliber quarterback despite his immense struggles in Minnesota last season. “The Giants welcomed the chance to add a player they view as a competitor, gritty, mobile, and who has all the tools to be a plus passer in the NFL,” Hughes said. With Jameis Winston playing worse than any QB in recent memory, McCarthy could be just a couple weeks away from taking over as New York’s starter. He would be a mild upgrade for Malik Nabers and the rest of the Giants pass catchers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; SNY.tv&lt;/p&gt;</description>
+      <rw:player>J.J. McCarthy</rw:player>
+      <rw:team>NYG</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>SNY.tv</rw:source>
+      <rw:author />
+      <rw:date>Sep 29, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Athletic’s Mike DeFabo believes Jaylen Warren will continue as a workhorse back in Week 4.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:72ade3664d099ad82300fff8547b8034cab5f9ed37ebfb0ac934e423987de64b</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jaylen Warren PIT Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Warren operated as an every-down back in Week 3 against the Bengals, running for 127 yards on 17 carries and catching three passes for 49 yards in a victory. DeFabo suggested Warren had established himself as the team’s clear lead back option against the Bengals with Rico Dowdle (toe) sidelined. “I’ve always had respect for him, playing against him, and then being his teammate now for a little more than a season,” Aaron Rodgers said of Warren. “He is one of the toughest guys I’ve ever played with, and I just can’t say enough about his energy and the way he runs the football and the way he cares about his teammates.” Warren’s pass game involvement spiked in Week 3, as he ran a route on 70 percent of Pittsburgh’s drop backs. Dowdle, meanwhile, did not practice Monday ahead of the Steelers’ Thursday game against the Browns. Warren should remain in all lineups this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
+      <rw:player>Jaylen Warren</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>The Athletic</rw:source>
+      <rw:author />
+      <rw:date>Sep 29, 2026</rw:date>
+    </item>
     <item>
       <title>Rome Odunze caught 3-of-6 targets for 44 yards in the Bears’ Week 3 win over the Eagles.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -162,11 +240,11 @@
       <rw:date>Sep 28, 2026</rw:date>
     </item>
     <item>
-      <title>Buccaneers placed WR Jalen McMillan (knee) on injured reserve.</title>
+      <title>Bucs WR Jalen McMillan is expected to miss 6-8 weeks with a knee injury.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:09d0563754145c3c4c4f2feb431e0b225f3626ec2ed2d52dde4ed512feef829f</guid>
+      <guid isPermaLink="false">urn:sha256:11cd1af7326aba575946e9e312e3052ce4cee291e09d38a664ac27ff2c316413</guid>
       <pubDate>Mon, 28 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jalen McMillan TB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Imaging Monday confirmed a PCL sprain for McMillan, who will now move to injured reserve with a 6-8 week recovery timeline. The Buccaneers are also dealing with an injury to quarterback Baker Mayfield’s thumb on his throwing hand, although initial testing was positive. Now sitting at 0-3 and in last place in the NFC South, they’ll likely look to youth to attempt to save their season. On that note, no team in the division currently holds a winning record through three weeks.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Jalen McMillan TB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Imaging Monday confirmed a PCL sprain for McMillan, who will soon move to injured reserve with a month-plus recovery timeline. The Buccaneers are also dealing with an injury to quarterback Baker Mayfield’s thumb on his throwing hand, although initial testing was positive. Now sitting at 0-3 and in last place in the NFC South, they’ll likely look to youth to attempt to save their season. On that note, no team in the division currently holds a winning record through three weeks.&lt;/p&gt;</description>
       <rw:player>Jalen McMillan</rw:player>
       <rw:team>TB</rw:team>
       <rw:position>Wide Receiver</rw:position>
@@ -240,9 +318,9 @@
       <rw:date>Sep 28, 2026</rw:date>
     </item>
     <item>
-      <title>Browns G Teven Jenkins (back) and C Elgton Jenkins (concussion) were listed as “DNP” on Monday’s estimated practice report.</title>
+      <title>Browns G Teven Jenkins (back) and C Elgton Jenkins (concussion) did not practice on Monday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:912293fea0488fafc724ae06f32ab12e312844da06933653a84a4723db885336</guid>
+      <guid isPermaLink="false">urn:sha256:8e456e1b31a13e1d9263f011fdb6df2d2c6cf951559ff33c2176ca0dcfe3dab6</guid>
       <pubDate>Mon, 28 Sep 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Teven Jenkins CLE Guard&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Browns have a quick turnaround as they prepare to face the Steelers on Thursday Night Football in Week 4, making it highly unlikely that Elgton Jenkins will be able to clear concussion protocol in time to suit up. That makes the practice status of Teven Jenkins of primary concern considering an absence would mean the Browns would be without two of their starting interior offensive linemen against one of the better pass rushes in the league.&lt;/p&gt;</description>
       <rw:player>Teven Jenkins</rw:player>
@@ -691,6 +769,32 @@
       <rw:team>CAR</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Sep 28, 2026</rw:date>
+    </item>
+    <item>
+      <title>Buccaneers placed WR Jalen McMillan (knee) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:09d0563754145c3c4c4f2feb431e0b225f3626ec2ed2d52dde4ed512feef829f</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jalen McMillan TB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Imaging Monday confirmed a PCL sprain for McMillan, who will now move to injured reserve with a 6-8 week recovery timeline. The Buccaneers are also dealing with an injury to quarterback Baker Mayfield’s thumb on his throwing hand, although initial testing was positive. Now sitting at 0-3 and in last place in the NFC South, they’ll likely look to youth to attempt to save their season. On that note, no team in the division currently holds a winning record through three weeks.&lt;/p&gt;</description>
+      <rw:player>Jalen McMillan</rw:player>
+      <rw:team>TB</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 28, 2026</rw:date>
+    </item>
+    <item>
+      <title>Browns G Teven Jenkins (back) and C Elgton Jenkins (concussion) were listed as “DNP” on Monday’s estimated practice report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:912293fea0488fafc724ae06f32ab12e312844da06933653a84a4723db885336</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Teven Jenkins CLE Guard&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Browns have a quick turnaround as they prepare to face the Steelers on Thursday Night Football in Week 4, making it highly unlikely that Elgton Jenkins will be able to clear concussion protocol in time to suit up. That makes the practice status of Teven Jenkins of primary concern considering an absence would mean the Browns would be without two of their starting interior offensive linemen against one of the better pass rushes in the league.&lt;/p&gt;</description>
+      <rw:player>Teven Jenkins</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Guard</rw:position>
+      <rw:source />
       <rw:author />
       <rw:date>Sep 28, 2026</rw:date>
     </item>
@@ -6398,110 +6502,6 @@
       <rw:team>KC</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Charles Goldman</rw:source>
-      <rw:author />
-      <rw:date>Sep 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports that Seahawks QB Sam Darnold (glute) “has a chance” to play in Week 3 against the Commanders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2ae5d3d7bc89b09768c11ccef3b6a933b69829d587e0d21069a4566c9fb68741</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Sam Darnold SEA Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;To be clear, Rapoport’s tone was controlled and cautionary here. Darnold can only be considered questionable, at best. The Seahawks’ quarterback “is healing faster than anyone had imagined,” but Rapoport adds that the team wants to be “cautious” with him. Backup QB Drew Lock should probably be viewed as the presumptive Week 3 starter at this time, but it sounds like Darnold can reasonably be expected to play in Week 4 at the latest.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>Sam Darnold</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>49ers signed WR Brandin Cooks, formerly of the Bills.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:a1d0d4d286b889e32bf7af2907c97320ce7d48fd585ad97116cef7ca392d91e5</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brandin Cooks SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to ESPN’s Adam Schefter, Cooks is signing with the 49ers’ practice squad initially “to get up to speed for games.” Cooks, 32, posted a 24/279/0 receiving line in the regular season last year, before chipping in five catches for 78 yards in two playoff games. He is perhaps unlikely to be fantasy-relevant right away, but there is a real chance he could work his way into the 49ers’ wide receiver rotation, given their influx of injuries at the position.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Brandin Cooks</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Sep 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>Lions released LB Joe Bachie.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b251892cdc123cfb2876e39fd337557c678ecfcdb90f29b66b9aea2ab0b1c602</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Joe Bachie&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bachie logged 157 defensive snaps and 260 special teams snaps with the Titans last season. He has not played at all defensively for Detroit, but logged 32 special teams snaps. He could return via the practice squad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Detroit Lions&lt;/p&gt;</description>
-      <rw:player>Joe Bachie</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Detroit Lions</rw:source>
-      <rw:author />
-      <rw:date>Sep 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>Packers coach Matt LaFleur said “it’s way too early” to determine whether WR Jayden Reed (neck) resumes playing this season.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:3e247ac92ab8cfd19df2ad5af42faed7e60264a1aa6e0e47dffee67c78143547</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jayden Reed GB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Reports have varied as to whether Reed suffered a neck injury or a back injury. Today, the Packers’ head coach clarified that Reed indeed suffered a neck injury. According to ESPN’s Rob Demovsky, Reed is back in Green Bay and is going through a series of tests. Reed is not practicing right now, and it sounds like it could be quite a while before that changes. Hopefully, he can resume playing next year at the very latest.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
-      <rw:player>Jayden Reed</rw:player>
-      <rw:team>GB</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Rob Demovsky</rw:source>
-      <rw:author />
-      <rw:date>Sep 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports that Jets TE Mason Taylor (thumb) is considered week-to-week.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:0e7f6c7d1ece6e16e29fc12ecc081fd706ccb327eb386301dda557f2f0fb5595</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Mason Taylor NYJ Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Taylor suffered a thumb injury in Week 2 against the Packers, which will seemingly sideline him for Week 3 and potentially longer. Taylor currently leads Jets tight ends with 78 offensive snaps. Losing for any amount of time elevates rookie TE Kenyon Sadiq to a more prominent role. Sadiq is worth adding in 12-team leagues at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>Mason Taylor</rw:player>
-      <rw:team>NYJ</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>Packers OL Anthony Belton (elbow) was limited in Tuesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7c8aefd08042ad28cfd7d20029c0146a1b25face3e5d58baca1fd99328e20d2e</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Anthony Belton GB Offensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Belton is Green Bay’s new starting right tackle, in theory, with Zach Bako-Bewele done for the season. Not ideal for him to be popping up on the injury report on Tuesday ahead of a TNF clash with the Falcons. We’ll see where this goes; midweek additions are always tricky to figure out the day of, but the Packers offensive line continues to be beset with injuries.&lt;/p&gt;</description>
-      <rw:player>Anthony Belton</rw:player>
-      <rw:team>GB</rw:team>
-      <rw:position>Offensive Lineman</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Rico Dowdle (toe) is considered to be day-to-day.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:3068c8f0ec2c6e875b015dcc798beec5e9f8c8bf9c8f0476425da12b93895195</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Rico Dowdle PIT Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dowdle appears to have a good chance of playing in Week 3. He played more snaps than Jaylen Warren in Week 1 and obviously did not while dealing with this injury in Week 2. Ultimately the Steelers offense has been bad enough that neither player profiles as better than a FLEX in Week 3.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
-      <rw:player>Rico Dowdle</rw:player>
-      <rw:team>PIT</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Ian Rapoport</rw:source>
-      <rw:author />
-      <rw:date>Sep 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jets released QB Bailey Zappe from their practice squad.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2a7fb71801f8138e19f60408bef553c2340842927d306866593342cd1e35789b</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Bailey Zappe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Jets chose Will Levis over Zappe in what we’re calling “a career-ending blurb.” The 27-year-old Zappe will attempt to pick up the pieces elsewhere.&lt;/p&gt;</description>
-      <rw:player>Bailey Zappe</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
       <rw:author />
       <rw:date>Sep 22, 2026</rw:date>
     </item>

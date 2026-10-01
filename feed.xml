@@ -4,11 +4,362 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 20:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:21:50 +0000</lastBuildDate>
     <item>
-      <title>Buccaneers RB Chris Godwin (ankle) did not practice on Wednesday.</title>
+      <title>Jadarian Price (chest) was limited in Wednesday’s practice ahead of Week 4 against the Chargers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:5a09f04d48aa56d2f9e4800692cb56883a7f1470344410ae8ae6ab5bef09e029</guid>
+      <guid isPermaLink="false">urn:sha256:efd1c69cd628667a53d843125259a09f6da62ddf9694c3d5c1b307ae26c53c13</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jadarian Price SEA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Price was able to play in Week 3 despite the chest ailment, although he was benched for most of the first half after giving up a second fumble of the season. If Price can’t go, George Holani and Emmanuel Wilson — not necessarily in that order — would be the replacements, and are likely to be involved regardless.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Brian Nemhauser&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rotoworld Author:&lt;/strong&gt; Christopher Crawford&lt;/p&gt;</description>
+      <rw:player>Jadarian Price</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Brian Nemhauser</rw:source>
+      <rw:author>Christopher Crawford</rw:author>
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Eagles WLB Zack Baun is in the league’s concussion protocol.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:dda64a15b596c8b55077319abdbea75960fbeeede546253ab5d5425e47151567</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Zack Baun PHI Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s less than ideal news for the Eagles’ every-down ‘backer with the team on a short week against the Rams. Teams seem to be getting players through the protocol faster than ever of late, but the Eagles’ six-day work week has play-making Baun firmly on the wrong side of questionable.&lt;/p&gt;</description>
+      <rw:player>Zack Baun</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Linebacker</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>DeVonta Smith (hamstring) was held out of Wednesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0e95903a70e41c9d565a37b1ef88b0cb2a8e0ee6f8276b832da16f096e039250</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;DeVonta Smith PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is the same routine Smith followed last week before ultimately suiting up against the Bears on Monday Night Football. Perhaps the pattern changes with the Eagles on a short week against the Rams, but we would fully expect Smith to be out there as a high-end WR2 this weekend.&lt;/p&gt;</description>
+      <rw:player>DeVonta Smith</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Dallas Goedert (knee) remained sidelined at Wednesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0113495a49339e9acd563f461c13a49aba3f7f409fa63b87296db9dc7f88fcd9</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dallas Goedert PHI Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;That leaves Goedert extremely likely to miss his second consecutive contest when the Eagles host the Rams this Sunday. Zach Ertz was Goedert’s feel-good Week 3 fill-in, but Ertz’s 38 percent snap share ended up producing one catch on two targets. With this entire offense looking rather sluggish at the moment, Ertz does not have TE2 streamer appeal.&lt;/p&gt;</description>
+      <rw:player>Dallas Goedert</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Kris Rhim reports Keaton Mitchell was wearing a walking boot on his left foot after practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b16ae503ac71a19d2e9a4e28f27714d6a48045c789c02f1e50cbc2466b5906ac</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Keaton Mitchell LAC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He was eventually added to the injury report as “limited” with an ankle issue. Per Rhim, Mitchell told reporters in the locker room he was okay. Mitchell was not initially on the injury report. This obviously flared up during practice but he didn’t have it looked at until after the report was posted. We will get more clarity on the situation tomorrow. Mitchell’s role grew in Week 3 with 11 touches, but a foot or ankle injury would likely limit any further progress.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Kris Rhim&lt;/p&gt;</description>
+      <rw:player>Keaton Mitchell</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Kris Rhim</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jackson Powers-Johnson (groin) did not practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f98089fafcba1bcf396ab816a3b571ab2c0c9aa39fd4ea6e33249ea3a9bfde97</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jackson Powers-Johnson LV Offensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Powers-Johnson was the only Raider who missed practice because of an injury. Former third-round pick Caleb Rogers filled in for JPJ on Sunday, though he was only needed for five snaps. Rogers would presumably draw the start if Powers-Johnson can’t go.&lt;/p&gt;</description>
+      <rw:player>Jackson Powers-Johnson</rw:player>
+      <rw:team>LV</rw:team>
+      <rw:position>Offensive Lineman</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>J.K. Dobbins (hip) is practicing in full for Week 4 against the 49ers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c3b1a27b9df249f0b1ef02aa07ab7633b646d991631cc3eb9e3e5cf41eb2c7c0</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;J.K. Dobbins DEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;RJ Harvey was checked for a concussion in Week 3 and is not on the injury report today, meaning both backs are good to go for Week 4. Dobbins saw 17 carries versus the Rams compared to just two for Harvey, though the latter caught six passes. Dobbins caught one pass. The rushing advantage will keep Dobbins in the RB3 mix for Week 4.&lt;/p&gt;</description>
+      <rw:player>J.K. Dobbins</rw:player>
+      <rw:team>DEN</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>KhaDarel Hodge (knee) did not practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f02c5c6b249252a9a909e5cadf812994bc6a32fd3605f067a3207cb18481eab5</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;KhaDarel Hodge SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a low blow, even for the subsation. Hodge began the year on San Francisco’s practice squad but was promoted to the active roster when De’Zhaun Stribling went down with an ankle injury. He wound up running 45 percent of the routes in Week 3 but was not targeted once. With Mike Evans also banged up, Jacob Cowing and Jordan Watkins could be in line for more work this week.&lt;/p&gt;</description>
+      <rw:player>KhaDarel Hodge</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ladd McConkey (foot) was limited in Wednesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:9046e0972268e428e461e3a9556db81809cded761a68ebeec354232b27bdad47</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ladd McConkey LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We’re unsure if it’s good that McConkey is no longer listed with his rib injury or bad that he’s dealing with something new. Either way, a limited session to start the week means McConkey should be available on Sunday. He was on the field for 61-of-69 snaps in Week 3 but managed just five targets. He still turned that into four grabs for 66 yards, which isn’t a bad performance given how awful the Chargers looked. Even if the offensive environment is a limiting factor for Ladd, he remains a low-end WR2 for Week 4.&lt;/p&gt;</description>
+      <rw:player>Ladd McConkey</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Terrance Ferguson (ankle) was held out of Wednesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:335f3d920b9c8b5270d9713c26607afaf1ac3dc1c372a7fa8d21792dc92966cf</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Terrance Ferguson&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coach Sean McVay said earlier this week that Ferguson was unlikely to play against the Eagles, and this certainly puts him on the “out” trajectory. The timing could not possibly be worse, as Ferguson was finally producing a little bit, and Puka Nacua (groin) is now set to return. That makes Ferguson a shaky hold in standard-sized 12-team leagues.&lt;/p&gt;</description>
+      <rw:player>Terrance Ferguson</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Falcons signed Gervon Dexter to a four-year, $78 million contract extension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:909ad1cb6ed6f23685874d0238ca2913d081373977027fbbd135ffa316c6811a</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Gervon Dexter ATL Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The deal includes $46.5 million guaranteed. The Bears traded Dexter to Atlanta after an offseason of unproductive contract discussions. A new deal was always the most likely outcome when the Falcons acquired him. Dexter only has .5 sacks through three weeks, but he ranks second among defensive linemen in pressures at 14. Pro Football Focus has him charted with the highest pass-rush win rate among defensive linemen. Dexter is now under contract through the 2030 season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Gervon Dexter</rw:player>
+      <rw:team>ATL</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Seahawks coach Mike Macdonald said S Julian Love (calf) will practice in some capacity on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:dee4140f12d217fc287985350e1c919c9b9946802adcd34025f8f2b2fdc94426</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Julian Love SEA Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This puts Love on track to play in Week 4 against the Chargers. Fellow Seahawks starting safety Ty Okada (hamstring) will not resume practicing today, though the unit’s overall health is heading in the right direction.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Brady Henderson&lt;/p&gt;</description>
+      <rw:player>Julian Love</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source>Brady Henderson</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Seahawks coach Mike Macdonald said the team has not yet decided whether to activate Zach Charbonnet’s (knee) 21-day practice window this week.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:cbe8173d2bdacfb0011a59fdaa6e29d62d9f6ddf3b1d5ba9a8edba7115eb7693</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Zach Charbonnet SEA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The fact that this is even being considered is good news. Rookie RB Jadarian Price has not yet carved out a featured role for himself, so Charbonnet could feasibly return to his 2025 role—or more. If available, he is probably worth stashing in 12-team leagues at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Brady Henderson&lt;/p&gt;</description>
+      <rw:player>Zach Charbonnet</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Brady Henderson</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Dolphins WR Chris Bell (knee) was limited on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0005658661123a3b473807c6bcd611dc8998ab465ad769fe3bb04fab825bb09d</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Chris Bell MIA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bell is coming off a career-best 4/67 stat line after having his practice reps managed last week. The Dolphins’ rookie wide receiver is on track to face the Vikings this week. He profiles as a WR4/FLEX in what is admittedly a tough matchup on paper.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; David Furones&lt;/p&gt;</description>
+      <rw:player>Chris Bell</rw:player>
+      <rw:team>MIA</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>David Furones</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Giants signed Jihad Ward off the Vikings’ practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1180b4072abcdea86bf24cbfdb071bce74288068e218f78d1825f0d053194c87</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jihad Ward NYG Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;New York just lost Brian Burns to a season-ending ACL tear. Ward was on the team in 2022 and 2023. He played in Tennessee last year, totaling five sacks in 17 games. He will give the Giants some extra depth as they attempt to backfill Burns’s role.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
+      <rw:player>Jihad Ward</rw:player>
+      <rw:team>NYG</rw:team>
+      <rw:position>Outside Linebacker</rw:position>
+      <rw:source>Tom Pelissero</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>DJ Moore (shoulder) was limited in Wednesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:388a43a8d51ea411b348fb4508a082a4e7adb84a8030543952d50fbe3f5adb27</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;DJ Moore BUF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Moore played through the shoulder injury last week and managed to bring down 6-of-10 targets for 67 yards. He led the team in every notable receiving category. Even if he isn’t at full strength, Moore is locked in as a WR2 for Week 4 versus New England.&lt;/p&gt;</description>
+      <rw:player>DJ Moore</rw:player>
+      <rw:team>BUF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Christian Benford (toe) did not practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:94dc6140224a4a96f077fa1671b1b4ee4463568013f0e5fb826433ad6d6225c0</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Benford BUF Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Benford missed the second half of Week 3’s win over the Chargers with the toe injury. He was spotted in a boot after the game. A DNP today puts him on the wrong side of questionable for Week 4. That should make Buffalo an easier matchup for Drake Maye, but fantasy managers might have already thrown in the towel on Maye, and rightfully so.&lt;/p&gt;</description>
+      <rw:player>Christian Benford</rw:player>
+      <rw:team>BUF</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bears activated CB Kyler Gordon (calf) from the reserve/physically unable to perform list.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1da32cbcf687486361f38be798258a663425c7eca22b3d1e3ea25c374dbd14b5</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kyler Gordon CHI Defensive Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This does not necessarily mean Gordon will play in Week 4 against the Jets, but he is certainly getting closer to making his 2026 debut. The Bears’ pass defense has been a fantasy-friendly unit thus far. If Gordon can return to form, he could help slow down opposing slot receivers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Kyler Gordon</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Defensive Back</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Keon Coleman (ankle) did not practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:acd1fa3e8be7fde197b9b14f8ee02d497e604e19921d56ba2a1595deeaf45484</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Keon Coleman BUF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coleman missed two practices last week before getting in a limited session on Friday. He still suited up and caught one of his two targets for a 37-yard gain. He will likely see a very limited number of reps in practice again this week. Coleman is not on the fantasy radar for Week 4.&lt;/p&gt;</description>
+      <rw:player>Keon Coleman</rw:player>
+      <rw:team>BUF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Mark Andrews (hand) is practicing in full for Week 4 against the Titans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d3f6933c8b8f6092d6b0f2912b562b0a8c4d256bad1dde45ab29d6f22daf6b8f</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mark Andrews BAL Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Ravens seemingly forgot about Andrews when they first posted their injury report, only noting his injury and status in a post 40 minutes after the initial run. In their defense, Andrews has been pretty forgettable this year, catching 13 passes for 122 scoreless yards. The hand injury shouldn’t be an issue this week, but he’s still stuck in the TE2 ranks versus Tennessee.&lt;/p&gt;</description>
+      <rw:player>Mark Andrews</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Patriots CB Christian Gonzalez (shoulder) did not practice on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e83ff92a05e28d8525401c75f0651781ff7b8851fa5ef81da48723ca1fdf7e18</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Gonzalez NE Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is one to watch for fantasy purposes. The Patriots are tasked with keeping the Bills’ passing offense in check this week. Doing so without their top coverage defender will be difficult. This is a new injury for Gonzalez. Patriots DT Christian Barmore (shoulder) was also sidelined on Wednesday.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Reiss&lt;/p&gt;</description>
+      <rw:player>Christian Gonzalez</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source>Mike Reiss</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Patriots TE Eli Raridon (thigh) was limited on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:400d6212eb322257ceb15e7889cb582d1a15be41f4e612e22436fe7419ca8117</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Eli Raridon NE Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Raridon is tentatively on track to play in Week 4 against the Bills, though he cannot be started as anything more than a touchdown-dependent TE2. His return could squeeze TE Hunter Henry’s access to targets though.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Reiss&lt;/p&gt;</description>
+      <rw:player>Eli Raridon</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Mike Reiss</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jaylen Waddle is practicing in full for Week 4 against the 49ers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b1a11dd4c5d8a31ec87a6e3c8d799bab95235a885b7497409802da7a042fc010</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jaylen Waddle DEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Waddle was spotted in a boot after Week 3’s win over the Rams. DNVR’s Zac Stevens reported at the time that he was fine and can comfortably take a victory lap now that Payton has said he practiced in full. Waddle posted a dud in Week 3 with two catches for 10 yards, but he ripped off 138 yards the week before that. The production might come in peaks and valleys, but fantasy managers should hold the line and treat him like a WR2 for a potential shootout with the 49ers this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Chris Tomasson&lt;/p&gt;</description>
+      <rw:player>Jaylen Waddle</rw:player>
+      <rw:team>DEN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Chris Tomasson</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Drake Maye (right shoulder) is practicing in full for Week 4 against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:14a0b50854495b5e919c652e17dceab75b83431b2977dcbee91dda472b5efc05</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Drake Maye NE Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We are happy to see that the Patriots’ quarterback is practicing fully, but this is a new injury for Maye. He notably dealt with a throwing shoulder injury during the Patriots’ playoff run last season. His listing raises questions as to whether there might be a lingering issue. We expect a follow-up report on this in the coming days.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Phil A. Perry&lt;/p&gt;</description>
+      <rw:player>Drake Maye</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Phil A. Perry</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Detroit Free Press’s Dave Birkett reports Jameson Williams will not face assault charges stemming from an incident with a woman on August 6th.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a33af0cb6a12131ff1771ac05ddaebbe9a07452670b1d9bf5b2b73b53bf0722e</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jameson Williams DET Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The incident was reported to the police earlier this month. Jeff Wattrick, spokesman for the Oakland County Prosecutor, told Birkett, “Based on the facts presented to us at this time, the Novi Police and our office jointly concluded that there is no cause to file charges against Mr. Williams.” Williams has been an off-field headache for the Lions since entering the league, but it doesn’t sound like this latest incident will be an issue. He will be on the field for the team’s Week 4 date with Carolina.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Detroit Free Press&lt;/p&gt;</description>
+      <rw:player>Jameson Williams</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>The Detroit Free Press</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Rams coach Sean McVay said he expects WR Puka Nacua (groin) to play in Week 4 against the Eagles.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:30948ee2ea0f30b6c75725702247679edc653ec6da1e37471b1d419660089150</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McVay also said that Nacua will be limited at today’s practice. Nacua has not played since injuring his groin in Week 1 against the 49ers. If active in Week 4, he will be a no-brainer WR1, though it would be great to see him log two full practice sessions over the next two days. The Rams’ pass-catching corps has dealt with an influx of injuries in recent weeks. Getting their star player back would be huge.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Puka Nacua</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Buccaneers OLB Rueben Bain (shoulder/groin) did not practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c24f2f7543ad547f16f9de8a651c7c5a7740fc3125f3aa2704f55c5eb82dc744</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rueben Bain TB Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bain could be headed toward another game-day absence. Buccaneers LB Josiah Trotter (shoulder) is back on the practice field, though. The Buccaneers face the Packers in Week 4.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
+      <rw:player>Rueben Bain</rw:player>
+      <rw:team>TB</rw:team>
+      <rw:position>Outside Linebacker</rw:position>
+      <rw:source>Rob Demovsky</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chris Godwin (ankle) did not practice on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8065f6ed96b75b162101371b74f3263e1d5a9498ba16fc735e1658e60ffbe726</guid>
       <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Chris Godwin TB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Godwin’s history of lower-leg injuries makes this a little bit concerning. The veteran wide receiver is already set to catch passes from a backup quarterback. If active, he may be playing on an injured ankle. He can only be viewed as a boom-bust FLEX at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
       <rw:player>Chris Godwin</rw:player>
@@ -162,11 +513,11 @@
       <rw:date>Sep 30, 2026</rw:date>
     </item>
     <item>
-      <title>49ers WR Mike Evans (ribs) did not practice on Wednesday.</title>
+      <title>Mike Evans (ribs) did not practice on Wednesday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:4d6f07cb44ab3d0a358d15cc4e7879641bed0e7f55e7dd16600c38fbb4891838</guid>
+      <guid isPermaLink="false">urn:sha256:4a7d7a4b82841e51db8c4fc785752f9acfe1b9b5ee6e03fd9491b0fd7f7f09bf</guid>
       <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;On the plus side, 49ers coach Kyle Shanahan did not list Evans with the hip injury he dealt with last week, so that issue may already be behind him. Evans is reportedly considered day-to-day, and frequently plays through injuries, but he must be considered questionable to play in Week 4 against the Broncos at this time. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; San Francisco 49ers&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;On the plus side, 49ers coach Kyle Shanahan did not list Evans with the hip injury he dealt with last week, so that issue may already be behind him. Shanny also said he was “hopeful” Evans suits up against the Broncos. Evans is appears to be truly day to day, and frequently plays through injuries. He must still be considered questionable to play in Week 4. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; San Francisco 49ers&lt;/p&gt;</description>
       <rw:player>Mike Evans</rw:player>
       <rw:team>SF</rw:team>
       <rw:position>Wide Receiver</rw:position>
@@ -201,9 +552,9 @@
       <rw:date>Sep 30, 2026</rw:date>
     </item>
     <item>
-      <title>Dolphins RB Jaylen Wright (foot/stinger) said he was “very close” to playing in Week 3 against the Chiefs.</title>
+      <title>Dolphins RB Jaylen Wright (foot) said he was “very close” to playing in Week 3 against the Chiefs.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1a08b577ece700cdd05701df6b3a5103805dfb81b3d80dafc2e8ffdd29c90482</guid>
+      <guid isPermaLink="false">urn:sha256:4b585184f2abc9dcfe14a94cca4313576530cdb2b45cb5c875b549a15e9d5d92</guid>
       <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Jaylen Wright MIA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Wright and RB Ollie Gordon are expected to split backfield touches moving forward, though this could be a fluid situation if one running back simply outplays the other. Gordon profiles as a burly grinder, while Wright may offer more big-play potential. It sounds like Wright has a strong chance of playing in Week 4 against the Vikings.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; David Furones&lt;/p&gt;</description>
       <rw:player>Jaylen Wright</rw:player>
@@ -383,6 +734,45 @@
       <rw:date>Sep 30, 2026</rw:date>
     </item>
     <item>
+      <title>Nico Collins (hamstring) returned to practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:7f9e9a62d8feea11e4d370bb449d75bff6456f678c9eda298f09ae50e009601f</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Nico Collins HOU Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;ESPN’s Adam Schefter reported over the weekend that Collins had a “decent chance” to return in Week 4. Even a limited practice today is a big step in the right direction. The winless Texans desperately need a playmaker on offense and Collins is their only option. While he could be on a pitch count in his first game back, Collins has to be in fantasy lineups the moment he is cleared to play.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
+      <rw:player>Nico Collins</rw:player>
+      <rw:team>HOU</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Aaron Wilson</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Jamison Hensley reports Lamar Jackson is not practicing on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f77bc2559498dd98d3409f74153f3e43026b2bd9a69e99407fdcb507f267a625</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Lamar Jackson BAL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hensley noted that Jackson spoke to the media before practice and talked as if he was good to go for Week 4, so this might be nothing. Jackson threw a dart to Zay Flowers on the Ravens’ final offensive play of Week 3, so he appeared fine the last time he was on the field. We will get more info when the team’s first injury report of the week drops later today. Tyler Huntley is Baltimore’s backup.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jamison Hensley&lt;/p&gt;</description>
+      <rw:player>Lamar Jackson</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Jamison Hensley</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Minkah Fitzpatrick (groin) returned to practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:89cfb11604b5f2e1e6b1659a26828c21725287be5e43fe66754ffd07c8988a59</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Minkah Fitzpatrick NYJ Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s his first practice since suffering the groin injury in Week 1. Aaron Glenn told reporters he will be listed as limited and noted that he has a good chance of playing on Sunday. Fitzpatrick isn’t the superstar he once was, but his return will still provide a small boost to the team’s secondary.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rich Cimini&lt;/p&gt;</description>
+      <rw:player>Minkah Fitzpatrick</rw:player>
+      <rw:team>NYJ</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source>Rich Cimini</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
       <title>Chiefs coach Andy Reid said Josh Simmons is dealing with a bulging disc in his lower back.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:7348db41660a478eb4ba23f16d4027476a41768c65b6374c3ea3056d81214912</guid>
@@ -392,6 +782,45 @@
       <rw:team>KC</rw:team>
       <rw:position>Tackle</rw:position>
       <rw:source>Nate Taylor</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Buccaneers RB Chris Godwin (ankle) did not practice on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5a09f04d48aa56d2f9e4800692cb56883a7f1470344410ae8ae6ab5bef09e029</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Chris Godwin TB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Godwin’s history of lower-leg injuries makes this a little bit concerning. The veteran wide receiver is already set to catch passes from a backup quarterback. If active, he may be playing on an injured ankle. He can only be viewed as a boom-bust FLEX at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
+      <rw:player>Chris Godwin</rw:player>
+      <rw:team>TB</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Rob Demovsky</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers WR Mike Evans (ribs) did not practice on Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:4d6f07cb44ab3d0a358d15cc4e7879641bed0e7f55e7dd16600c38fbb4891838</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;On the plus side, 49ers coach Kyle Shanahan did not list Evans with the hip injury he dealt with last week, so that issue may already be behind him. Evans is reportedly considered day-to-day, and frequently plays through injuries, but he must be considered questionable to play in Week 4 against the Broncos at this time. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; San Francisco 49ers&lt;/p&gt;</description>
+      <rw:player>Mike Evans</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>San Francisco 49ers</rw:source>
+      <rw:author />
+      <rw:date>Sep 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Dolphins RB Jaylen Wright (foot/stinger) said he was “very close” to playing in Week 3 against the Chiefs.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1a08b577ece700cdd05701df6b3a5103805dfb81b3d80dafc2e8ffdd29c90482</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jaylen Wright MIA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Wright and RB Ollie Gordon are expected to split backfield touches moving forward, though this could be a fluid situation if one running back simply outplays the other. Gordon profiles as a burly grinder, while Wright may offer more big-play potential. It sounds like Wright has a strong chance of playing in Week 4 against the Vikings.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; David Furones&lt;/p&gt;</description>
+      <rw:player>Jaylen Wright</rw:player>
+      <rw:team>MIA</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>David Furones</rw:source>
       <rw:author />
       <rw:date>Sep 30, 2026</rw:date>
     </item>
@@ -6075,435 +6504,6 @@
       <rw:source>Mike DeFabo</rw:source>
       <rw:author />
       <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bills DT Ed Oliver (hip) resumed practicing on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f0c4beee98fc28dcbb3fcb7a8a41d4d546ef8d228a718d64db42a35178fd340e</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ed Oliver BUF Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Oliver now has a chance to face the Chargers in Week 3, though nothing is certain. The Bills’ star interior defender injured his hip during pre-game warmups last week and was unable to play. The Chargers’ banged-up offensive line has underperformed thus far. This is a situation worth monitoring.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Joe Buscaglia&lt;/p&gt;</description>
-      <rw:player>Ed Oliver</rw:player>
-      <rw:team>BUF</rw:team>
-      <rw:position>Defensive Lineman</rw:position>
-      <rw:source>Joe Buscaglia</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Patriots TE Eli Raridon (thigh) was not seen practicing on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b953f995bc08c1680be7faa27629f76b1948091a6516df2928931d1a8dbe1d60</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Eli Raridon NE Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Raridon worked off to the side yesterday and ended up being listed as a limited participant. He is not seen with the team again today, so either a light, limited session or a total absence is possible. Either way, Raridon remains firmly in the questionable column, though a second limited session would theoretically put him on track to play in Week 3 against the Jaguars.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Reiss&lt;/p&gt;</description>
-      <rw:player>Eli Raridon</rw:player>
-      <rw:team>NE</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Mike Reiss</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bills WR DJ Moore (shoulder) was not spotted at practice on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:8a7eac270cb1c2369c07aac0e9f5f2c0361ce3c541e32de2ea7b22a841ba8ab2</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;DJ Moore BUF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neither was Keon Coleman. Moore grabbed a limited listing on Wednesday while wearing a non-contact jersey in practice; a downgrade would be troubling for his chances of playing in Week 3. Coleman (ankle) has now missed the first two days of the week and would need a comeback on Friday to get on the questionable line.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Joe Buscaglia&lt;/p&gt;</description>
-      <rw:player>DJ Moore</rw:player>
-      <rw:team>BUF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Joe Buscaglia</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Panthers WR Jalen Coker (ankle) was not seen practicing on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:820ebd67697c563841adf1c1f8d24f9de05d7e6e922d6bd739c6df59a3cfe092</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jalen Coker CAR Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coker is not wearing a uniform today, so we expect him to be a non-participant on the official injury report, which should come out in less than 90 minutes. We will provide an update if he ends up being listed as limited, or somehow inexplicably full. Coker played through the ankle injury last week, posting an 8/66 receiving line, so we like his odds of suiting up and playing effectively this week. This could just be a rest day. He was limited yesterday. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Joe Person&lt;/p&gt;</description>
-      <rw:player>Jalen Coker</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Joe Person</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Giants LT Andrew Thomas (groin) was not seen practicing on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:85dbe53a09adf3c79def6ded3236619231f2db8766d2fabe7d33ae0323791375</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Andrew Thomas NYG Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Thomas left the Giants’ Week 2 game against the Rams with a groin injury. He dealt with an ankle injury in practice last week. It is possible that fill-in starter, QB Jameis Winston, will be without his top pass protector in Week 3 against the Titans. Thomas was limited yesterday. It appears as though he will be a DNP today.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Raanan&lt;/p&gt;</description>
-      <rw:player>Andrew Thomas</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source>Jordan Raanan</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Dolphins WR Chris Bell (knee) was seen working off to the side on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2bc4031541abd1235fe59c4a4544fa069fe574d295e15f9e0fcb931ddfb33119</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chris Bell MIA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;According to the Sun Sentinel’s David Furones, Bell mostly worked on the side and went inside before the portion of practice open to the media ended. Bell could end up being listed as a limited participant today, but he is clearly barely participating. It would not be surprising to see a DNP next to his name later today. He was limited yesterday. Bell underwent ACL reconstruction late last year. Hopefully, they are only managing soreness.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; David Furones&lt;/p&gt;</description>
-      <rw:player>Chris Bell</rw:player>
-      <rw:team>MIA</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>David Furones</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Dolphins WR Caleb Douglas (ankle) was not seen practicing on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9e1124e23db151ab77369c3dce97325eefbb87997a6ed5187ccc22c633b4f7bd</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Caleb Douglas MIA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We expect Douglas to be listed as a non-participant today, just like yesterday. Douglas got his ankle rolled up on in Week 2, which is always a concerning injury. Fortunately, his foot was only planted for a moment, so he may have avoided the worst-case scenario. He was later seen wearing a boot. The prudent move is to expect Douglas to miss Week 3. Fellow Dolphins WR Chris Bell (knee) will either be listed as a non-participant or limited, but it sounds like it would be a very light limited, if so.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; David Furones&lt;/p&gt;</description>
-      <rw:player>Caleb Douglas</rw:player>
-      <rw:team>MIA</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>David Furones</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>When asked about Chiefs WR Cyrus Allen, WR coach Chad O’Shea said rookie wide receivers are “always a work in progress.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:58a34d6890c7f424233f139d78e1ad07d40ec940d9085efb0e159bad1b105af5</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cyrus Allen KC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You don’t say, Chad. Allen was the talk of Chiefs training camp. Beat reporters celebrated his ability to beat man coverage and win over the middle of the field — two aspects that help wide receivers thrive in fantasy. Unfortunately, Allen has logged just four offensive snaps this season. O’Shea adds that Allen is improving every day, both “fundamentally and schematically.” Good for him. The once-intriguing rookie is droppable in 12-team formats, though an in-season breakout remains possible. Theoretically.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Charles Goldman&lt;/p&gt;</description>
-      <rw:player>Cyrus Allen</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Charles Goldman</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ravens WR Zay Flowers (hamstring) was not seen practicing on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:bd9800b20b22c30857b728aac5101a8a9a230dd955cb4485ba91491c102ffc4c</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Zay Flowers BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Beat reporters observed Flowers working out on his own before practice, but the Ravens’ No. 1 wide receiver headed back inside the building before his teammates took the field. ESPN’s Jamison Hensley wrote, “it’s looking like Baltimore will be without Flowers for a second consecutive game.” The team downplayed Flowers’ Week 1 hamstring aggravation, but he is currently on the wrong side of questionable. The Ravens depart for Brazil this evening and arrive on Friday morning. If Flowers travels, he may have a chance to play, though he will carry re-injury risk.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jamison Hensley&lt;/p&gt;</description>
-      <rw:player>Zay Flowers</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Jamison Hensley</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Rob Demovsky reports, “Judge Marc Hammer denied the request by the victim in the Josh Jacobs case to have the records permanently sealed.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c548c50da93dcdea212da3cd5e3650cea918e86ad7226613aeb3bc2bd7fd098e</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Josh Jacobs GB Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He added that the matter has been turned over to the Hobart/Lawrence police department, which is now in charge of determining whether or not the video will be released. Jacobs or the victim can then appeal that decision. The NFL has been adamant about getting the video before determining Jacobs’ pending suspension, and this increased the odds of that happening. Still, Jacobs could try to prevent that through the appeal process. Jacobs is believed to be facing a 4-6 game suspension, but the NFL can increase the length because of aggravating circumstances. This legal matter is inching toward a resolution, but a clash over the video would likely delay things even further.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
-      <rw:player>Josh Jacobs</rw:player>
-      <rw:team>GB</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Rob Demovsky</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Rico Dowdle (toe) did not practice Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:5b6135940aa13cb3e3cb1ccc2c01193dd61529e25284c3ba9f5ed3f9d3226c52</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Rico Dowdle PIT Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Penn Live’s Nick Farabaugh did note that Dowdle has shed his boot. He injured his toe in Week 2’s loss to the Pats but pushed through the issue in the second half. He was spotted in a boot on Wednesday. It looks like Dowdle will miss Week 3, but shedding the boot this quickly is a good sign that he isn’t dealing with a long-term issue. Jaylen Warren would vault into the RB2 ranks if Dowdle is ruled out before kickoff.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Farabaugh&lt;/p&gt;</description>
-      <rw:player>Rico Dowdle</rw:player>
-      <rw:team>PIT</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Nick Farabaugh</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Nico Collins (hamstring) did not practice Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ada15c8c4e5ed4ca5bff3aa1aba7540a02020ac0172c38fd65ef5abd10a8540a</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Nico Collins HOU Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After missing the first two sessions of the week, we fully expect Collins to be ruled out on tomorrow’s run of the injury report. No receiver caught more than three passes with Collins sidelined for Week 2. Dalton Schultz, on the other hand, exploded for 140 yards on 12 grabs and an absurd 14 targets. He is firmly in the TE1 ranks for Week 3 versus the Colts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Aaron Wilson&lt;/p&gt;</description>
-      <rw:player>Nico Collins</rw:player>
-      <rw:team>HOU</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Aaron Wilson</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports A.J. Brown (ankle) is expected to miss 6-8 weeks.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:65ed49c5d3caee9fecec32278c8a5b04066ac7f3f63e7cd174eaa0b966b09538</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;A.J. Brown NE Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Schefter and other reporters previously called it a 4-6 week injury, which now seems unlikely. Schefter did add that Brown is moving “pretty well” and could come back on the faster side of his updated timeline. Still, it looks like Brown will miss at least half of the regular season. Romeo Doubs will operate as the team’s No. 1 receiver until he returns, though it will likely be a group effort to replace Browns’ production. Mack Hollins and Demario Douglas will also be more involved.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>A.J. Brown</rw:player>
-      <rw:team>NE</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter named Gardner Minshew and Mac Jones as potential trade candidates for the Giants.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:6d20d3d4c7787a6a58bb8d7c4a481adffa9e2f7499f3dddc9baa43b65e7f1e0c</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Gardner Minshew ARI Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jaxson Dart will miss the rest of the regular season, though there’s hope he could return for a postseason run. Schefter noted that Minshew played under Giants OC Matt Nagy in Kansas City, giving him some familiarity with the team’s scheme. He also mentioned that it will not be cheap to pry Jones away from the 49ers. Jimmy Garoppolo is out there as well. He is a free agent and is reportedly still interested in playing, “in the right situation.” For now, the Giants are going to roll with Jameis Winston. Jake Haener will back him up. They will likely add someone as an extra backup option, but Winston is an interesting QB2 for fantasy purposes until they make a bigger addition.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Gardner Minshew</rw:player>
-      <rw:team>ARI</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Sean McVay said Puka Nacua (groin) is “not making great progress.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:925a4bc43f3b9d04688029995d918b0ecfe114840895a0aef1771698f426c72c</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In a surprisingly candid interview with ESPN Los Angeles, McVay certainly did not sound optimistic that Nacua would play in Week 3. Nacua has already missed one practice this week and there’s been no indication that he will get back on the field over the next two days. Davante Adams racked up 195 yards and two scores with Nacua out in Week 2. It will be hard not to rank him as a WR1 once Nacua is ruled out. Terrance Ferguson operated as the team’s No. 2 receiver last week and will be in the TE1 mix without Nacua.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; ESPN Los Angeles&lt;/p&gt;</description>
-      <rw:player>Puka Nacua</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>ESPN Los Angeles</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cardinals QB Jacoby Brissett (hip) was a full practice participant on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:00377e4182be6a0524f13886b3e680fc14157d34a80680e9a81c0432a992e68c</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jacoby Brissett ARI Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brissett seemingly dealt with an injury in the Cardinals’ Week 2 loss against the Seahawks, but played through it. He opens the week listed with a hip injury but was a full practice participant. Though Brissett seems to have a hip issue ailing him, it does not seem like it will keep him from playing. The veteran remains in the low-end QB2 conversation for Week 3 against the 49ers.&lt;/p&gt;</description>
-      <rw:player>Jacoby Brissett</rw:player>
-      <rw:team>ARI</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Malik Nabers (shoulder) said his shoulder feels good and x-rays came back with positive results.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ea7140d61bcf9e1ae58354ca672188a7859c83ea41bcd94b8be12f3b1d7861d9</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Malik Nabers NYG Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nabers speaking to the media is likely also good news for his availability on Sunday. The 23-year-old wideout is practicing, so he’s likely to be good to go and has a chance at avoiding a questionable tag on Friday altogether.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; SNY Giants&lt;/p&gt;</description>
-      <rw:player>Malik Nabers</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>SNY Giants</rw:source>
-      <rw:author />
-      <rw:date>Sep 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>49ers WR Demarcus Robinson (ankle) did not participate in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:51f59453e3ecdf76f3d2b71d29f14ddd41be0a52f7561914645a8a8727e02544</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Demarcus Robinson SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Robinson suffered an ankle injury in the 49ers’ Week 2 win over the Dolphins. The initial diagnosis was that the veteran would miss some time and his DNP designation Wednesday indicates just that. With Mike Evans (hip) also not practicing, the 49ers’ receiving corps is getting thinner than it already was.&lt;/p&gt;</description>
-      <rw:player>Demarcus Robinson</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Seahawks WR Cooper Kupp (back) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b77b147d0df5b6952f55972dbc83100861ddcc341d5fa660c9cb5f489484b40b</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cooper Kupp SEA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kupp also opened last week with a limited practice due to the back injury before getting in two full practices and playing in Week 2. His limited designation Wednesday is likely a continuation of veteran workload management for his back; fantasy managers should not be surprised to see the 33-year-old limited on Wednesdays this season.&lt;/p&gt;</description>
-      <rw:player>Cooper Kupp</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Commanders RB Kaytron Allen (hip) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e8f45146437ab3b9022d1d503a6addb2072de3b16a462f2e073ab1bdd1d22ffe</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kaytron Allen WAS Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen popped up on the injury report as a limited participant due to a hip injury. The rookie has seen limited touches as the Commanders’ third-string back and is still buried in the depth chart. Also limited was WR Jaylin Lane (groin). Lane is likely to play as he played through the injury in Week 2. Allen’s status is up in the air; practice reports from later in the week will paint a clearer picture.&lt;/p&gt;</description>
-      <rw:player>Kaytron Allen</rw:player>
-      <rw:team>WAS</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Seahawks RB Jadarian Price (chest) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9dc5d1f54d64f71c7116261b236fdcdef2e2c01d7266335469b741ee7bfc7395</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jadarian Price SEA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Price entered Wednesday expected to practice and officially received a limited designation due to a chest injury he suffered in Week 2. Also limited was George Holani (knee). With both backs starting out limited, their Week 3 statuses are up in the air. If one or both can’t go, Emanuel Wilson is the primary beneficiary for fantasy purposes against the Commanders.&lt;/p&gt;</description>
-      <rw:player>Jadarian Price</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Seahawks QB Sam Darnold (glute) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b315f22d9fb4bb9152268f7cf209828a950d59c1d418ed907d691d726199a459</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Sam Darnold SEA Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Darnold was officially listed as a limited practice participant on Wednesday, returning to practice for the first time since his opening day injury. He split first-team reps with Drew Lock and did some throwing off to the side. The Seahawks will make a decision Friday on Darnold’s game status for Week 3 but the 29-year-old has an outside chance of returning against the Commanders.&lt;/p&gt;</description>
-      <rw:player>Sam Darnold</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bills DT Ed Oliver (hip) did not participate in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ea06625dd39f54e04dd88ded6733a1243fc144d120870f8c6ce5e64d52f1e142</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ed Oliver BUF Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Oliver suffered a hip injury during warmups of the Bills’ Week 2 win over the Lions. He did not play in the game and now starts out Week 3 not practice. Oliver could certainly still go this week against the Chargers but he will likely need at least a limited practice to be in consideration to play.&lt;/p&gt;</description>
-      <rw:player>Ed Oliver</rw:player>
-      <rw:team>BUF</rw:team>
-      <rw:position>Defensive Lineman</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bills WR Keon Coleman (ankle) did not participate in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c7ef5fe5e0c4eb18caeaebf303f46f741ca7e6b3ecc8025c81682ac171433dd6</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Keon Coleman BUF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coleman pops up on the injury report with an ankle injury and did not practice on Wednesday. He briefly left the Bills’ Week 2 game against the Lions due to the ankle, but returned and finished the game. Coleman’s status for Week 3 is now in jeopardy; with DJ Moore (shoulder) also on the injury report, the Bills’ wide receiver groups may look slim come Sunday against the Chargers.&lt;/p&gt;</description>
-      <rw:player>Keon Coleman</rw:player>
-      <rw:team>BUF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bills WR DJ Moore (shoulder) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:6f6a131a51a2020a0f7b77bcbd3e6fbb3ed155206b229d3849263161d42057e0</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;DJ Moore BUF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Moore was officially listed as limited after wearing a red non-contact jersey in practice. He left the Bills’ Week 2 game last Thursday and did not return with this shoulder injury. It’s a good sign that he is practicing but the non-contact jersey indicates Moore still has a ways to go before being cleared to play Week 3 against the Chargers.&lt;/p&gt;</description>
-      <rw:player>DJ Moore</rw:player>
-      <rw:team>BUF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Giants WR Malik Nabers (shoulder) was limited in Wednesday’s walkthrough.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e7e9a1bdf9aa362b4ca21fb3dce41cef67f4e4449d875c504fa01e5daaf9e2a3</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Malik Nabers NYG Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nabers hurt his shoulder in the Giants’ Week 2 loss to the Rams, staying in the game and catching zero passes after the injury. The Giants had a walkthrough practice on Wednesday, listing Nabers as limited. When asked if the 23-year-old had X-rays done, head coach John Harbaugh gave his usual vague answer, saying, “I don’t know.” A limited practice listing indicates Nabers is not dealing with a major issue, but his practice status is worth monitoring leading up to Week 3 against the Titans.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Pat Leonard&lt;/p&gt;</description>
-      <rw:player>Malik Nabers</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Pat Leonard</rw:source>
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers WR Ladd McConkey (rib) was a full participant in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:a5f18b00f133eb657281fc4c4edf689ad42c8cce8397095729eeb5532f90019e</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ladd McConkey LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McConkey was a full participant in practice after getting in a limited practice last week and playing in Week 2 against the Raiders. The 24-year-old was limited by both the injury and the Chargers’ stagnant offense but looks to be healing enough to practice fully this week. McConkey is trending to play Week 3 against the Bills, where he will be in the low-end WR2 mix.&lt;/p&gt;</description>
-      <rw:player>Ladd McConkey</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers OT Rashawn Slater (groin) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:70dcd174a62da5ffe6ba2a4eae32c2d126e6ec22c169040b4e62fcbad8e92118</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Rashawn Slater LAC Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Slater popped up on the injury report with a groin issue, getting in a limited practice Wednesday. Multiple other members of the Chargers’ offensive line were also in the injury report, with G Cole Strange (pec) getting in a limited practice and G/T Trey Pipkins (knee) and G Kayode Awosika (fibula) not practicing. There is no indication yet that Slater will miss time but the Chargers offensive line is already banged up early in the season.&lt;/p&gt;</description>
-      <rw:player>Rashawn Slater</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jordan Whittington (quad) did not practice Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b9857000ffdbd75b84b12464e6c99863592b78be64dd75e44be5c530603c816a</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jordan Whittington&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Whittington missed Week 2 with the quad injury and doesn’t look likely to return this week. Xavier Smith and Konata Mumpfield each ran a little over half of the routes last week, though they combined for just three targets. With Tutu Atwell also in the mix for the WR2 role, there isn’t a clear fantasy winner here despite the bevy of injuries.&lt;/p&gt;</description>
-      <rw:player>Jordan Whittington</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Terrance Ferguson (ankle) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b2f1e41074d33662ee8c08bd1c732703027d69ea20f3b775059f5ccda8d4795d</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Terrance Ferguson&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coming off a nine-target day, the Rams are likely giving their new No. 2 receiver a maintenance day, though this is still an injury report to keep an eye on throughout the week. Puka Nacua, Jordan Whittington, and Colby Parkinson were all on the sidelines for today’s practice. With even just Nacua out, Ferguson projects for a TE1 fantasy role. The other injuries will help push him up the Week 3 ranks.&lt;/p&gt;</description>
-      <rw:player>Terrance Ferguson</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Broncos WR Marvin Mims (foot) was limited on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:dc8ebd7c70ed0c070fcaa8c7bb2049ebc14a02760773bf591c88caa961f878f5</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Marvin Mims DEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mims is still working his way back after aggravating his foot injury in Week 1 against the Chiefs. Although his early participation is a good sign for his Week 3 availability, the Broncos will likely play things extra cautiously this time around.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Denver Broncos&lt;/p&gt;</description>
-      <rw:player>Marvin Mims</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Denver Broncos</rw:source>
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Colby Parkinson (knee) did not practice Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d323301288204a2ef529b66d2688d5a5cf6c45485be8ff3fedd80effcbb8b370</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Colby Parkinson&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Rams have leaned on multi-TE sets when Puka Nacua has missed time or been limited over the past year, so losing Parkinson would be another notable loss for the offense. Even if he plays, this injury all but locks in Terrance Ferguson as the team’s de facto WR2 for Week 3, assuming Nacua remains sidelined. Ferguson is pushing for a TE1 ranking ahead of his Week 3 date with the Broncos.&lt;/p&gt;</description>
-      <rw:player>Colby Parkinson</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Broncos RB Jonah Coleman (ankle) did not practice on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1f3062ec0fca3e9b75de42f0802450ea4d918dce3e2ee4fb29218e9bddb8c4d4</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jonah Coleman DEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What a strange turn of events. Earlier this week, Coleman was viewed as the Broncos’ potential Week 3 starter. Now, RB J.K. Dobbins (hamstring) and RB RJ Harvey (hamstring) are both practicing in a limited capacity while Coleman works in the training room. The rookie running back remains a worthwhile stash, but he may be unable to play this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Denver Broncos&lt;/p&gt;</description>
-      <rw:player>Jonah Coleman</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Denver Broncos</rw:source>
-      <rw:author />
-      <rw:date>Sep 23, 2026</rw:date>
     </item>
   </channel>
 </rss>

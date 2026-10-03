@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 00:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:02:57 +0000</lastBuildDate>
+    <item>
+      <title>Seahawks owner Vinod Khosla said he has “no current plans to change anything about the team, including the coach, president, operation or Lumen Field.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8992a79ff2f4969d610d234633ea7c07d620c0281e723d7c0b68f4ca934cbad5</guid>
+      <pubDate>Fri, 02 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Vinod Khosla SEA Owner&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Axios’ Dan Primack reminded Khosla of his stated desire to preserve what Paul Allen built before asking him if he would commit to keeping the Seahawks in Seattle long term. Khosla first responded by saying he would “never say never,” and then rhetorically wondered aloud whether this team would be in Seattle “500 years from now,” before making his “no current plans” remarks. Primack helpfully refocused the conversation on the Lumen Field lease’s 2032 end date, prompting Khosla to say that he doesn’t think he’ll “do anything but learn for a while.” Seriously entertaining a move seems unlikely, but Khosla would do well to provide a more concrete answer to a city that once saw its NBA team relocated after new ownership took over. His comments can be ignored for now. Perhaps this is just an early negotiation tactic for future stadium renovations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; NBC Sports’ Pro Football Talk&lt;/p&gt;</description>
+      <rw:player>Vinod Khosla</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Owner</rw:position>
+      <rw:source>NBC Sports’ Pro Football Talk</rw:source>
+      <rw:author />
+      <rw:date>Oct 2, 2026</rw:date>
+    </item>
+    <item>
+      <title>The Athletic’s Nate Atkins believes the Rams need more from Blake Corum in the coming weeks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:84507b170abb8f2bc0caeeb7f2974f77c870e8775560970b69dd60a3d24ec83a</guid>
+      <pubDate>Fri, 02 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Blake Corum&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Atkins believes Puka Nacua’s (groin) impending return will lighten the box, in turn making life easier on the run game and preventing the opposition from blitzing as frequently as the Broncos did last week. Corum has not established himself as a reliable weekly contributor in fantasy. Perhaps positive impacts from Nacua’s return trickle down to the Rams’ No. 2 running back. Kyren Williams remains a locked-in starter. Keep Corum stashed for now.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; The Athletic&lt;/p&gt;</description>
+      <rw:player>Blake Corum</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>The Athletic</rw:source>
+      <rw:author />
+      <rw:date>Oct 2, 2026</rw:date>
+    </item>
     <item>
       <title>NFL Network’s Ian Rapoport reports that Aaron Donald is dealing with a “mild” back injury.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6476,32 +6502,6 @@
       <rw:team>CHI</rw:team>
       <rw:position>Quarterback</rw:position>
       <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Sep 27, 2026</rw:date>
-    </item>
-    <item>
-      <title>Lions declared TE Tyler Conklin, G Ben Bartch, LB Devin White, S Bishop Fitzgerald, EDGE Ahmed Hassanein, and DL Mekhi Wingo inactive for Week 3 against the Jets.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e28de6c7f84395171b154579a47c7834de3a6b54b31497695e5de0fc8ba28838</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyler Conklin DET Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Conklin is a healthy scratch. He appeared in the Lions’ previous two games but logged just 14 snaps on offense.&lt;/p&gt;</description>
-      <rw:player>Tyler Conklin</rw:player>
-      <rw:team>DET</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 27, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bengals declared CB Josh Newton, C Connor Lew, OT Myles Hinton, TE Jack Andries, DT BJ Hill, and DT Landon Robinson inactive for Week 3 against the Steelers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:04c6b14877d95d83111671a67d461ed03485663c9ff73c696d82c2708399ccd7</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Josh Newton CIN Defensive Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hill was doubtful entering the weekend and was considered a long shot to play, so the decision to scratch him for this game doesn’t come as a surprise. The veteran DT was a DNP all week due to an Achilles injury and hasn’t played since Week 1.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ben Baby&lt;/p&gt;</description>
-      <rw:player>Josh Newton</rw:player>
-      <rw:team>CIN</rw:team>
-      <rw:position>Defensive Back</rw:position>
-      <rw:source>Ben Baby</rw:source>
       <rw:author />
       <rw:date>Sep 27, 2026</rw:date>
     </item>

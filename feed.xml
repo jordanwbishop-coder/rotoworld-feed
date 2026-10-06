@@ -4,7 +4,46 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 22:51:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:40:03 +0000</lastBuildDate>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports Eagles RB Saquon Barkley (hamstring) is considered “week-to-week.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:779a46a3c365436de670babec6118b2160123e969fb26662757ebcd702ab759d</guid>
+      <pubDate>Mon, 05 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Saquon Barkley PHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Barkley departed the team’s Week 4 loss to the Rams in the second quarter and did not return, with Ian Rapoport relaying that the team views him as “week-to-week,” for the time being. Rapoport added that the team does not view the injury as a long-term issue. Regardless, Barkley appears set to miss multiple games with the soft tissue injury, leaving the team paper thin at running back after backup Tank Bigsby inured a core muscle that requires surgery. Will Shipley is the only other back currently on the active roster, while Dameon Pierce, Carson Steele, and Jaydon Blue are with the team on the practice squad. Shipley warrants a waiver addition while managers in deeper leagues can consider taking an early flier on Blue.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Saquon Barkley</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Oct 5, 2026</rw:date>
+    </item>
+    <item>
+      <title>Falcons declared Cooper Rush, QB Jack Strand, CB Malcom DeWalt IV, CB Roger Longerbeam, DE Jared Iven, and OL Ethan Onianwa inactive for Week 4 against the Saints.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c71ee76bb82f1e011cd07c2bc0e1bbe56a79889eebad427730a456a96748fe8d</guid>
+      <pubDate>Mon, 05 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cooper Rush ATL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rush will serve as the emergency quarterback over Jack Strand. LB Samsom Ebukam, who came into the weekend listed as questionable, will play against the Saints. The Falcons look to move into a tie atop the NFC South against their divisional opponent after beating the Packers in Week 3.&lt;/p&gt;</description>
+      <rw:player>Cooper Rush</rw:player>
+      <rw:team>ATL</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 5, 2026</rw:date>
+    </item>
+    <item>
+      <title>Saints TE Noah Fant (abdominal) is inactive for Week 4 against the Falcons.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:aec30db4ca4b0d5568234f857d01a7de6d261029901e1f11e3af6143cc185e99</guid>
+      <pubDate>Mon, 05 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Noah Fant NO Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Fant was originally listed as questionable but is ultimately unable to go, shocking fantasy managers that took a gamble on him following his two-touchdown game a week ago. Rookie Oscar Delp appears most likely to serve as the next man up while starter Juwan Johnson could take on additional volume at the position. Also inactive for the Saints are QB Zach Wilson, CB Decamerion Richardson, EDGE Anfernee Jennings, DL Christen Miller, LB Kaden Elliss, and EDGE Carl Granderson.&lt;/p&gt;</description>
+      <rw:player>Noah Fant</rw:player>
+      <rw:team>NO</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 5, 2026</rw:date>
+    </item>
     <item>
       <title>Seahawks signed RB Joe Mixon, formerly of the Texans and Bengals.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -119,6 +158,19 @@
       <rw:team>MIA</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>David Furones</rw:source>
+      <rw:author />
+      <rw:date>Oct 5, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports Tyquan Thornton (ankle) will miss 12-16 weeks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3e6f90ab9bcb3bf536fa38f56ce1366b6bfb9285ccabb616f68da37890582fa7</guid>
+      <pubDate>Mon, 05 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tyquan Thornton KC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Thornton is having surgery “within the week” with the hopes of being able to return late in the season or in the playoffs for the Chiefs. Xavier Worthy will likely shift up in the target pecking order absent an outside addition. Cyrus Allen could also get more run than he has over the first month of the season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Tyquan Thornton</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
       <rw:author />
       <rw:date>Oct 5, 2026</rw:date>
     </item>
@@ -6450,58 +6502,6 @@
       <rw:team>PIT</rw:team>
       <rw:position>Cornerback</rw:position>
       <rw:source>Brooke Pryor</rw:source>
-      <rw:author />
-      <rw:date>Sep 29, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jets signed K Jason Sanders to their active roster.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d00ee029061b0ef8995d99b76cd2f5dc122cf95676478c418df9c0b324170043</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jason Sanders NYJ Kicker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sanders somehow won the kicking job over Blake Grupe despite Grupe being on the active roster and Sanders falling to the practice squad. Sure. Well, anyway, Grupe is being waived. Sanders will continue to kick for the Jets.&lt;/p&gt;</description>
-      <rw:player>Jason Sanders</rw:player>
-      <rw:team>NYJ</rw:team>
-      <rw:position>Kicker</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 29, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jaguars coach Liam Coen said Brian Thomas Jr. played only 23 snaps in Week 3 because the Jaguars “were playing in a little bit more 12 and also some of the things that we had Josh [Cameron] on specifically were things that we felt good about him doing within a role that he has.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:bd7516a0e4c38e849067430f83269b0dc2907077a20cef84ca74f85d0f793709</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brian Thomas&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sports Illustrated’s John Shipley believes that Cameron’s usage (23 snaps) could make it “stand[s] to reason Thomas could quickly become the fourth option instead” in a column that says he believes a “new start would be best for both parties.” It sounds like there’s a non-zero chance that Thomas is on the trade block at the deadline, as weird as that seems given how good the Jaguars have been on offense. Thomas isn’t necessarily someone who has to be rostered in shallow leagues given how things are trending.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sports Illustrated&lt;/p&gt;</description>
-      <rw:player>Brian Thomas</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Sports Illustrated</rw:source>
-      <rw:author />
-      <rw:date>Sep 29, 2026</rw:date>
-    </item>
-    <item>
-      <title>Titans signed RB Michael Carter to their active roster.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:44303848d24ab28f18745a620a3033177922e1b1036ff212324f0f9782939263</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Michael Carter TEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Carter joins what is now a five-man RB room of Tony Pollard, Tyjae Spears, Julius Chestnut, and Nicholas Singleton. It’s an interesting move in the sense that perhaps it portends a follow-up, or perhaps one of Pollard or Spears are in real danger of missing this week’s game after Spears was questionable and Pollard spent time on the injury report in Week 3. Spears wound up playing 28 snaps despite seeing just three touches against the Giants.&lt;/p&gt;</description>
-      <rw:player>Michael Carter</rw:player>
-      <rw:team>TEN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Sep 29, 2026</rw:date>
-    </item>
-    <item>
-      <title>Titans placed G Fernando Carmona (ankle) on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e0bd719121837a3e02f5cc74e1ed6ca9cfa15672b98372935537f7eae40e411b</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fernando Carmona TEN Guard&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He’ll miss at least the next four weeks. The Titans also placed Jackson Slater, the second-stringer at guard, on injured reserve with a foot injury. Carmona, a fifth-round pick this year who won the job in camp, had a 60.3 PFF blocking grade in 104 snaps. He suffered the injury on the first snap against the Giants in Week 3.&lt;/p&gt;</description>
-      <rw:player>Fernando Carmona</rw:player>
-      <rw:team>TEN</rw:team>
-      <rw:position>Guard</rw:position>
-      <rw:source />
       <rw:author />
       <rw:date>Sep 29, 2026</rw:date>
     </item>

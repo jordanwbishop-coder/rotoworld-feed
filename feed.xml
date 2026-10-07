@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 21:09:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:22:26 +0000</lastBuildDate>
+    <item>
+      <title>Falcons signed RB Jam Miller to their practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3a2b93282b7f355a52b25635710e526545bcc0971acf63529a454dbf36f87240</guid>
+      <pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jam Miller ATL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Miller is a 2026 seventh-round pick by the Patriots, though he was waived during final cuts. He joins the Falcons practice squad as fellow RB Cash Jones is released.&lt;/p&gt;</description>
+      <rw:player>Jam Miller</rw:player>
+      <rw:team>ATL</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 6, 2026</rw:date>
+    </item>
+    <item>
+      <title>Broncos signed WR Cam Ross to their practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:cfa7d83ddef0316b9373e06869500e6f2b99d6673357a20a05fddda61963e1a8</guid>
+      <pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cameron Ross DEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;With Pat Bryant (ankle) suffering a multi-week injury in Week 4, the Broncos are adding to their wide receiver depth by signing Ross to the practice squad. The 25-year-old Ross was an undrafted free agent out of Virginia who spent training camp with the Broncos before he was let go in final cuts. Ross now re-joins the practice squad. EDGE Jahfari Harvey was let go from the practice squad in a corresponding move.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Parker Gabriel&lt;/p&gt;</description>
+      <rw:player>Cameron Ross</rw:player>
+      <rw:team>DEN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Parker Gabriel</rw:source>
+      <rw:author />
+      <rw:date>Oct 6, 2026</rw:date>
+    </item>
     <item>
       <title>Cardinals signed OL Jedrick Wills off Buffalo’s practice squad.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6476,32 +6502,6 @@
       <rw:team>BAL</rw:team>
       <rw:position>Quarterback</rw:position>
       <rw:source>Jamison Hensley</rw:source>
-      <rw:author />
-      <rw:date>Sep 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Minkah Fitzpatrick (groin) returned to practice Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:89cfb11604b5f2e1e6b1659a26828c21725287be5e43fe66754ffd07c8988a59</guid>
-      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Minkah Fitzpatrick NYJ Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s his first practice since suffering the groin injury in Week 1. Aaron Glenn told reporters he will be listed as limited and noted that he has a good chance of playing on Sunday. Fitzpatrick isn’t the superstar he once was, but his return will still provide a small boost to the team’s secondary.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rich Cimini&lt;/p&gt;</description>
-      <rw:player>Minkah Fitzpatrick</rw:player>
-      <rw:team>NYJ</rw:team>
-      <rw:position>Safety</rw:position>
-      <rw:source>Rich Cimini</rw:source>
-      <rw:author />
-      <rw:date>Sep 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chiefs coach Andy Reid said Josh Simmons is dealing with a bulging disc in his lower back.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7348db41660a478eb4ba23f16d4027476a41768c65b6374c3ea3056d81214912</guid>
-      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Josh Simmons KC Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Simmons hasn’t played or practiced this year. Reid told reporters that he was making progress but will remain out of practice today. Kahlil Benson will presumably draw another start at left tackle in Week 4.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nate Taylor&lt;/p&gt;</description>
-      <rw:player>Josh Simmons</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source>Nate Taylor</rw:source>
       <rw:author />
       <rw:date>Sep 30, 2026</rw:date>
     </item>

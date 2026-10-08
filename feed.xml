@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:43:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Cardinals RB Jeremiyah Love (ankle) was limited in Wednesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3786af7b110d1443aaf9037b640ede61de663ab910a787e44735fecebeba3aed</guid>
+      <pubDate>Wed, 07 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jeremiyah Love ARI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Love was listed as a limited practice participant after he tweaked his ankle in the Cardinals’ Week 4 loss to the Giants. Though he seemingly seized command of Arizona’s backfield in Week 3, Tyler Allgeier was heavily involved in Week 4 as Love hurt his ankle. He was already nursing his other ankle heading into the season and may see limited touches again with this latest tweak. Love is still trending to play Week 5 against the Lions but may sit back on the RB2/3 borderline as his ankle heals.&lt;/p&gt;</description>
+      <rw:player>Jeremiyah Love</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 7, 2026</rw:date>
+    </item>
     <item>
       <title>Seahawks RB George Holani (ribs) was limited in Wednesday’s practice.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -248,6 +261,19 @@
       <rw:player>Rachaad White</rw:player>
       <rw:team>WAS</rw:team>
       <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 7, 2026</rw:date>
+    </item>
+    <item>
+      <title>Terry McLaurin (hamstring) did not practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:cc00d3fa972a189d1c798143fd9f81a1cde3fbbaa3a72c9b8e9c2369818e4668</guid>
+      <pubDate>Wed, 07 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Terry McLaurin WAS Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After missing Week 4 as a late addition to the injury report, it looks like McLaurin is set to miss his second game because of the hamstring issue. If healthy, Stefon Diggs will operate as Jayden Daniels’ No. 1 receiver. Diggs himself is now dealing with a hamstring injury, so there’s no guarantee he’s available either. Antonio Williams and Chig Okonkwo could see more work if both wideouts can’t play this week.&lt;/p&gt;</description>
+      <rw:player>Terry McLaurin</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Wide Receiver</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Oct 7, 2026</rw:date>
@@ -500,6 +526,19 @@
       <rw:date>Oct 7, 2026</rw:date>
     </item>
     <item>
+      <title>Tee Higgins (adductor/neck) did not practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3793dd1e7cbaf11ebfdba4401b9eba011098526dada27a804d9141abe83bc6ac</guid>
+      <pubDate>Wed, 07 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tee Higgins CIN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Head coach Zac Taylor told reporters before practice that Higgins would be listed as limited. Not only did he not practice, but the team listed him with a neck injury on top of his adductor issue. He went down with the adductor injury late in Cincy’s Week 4 loss to the Jags. It’s unclear when the neck issue cropped up. With multiple injuries holding him out of practice, Higgins looks unlikely to play in Week 5. With Ja’Marr Chase potentially out as well, Dohnte Meyers could be Joe Burrow No. 1 receiver this week. He should be added in all fantasy formats.&lt;/p&gt;</description>
+      <rw:player>Tee Higgins</rw:player>
+      <rw:team>CIN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 7, 2026</rw:date>
+    </item>
+    <item>
       <title>Malik Nabers (knee) did not practice on Wednesday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:b373a00f48658648ac589500514ebdcb22af6bbe28e8ed09e7fed28b5e873d9b</guid>
@@ -743,19 +782,6 @@
       <rw:team>TB</rw:team>
       <rw:position>Quarterback</rw:position>
       <rw:source>Adam Schefter</rw:source>
-      <rw:author />
-      <rw:date>Oct 7, 2026</rw:date>
-    </item>
-    <item>
-      <title>Tee Higgins (adductor/neck) did not practice Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:3793dd1e7cbaf11ebfdba4401b9eba011098526dada27a804d9141abe83bc6ac</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tee Higgins CIN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Head coach Zac Taylor told reporters before practice that Higgins would be listed as limited. Not only did he not practice, but the team listed him with a neck injury on top of his adductor issue. He went down with the adductor injury late in Cincy’s Week 4 loss to the Jags. It’s unclear when the neck issue cropped up. With multiple injuries holding him out of practice, Higgins looks unlikely to play in Week 5. With Ja’Marr Chase potentially out as well, Dohnte Meyers could be Joe Burrow No. 1 receiver this week. He should be added in all fantasy formats.&lt;/p&gt;</description>
-      <rw:player>Tee Higgins</rw:player>
-      <rw:team>CIN</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
       <rw:author />
       <rw:date>Oct 7, 2026</rw:date>
     </item>
@@ -6475,32 +6501,6 @@
       <rw:player>Adonai Mitchell</rw:player>
       <rw:team>NYJ</rw:team>
       <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 1, 2026</rw:date>
-    </item>
-    <item>
-      <title>Breece Hall (quad) did not practice Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:cbe4046358d417fa401ba1581ca950828eb4a043351ef115f13dfddaf4ebe5a1</guid>
-      <pubDate>Thu, 01 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Breece Hall NYJ Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A “Week-to-week” designation leaves us struggling to see any way that Hall plays this week. Braelon Allen should be a reasonable RB2 in Hall’s absence. Hall will likely be questionable at best for Week 5.&lt;/p&gt;</description>
-      <rw:player>Breece Hall</rw:player>
-      <rw:team>NYJ</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 1, 2026</rw:date>
-    </item>
-    <item>
-      <title>Caleb Williams (hamstring) did not practice Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:01d5f6524fb097d9e0dbf9eb8dda042b149471e05cdeb2113c9896197e7b7ebb</guid>
-      <pubDate>Thu, 01 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Caleb Williams CHI Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He appears to have no chance of being cleared for Week 4. Week 5 remains a bit murky; it would be early per his timetable, but we think he might at least have a chance of suiting up then.&lt;/p&gt;</description>
-      <rw:player>Caleb Williams</rw:player>
-      <rw:team>CHI</rw:team>
-      <rw:position>Quarterback</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Oct 1, 2026</rw:date>

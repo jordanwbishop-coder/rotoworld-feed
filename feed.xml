@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Mon, 12 Oct 2026 23:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:28:02 +0000</lastBuildDate>
+    <item>
+      <title>Rams declared WR CJ Daniels, QB Ty Simpson, TE Max Klare, DE Larrell Murchison, and OL Bill Murray inactive for Week 5 against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8f8715897f6e2d27f2c129aea313e6eca54df9bec301ef9736eb9d51c4614f69</guid>
+      <pubDate>Mon, 12 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Max Klare&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Klare had been active from Week 2 through Week 4 but retreats to the inactives list with Colby Parkinson returning from a one-game absence. Puka Nacua’s absence Week 2 and Week 3 could have also played a role in Klare’s game-day status during that period, with the Rams now set to face the Bills with just three active tight ends after going through multiple games with either four or five active.&lt;/p&gt;</description>
+      <rw:player>Max Klare</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 12, 2026</rw:date>
+    </item>
     <item>
       <title>Bills WR DJ Moore (shoulder) is inactive for Week 5 against the Rams.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6489,19 +6502,6 @@
       <rw:team>NYG</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>Charlotte Carroll</rw:source>
-      <rw:author />
-      <rw:date>Oct 6, 2026</rw:date>
-    </item>
-    <item>
-      <title>Falcons signed RB Jam Miller to their practice squad.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:3a2b93282b7f355a52b25635710e526545bcc0971acf63529a454dbf36f87240</guid>
-      <pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jam Miller ATL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Miller is a 2026 seventh-round pick by the Patriots, though he was waived during final cuts. He joins the Falcons practice squad as fellow RB Cash Jones is released.&lt;/p&gt;</description>
-      <rw:player>Jam Miller</rw:player>
-      <rw:team>ATL</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
       <rw:author />
       <rw:date>Oct 6, 2026</rw:date>
     </item>

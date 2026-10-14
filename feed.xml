@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:50:39 +0000</lastBuildDate>
+    <item>
+      <title>Hearing officer James Thrash upheld 49ers LB Dre Greenlaw’s one-game suspension.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fc637cccfc84052a5e0ebc965d9b3150f5f572ea00d622f143db96d85c99de56</guid>
+      <pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dre Greenlaw SF Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Greenlaw was suspended after he was ejected for headbutting Seahawks LB Ernest Jones during a sideline scuffle in the 49ers’ Week 5 win over the Seahawks. He appealed the suspension, but it has been upheld by hearing officer James Thrash. Greenlaw will miss Week 6 and is in line to return against the Falcons in Week 7.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Michael Signora&lt;/p&gt;</description>
+      <rw:player>Dre Greenlaw</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Linebacker</rw:position>
+      <rw:source>Michael Signora</rw:source>
+      <rw:author />
+      <rw:date>Oct 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Rams head coach Sean McVay said EDGE Myles Garrett (knee) won’t have his 21-day practice window opened this week.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5553d326401b43ff26c2ec53fb44bbf3b738f316287a75261a1ad19cb7f03c80</guid>
+      <pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Myles Garrett&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Garrett went on injured reserve after Week 1 and is therefore eligible to have his 21-day practice window for activation off IR opened this week. However, McVay said the 30-year-old pass-rusher won’t have his window opened, indicating Garrett is not ready to practice yet and it will still be some time before we see him back on the field. His initial timeline after undergoing a knee scope was roughly six weeks. It’s been four weeks so far, but Garrett could still hit the six-week return timeline if his practice window is opened next week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sarah Barshop&lt;/p&gt;</description>
+      <rw:player>Myles Garrett</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Sarah Barshop</rw:source>
+      <rw:author />
+      <rw:date>Oct 13, 2026</rw:date>
+    </item>
     <item>
       <title>Chargers signed QB Jake Browning to the practice squad.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6475,32 +6501,6 @@
       <rw:player>Isaiah Likely</rw:player>
       <rw:team>NYG</rw:team>
       <rw:position>Tight End</rw:position>
-      <rw:source>Jordan Raanan</rw:source>
-      <rw:author />
-      <rw:date>Oct 7, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chris Bell (knee) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:585383a231f42129ad81309611f8709eba67eac43c795cb1ba90a1dbdb5ca720</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chris Bell MIA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Dolphins have been managing Bell’s practice reps for a few weeks, but it hasn’t been an issue on Sundays. He ran 85 percent of the routes in Week 4 and his route share has gone up in every game. He is in the WR5 range headed into Week 5 versus the Bengals.&lt;/p&gt;</description>
-      <rw:player>Chris Bell</rw:player>
-      <rw:team>MIA</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 7, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cam Skattebo (shoulder) was limited on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:5b01cec02450802d90a884b47fd189820f8ee92007d1062fed411f082acd5d5a</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cam Skattebo NYG Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Skattebo was participating in a red non-contact jersey today. His limited participation puts him on track to play in Week 5 against the Commanders, but this is obviously worth tracking. The Giants’ starting running back has handled reliably larger workloads this season. Hopefully, he is feeling up to the task again on Sunday.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Raanan&lt;/p&gt;</description>
-      <rw:player>Cam Skattebo</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Running Back</rw:position>
       <rw:source>Jordan Raanan</rw:source>
       <rw:author />
       <rw:date>Oct 7, 2026</rw:date>

@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 23:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:44:18 +0000</lastBuildDate>
+    <item>
+      <title>Colts signed P Thomas Morstead to the practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:9a7812aedbaf5a1b2c05ccd5d5cfb9d6771007ef7d6320bfd50e047ab84696b1</guid>
+      <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Thomas Morstead IND Punter&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Morstead spent 12 years punting for the Saints before making stops with the Jets, Falcons, Dolphins, and 49ers over the last five seasons. The 40-year-old veteran averaged 43.6 yards per punt for San Francisco last year. Current Colts punter Rigoberto Sanchez was injured during a blocked punt in the Colts’ Week 6 loss to the Titans. Morstead joins the Colts’ practice squad as insurance in case Sanchez cannot play Week 7 against the Vikings.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Thomas Morstead</rw:player>
+      <rw:team>IND</rw:team>
+      <rw:position>Punter</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Oct 20, 2026</rw:date>
+    </item>
     <item>
       <title>ESPN’s Adam Schefter reports Terrance Ferguson (ankle) “will take some time” to come off injured reserve.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6488,19 +6501,6 @@
       <rw:player>Jalen Ramsey</rw:player>
       <rw:team>PIT</rw:team>
       <rw:position>Cornerback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Isaiah Likely (foot) is practicing in full for Week 6 against the Saints.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:efdffcea43052764091501aceb1215cbddd6678cb7888cb73717b9ea68134048</guid>
-      <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Isaiah Likely NYG Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Theo Johnson has a neck injury and was limited in practice. Both tight ends should be able to suit up on Sunday. Coming off a career-high in targets (13), Likely is looking more like a top-five fantasy tight end every week. He should be in every fantasy lineup for his Week 6 date with the Saints.&lt;/p&gt;</description>
-      <rw:player>Isaiah Likely</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Tight End</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Oct 14, 2026</rw:date>

@@ -4,13 +4,624 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 17:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:59:02 +0000</lastBuildDate>
     <item>
-      <title>Ravens coach Jesse Minter said Lamar Jackson (ankle) will play in Baltimore’s Week game against the Bills.</title>
+      <title>Dolphins claimed EDGE Jamree Kromah off waivers from the Bears.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:a925b2ae4ba4cf518fa7233bf0fbadb4e815e68692a5cf15937edeb13cb9af71</guid>
+      <guid isPermaLink="false">urn:sha256:46312a53d094a91a742109c20e93a2d0cad49d7ca602d5995b40d683ce7d8e82</guid>
       <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Lamar Jackson BAL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“We do think we will have Lamar this game,” Minter said. Jackson practiced in full on Friday and has missed the last three weeks with his high-ankle sprain. The Ravens will likely clear him from the injury report later today. Jackson told reporters that he feels like “I’m no longer a statue.” Jackson will be “safe” to use as a QB1 against the Bills in what profiles as a fantasy points bonanza.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jamison Hensley&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Jamree Kromah MIA Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You thought you could just sneak this guy through waivers, did you? Well the Miami Dolphins are going to claim him. They’ve got to look busy here as they try to find one or two front seven pieces that will still have jobs in two years. The 26-year-old Kromah is their latest attempt to find one of them.&lt;/p&gt;</description>
+      <rw:player>Jamree Kromah</rw:player>
+      <rw:team>MIA</rw:team>
+      <rw:position>Defensive Lineman</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Malik Washington (knee) is not on Miami’s final Week 8 injury report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:7375624ba690ee3e90eec529f297ebeb619b4d7fb661f0bffa563d41f6bff8cb</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Malik Washington MIA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Washington’s WR4 status will continue aplomb against the Patriots in Week 8, though Caleb Douglas’ return probably has capped his ceiling case for the time being.&lt;/p&gt;</description>
+      <rw:player>Malik Washington</rw:player>
+      <rw:team>MIA</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Greg Dulcich is not on Miami’s final Week 8 injury report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8a7d02377389130a7f5cb80f14cf561da16fe698128885c15c14b8922b04aa46</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Greg Dulcich MIA Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The fringe TE2 life awaits Dulcich against the Patriots on Sunday.&lt;/p&gt;</description>
+      <rw:player>Greg Dulcich</rw:player>
+      <rw:team>MIA</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Derwin James (hamstring) will not play in Week 8 against the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:dff2520ddddacfa4c0fe8bb47afb6a2f3aed7f2e8141b4cda7acc3d601f41b9d</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Derwin James LAC Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;James reportedly suffered a setback with his hamstring injury, with the team now considering injured reserve. His absence is a big hit to their defense as a primary interior defender against the heavy personnel sets from the Rams, upgrading the matchup for Tyler Higbee and company.&lt;/p&gt;</description>
+      <rw:player>Derwin James</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ladd McConkey (concussion) was removed from the injury report and will play in Week 8 against the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b74d0d123d225c34ef6727ebb12b0f70f3f40792192cee858238ec37ea9e64ad</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ladd McConkey LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McConkey’s concussion was always unlikely to hold him out for Week 8 with the team coming off their bye, with Friday’s injury report confirming that notion. The Chargers have under-performed offensive expectations more than any team through their first six games, leaving McConkey in the FLEX range for Week 8, a far cry from the WR2 range he was drafted in this offseason.&lt;/p&gt;</description>
+      <rw:player>Ladd McConkey</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Treylon Burks (foot) is questionable for Washington’s Week 8 game against the Eagles.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a71e91a27e8f46e73100f8bd458e046cc2562051515faea166072a5981e546c5</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Treylon Burks WAS Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The rare limited-DNP-limited injury report shows up here after Burks suffered a late foot injury in Week 6’s Monday night football. Burks probably is best considered truly questionable at this point. If he’s absent, it could help Antonio Williams get into the 80 percent snap range.&lt;/p&gt;</description>
+      <rw:player>Treylon Burks</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Tre’ Harris (hamstring) will play in Week 8 against the Rams.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5f7a4cafc362ea0f59b81a4b565a30b52d5c7fe64857eb4fa335d17bacaf9288</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tre&amp;#x27; Harris LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Harris returns to the lineup after missing Week 6, with the team’s bye week providing enough time for the veteran receiver to get back to the active game-day roster. That doesn’t mean he should be inserted into fantasy lineups after such a slow start to the season.&lt;/p&gt;</description>
+      <rw:player>Tre' Harris</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Javon Kinlaw (knee) will not play in Washington’s Week 8 game against the Eagles.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:33943bc7617d178980002c94c541083d3772d69290dc2d552d32d62f6e49fbbf</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Javon Kinlaw WAS Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He didn’t practice all week after Dan Quinn acknowledged it would be “tough” for him to play. An IR stint probably is in play on Saturday, if not, Kinlaw will probably start Week 9 on the questionable line.&lt;/p&gt;</description>
+      <rw:player>Javon Kinlaw</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Stefon Diggs (hand/hamstring) is not on Washington’s final Week 8 injury report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3acf2f2dbad7d1ec40fa41b9912d0fefe03ca8e3f679afe938d4cb32f8c93cd8</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Stefon Diggs WAS Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He should be a mid-range WR3 with Terry McLaurin out of the picture in Washington. Diggs practiced in full each of the last two sessions of the week after a Wednesday DNP.&lt;/p&gt;</description>
+      <rw:player>Stefon Diggs</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Carlton Davis (neck) is questionable for New England’s Week 8 game against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1a86aee5f7bafc643e902064e68bd772c342acebb4840b20574ca9f46f2c2729</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Carlton Davis NE Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s a bit of a surprise questionable because Davis got in three full practice sessions this week. Still, he is coming off a long-term neck injury that has sidelined him most of the year so we understand the Patriots being cautious here. We’d consider Davis on the optimistic side of questionable.&lt;/p&gt;</description>
+      <rw:player>Carlton Davis</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ja’Marr Chase is not on Cincinnati’s final Week 8 injury report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2096979ff2437a4034c45a7305b6169ad2adfa9e51609664e2c2b4a17e556a9b</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ja&amp;#x27;Marr Chase CIN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He will play and be on the overall WR1 line against the Titans. Zac Taylor spoke earlier today and said he had no concerns about Chase. Everyone has downplayed concerns about Chase’s ankle for the majority of the week. He will be a smash play against a Jeffrey Simmons-less Titans defense.&lt;/p&gt;</description>
+      <rw:player>Ja'Marr Chase</rw:player>
+      <rw:team>CIN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jihaad Campbell (hamstring/quad) will not play in Philadelphia’s Week 8 game against the Commanders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8888242df821815dae635b95adab92a35dd0468abfa99136a60004a811f264a0</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jihaad Campbell PHI Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Campbell didn’t practice all week and his availability for Week 9 is likely in question as well. Campbell has 49 tackles in seven starts this season despite spending a few early October weeks as an injury report fixtures. IDP leaguers will need to make other plans this week.&lt;/p&gt;</description>
+      <rw:player>Jihaad Campbell</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Linebacker</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Saquon Barkley (hamstring, back) was removed from the injury report Friday and will play in Week 8 against the Commanders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:15b0dce4008f12984752977c7213a94ae612db0bb726024ee12b02a115ed5cfe</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Saquon Barkley PHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Barkley gave a cryptic response when asked if he would play earlier in the day, ultimately ready to gut out multiple injuries as the Eagles continue to trudge forward in an injury-decimated season. The veteran back added that the injuries are both something he will need to manage throughout the game but that he feels as if he can play through them. That leaves fantasy managers in a sticky situation, likely forced to start Barkley if he’s on the roster. Barkley is a middling RB2 in a difficult matchup on the ground against the Commanders.&lt;/p&gt;</description>
+      <rw:player>Saquon Barkley</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Dontayvion Wicks (ankle) will not play in Philadelphia’s Week 8 game against the Commanders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:65e52ea81e6123bd3eb8459813676304d72f2b496a4bc23c9ac887940d2e20c8</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dontayvion Wicks PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He didn’t practice all week and has not practiced since the build up to Week 6. As with colleague DeVonta Smith, Wicks enters next week questionable to play and with the Eagles having a Week 10 bye, we wouldn’t be surprised if Wicks sat that game out as well.&lt;/p&gt;</description>
+      <rw:player>Dontayvion Wicks</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>DeVonta Smith (hamstring) will not play in Philadelphia’s Week 8 game against the Commanders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a8006f021bce02d5dbb971ec0bfd56c0e5721a5e03dd0a34af08efd4c078ab6a</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;DeVonta Smith PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He has not practiced since Week 6. It’s hard to count on Smith to be up for Week 9, though we obviously can’t say anything beyond him being questionable. The Eagles have a Week 10 bye and it might be preferable for them at this point if Smith sat through that — though that is just our speculation.&lt;/p&gt;</description>
+      <rw:player>DeVonta Smith</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Calvin Ridley (hip) is questionable for Tennessee’s Week 8 game against the Bengals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3a85d6927278be4fd66e9439ba1ee05fdab61b071023026ace8638af12fd8bfd</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Calvin Ridley TEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He got in a full session on Friday and would seem to be trending towards playing. With Carnell Tate down this week, Elic Ayomanor is probably the Titans dart throw wideout for the desperate against the Bengals if you’re choosing between him or Ridley.&lt;/p&gt;</description>
+      <rw:player>Calvin Ridley</rw:player>
+      <rw:team>TEN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Tyjae Spears (knee) won’t play in Tennessee’s Week 8 game against the Bengals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0e5a46f26793e86ed785aca674cfd1d78d74c7865b89119e6845cef69e0d4991</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tyjae Spears TEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Spears had three DNPs and has not practiced since last Thursday. Michael Carter filled down as the third-down back last week, though all that actually meant is that Tony Pollard got full-time workload. We expect that to continue in Week 8.&lt;/p&gt;</description>
+      <rw:player>Tyjae Spears</rw:player>
+      <rw:team>TEN</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Carnell Tate (shoulder) is out for Week 8 against the Bengals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:88f6f5e9ee1f5df4f0bd3e883cb893cf8f5756663b509d01771e1e1e24271b7a</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Carnell Tate TEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tate’s game-day designation comes on the heels of three missed practices this week. His absence leaves behind an alpha’s target share to go claimed by the remaining pass catchers, most notable of whom is slot man Wan’Dale Robinson. Robinson also draws the top matchup on paper against he inside-funnel nature of the Cincinnati defense, appearing to have a clear path to leading the team in targets and receiving. Fantasy managers can start Robinson as a viable WR3.&lt;/p&gt;</description>
+      <rw:player>Carnell Tate</rw:player>
+      <rw:team>TEN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jack Bech (forearm) is questionable for Las Vegas’ Week 8 game against the Jets.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6231a406929cc3b0292d01fe919ceaa5e233b558ad68f993f37eb292db4326fa</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jack Bech LV Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He practiced in full all three days. Klint Kubiak was evasive when asked if he would be activated, but players that practice in full three days in a row while trying to come off injured reserve rarely aren’t activated. Bech will be restored to the roster on Saturday if he’s going to play. He doesn’t need to be proactively rostered outside of the deepest leagues.&lt;/p&gt;</description>
+      <rw:player>Jack Bech</rw:player>
+      <rw:team>LV</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jahmyr Gibbs (shoulder) will play in Week 8 against the Vikings.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b8a0a15697fc57ce2e0aa36b0d912595e3f89022d55948d66600d9c0f5bcfc44</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jahmyr Gibbs DET Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Like teammate Amon-Ra St. Brown, Gibbs started the week off with a missed practice before upgrading to a full participant in both sessions to end the week. He was removed from the injury report Friday and will be ready for a normal workload against the division rival Vikings Sunday. Fantasy managers are clearly starting Gibbs, regardless of matchup.&lt;/p&gt;</description>
+      <rw:player>Jahmyr Gibbs</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Kerby Joseph (knee) will not play in Detroit’s Week 8 game against the Vikings.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1f245e873693cff423522f0aa348865f80d49a91f2a47879fd428944dd5464d1</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kerby Joseph DET Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dan Campbell said Joseph has been used only in individual and group practices so far and that he’s handled that well. Next week he’ll get in on real practice. Joseph probably stands a decent chance of being active for Week 9 assuming he acclimates well to that.&lt;/p&gt;</description>
+      <rw:player>Kerby Joseph</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Amon-Ra St. Brown (ankle) will play in Week 8 against the Vikings.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:309c621c9224e8452f5a6b1b8c89f70c51f94d4fb64ab548e87ab21c8c821c14</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Amon-Ra St. Brown DET Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;St. Brown started the week off with an absence before logging consecutive full sessions to end the week or preparations, ultimately removed from the injury report entirely heading into the weekend. He should be good to go for a normal workload against the stingy Minnesota defense, where fantasy managers can start him with confidence as a WR1.&lt;/p&gt;</description>
+      <rw:player>Amon-Ra St. Brown</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Kyle Monangai (thumb/toe) did not practice on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:946d6378565c3bb8376072f990941083a2368122d08bbe0f7914853fec702e44</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kyle Monangai CHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We’d be floored if Monangai got on the questionable line on Saturday. He hasn’t played or practiced since Week 4. We’re still waiting for some kind of positive movement here. Roschon Johnson will likely be Chicago’s second-string back again in Week 8.&lt;/p&gt;</description>
+      <rw:player>Kyle Monangai</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jakobi Meyers (hamstring, ankle) did not practice Friday and is questionable to play in Week 8 against the Colts.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:94f510a65cd5c42b3f10bc8cda730cc1f97ced3bd0e06fc779efd0dd9db54700</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jakobi Meyers&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Meyers managed back-to-back limited sessions to begin the week of preparation but was downgraded to a “DNP” Friday, ultimately drawing the questionable tag for Week 8 against the Colts. An absence could require additional offensive snaps for two-way player Travis Hunter and a slight uptick in route rate for Brian Thomas Jr and Josh Cameron. This is one to monitor for fantasy managers of all Jacksonville pass catchers.&lt;/p&gt;</description>
+      <rw:player>Jakobi Meyers</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jaylinn Hawkins (knee) is out for Week 8 against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1515aaaa536a33d7764e1701b8de260fa98773e9665b09e1dcac9c989c68c8bc</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jaylinn Hawkins BAL Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hawkins was unable to practice all week as he tends to a knee injury, ultimately ruled out for Week 8 Friday. It will go down as his second consecutive absence, with his next opportunity to take the field to come in Week 9 against the Jaguars on Thursday Night Football.&lt;/p&gt;</description>
+      <rw:player>Jaylinn Hawkins</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Roquan Smith (knee) will play in Week 8 against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:14673c2e13d13d541e76a5857e9d804ceb03830d562642f0639c11bd3f929ac9</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Roquan Smith BAL Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Smith upgraded his level of participation with each practice this week, starting with an absence before moving to limited and, finally, a full session. He appears to be ready for a normal workload in the interior of the Baltimore defense, a welcome development for the Ravens as they prepare to face the Bills.&lt;/p&gt;</description>
+      <rw:player>Roquan Smith</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Linebacker</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Vega Ioane (knee) won’t play in Baltimore’s Week 8 game against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:169303bf1b891acf1447d9e30e4de3a328ca03c33e71cad0d61601b1a710216c</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Vega Ioane BAL Guard&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ioane got in limited sessions on Thursday and Friday but was evasive when asked if he’d go at his locker yesterday. In the end, it would have been very impressive for him to play through a sprained MCL one week later. Ioane’s practice augurs well for his chances of playing in Week 10, at the very least. Week 9, on Thursday Night, might be too big of an ask.&lt;/p&gt;</description>
+      <rw:player>Vega Ioane</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Guard</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Braelon Allen (ankkle) will play in Week 8 against the Raiders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b9187cb3f86f6f2e5890ef3f30415eddbdca7de82ebcbefb3e4bc8c2b58b9524</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Braelon Allen NYJ Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Allen ended the week of practice with consecutive full showings after being limited Wednesday, while backfield mate Breece Hall officially drew the questionable tag following a week full of limited sessions. Allen would remain an upside RB2 in a solid matchup should Hall be held out for another week, likely maintaining FLEX status should Hall play.&lt;/p&gt;</description>
+      <rw:player>Braelon Allen</rw:player>
+      <rw:team>NYJ</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Kyle Hamilton (knee) is not on Baltimore’s final Week 8 injury report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:3826f43fedd5dc0c53cfb978f9b4cdea1a71d61ff66221d9e82fddb2669e65ca</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kyle Hamilton BAL Safety&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hamilton managed a full session to clear the report after a Wednesday DNP. While the Ravens are missing some key players on defense, having their star safety ready to deal with Josh Allen is a big get for them in Week 8.&lt;/p&gt;</description>
+      <rw:player>Kyle Hamilton</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Safety</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Mansoor Delane (shoulder) is questionable for Kansas City’s Week 8 game against the Broncos.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6b2b2dbefeacc929a2faabeb660c7cc29c62d79aec04ac8624d5e977a0f56cd6</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mansoor Delane KC Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Delane didn’t practice either of the last two days after popping on to the injury report on Thursday. Andy Reid could only muster a “We’ll see how he does here going forward” when asked about it. We’d consider him on the pessimistic side of questionable.&lt;/p&gt;</description>
+      <rw:player>Mansoor Delane</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Cornerback</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Aaron Jones (knee) will play in Week 8 against the Lions.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:09e6b4cc38e2238a74d7c15367243744c9bba0b6bafc6f37374666d6bfe165de</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Aaron Jones MIN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jones departed the team’s Week 7 win over the Colts after aggravating an existing knee issue. He was held out of practice Wednesday before retaking the practice field on consecutive days to end the week, ultimately deemed healthy enough to play against the division rival Lions in Week 8. Fantasy managers are likely best off finding a suitable alternative considering Jones is struggling through a sprained MCL and the team got Jordan Mason back a week ago, although managers in a bind can safely expect him to be on the field come Sunday.&lt;/p&gt;</description>
+      <rw:player>Aaron Jones</rw:player>
+      <rw:team>MIN</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ed Oliver (knee) will play in Week 8 against the Ravens.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:038d6616c633316b53d8f66eb379c11e1662fe71aec708f9a299c09026ec8a10</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ed Oliver BUF Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Oliver has been on the shelf since sustaining a knee injury in Week 4, returning in Week 8 following two missed games plus the team’s Week 7 bye. He played a healthy 81 percent snap rate in his only fully healthy game this season as he continues to struggle through multiple injuries, with his return a welcome sight for a defense that has allowed the second most yards and third most points per game this season.&lt;/p&gt;</description>
+      <rw:player>Ed Oliver</rw:player>
+      <rw:team>BUF</rw:team>
+      <rw:position>Defensive Lineman</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Spencer Brown (back) is questionable for Buffalo’s Week 8 game against Baltimore.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5eafaa60f73488f7207cb48048f5fc1fbfad7a69d52e62a7253f7f226941931d</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Spencer Brown BUF Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brown has a history of not practicing and getting up for the game on Sunday, so we wouldn’t necessarily read too far in to his two DNPs on Wednesday and Thursday. That said, it also wouldn’t be surprising if Brown had to sit against the Ravens on Sunday.&lt;/p&gt;</description>
+      <rw:player>Spencer Brown</rw:player>
+      <rw:team>BUF</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Elgton Jenkins (knee) is not on Cleveland’s final Week 8 injury report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:7e9a771ee26d5a49bf9585b6effd61be23b8ac2acc24d429a68bb988520522c1</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Elgton Jenkins CLE Offensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The interior lineman managed a full session on Friday. Cleveland will have its starting center ready for Pittsburgh’s front in Week 8.&lt;/p&gt;</description>
+      <rw:player>Elgton Jenkins</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Offensive Lineman</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jared Verse (knee) is not on Cleveland’s final Week 8 injury report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:598cf2b5159f917618f6b265c2a31cce00591e9eec2de54b32d0a77eeabea341</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jared Verse CLE Defensive End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The star edge player will go after a limited session on Thursday and a full practice on Friday. Cleveland’s in a good place this week on the injury report heading into their matchup with the Steelers.&lt;/p&gt;</description>
+      <rw:player>Jared Verse</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Defensive End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Dylan Sampson (knee) is not on Cleveland’s final Week 8 injury report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2017fcc92118b3e73d2941bd02dc7c8dc60a9f33f9e0e870cdc3cc45f5a0274a</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dylan Sampson CLE Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sampson got in two full sessions to close out the week and should be a low-end RB3/FLEX play in limited snaps against the Steelers.&lt;/p&gt;</description>
+      <rw:player>Dylan Sampson</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Trent McDuffie (groin) is questionable for Week 8 against the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a67dd1decba3af9fa50b99eae24648aaa195b7aa52e252d6b47129e89ae3a33b</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Trent McDuffie&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McDuffie has missed the previous two games as he tends to a groin injury suffered ahead of Week 6. He made it back to the practice field this week but was unable to prove healthy enough to avoid the questionable designation.&lt;/p&gt;</description>
+      <rw:player>Trent McDuffie</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Colby Parkinson (ribs) is questionable for Week 8 against the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c0819ac3fc732b4d18962acc163f85af74d4c532268046a0f28b38eace2ab471</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Colby Parkinson&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Parkinson gutted out an injury to his midsection against the Raiders a week ago when he was in and out of the lineup while clearly dealing with significant discomfort. He was unable to practice through Thursday this week, prompting the questionable designation ahead of a Week 8 meeting with the Chargers. Already down multiple primary pass catchers, the Rams could see further concentration of volume should Parkinson miss, a situation that could also pave the way for Davis Allen to see an uptick in opportunities in the 12- and 13-personnel-heavy Rams offense. Fantasy managers likely won’t get further updates on Parkinson’s status before the team releases inactives 90-minutes prior to first kick.&lt;/p&gt;</description>
+      <rw:player>Colby Parkinson</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ben Skowronek (calf) is questionable for Pittsburgh’s Week 8 game against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:781941b353aee22fdd8cf3841164efb4e7b002031920f95f4926510136f147ed</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ben Skowronek PIT Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He was limited all three days. Skowronek carries no standalone value but could eat into snaps for the other Steelers receivers if active.&lt;/p&gt;</description>
+      <rw:player>Ben Skowronek</rw:player>
+      <rw:team>PIT</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jets coach Aaron Glenn said Breece Hall (quad) is questionable for New York’s Week 8 game against the Raiders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:4e4d37c6ff07541b55ab1acdfd630ef27c5504710091dd104399a081908e6d27</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Breece Hall NYJ Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s been a full week of limited practices for Hall, so he profiles as a true game-time decision at this point as we head to the weekend. New York’s franchise running back declined to answer reporter questions in the locker room about whether he’d play or not. Hall would profile as an RB2 if he’s deemed ready to go, presuming no snap count, against the Raiders.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rich Cimini&lt;/p&gt;</description>
+      <rw:player>Breece Hall</rw:player>
+      <rw:team>NYJ</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Rich Cimini</rw:source>
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Andy Reid said Rashee Rice (hamstring) will play in Week 8.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b044bd7a65958560aee4b92fb4ee1ade0840af3b824960b2d915e2bd0540c2d5</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rashee Rice KC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rice will make his return to the game-day roster after missing two games due to a hamstring injury sustained in Week 4, returning as the top option through the air for an offense that has struggled with him off the field. The Chiefs scored a combined 25 points against the Chargers and Seahawks without Rice, the latter of which tied the fewest points scored in quarterback Patrick Mahomes’ career. Fantasy managers can comfortably re-insert Rice into rosters as an upside WR2 against the Broncos, against whom Rice caught both targets for 19 yards and a touchdown in Week 1.&lt;/p&gt;</description>
+      <rw:player>Rashee Rice</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Kenny Gainwell (hip) is questionable for Tampa’s Week 8 game against Atlanta.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:fb6391eddb0b5c67dfe47f0bbfba7e7abafdf523e1bd812e3c6ebfc57cf7b5e4</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kenny Gainwell TB Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;His absence would free up more work for Bucky Irving and Sean Tucker. Presumably Gainwell will play after logging a full practice on Friday. Either way, with an injury also nipping at him, he’s an unenviable FLEX option at best against the Falcons.&lt;/p&gt;</description>
+      <rw:player>Kenny Gainwell</rw:player>
+      <rw:team>TB</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>TreVeyon Henderson (illness) is questionable for Week 8 against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0f19aa85f99176a82411868833b97dc90a8cc1fa3c94ed095a8dac2e8bdebb7d</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;TreVeyon Henderson NE Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Henderson missed practice Thursday with an illness, ultimately drawing the questionable tag for the team’s Week 8 divisional clash with the Dolphins. That places fantasy managers in a precarious position considering the team plays in the afternoon portion of the Sunday slate. It would be prudent to make alternate plans at FLEX.&lt;/p&gt;</description>
+      <rw:player>TreVeyon Henderson</rw:player>
+      <rw:team>NE</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Cardinals coach Mike LaFleur said Michael Wilson (ribs) is “good to go” for Arizona’s Week 8 game against the Cowboys.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d5c43c1147e62810e9e3362af9e96f646788e4a3fd242185dd29627f074ed949</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Michael Wilson ARI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He’ll get cleared off Arizona’s injury report later today. Wilson is in a nice spot in one of the games with the highest over/under total on the slate against Dallas, but may run into Joey Porter Jr. shadow coverage. Still, even with how things have trended of late, this feels like a spot where Wilson has to be started in the majority of leagues.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Bo Brack&lt;/p&gt;</description>
+      <rw:player>Michael Wilson</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Bo Brack</rw:source>
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bills coach Joe Brady said DJ Moore (shoulder) is questionable for Buffalo’s Week 8 game against the Ravens.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f2fa12fdcbfe8faf6f644fa4a80c2c84a359a3594a40f319ade4074c51cebc01</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;DJ Moore BUF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Moore has practiced with a non-contact jersey on, in a limited fashion, both of the first two days of the practice week after coming off bye. He got in a third limited session on Friday. This isn’t exactly an exciting run-out after the bye, but Moore probably is on the optimistic side of questionable and any fantasy player that is breathing should be elevated in a game projected to have Josh Allen and Lamar Jackson at quarterback.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Lance Lysowski&lt;/p&gt;</description>
+      <rw:player>DJ Moore</rw:player>
+      <rw:team>BUF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Lance Lysowski</rw:source>
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Bills coach Joe Brady said Dalton Kincaid (chest) is questionable for Buffalo’s Week 8 game against the Ravens.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:871e993ffcd4bfc2df8b60edeff1033abe025ec88c2248c8275934abe978f95d</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Dalton Kincaid BUF Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kincaid was limited in all three practices this week. We’d imagine he’s on the optimistic side of questionable, though it’s not altogether great news that he wound up on the questionable line after a bye week to heal up. Kincaid will have to be started if active in what projects as a scoring bonanza against the Ravens.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Lance Lysowski&lt;/p&gt;</description>
+      <rw:player>Dalton Kincaid</rw:player>
+      <rw:team>BUF</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source>Lance Lysowski</rw:source>
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Cardinals head coach Mike LaFleur said Jeremiyah Love (ankle) will play in Week 8 against the Cowboys.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:889f9eaf3bb8b4f710deb3b1f2ba42dc9d2d04cfc6ce8bf62c0ca817412a32a3</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jeremiyah Love ARI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After missing the last two games with an ankle injury, Love will return to the Cardinals in what could be a three-way split after the recent emergence of Bam Knight. Love was averaging 16.2 opportunities per game before being sidelined, with most of that work coming on the ground. With only two top-24 PPR performances to his name so far this season, he shouldn’t be viewed as anything more than a boom-or-bust RB2 against the Cowboys.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Darren Urban&lt;/p&gt;</description>
+      <rw:player>Jeremiyah Love</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Darren Urban</rw:source>
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ravens coach Jesse Minter said Lamar Jackson (ankle) will play in Baltimore’s Week 8 game against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:36e0e5cd009bb1deebf41a3cfba743d14e5cff9a2802caafe3094e356a2fc725</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Lamar Jackson BAL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“We do think we will have Lamar this game,” Minter said. Jackson practiced in full on Friday and has missed the last three weeks with his high-ankle sprain. He was officially cleared off the injury report. Jackson told reporters that he feels like “I’m no longer a statue.” Jackson will be “safe” to use as a QB1 against the Bills in what profiles as a fantasy points bonanza.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jamison Hensley&lt;/p&gt;</description>
       <rw:player>Lamar Jackson</rw:player>
       <rw:team>BAL</rw:team>
       <rw:position>Quarterback</rw:position>
@@ -132,6 +743,19 @@
       <rw:team>IND</rw:team>
       <rw:position>Tight End</rw:position>
       <rw:source>Mike Chappell</rw:source>
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ravens coach Jesse Minter said Lamar Jackson (ankle) will play in Baltimore’s Week game against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:a925b2ae4ba4cf518fa7233bf0fbadb4e815e68692a5cf15937edeb13cb9af71</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Lamar Jackson BAL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“We do think we will have Lamar this game,” Minter said. Jackson practiced in full on Friday and has missed the last three weeks with his high-ankle sprain. The Ravens will likely clear him from the injury report later today. Jackson told reporters that he feels like “I’m no longer a statue.” Jackson will be “safe” to use as a QB1 against the Bills in what profiles as a fantasy points bonanza.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jamison Hensley&lt;/p&gt;</description>
+      <rw:player>Lamar Jackson</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Jamison Hensley</rw:source>
       <rw:author />
       <rw:date>Oct 30, 2026</rw:date>
     </item>
@@ -5878,630 +6502,6 @@
       <rw:team>DEN</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Denver Broncos</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Broncos ruled out Tyler Badie (thumb) for Week 7</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ee3f1e0082e5f77bba987a4df78249e8b52b3b7730782681241198485854cdc5</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyler Badie DEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Badie is likely headed toward a demotion with Jonah Coleman (ankle) inching toward a return. The latter player is questionable to play this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Denver Broncos&lt;/p&gt;</description>
-      <rw:player>Tyler Badie</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Denver Broncos</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jaylen Waddle (chest) is not on the Broncos’ final injury report and will play in Week 7 against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b789be9e4d4ace7c7c4e4932730080164127dc1a4808afa3852237962ec585ce</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jaylen Waddle DEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Waddle upgraded to full on Friday after logging two limited sessions to begin the week. The Broncos’ No. 1 wide receiver has struggled to deliver usable stat lines with Bo Nix intent on checking down. The Cardinals’ pass defense could facilitate a bounce-back game for Waddle, but he remains a WR3/FLEX at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Denver Broncos&lt;/p&gt;</description>
-      <rw:player>Jaylen Waddle</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Denver Broncos</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Drew Lock (right elbow) is questionable to play in Week 7 against the Chiefs.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:122c6609b29b377c324a9b60a9617ac9dad3c67117802d0ba6fb860acf5cb796</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Drew Lock SEA Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Seahawks’ backup quarterback is dealing with an injury in his throwing arm, so any calls for Sam Darnold’s benching will have to quiet down. Seahawks S Nick Emmanwori (hip), LB DeMarcus Lawrence (knee) and LB Uchenna Nwosu (hip) are questionable. The Seahawks ruled out Chazz Surratt (calf) and LB DrakeThomas (ankle).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Andrew Destin&lt;/p&gt;</description>
-      <rw:player>Drew Lock</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Andrew Destin</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Vikings released RB Deejay Dallas.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1261b3f16fc1a7f4eb4196bf5dbfcc8b618e59ed70812daea66f7c42afc5daf1</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;DeeJay Dallas MIN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He’ll likely find his way back to the practice squad — here or elsewhere — at some point this season. This move portends that Jordan Mason will be activated for Week 7.&lt;/p&gt;</description>
-      <rw:player>DeeJay Dallas</rw:player>
-      <rw:team>MIN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Christian Kirk (calf) is questionable for San Francisco’s Week 7 game against the Falcons.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ac4e2460a5ecf87d5af050e7be01980a695a6371c285ec26afb723a2200b5c54</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Christian Kirk SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We’ve heard worse desperation options than “most accomplished 49ers wideout on paper playing with Brock Purdy and George Kittle as Mike Evans sits.” Kirk probably factors in the WR3/WR4 calculus after being activated from injured reserve Saturday.&lt;/p&gt;</description>
-      <rw:player>Christian Kirk</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Nick Bosa (calf) will not play in San Francisco’s Week 7 game against the Falcons.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9e856fe270f8fdabddda0bc775aa86ba56fd501349cabff75449d26012cb21a0</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Nick Bosa SF Defensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 49ers keep projecting a rosy picture of Bosa returning to practice at some point, it keeps not happening. He’ll get the Week 8 bye to heal up. Bosa hasn’t played since Week 2. If only there were a reserve list that teams could place injured players on.&lt;/p&gt;</description>
-      <rw:player>Nick Bosa</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Defensive Lineman</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Seahawks ruled out Zach Charbonnet (knee) for Week 7 against the Chiefs.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:466390e3ce8b0b15560cf5f3f54c3f6580b88719d567dc26935621f195a6ab3d</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Zach Charbonnet SEA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Seahawks coach Mike Macdonald told reporters that Charbonnet has not suffered a setback. He just isn’t ready yet. Many teams might rush a player of his caliber back, now that he is practicing in full, but the Seahawks are smartly taking the long view with Charbonnet’s health. Emanuel Wilson will function as the team’s leading rusher while George Holani plays on passing downs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Andrew Destin&lt;/p&gt;</description>
-      <rw:player>Zach Charbonnet</rw:player>
-      <rw:team>SEA</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Andrew Destin</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cowboys ruled out KaVontae Turpin (ribs) for Week 7 against the Eagles.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:56ae75a10249c9363a2105d4a2f3f3cd8aaf9f687540adbdbb3194b9bc3ce15a</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;KaVontae Turpin DAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Turpin’s absence will be felt most on special teams, with the team now forced to find a replacement on punt and kick returns. Otherwise, there is almost zero fantasy impact as the team’s WR4.&lt;/p&gt;</description>
-      <rw:player>KaVontae Turpin</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Falcons activated A.J. Terrell (groin) from injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f71d13c509adce759be35e2ae93440c2634767576466174c881518d92a1e055a</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;A.J. Terrell ATL Cornerback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Falcons have been attackable on the perimeter while playing most of the season without Terrell. Fellow cornerback C.J. Henderson is listed questionable for Week 7, but the reintegration of Terrell provides a much more difficult matchup for the injury-riddled 49ers.&lt;/p&gt;</description>
-      <rw:player>A.J. Terrell</rw:player>
-      <rw:team>ATL</rw:team>
-      <rw:position>Cornerback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Broncos activated Jonah Coleman (ankle) from injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:5cbe04c62faacbc310b12075b2e61ede4460645401fa0c04f57ac1e758f8d8ed</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jonah Coleman DEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coleman missed the minimum four games as he tended to an ankle injury suffered in Week 2. He led the team in snaps in that contest and could return to the primary rushing role considering the inefficient play of J.K. Dobbins in his absence, making him worthy of a start in fantasy circles in a plus matchup against the Cardinals in his first game back.&lt;/p&gt;</description>
-      <rw:player>Jonah Coleman</rw:player>
-      <rw:team>DEN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ravens ruled out Lamar Jackson (ankle) for Week 7 against the Bengals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f95f806fb4adf54de05accc1c52956ce7b59f3f05c53bc82885f5e4d72378362</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Lamar Jackson BAL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tyler Huntley will draw the start under center for the third straight game as Jackson continues to rehab a high-ankle sprain. Jackson reportedly took most of the first-team reps at practice Friday and was close to being able to play in Week 7, with the team ultimately siding with caution for their franchise quarterback. The Ravens enter a 15-game stretch in which they play three games starting in Week 8, which could have influenced their decision to hold Jackson out one more game. Expect him back for Week 8 against the Bills. His absence greatly influences the upside of the remaining skill position players considering Declan Doyle has halved his usage of play action and completely eliminated RPO with Huntley under center.&lt;/p&gt;</description>
-      <rw:player>Lamar Jackson</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Dallas Goedert (knee) was removed from the injury report Saturday and will play against the Cowboys in Week 7.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7798de380b92928c8701671088b0f06b950abec4d6d4b18ecf4e90d1251c79d3</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Dallas Goedert PHI Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Goedert reportedly aggravated his previous knee injury but got back on the practice field for a full session Saturday before being removed from the injury report. He could be stepping into a massive target share with both DeVonta Smith and Dontayvion Wicks ruled out. Fantasy managers can start him as an upside TE1 in a great matchup against the Cowboys in Week 7.&lt;/p&gt;</description>
-      <rw:player>Dallas Goedert</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 24, 2026</rw:date>
-    </item>
-    <item>
-      <title>Deebo Samuel (hamstring) won’t play in San Francisco’s Week 7 game against the Falcons.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:76025c11b963a599c40c113927c5b0a47de36fa30110b02cdb843b4bf969cbec</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Deebo Samuel SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Samuel hasn’t practiced since injuring his hamstring in the latter stages of Week 5’s win over the Seahawks. He’ll get the Week 8 bye to heal up. It does seem like there’s at least some chance he could get active for Week 9.&lt;/p&gt;</description>
-      <rw:player>Deebo Samuel</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Mike Evans (Achilles) will not play in San Francisco’s Week 7 game against the Falcons.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:94af438f6a8c255e34d32f3b1676b25a1cd2e8f1571348aa338a64783b699973</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He didn’t practice all week and will get San Francisco’s Week 8 bye to recover. The 33-year-old’s absence will leave veterans Christian Kirk and Brandin Cooks along with youngsters Jacob Cowing and Jordan Watkins on the 49ers receiver depth chart for Sunday.&lt;/p&gt;</description>
-      <rw:player>Mike Evans</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Tyler Guyton (calf) practiced in full on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:6364294fa41a1dc9dfb46b0bd73022c2e0b5e0e2283d793ca99567d7bbdc6495</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyler Guyton DAL Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is great news for the Cowboys’ offense. Guyton, the starting left tackle, is practicing in full and still has another practice tomorrow. Expect him to be available for the Cowboys’ Monday Night Football game against the Eagles.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Caplan&lt;/p&gt;</description>
-      <rw:player>Tyler Guyton</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source>Adam Caplan</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Trent Brown (wrist) is not on Houston’s final Week 7 injury report.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:3fcaddd8d58306971286fd90380dee238471fac46bdb5efbd7cf3626bd7e4537</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Trent Brown HOU Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He’ll be good to go after back-to-back full sessions on Thursday and Friday. The 380-pound behemoth will likely continue to spend plenty of time on the injury report in his age-33 season.&lt;/p&gt;</description>
-      <rw:player>Trent Brown</rw:player>
-      <rw:team>HOU</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Dalton Schultz (quad) is not on Houston’s final Week 7 injury report.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:692078c84929f7ea2fbbc719dfd97ca9ffa5e2a09c3d8811d8c2995b1a9ac457</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Dalton Schultz HOU Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He’ll be good to go, but given how much Houston’s wideout usage has expanded of late, Schultz is probably just a passable TE2.&lt;/p&gt;</description>
-      <rw:player>Dalton Schultz</rw:player>
-      <rw:team>HOU</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>George Pickens (shoulder) said he will play in Week 7 against the Eagles.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d72772bd0a62cb3220e9059f1726f0cbe7df70fc1e5fde09008626ef8d338e94</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;George Pickens DAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Cowboys face the Eagles in Week 7’s Monday Night Football game, giving Pickens an extra day to recover. ESPN’s Todd Archer said yesterday that Pickens has been icing his shoulder in-game during the Cowboys’ last two games. He encouragingly practiced in full today. Start him as a WR2 as usual this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jon Machota&lt;/p&gt;</description>
-      <rw:player>George Pickens</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Jon Machota</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Matthew Golden (shoulder) is not on the Packers’ final injury report and will play in Week 7 against the Lions.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:50ff279aac0e31a7aa021364448ca52ae7ea0812856c8daa7d629d53e5186ce7</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Matthew Golden GB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A few Packers got a little banged up against the Cowboys last week, including Golden, but the breakout second-year wide receiver is good to go. This game profiles as a fantasy-friendly shootout. Golden should be started as a high-end WR2 with solid upside.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
-      <rw:player>Matthew Golden</rw:player>
-      <rw:team>GB</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Rob Demovsky</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Brock Bowers (hamstring/calf) is not on Las Vegas’ final Week 7 injury report.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:13e3066afe6c6688f186f241cca1a4bac8930940c8c036c0e9a038cb5600f7e7</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brock Bowers LV Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A Friday afternoon tradition unlike any other, Bowers was cleared after getting in two full sessions on Thursday and Friday. He can be played as an elite TE1, as usual.&lt;/p&gt;</description>
-      <rw:player>Brock Bowers</rw:player>
-      <rw:team>LV</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Christian Watson (ankle) is not on the Packers’ final injury report and will play in Week 7 against the Lions.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c6df4ca54d19b98fc4b3e8a97119adfc9fc5dc7e19c44efdafbb35eda9785b2e</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Christian Watson GB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Watson remained limited through the first two practices this week. We do not yet know his Friday participation level, but he seems to be ready for action. Watson belongs in the WR1 tier against a Lions’ pass defense that has freely surrendered big plays this season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
-      <rw:player>Christian Watson</rw:player>
-      <rw:team>GB</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Rob Demovsky</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jordan Love (back) is not on the Packers’ final injury report and will play in Week 7 against the Lions.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:8e40f1cbd9acd7bf06291f82af213f83e9a499bb382960f60101de2002d77a0f</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jordan Love GB Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Love was limited on Wednesday before upgrading to full on Thursday. Packers coach Matt LaFleur told reporters that his starting quarterback was “pretty beat up” after the Packers’ Week 6 win over the Cowboys. Hopefully, he is feeling much better by now. This divisional showdown looks like one of the most fantasy-friendly game environments in Week 7. He’s a QB1.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Rob Demovsky&lt;/p&gt;</description>
-      <rw:player>Jordan Love</rw:player>
-      <rw:team>GB</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Rob Demovsky</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Athletic’s Dan Duggan reports Tremaine Edmunds (shoulder) will miss the remainder of the season.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c5a797087aa0d494ebf60405379dbfa5f4d51803e543f33abaecb8e93ec2c002</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tremaine Edmunds NYG Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Edmunds will presumably be placed on IR before Week 7’s game against the Texans. He managed a 52.0 PFF grade in 380 snaps over six games, recording two sacks and 50 combined tackles. Edmunds will enter year two of his three-year deal with the Giants in 2027, in what will be his age-29 season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Dan Duggan&lt;/p&gt;</description>
-      <rw:player>Tremaine Edmunds</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Linebacker</rw:position>
-      <rw:source>Dan Duggan</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Theo Johnson (neck) is doubtful for Week 7 against the Texans.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7fa020eceb36d7d9e7bb40fc9c430a86b318b820423c1ea8041a745c02bd87ba</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Theo Johnson NYG Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Johnson is not fantasy-relevant on his own, but he can help out the Giants’ offense in real life when he is available. Isaiah Likely is the Giants’ clear-cut TE1.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Dan Salomone&lt;/p&gt;</description>
-      <rw:player>Theo Johnson</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Dan Salomone</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Andrew Thomas (groin) is not on the Giants’ final injury report for Week 7 against the Texans.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:941c81f61a02b5f3e29a70fc66db43582f0602ece4dbce5d594bc86027abbf3d</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Andrew Thomas NYG Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Thomas has played through injuries in multiple games this year. Giants RT Jermaine Eluemunor (calf) and backup OT Marcus Mbow (knee) both resumed practicing in a limited capacity on Thursday and are officially questionable to play this week. The Texans’ defense has underperformed this year. Perhaps this is a get-right matchup for them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Art Stapleton&lt;/p&gt;</description>
-      <rw:player>Andrew Thomas</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source>Art Stapleton</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Brian Branch (Achilles) is questionable for Detroit’s Week 7 game against the Packers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9795bfa6c9267d4dd4b7d50821ce27b76b6a3713821288879f347fdb852ffdb5</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brian Branch DET Defensive Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After three full sessions this week, Branch is expected to be activated off reserve/PUP and should have no snap count per DC Kelvin Sheppard. He can be welcomed back to IDP lineups.&lt;/p&gt;</description>
-      <rw:player>Brian Branch</rw:player>
-      <rw:team>DET</rw:team>
-      <rw:position>Defensive Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cade Mays (wrist) is questionable for Detroit’s Week 7 game against the Packers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:01b92d52fe25910c8a67e2ce239c16712fee8c579813f896d2280c883444f968</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cade Mays DET Center&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Questionable but fully expected to play after three full practices, Mays should add some more teeth to the Lions’ run game.&lt;/p&gt;</description>
-      <rw:player>Cade Mays</rw:player>
-      <rw:team>DET</rw:team>
-      <rw:position>Center</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Athletic’s Dan Duggan believes Cam Skattebo “will be back in the mix” in Week 7 against the Texans, likely in “some sort of timeshare with Tyrone Tracy and Devin Singletary.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c97853202b3593c7dbfc4efc3acf74c9ec6c805678fc14b21234042b308338e9</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cam Skattebo NYG Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sigh. Three-player backfields are generally fantasy-unfriendly situations, and this one is no different. Skattebo is a capable dual-threat player who has seemingly been limited by the significant ankle injury he suffered last year. The Giants could get him more involved in the passing game, but Tracy can contribute there as well, muddying that opportunity. Singletary would not be a contributor for many NFL teams, but lucky him, he’s a New York Giant. Skattebo and Tracy are viable FLEX options, though both are likely touchdown-dependent.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Dan Duggan&lt;/p&gt;</description>
-      <rw:player>Cam Skattebo</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Dan Duggan</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Rashod Bateman (shoulder) is not on Baltimore’s final Week 7 injury report.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7a39baa6aba030156faed65da22bd5076adaf5e2a3ea7c7c0239446cdc8f6358</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Rashod Bateman BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He practiced in full twice on Thursday and Friday. With Ja’Kobi Lane eating into his targets and the Bengals ever-vulnerable through the air by tight ends, Bateman is probably only a deep-league play in Week 7.&lt;/p&gt;</description>
-      <rw:player>Rashod Bateman</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Travis Kelce (ankle) is not on Kansas City’s final Week 7 injury report.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:10a76eaef504fc47eac7c02f76e7c38fe06e21b34a4b21d7b5eaeae53e82d73b</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Travis Kelce KC Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He’ll be a reliable TE1, even in a tough matchup against Seattle’s defense, as the Chiefs simply don’t have many other Trusted Mahomes Targets healthy for this one. It’s essentially just Kelce and Xavier Worthy healthy of Kansas City’s main targets.&lt;/p&gt;</description>
-      <rw:player>Travis Kelce</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Tyjae Spears (knee) is questionable for Tennessee’s Week 7 game against the Browns.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f1e2833b8ffde1065b6d83baba164377f0f40406c690e5ef794b737ae1b074ee</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyjae Spears TEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Spears has been active off a questionable line twice since Week 4. We’d imagine he’d get there again after a limited Friday session. The touch upside just isn’t there for him to be more than a deep-league FLEX play at this point.&lt;/p&gt;</description>
-      <rw:player>Tyjae Spears</rw:player>
-      <rw:team>TEN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Baker Mayfield (thumb) is questionable to play in Week 7 against the Panthers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:6b17b1bd76e894d9d1fe7ebd034b4a793e3b30877fa1bacb373d103eb7a16216</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Baker Mayfield TB Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Buccaneers coach Todd Bowles told reporters earlier today that Mayfield “looks like he’s ready to go” for this week’s game. Mayfield seemingly has solid odds of suiting up this week, but we must wait for an official ruling. Hopefully, that arrives tomorrow. If active, Mayfield will play with a protective plate on the back of his glove to help keep his recently dislocated thumb in place. He is a QB2 for the occasion, if active.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Greg Auman&lt;/p&gt;</description>
-      <rw:player>Baker Mayfield</rw:player>
-      <rw:team>TB</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Greg Auman</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Calvin Ridley (hip) is questionable for Tennessee’s Week 7 game against the Browns.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:39663df32886f04d6b7958a19491d49fcdd93e6dc6231f047b10df8a512044e2</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Calvin Ridley TEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He didn’t practice Thursday or Friday, and we’d consider him on the pessimistic side of questionable. Not that you were thinking about playing him anyway.&lt;/p&gt;</description>
-      <rw:player>Calvin Ridley</rw:player>
-      <rw:team>TEN</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bucky Irving (illness) is not on the Buccaneers’ final injury report and will play in Week 7 against the Panthers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9d770662220d7ecd98598a48d7eb243d0496c167dca1dd52a4cf07d080c8a466</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Bucky Irving TB Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As is typically the case with ill players, Irving is good to go for this week’s game. He upgraded to full participation today after getting a limited session in on Thursday. The Buccaneers’ No. 1 running back has been a volatile producer this season, yet even with last week’s flop, he still totaled 21 touches. That type of workload keeps him firmly in the RB2 ranks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Greg Auman&lt;/p&gt;</description>
-      <rw:player>Bucky Irving</rw:player>
-      <rw:team>TB</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Greg Auman</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ashton Dulin (hamstring) is not on Indianapolis’ final Week 7 injury report.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:cfdd025edd0d56d4d2ebe2ea3b344231b7ca2f7fb4881c2dfb9fa624dfb2e1db</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ashton Dulin IND Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;With Tyler Warren down, Dulin probably figures to join Keenan Allen and Josh Downs as one of Indianapolis’ three main receivers. He has some desperation play viability in deeper leagues.&lt;/p&gt;</description>
-      <rw:player>Ashton Dulin</rw:player>
-      <rw:team>IND</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cardinals coach Mike LaFleur said Bam Knight will handle “a lot of work” on early downs with Jeremiyah Love (ankle) sidelined.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:a4344181c757fa852c77dff2f2df7adc18ec6a75872fd39a63c84ac2f566eafb</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Zonovan Knight ARI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;LaFleur simply does not believe that any one running back can handle a full-time role and remain healthy, so he employs a committee approach. Although Tyler Allgeier sits ahead of Knight on the depth chart, LaFleur said he views Allgeier as a reliable complementary running back who excels in pass protection and short-yardage. Knight will be the team’s lead rusher on early downs and can be started in the FLEX against the Broncos this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tyler Drake&lt;/p&gt;</description>
-      <rw:player>Zonovan Knight</rw:player>
-      <rw:team>ARI</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Tyler Drake</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cardinals coach Mike LaFleur said Tyler Allgeier is “always” going to serve as a complementary running back.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b7325a69655dc659fa3be3b1a1f02d31c7e4044d67724f76d65c055c6dd41f42</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyler Allgeier ARI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;LaFleur really laid it all out there at today’s press conference, saying Allgeier “is always going to complement that next guy” when the starter is out. He adds that Allgeier is “extremely smart” and can be trusted in pass protection and short-yardage situations on third down. While Allgeier “can” do what the Cardinals need him to do on first and second down, LaFleur said Bam Knight will take “a lot” of that work with Jeremiyah Love (ankle) sidelined. LaFleur closed by saying he does not think any of these running backs can hold up in a full-time role over the course of the season. Allgeier handled a hefty 19 touches in this complementary role last week. He can be started as a high-volume FLEX with touchdown-based upside against the Broncos.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tyler Drake&lt;/p&gt;</description>
-      <rw:player>Tyler Allgeier</rw:player>
-      <rw:team>ARI</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Tyler Drake</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Christian Kirk (calf) is questionable for San Francisco’s Week 7 game against the Falcons.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:04e1552d1b0d2bb7689ac177b22766a709be9c4f542292db864477c6b249fbcd</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Christian Kirk SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He is, however, expected to be activated off injured reserve and play. We’ve heard worse desperation options than “most accomplished 49ers wideout on paper playing with Brock Purdy and George Kittle as Mike Evans sits.” Kirk probably factors in the WR3/WR4 calculus assuming he is indeed activated on Saturday.&lt;/p&gt;</description>
-      <rw:player>Christian Kirk</rw:player>
-      <rw:team>SF</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>GeorgePickens (shoulder) said he will play in Week 7 against the Eagles.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:6dcaeb5b921669041b2610377514c350d6f0c3a3979fd890e0171006d375593a</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;George Pickens DAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Cowboys face the Eagles in Week 7’s Monday Night Football game, giving Pickens an extra day to recover. ESPN’s Todd Archer said yesterday that Pickens has been icing his shoulder in-game during the Cowboys’ last two games. He encouragingly practiced in full today. Start him as a WR2 as usual this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jon Machota&lt;/p&gt;</description>
-      <rw:player>George Pickens</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Jon Machota</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Mike Washington (foot/back) is questionable for Las Vegas’ Week 7 game against the Rams.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c2d09545c0ae9cc266ae76022f825aba4f1bcb8dec154990ea338f68ee8227b8</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Mike Washington Jr. LV Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Washington didn’t practice on Thursday and was not spotted at practice on Friday. It would seem that he’s a very tenuous questionable at this point. Dylan Laube would be next up for backup duties behind Ashton Jeanty if Washington were ruled out.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sam Warren&lt;/p&gt;</description>
-      <rw:player>Mike Washington Jr.</rw:player>
-      <rw:team>LV</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Sam Warren</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Trent McDuffie (groin) is questionable to play in Week 7 against the Raiders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:92e36ab6275b2c10a015ba986b4c41556c6a6120dfdfc6648f5e5cbc87e3b290</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Trent McDuffie&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McDuffie has not practiced since straining his groin in Week 6’s Thursday practice. Labeling him as questionable to play seems like a formality before a game-day inactive listing, but only the Rams’ staffers know for sure. The Rams ruled out LB Nate Landman (concussion). Practice squad LB Eric Kendricks will be promoted to the active roster for Week 7.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nate Atkins&lt;/p&gt;</description>
-      <rw:player>Trent McDuffie</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Nate Atkins</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Puka Nacua (calf) is questionable to play in Week 7 against the Raiders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1b67c02d377b79b01b8881fc301d03c81d6854efc7c42607c9143a9714f2f35c</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The fact that Nacua is not practicing today is a bad sign for his Week 7 availability. Ever the injury-related optimist, NFL Network’s Ian Rapoport reported earlier today that Nacua’s injury is “more minor than anything else,” though he quickly balanced the scales by then saying that he would not call Nacua’s quick trip to the imaging room “precautionary, because it’s not nothing.” If active, Nacua should be in fantasy football lineups because his talent and workload are almost unparalleled. Unfortunately, coach Sean McVay told reporters that Nacua felt that “he wasn’t able to have some of the power and full explosion.” Nacua is on the wrong side of questionable, and the Rams obviously do not want his injury to worsen.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Sarah Barshop&lt;/p&gt;</description>
-      <rw:player>Puka Nacua</rw:player>
-      <rw:team />
-      <rw:position />
-      <rw:source>Sarah Barshop</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Brashard Smith (hamstring) won’t play in Kansas City’s Week 7 game against the Seahawks.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e5f481ca9c81e24458cee24c50bc7efe656dfc7e1457974a47359f2ac746d267</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brashard Smith KC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Did you remember he was on the roster? Funny what one little Kenneth Walker signing will do. Smith has one touch and six snaps in five games. Jadyn Ott will get RB3 duties in Week 7.&lt;/p&gt;</description>
-      <rw:player>Brashard Smith</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>T.J. Hockenson (concussion) is not on the Vikings’ final injury report and will play in Week 7 against the Colts.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e68422161ac0ce6352979a47ee7b7ffb6b2a41e3e400ef6565cf788d372399f6</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;T.J. Hockenson MIN Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hockenson suffered a concussion in Week 5 against the Saints and was able to heal up over the Vikings’ Week 6. He demonstrated a solid connection with Kyler Murray in Week 4, posting a 13/119 receiving line against the Dolphins. Hockenson can be treated as a TE1 this week against the Colts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Alec Lewis&lt;/p&gt;</description>
-      <rw:player>T.J. Hockenson</rw:player>
-      <rw:team>MIN</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Alec Lewis</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Rashee Rice (hamstring) will not play in Kansas City’s Week 7 game against the Seahawks.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:63b33c247729dc8df75cad330327932e209be69fc7827726b7adadc578eb4bdd</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Rashee Rice KC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rice didn’t practice all week despite Andy Reid’s optimistic spin that he’s a “quick healer.” It’s hard to make much sense of how available he’ll be for Week 8 at this point as Rice hasn’t practiced since before the team’s Week 5 bye. Xavier Worthy will again get a WR3-caliber workload as The Only Game In Town for the Chiefs wideouts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nate Taylor&lt;/p&gt;</description>
-      <rw:player>Rashee Rice</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Nate Taylor</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Justin Jefferson (ankle) is not on the final injury report and will play in Week 7 against the Colts.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:19b48349a95909fc0146e3e084f340c2c984ba567d3d9ee5ccc22b08cfbefa96</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Justin Jefferson MIN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coming off the Vikings’ Week 6 bye, Jefferson got in a limited session on Wednesday before returning to full participation on Thursday. The star wide receiver posted a 6/79/1 receiving line in the Vikings’ Week 5 win over the Saints. He should be treated as an elite WR1 against a Colts pass defense that will be without CB Sauce Gardner (calf).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Alec Lewis&lt;/p&gt;</description>
-      <rw:player>Justin Jefferson</rw:player>
-      <rw:team>MIN</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Alec Lewis</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bears coach Ben Johnson said Cole Kmet (knee) will miss the rest of the season.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:de34353a60725012e56022029f686547594a1cb38791b7a1c0986df1a4e2d1a9</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cole Kmet CHI Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Unfortunately it’s not much of a surprise based on the reporting or the carting. Sam Roush will take over as Chicago’s TE2 and likely have fringe TE2 value. Kmet will be in the final year of his four-year, $50 million extension in 2027. The 28-year-old will be a potential cap casualty with a $15.425 million cap figure and $10 million in savings on release without getting into post-June 1 cap machinations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Phillip Thompson&lt;/p&gt;</description>
-      <rw:player>Cole Kmet</rw:player>
-      <rw:team>CHI</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Phillip Thompson</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jordan Mason (thumb) is questionable to play in Week 7 against the Colts.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:a355b021f149e2241d55afc6bee4e942c90787999fef3a170eec9a2b705f88cf</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jordan Mason MIN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mason practiced in full all week. He seemingly has good odds of suiting up, but sometimes NFL teams will give players extra time off when they are returning from injured reserve. If Mason plays this weekend, he should be able to handle his normal lead-rushing role. In that case, he can be started as an RB2/FLEX.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Alec Lewis&lt;/p&gt;</description>
-      <rw:player>Jordan Mason</rw:player>
-      <rw:team>MIN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Alec Lewis</rw:source>
       <rw:author />
       <rw:date>Oct 23, 2026</rw:date>
     </item>

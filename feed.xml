@@ -4,7 +4,46 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 00:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:38:51 +0000</lastBuildDate>
+    <item>
+      <title>Rashid Shaheed (knee) remained sidelined for Friday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:38d07c80a19901c0c4e2387131a5951bfe449c2b26d0dd7ead18745a78cb36b5</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rashid Shaheed SEA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shaheed is now firmly on the wrong side of questionable heading into Monday evening’s game against the Bears. If he was in your third receiver or second FLEX spot in a 14-team league, it is time to start making other plans.&lt;/p&gt;</description>
+      <rw:player>Rashid Shaheed</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Zach Charbonnet (knee) was downgraded to “limited” for Friday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5d71f28c4911995d921ffad3fd91ae87dd0731ad99b690737a3d3f44e8ff200c</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Zach Charbonnet SEA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s not particularly concerning — this is probably part of a pre-established practice plan as Charbonnet completes his injury comeback — but Jadarian Price’s Friday return to full practice certainly has our attention. Now even if Charbonnet does manage to make his 2026 debut on Monday evening against the Bears, he could have even more company in Seattle’s crowded backfield. Both backs returning would make all three of Charbonnet, Price and Emanuel Wilson shaky FLEX plays. We will receive official game designations on Saturday afternoon. Until then, hang tight.&lt;/p&gt;</description>
+      <rw:player>Zach Charbonnet</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jadarian Price (chest) was upgraded to “full” for Friday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0f9ccdfb68544d670c4a94f18e77679434f515211f3940fd2c331eb3334d0d72</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Jadarian Price SEA Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Price was upgraded to full while Zach Charbonnet (knee) was downgraded to limited. That is probably part of a pre-planned process with Charbonnet, but as of Friday evening, we suppose Price is now technically closer to returning than his veteran backfield mate. As it is, both players now seem more likely than not to suit up, which would make for an extremely chaotic fantasy situation with Emanuel Wilson still in the fold. With the Seahawks playing on Monday evening, we will receive official game designations Saturday afternoon.&lt;/p&gt;</description>
+      <rw:player>Jadarian Price</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
     <item>
       <title>NFL Network’s Ian Rapoport reports Daron Payne suffered a “significant foot injury” in practice Friday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -235,6 +274,19 @@
       <rw:player>Jihaad Campbell</rw:player>
       <rw:team>PHI</rw:team>
       <rw:position>Linebacker</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Oct 30, 2026</rw:date>
+    </item>
+    <item>
+      <title>Saquon Barkley (hamstring, back) was removed from the injury report Friday and will play in Week 8 against the Commanders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:15b0dce4008f12984752977c7213a94ae612db0bb726024ee12b02a115ed5cfe</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Saquon Barkley PHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Barkley gave a cryptic response when asked if he would play earlier in the day, ultimately ready to gut out multiple injuries as the Eagles continue to trudge forward in an injury-decimated season. The veteran back added that the injuries are both something he will need to manage throughout the game but that he feels as if he can play through them. That leaves fantasy managers in a sticky situation, likely forced to start Barkley if he’s on the roster. Barkley is a middling RB2 in a difficult matchup on the ground against the Commanders.&lt;/p&gt;</description>
+      <rw:player>Saquon Barkley</rw:player>
+      <rw:team>PHI</rw:team>
+      <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Oct 30, 2026</rw:date>
@@ -730,19 +782,6 @@
       <rw:team>IND</rw:team>
       <rw:position>Cornerback</rw:position>
       <rw:source>James Boyd</rw:source>
-      <rw:author />
-      <rw:date>Oct 30, 2026</rw:date>
-    </item>
-    <item>
-      <title>Saquon Barkley (hamstring, back) was removed from the injury report Friday and will play in Week 8 against the Commanders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:15b0dce4008f12984752977c7213a94ae612db0bb726024ee12b02a115ed5cfe</guid>
-      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Saquon Barkley PHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Barkley gave a cryptic response when asked if he would play earlier in the day, ultimately ready to gut out multiple injuries as the Eagles continue to trudge forward in an injury-decimated season. The veteran back added that the injuries are both something he will need to manage throughout the game but that he feels as if he can play through them. That leaves fantasy managers in a sticky situation, likely forced to start Barkley if he’s on the roster. Barkley is a middling RB2 in a difficult matchup on the ground against the Commanders.&lt;/p&gt;</description>
-      <rw:player>Saquon Barkley</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
       <rw:author />
       <rw:date>Oct 30, 2026</rw:date>
     </item>
@@ -6462,45 +6501,6 @@
       <rw:player>Saquon Barkley</rw:player>
       <rw:team>PHI</rw:team>
       <rw:position>Running Back</rw:position>
-      <rw:source>Jeff McLane</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Dontayvion Wicks (ankle) did not practice on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b283b74e5af04785a9227e68abb859c1d0b5e3c85b73a196eaa9a1cec65d6bc4</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Dontayvion Wicks PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Wicks has been banged up for weeks, and the Philadelphia Inquirer’s Jeff McLane said Wicks might miss the Eagles’ Week 7 game against the Cowboys. Hopefully, he resumes practicing tomorrow. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeff McLane&lt;/p&gt;</description>
-      <rw:player>Dontayvion Wicks</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Jeff McLane</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>Dallas Goedert (knee) did not practice on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:68764e360fc1651f6c7edc321a246ffe630b102ad59c13cf4808fb29738e5fd5</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Dallas Goedert PHI Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Goedert is on the wrong side of questionable for the Eagles’ Week 7 Monday Night Football game against the Cowboys. The Philadelphia Inquirer’s Jeff McLane reports that as of Thursday, there was “optimism” about Goedert’s Week 7 availability. Hopefully, he resumes practicing tomorrow.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeff McLane&lt;/p&gt;</description>
-      <rw:player>Dallas Goedert</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Jeff McLane</rw:source>
-      <rw:author />
-      <rw:date>Oct 23, 2026</rw:date>
-    </item>
-    <item>
-      <title>The Philadelphia Inquirer’s Jeff McLane said he got “the sense” that DeVonta Smith (hamstring) will not play in Week 7 against the Cowboys.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:bf5a0fa153c19ea49e73375f592859dbac3be24bf53677c6a742704d00d36ce7</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;DeVonta Smith PHI Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Like Thursday, Smith was sidelined for Friday’s practice. The Eagles have been managing his practice reps and pulled him out for multiple drives in their Week 6 loss to the Panthers. The Eagles face the Cowboys on Monday night, giving Smith an extra day to rest. Consider him highly questionable to play at this time. McLane adds that Dontayvion Wicks (ankle) could also sit out this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeff McLane&lt;/p&gt;</description>
-      <rw:player>DeVonta Smith</rw:player>
-      <rw:team>PHI</rw:team>
-      <rw:position>Wide Receiver</rw:position>
       <rw:source>Jeff McLane</rw:source>
       <rw:author />
       <rw:date>Oct 23, 2026</rw:date>

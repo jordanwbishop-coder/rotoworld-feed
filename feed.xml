@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 09:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:16:45 +0000</lastBuildDate>
+    <item>
+      <title>NFL Network’s Mike Garafolo reports the Vikings could trade for a quarterback before the NFL’s trade deadline.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1bb5a76551a9a24aeb0a01b32792fb95ac52158f8656c2bcd475a4e7756dadd6</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Kyler Murray MIN Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“The word going into last night was the Vikings would be in the QB market ahead of the trade deadline if Carson Wentz didn’t play well,” Garafolo said. Narrator voice: He didn’t. Wentz was an utter disaster in Monday night’s loss to the Bills, completing 8-of-25 passes for 81 yards and two interceptions in the team’s second straight loss. Wentz in Week 9 had the league’s lowest drop back EPA and lowest success rate. He also appeared to sustain an ankle injury in the second half. With Kyler Murray (hamstring) struggling mightily in Kevin O’Connell’s offense, the Vikings could make a desperation move for Kirk Cousins or Daniel Jones ahead of today’s 4:00 p.m. eastern time trade deadline. Cousins, for one, would be a marked upgrade for Justin Jefferson and the Minnesota pass catchers. The Raiders have not expressed interest in parting with Cousins, however.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Garafolo&lt;/p&gt;</description>
+      <rw:player>Kyler Murray</rw:player>
+      <rw:team>MIN</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Mike Garafolo</rw:source>
+      <rw:author />
+      <rw:date>Nov 10, 2026</rw:date>
+    </item>
     <item>
       <title>Jordan Addison caught 2-of-3 targets for 28 yards in the Vikings’ Week 9 loss to the Bills.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6489,19 +6502,6 @@
       <rw:team>NE</rw:team>
       <rw:position>Tight End</rw:position>
       <rw:source>Doug Kyed</rw:source>
-      <rw:author />
-      <rw:date>Nov 4, 2026</rw:date>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports that the Ravens are acquiring Jacoby Brissett from the Cardinals in a deal that is expected to be completed this weekend.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:5a45033ab37c3b38768dd5a5a2a14d050097fe87cdcf50f6dc6bbe78839da0fd</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jacoby Brissett BAL Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Schefter adds that this trade will not be completed in time for Brissett to play in Week 9’s Thursday Night Football game for the Ravens, but he will make his debut in Week 10 against the Chargers. Brissett’s impending arrival in Baltimore immediately stabilizes the pass-catching corps’ fantasy value. The trade compensation has not yet been revealed, but we expect to know more soon.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
-      <rw:player>Jacoby Brissett</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Adam Schefter</rw:source>
       <rw:author />
       <rw:date>Nov 4, 2026</rw:date>
     </item>

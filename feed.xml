@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 08:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:47:09 +0000</lastBuildDate>
+    <item>
+      <title>Cleveland.com’s Mary Kay Cabot reports Deshawn Watson (concussion) will start in Week 10 against the Texans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b0c67b15061d7594b2bc1e3da96567ef1b3370d8d4674efb35187b0f9b6ca310</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Deshaun Watson CLE Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Watson was sidelined last week against the Saints with a brain injury. He’ll back in time to face his former team as the Browns push for postseason contention in the competitive NFC North. Shedeur Sanders will revert to his backup role in Week 10 after throwing for 297 yards and two touchdowns against the Saints in an overtime loss. Watson will be a borderline fantasy option against a pass-funnel Texans defense that has allowed the third most air yards per game this season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Cleveland.com&lt;/p&gt;</description>
+      <rw:player>Deshaun Watson</rw:player>
+      <rw:team>CLE</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Cleveland.com</rw:source>
+      <rw:author />
+      <rw:date>Nov 11, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Jordan Raanan reports the Giants inquired about Bijan Robinson’s availability before the NFL’s trade deadline.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:eec0bcfdb78b1eb29779573cae0914691cc32050bd070320dd0e43db7055bd4c</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Cam Skattebo NYG Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“They were certainly big game hunting,” Raanan said. Though the thought of the Falcons parting ways with the centerpiece of their offense sounds ridiculous, it’s clear John Harbaugh and the Giants see themselves as a postseason team that won’t be content with a playoff berth. The inquiry on Bijan speaks to the Giants’ ongoing skepticism of Cam Skattebo as a true lead back. The team has done everything they can to prevent Skattebo from taking on a big backfield workload. In Week 10 against the Commanders, with a flurry of backfield injuries and Devin Singletary coming off one of the worst running back performances in NFL history, the Giants might have no choice but to feed Skattebo, who should be started in all 12-team leagues.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jordan Raanan&lt;/p&gt;</description>
+      <rw:player>Cam Skattebo</rw:player>
+      <rw:team>NYG</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Jordan Raanan</rw:source>
+      <rw:author />
+      <rw:date>Nov 11, 2026</rw:date>
+    </item>
     <item>
       <title>Ravens released TE Nick Vannett.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6476,32 +6502,6 @@
       <rw:team>MIA</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source>Marcel Louis-Jacques</rw:source>
-      <rw:author />
-      <rw:date>Nov 4, 2026</rw:date>
-    </item>
-    <item>
-      <title>Kadyn Proctor (concussion) is practicing in full for Week 9 against the Lions.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1e25878849d6867e1a164542f1d6faadf2a479685c361b730bc547051027ee9a</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kadyn Proctor MIA Offensive Lineman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Dolphins’ starting left guard should make his return this week after sitting out in Week 8 against the Patriots. Proctor’s presence will help stabilize the pocket for Malik Willis.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Marcel Louis-Jacques&lt;/p&gt;</description>
-      <rw:player>Kadyn Proctor</rw:player>
-      <rw:team>MIA</rw:team>
-      <rw:position>Offensive Lineman</rw:position>
-      <rw:source>Marcel Louis-Jacques</rw:source>
-      <rw:author />
-      <rw:date>Nov 4, 2026</rw:date>
-    </item>
-    <item>
-      <title>Christian Watson (rib) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:ecb7ddb4d4752ab03a810f798882a7498c7e55f584c55750c78631e275e3f709</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Christian Watson GB Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Watson famously left for the hospital in the middle of Week 8’s win over the Panthers, only to return after halftime like a WWE performer. The fact that they’re letting him practice in any capacity today means he should be able to play through the issue in Week 9. We’d expect him to wear a flak jacket for at least a few weeks. Barring a setback in practice, Watson will be a high-variance WR1 for his matchup with the Patriots.&lt;/p&gt;</description>
-      <rw:player>Christian Watson</rw:player>
-      <rw:team>GB</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
       <rw:author />
       <rw:date>Nov 4, 2026</rw:date>
     </item>

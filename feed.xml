@@ -4,7 +4,72 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 22:29:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:42:29 +0000</lastBuildDate>
+    <item>
+      <title>Ravens released TE Nick Vannett.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8cc2b595ab278e037780a2ed3eba86909785f2cb6b009798ef8682cd2400ed2f</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Nick Vannett&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vannett joined the Ravens prior to the season and operated as a blocking tight end. He appeared in five games, playing 85 offensive snaps and not seeing a target in the passing games. The Ravens now part ways with Vannett on NFL trade deadline day.&lt;/p&gt;</description>
+      <rw:player>Nick Vannett</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Nov 10, 2026</rw:date>
+    </item>
+    <item>
+      <title>Rams signed WR Xavier Smith off the 49ers’ practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:5efc27ae27587703d3b84db48f5a6b2c19893db910d3af809999ebb5cfd89761</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Xavier Smith&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;With all the injuries at wide receiver, the Rams decide to bring back a familiar face in Xavier Smith in lieu of trading for a receiver. Smith was on the 49ers’ practice squad after the Rams waived him earlier this season. He caught 18 passes for 303 yards for the Rams last year, seeing the bulk of his opportunities as kick returner. Smith figures to operate as receiving depth with special teams utility once again.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Los Angeles Rams&lt;/p&gt;</description>
+      <rw:player>Xavier Smith</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Los Angeles Rams</rw:source>
+      <rw:author />
+      <rw:date>Nov 10, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chig Okonkwo (hip) practiced in full on Tuesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6a9a51cac291942de4943f98f258de30fc6037ddeded4f6fe3667dd7a46e5ad9</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Chig Okonkwo WAS Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;That ought to put him firmly in the mix to play on Thursday against the Giants. Okonkwo is coming off a 6/57 game on seven targets against the Rams and figures to again be a reasonable low-end TE1 against the Giants.&lt;/p&gt;</description>
+      <rw:player>Chig Okonkwo</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Nov 10, 2026</rw:date>
+    </item>
+    <item>
+      <title>Treylon Burks (foot) was limited in Tuesday’s practice.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:109cab28579d5db9ccbd4e07cb5a40d636902ebd659881faf72e5529a000dd4a</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Treylon Burks WAS Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s an upgrade from an estimated DNP on Monday. Dan Quinn has previously said that he’s optimistic Burks will play, but it’s likely that he’ll hit the questionable line tomorrow barring a full practice.&lt;/p&gt;</description>
+      <rw:player>Treylon Burks</rw:player>
+      <rw:team>WAS</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Nov 10, 2026</rw:date>
+    </item>
+    <item>
+      <title>Cardinals placed QB Gardner Minshew (elbow) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c20bae9b6aad56a528c62eb911d24cbd187459e4c1341380e0d9a97103210afe</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Gardner Minshew ARI Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Officially he’ll miss at least four weeks, but Adam Schefter reports he’s not expected to play again this season, which essentially confirms that he tore his UCL without actually confirming it. There’s no current timeline for his return.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Adam Schefter&lt;/p&gt;</description>
+      <rw:player>Gardner Minshew</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Adam Schefter</rw:source>
+      <rw:author />
+      <rw:date>Nov 10, 2026</rw:date>
+    </item>
     <item>
       <title>Eagles waived RB Jaydon Blue.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6437,71 +6502,6 @@
       <rw:team>GB</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Nov 4, 2026</rw:date>
-    </item>
-    <item>
-      <title>Malik Willis (groin) is practicing in full for Week 9 against the Lions.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c46d9dbb825355a15e7938bd964c2737b11e1b2997709b846b3cfb5c183f83da</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Malik Willis MIA Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Willis did the same during Week 8 practices and ended up running just once against the Patriots. Hopefully, the groin injury continues to improve and his rushing usage returns. Willis remains a QB2 this week against the Lions.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Marcel Louis-Jacques&lt;/p&gt;</description>
-      <rw:player>Malik Willis</rw:player>
-      <rw:team>MIA</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source>Marcel Louis-Jacques</rw:source>
-      <rw:author />
-      <rw:date>Nov 4, 2026</rw:date>
-    </item>
-    <item>
-      <title>Bryce Young (ankle) is practicing in full for Week 9 against the Broncos.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:438c8edaf6bb4155033aea376f327056195625550f39e3c7032fb852aec6bb6c</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Bryce Young CAR Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Panthers head coach Dave Canales said after Week 8’s loss to the Packers that Young’s knee injury could be limiting his mobility. The team didn’t list the knee issue on this week’&amp;#x27;s injury report, instead adding an ankle injury to the mix. It’s not something that will prevent Young from playing on Sunday, but another lingering ailment could further hamper his mobility. Already in the midst of a two-game slump, Young is back in the middle of the QB2 ranks for Week 9.&lt;/p&gt;</description>
-      <rw:player>Bryce Young</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Quarterback</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 4, 2026</rw:date>
-    </item>
-    <item>
-      <title>Denzel Boston (calf) was limited in Wednesday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:dc396635270dd3650e3fdd018c12e93cd47a8dfb3f36677bef25c783bb23b8f1</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Denzel Boston CLE Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A limited designation for the first practice of the week is usually nothing to worry about. We’ll assume as much for now. Boston has been racking up targets and air yards without much to show for it in his box scores over the past month. He hasn’t eclipsed 50 yards in a game since Week 4. A date with New Orleans’ struggling defense should help him get back on track as a WR3 for Week 9.&lt;/p&gt;</description>
-      <rw:player>Denzel Boston</rw:player>
-      <rw:team>CLE</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 4, 2026</rw:date>
-    </item>
-    <item>
-      <title>Caleb Downs (concussion/ankle) did not practice on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e0adb89c6236fa93624c67aad16b01ba2f9d374271cf97177e4e8200cbbf34da</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Caleb Downs DAL Defensive Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Cowboys’ rookie safety and slot defensive back is very banged up. He is firmly on the wrong side of questionable for Week 9 against the Colts at this time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Calvin Watkins&lt;/p&gt;</description>
-      <rw:player>Caleb Downs</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Defensive Back</rw:position>
-      <rw:source>Calvin Watkins</rw:source>
-      <rw:author />
-      <rw:date>Nov 4, 2026</rw:date>
-    </item>
-    <item>
-      <title>Jake Ferguson (ankle) did not practice on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:a3b56d29e52bfe8e9aeef47e39e9983c1b8205d27c98e40b781fc743cd13156f</guid>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jake Ferguson DAL Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Cowboys’ No. 1 tight end suffered an ankle injury in Week 8 against the Cardinals. Ferguson is not in the TE1 ranks even when he is healthy, but his absence could help others earn a couple of extra targets.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Calvin Watkins&lt;/p&gt;</description>
-      <rw:player>Jake Ferguson</rw:player>
-      <rw:team>DAL</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Calvin Watkins</rw:source>
       <rw:author />
       <rw:date>Nov 4, 2026</rw:date>
     </item>

@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 14 Nov 2026 01:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:50:04 +0000</lastBuildDate>
     <item>
       <title>New Orleans Football’s Mike Triplett reports that the Saints had Jordyn Tyson work with doctors at the University of Wisconsin to address his recurring hamstring issues.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -21,9 +21,9 @@
     <item>
       <title>Seahawks ruled out Leonard Williams (stinger) for Week 10 against the Cardinals.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:d258cdb6db5489f7ff9a84fa1dbf541faa867ac2d0c5885be6a251b023153c1e</guid>
+      <guid isPermaLink="false">urn:sha256:63fce4f2f13f8aef6ea050051884c9cbfb4ee82b828109c200247766f319a6dd</guid>
       <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Leonard Williams SEA Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Seahawks’ defense should be fine without him against a Cardinals offense now led by rookie QB Carson Beck. The Seahawks will have LB Uchenna Nwosu (ankle) and OG Anthony Bradford (knee) on the field this week, though.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Seattle Seahawks&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Leonard Williams SEA Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Seahawks’ defense should be fine without him against a Raiders offense now led by rookie QB Fernando Mendoza. The Seahawks will have LB Uchenna Nwosu (ankle) and OG Anthony Bradford (knee) on the field this week, though.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Seattle Seahawks&lt;/p&gt;</description>
       <rw:player>Leonard Williams</rw:player>
       <rw:team>SEA</rw:team>
       <rw:position>Defensive Tackle</rw:position>
@@ -782,6 +782,19 @@
       <rw:team />
       <rw:position />
       <rw:source>Nate Atkins</rw:source>
+      <rw:author />
+      <rw:date>Nov 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Seahawks ruled out Leonard Williams (stinger) for Week 10 against the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d258cdb6db5489f7ff9a84fa1dbf541faa867ac2d0c5885be6a251b023153c1e</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Leonard Williams SEA Defensive Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Seahawks’ defense should be fine without him against a Cardinals offense now led by rookie QB Carson Beck. The Seahawks will have LB Uchenna Nwosu (ankle) and OG Anthony Bradford (knee) on the field this week, though.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Seattle Seahawks&lt;/p&gt;</description>
+      <rw:player>Leonard Williams</rw:player>
+      <rw:team>SEA</rw:team>
+      <rw:position>Defensive Tackle</rw:position>
+      <rw:source>Seattle Seahawks</rw:source>
       <rw:author />
       <rw:date>Nov 13, 2026</rw:date>
     </item>
@@ -6489,19 +6502,6 @@
       <rw:team>MIA</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Nov 8, 2026</rw:date>
-    </item>
-    <item>
-      <title>Commanders declared WR Treylon Burks, QB Athan Kaliakmanis, CB Fabian Moreau, CB Isaac Yiadom, and OG Tanoa Togiai inactive for Week 9 against the Rams.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:a1ec18464498720fd6b957b49492f8462a0d5391f80760250a791a6b2fc4bf59</guid>
-      <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Treylon Burks WAS Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Commanders find themselves incredibly thin at receiver with Burks (foot), Terry McLaurin (knee), and Dyami Brown (calf) all sidelined for this one. Stefon Diggs, along with rookie Antonio Williams could both be in line for busy days against a Rams secondary that will be without CB Trent McDuffie.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Washington Commanders&lt;/p&gt;</description>
-      <rw:player>Treylon Burks</rw:player>
-      <rw:team>WAS</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Washington Commanders</rw:source>
       <rw:author />
       <rw:date>Nov 8, 2026</rw:date>
     </item>

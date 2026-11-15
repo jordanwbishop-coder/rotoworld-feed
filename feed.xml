@@ -4,7 +4,7 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 14 Nov 2026 21:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:30:57 +0000</lastBuildDate>
     <item>
       <title>David Njoku (fibula) is questionable for Week 10 against the Ravens.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -14,6 +14,19 @@
       <rw:player>David Njoku</rw:player>
       <rw:team>LAC</rw:team>
       <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Nov 14, 2026</rw:date>
+    </item>
+    <item>
+      <title>Ladd McConkey (back) is questionable for Week 10 against the Ravens.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:66ccfd2ae93717335c5153c6e882ee3106f9716e860f4dd5562e8f2853d8fe61</guid>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Ladd McConkey LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McConkey heads into Monday Night Football listed as questionable after failing to practice through Friday. The veteran receiver missed Week 9 when it was revealed he had been dealing with back spasms during warmups. Fantasy managers are likely better off making alternate plans considering the Chargers play in the final game of the week.&lt;/p&gt;</description>
+      <rw:player>Ladd McConkey</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Wide Receiver</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Nov 14, 2026</rw:date>
@@ -249,6 +262,32 @@
       <rw:team>BAL</rw:team>
       <rw:position>Guard</rw:position>
       <rw:source>Baltimore Ravens</rw:source>
+      <rw:author />
+      <rw:date>Nov 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Rashod Bateman (calf) practiced in full on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f4fc09eefc1fe7670cec6b0ae05fdfe419958229ecca6027775c80cc98434696</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Rashod Bateman BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bateman is firmly on track to play in the Ravens’ Monday Night Football game against the Chargers. Bateman will provide new QB Jacoby Brissett with a downfield option, but the veteran wide receiver is almost entirely reliant in ripping off one or two big plays, which has proven to be a difficult proposition for him on a weekly basis.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Baltimore Ravens&lt;/p&gt;</description>
+      <rw:player>Rashod Bateman</rw:player>
+      <rw:team>BAL</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Baltimore Ravens</rw:source>
+      <rw:author />
+      <rw:date>Nov 13, 2026</rw:date>
+    </item>
+    <item>
+      <title>Keaton Mitchell (hip) was limited on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:2656982c2b411b4a42adcc867c3a9f2b44650fce9be313a79c0c55659ec08e07</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Keaton Mitchell LAC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mitchell is trending in the right direction for the Chargers’ Week 10 game against the Ravens. The two teams play in this week’s Monday Night Football game. Mitchell is worth stashing in 12-team leagues, but he likely lacks RB2 upside.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Los Angeles Chargers&lt;/p&gt;</description>
+      <rw:player>Keaton Mitchell</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source>Los Angeles Chargers</rw:source>
       <rw:author />
       <rw:date>Nov 13, 2026</rw:date>
     </item>
@@ -743,32 +782,6 @@
       <rw:team>TEN</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Nov 13, 2026</rw:date>
-    </item>
-    <item>
-      <title>Rashod Bateman (calf) practiced in full on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:f4fc09eefc1fe7670cec6b0ae05fdfe419958229ecca6027775c80cc98434696</guid>
-      <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Rashod Bateman BAL Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bateman is firmly on track to play in the Ravens’ Monday Night Football game against the Chargers. Bateman will provide new QB Jacoby Brissett with a downfield option, but the veteran wide receiver is almost entirely reliant in ripping off one or two big plays, which has proven to be a difficult proposition for him on a weekly basis.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Baltimore Ravens&lt;/p&gt;</description>
-      <rw:player>Rashod Bateman</rw:player>
-      <rw:team>BAL</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Baltimore Ravens</rw:source>
-      <rw:author />
-      <rw:date>Nov 13, 2026</rw:date>
-    </item>
-    <item>
-      <title>Keaton Mitchell (hip) was limited on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:2656982c2b411b4a42adcc867c3a9f2b44650fce9be313a79c0c55659ec08e07</guid>
-      <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Keaton Mitchell LAC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mitchell is trending in the right direction for the Chargers’ Week 10 game against the Ravens. The two teams play in this week’s Monday Night Football game. Mitchell is worth stashing in 12-team leagues, but he likely lacks RB2 upside.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Los Angeles Chargers&lt;/p&gt;</description>
-      <rw:player>Keaton Mitchell</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Los Angeles Chargers</rw:source>
       <rw:author />
       <rw:date>Nov 13, 2026</rw:date>
     </item>
@@ -6488,19 +6501,6 @@
       <rw:player>Jahan Dotson</rw:player>
       <rw:team>ATL</rw:team>
       <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 8, 2026</rw:date>
-    </item>
-    <item>
-      <title>Kyle Pitts caught 3-of-5 targets for 23 yards in the Falcons’ Week 9 loss to the Bengals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e704ca70e4aa3ed33a7eeb2af87fbb6ae163cef690f1b09d19dc039372824343</guid>
-      <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kyle Pitts ATL Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Three receptions for 23 yards is a disappointing line and unfortunately it represents the most receiving yards Pitts has had in his last three games. Pitts has four touchdowns on the season, but is unusable in fantasy unless he finds the end zone. The definition of touchdown-dependent, Pitts is a low-end TE2 in Week 10 against the Chiefs.&lt;/p&gt;</description>
-      <rw:player>Kyle Pitts</rw:player>
-      <rw:team>ATL</rw:team>
-      <rw:position>Tight End</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Nov 8, 2026</rw:date>

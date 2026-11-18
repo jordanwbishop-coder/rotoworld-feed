@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 23:55:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:19:29 +0000</lastBuildDate>
+    <item>
+      <title>Seahawks released Adrian Martinez from the practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:53fda8de10cefd98d4a5ba094d1197800ae4ca1f14767875b389c9c058c821da</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Adrian Martinez&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Martinez was added for scout team reps after Sam Darnold (quad) was injured two weeks ago. The Seahawks have a bye in Week 11, so Martinez’s release indicates Darnold is at least trending to practice after the bye.&lt;/p&gt;</description>
+      <rw:player>Adrian Martinez</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source />
+      <rw:author />
+      <rw:date>Nov 17, 2026</rw:date>
+    </item>
     <item>
       <title>Anthony Gould (toe) was limited in Tuesday’s practice.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6489,19 +6502,6 @@
       <rw:team>NYG</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Nov 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cade Mays (ankle) did not practice on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e42251ddd2f91802917f0679e17e9e769c5cbcd9bbd21db84bb86b65565c1cab</guid>
-      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cade Mays DET Center&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Lions are at their best when the offensive line is in good health. Mays missed multiple games early in the year with a wrist injury. He is now sidelined by an ankle injury. Hopefully, he can resume practicing before long. Lions S Kerby Joseph (knee) and S Brian Branch (hip) were both limited.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Detroit Lions&lt;/p&gt;</description>
-      <rw:player>Cade Mays</rw:player>
-      <rw:team>DET</rw:team>
-      <rw:position>Center</rw:position>
-      <rw:source>Detroit Lions</rw:source>
       <rw:author />
       <rw:date>Nov 11, 2026</rw:date>
     </item>

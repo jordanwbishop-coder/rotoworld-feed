@@ -4,7 +4,59 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 03:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:01:33 +0000</lastBuildDate>
+    <item>
+      <title>ESPN’s Todd Archer reports Cowboys defensive coordinator Christian Parker will cede play-calling duties to senior defensive assistant Mike Pettine.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:d8737e122f8bab7e945b5d0abd8002b1097a7236e4a2944acbb987ba82b985bc</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Parker DAL Defensive Coordinator&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After getting thrashed by Brock Purdy and the 49ers in Week 10, the Cowboys now allow the second highest yards per play and the highest EPA per play. The Dallas defense has given up a touchdown on 31 percent of their opponents’ offensive possessions this season, the third highest rate in the NFL. Pettine will try to stop the bleeding beginning this week against a Titans offense that has shown signs of life in recent weeks. Pettine was last a defensive coordinator with the Packers in 2020, when Green Bay allowed the fewest points in the league and the fifth fewest yards.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Todd Archer&lt;/p&gt;</description>
+      <rw:player>Christian Parker</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Defensive Coordinator</rw:position>
+      <rw:source>Todd Archer</rw:source>
+      <rw:author />
+      <rw:date>Nov 18, 2026</rw:date>
+    </item>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports Jaguars C Robert Hainsey (knee) is considered week to week.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:6bdcfdf21390a1dd89ea81d6ab7da9c74c152b165e417bd922c678d96040d1b5</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Robert Hainsey&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jacksonville could be without its starting center for at least a few weeks. Fowler said Hainsey’s knee issue is likely not the season-ending variety though. Through Week 10, the Jaguars rank 18th in run block win rate and 12th in pass block win rate. The Jags this week take on a Giants defense that ranks 23rd in sack rate.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Robert Hainsey</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Nov 18, 2026</rw:date>
+    </item>
+    <item>
+      <title>Chiefs signed Fred Johnson, formerly of the Eagles, to the team’s practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f81ff734b475ceea5a2884b6436eca87328be4b5d150d044196344fa2d31cf73</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Fred Johnson KC Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NFL Network’s Ian Rapoport said Johnson would likely be bumped up to KC’s active roster in the coming days. Johnson could help the Chiefs plug some holes while they deal with offensive line injuries. The Chiefs this season rank sixth in run block win rate and 22nd in pass block win rate.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Fred Johnson</rw:player>
+      <rw:team>KC</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Nov 18, 2026</rw:date>
+    </item>
+    <item>
+      <title>Titans coach Robert Saleh said he’s “hoping” Carnell Tate (shoulder) returns for Sunday’s game against the Cowboys.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c101f3357b3ab613b0ceb1079feba6da25d9fc72fa1f30ed3eaf09658874f9bb</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Carnell Tate TEN Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tate last played in Week 7. Saleh made the disclosure at Monday morning’s press conference, one day before Wan’Dale Robinson (ankle) landed on injured reserve. Tate’s return would be just in the nick of time, as the Titans have a dream defensive matchup and Cam Ward is suddenly playing the best football of his career. Especially with six teams on bye and Robinson sidelined, Tate would immediately return to the WR2 ranks. We will get our first Titans practice report of the week on Wednesday.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jim Wyatt&lt;/p&gt;</description>
+      <rw:player>Carnell Tate</rw:player>
+      <rw:team>TEN</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Jim Wyatt</rw:source>
+      <rw:author />
+      <rw:date>Nov 17, 2026</rw:date>
+    </item>
     <item>
       <title>Seahawks released Adrian Martinez from the practice squad.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6450,58 +6502,6 @@
       <rw:team />
       <rw:position />
       <rw:source>Nate Atkins</rw:source>
-      <rw:author />
-      <rw:date>Nov 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>T.J. Hockenson (wrist/chest) did not practice Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c72a9ca8f8f2ba3cb1216e8ec021262ff0d5e1edfb562bf81ee86fbe302cacf6</guid>
-      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;T.J. Hockenson MIN Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Both injuries are new for the veteran tight end. He presumably suffered them in the Vikings’ Monday loss to the Bills, though it’s unclear exactly when in the game he got hurt. Gavin Bartholomew would be the next man up, though we doubt he’s the best option off the waiver wire in most fantasy leagues.&lt;/p&gt;</description>
-      <rw:player>T.J. Hockenson</rw:player>
-      <rw:team>MIN</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Alvin Kamara (NIR-rest/back) was not seen practicing on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c89fb66476cd3dfc8a2ad42e961acb85a52323ed01acee268b9b3737cd77117f</guid>
-      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Alvin Kamara NO Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We expect to see Kamara listed with his typical NIR-rest/back designation when the team’s official injury report is released later today. An update will be provided if this is not the case. With Travis Etienne (hamstring) now practicing and Audric Estime playing well, Kamara is barely fantasy-relevant.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Triplett&lt;/p&gt;</description>
-      <rw:player>Alvin Kamara</rw:player>
-      <rw:team>NO</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Mike Triplett</rw:source>
-      <rw:author />
-      <rw:date>Nov 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Travis Etienne (hamstring) resumed practicing on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:aaeaa798e5229db2ddca1e84d959b8b282b0529ced001cf893496fb339c80956</guid>
-      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Travis Etienne NO Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coming off injured reserve, Etienne can practice for 21 days before the Saints must officially either activate him or shut him down. The Saints’ No. 1 running back has been sidelined since unsuccessfully trying to play through a hamstring strain in Week 3 against the Raiders. Audric Estime could warrant RB2/FLEX treatment again this week if Etienne is not ready to face the Panthers on Sunday.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Triplett&lt;/p&gt;</description>
-      <rw:player>Travis Etienne</rw:player>
-      <rw:team>NO</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Mike Triplett</rw:source>
-      <rw:author />
-      <rw:date>Nov 11, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cam Skattebo (hamstring) was removed from the injury report and will play in Week 10 against the Commanders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:6b8e189053b89285d216e25f6d49a294e3c7483ead2984b563e8814fa3aca18e</guid>
-      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Cam Skattebo NYG Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Skattebo was listed as doubtful for Week 9. He reportedly pushed to play, but the team smartly chose to hold him out. He logged two full practices this week and is good to go for Thursday’s game. Without much competition for touches, Skattebo is back in the RB2 mix.&lt;/p&gt;</description>
-      <rw:player>Cam Skattebo</rw:player>
-      <rw:team>NYG</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
       <rw:author />
       <rw:date>Nov 11, 2026</rw:date>
     </item>

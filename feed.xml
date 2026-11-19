@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 02:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:08:23 +0000</lastBuildDate>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports Christian Kirk underwent a successful meniscus surgery.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:8fa1f6572b27969a6f5bb16cb0197f0f6374c6962bf86fae2acbaf39045fd5ae</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Christian Kirk SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapoport didn’t give any details on Kirk’s timeline to return. We suspect he is done for the season. Kirk missed most of the season with a hamstring injury. He returned for one game, didn’t record any stats, and then injured his knee. Kirk signed a one-year deal with the 49ers in the offseason. He will be stuck taking another prove-it deal if he’s healthy when free agency starts in the offseason.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Christian Kirk</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Nov 19, 2026</rw:date>
+    </item>
     <item>
       <title>Commanders signed WR Malik Heath to the practice squad.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6489,19 +6502,6 @@
       <rw:team>KC</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>Kansas City Chiefs</rw:source>
-      <rw:author />
-      <rw:date>Nov 12, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chris Bell (knee) did not practice on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:7822d5d1f997d24ef8ff01288584aba37c3e0acb219ec441dac4d2d6169f7b07</guid>
-      <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chris Bell MIA Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Dolphins were regularly limiting Bell’s practice reps earlier this season, so this may just be routine maintenance. The rookie wide receiver was limited yesterday. Bell has not yet established himself as a fantasy-relevant player, and he is unlikely to do so in Kyle McCord’s first start, especially if his surgically repaired knee is bothering him.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Miami Dolphins&lt;/p&gt;</description>
-      <rw:player>Chris Bell</rw:player>
-      <rw:team>MIA</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source>Miami Dolphins</rw:source>
       <rw:author />
       <rw:date>Nov 12, 2026</rw:date>
     </item>

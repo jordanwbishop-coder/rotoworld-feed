@@ -4,7 +4,46 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 23:17:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:58:29 +0000</lastBuildDate>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports that Puka Nacua’s (knee/toe) recovery timeline “does not match up” with a potential return for Super Bowl LXI.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:0328e690fb8da01bab2dc95497d7b42ff4e88bcc0c96d352f1192c39bab47910</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Puka Nacua&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nacua is currently on injured reserve, recovering from MCL and PCL sprains, along with a turf toe injury. He will also serve a three-game suspension on injured reserve, following the Rams’ Week 11 bye. The superstar wide receiver underwent surgery to repair his MCL on Tuesday, and Rapoport believes we have “almost certainly” seen the last of Nacua in the 2026 season. He is set to enter free agency this offseason, and it is unclear whether the Rams will extend him, franchise tag him or allow him to walk.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Puka Nacua</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Nov 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport believes the Patriots and Ravens are “potential landing spots” for Daniel Jones.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:79c64b2f799b91c49443a7bd0071ffa764401a63e93b01171fac2caf0eb0eb35</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Daniel Jones&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jones seemingly has decent odds of passing through waivers unclaimed, but he would be free to sign with any team after that. Rapoport adds that Jones is “still working his way back” from last year’s Achilles tendon rupture in his right, plant leg. Jones had a $10 million injury guarantee in his contract that is said to have been a factor in his release. Were he to sign with the Patriots, he could compete for the starting role with Tommy DeVito. Jacoby Brissett would probably be able to fend him off initially, were he to land in New England.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Daniel Jones</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Nov 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>Team reporter Darren Urban believes Josh Johnson will “probably” start in Week 11 against the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:81fc1da2505931be8aaed47fbc316ecc566cf0c6e0d60c46b7faf8174ece5e1f</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Josh Johnson ARI Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rookie Carson Beck is dealing with back spasms again, so recently signed journeyman Johnson will likely get the start this week. Urban notes that Johnson “played significant snaps for LaFleur in two games for the Jets in 2021, &amp;quot; completing 55-for-81 passes for 621 yards, five touchdowns and two interceptions. With six teams on bye, Johnson, 40, is in the low-end QB2 conversation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Arizona Cardinals&lt;/p&gt;</description>
+      <rw:player>Josh Johnson</rw:player>
+      <rw:team>ARI</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Arizona Cardinals</rw:source>
+      <rw:author />
+      <rw:date>Nov 20, 2026</rw:date>
+    </item>
     <item>
       <title>Talanoa Hufanga (ankle) is not on the Broncos’ final injury report and will play in Week 11 against the Raiders.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -227,9 +266,9 @@
       <rw:date>Nov 20, 2026</rw:date>
     </item>
     <item>
-      <title>Jets rule out Omar Cooper (ankle) for Week 11 against the Chargers.</title>
+      <title>Omar Cooper Jr. (ankle) has been ruled out for Week 11 against the Chargers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:e273f6158ee45267602076c0e875db2a5db9ed369cfff6289ceb519f678d14a1</guid>
+      <guid isPermaLink="false">urn:sha256:8b3c279f1fab3968e4a022035d2c7faf3499cfbbf5f079fe070bc8a22b09c84d</guid>
       <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Omar Cooper NYJ Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cooper and Isaiah Williams (ribs) will both miss this week’s game, leaving Garrett Wilson and Adonai Mitchell to lead the wide receiver corps. Both players’ target share projections should increase a tad. Cooper did not practice at all this week. He has dealt with multiple ankle injuries in his rookie season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; New York Jets&lt;/p&gt;</description>
       <rw:player>Omar Cooper</rw:player>
@@ -591,19 +630,6 @@
       <rw:date>Nov 20, 2026</rw:date>
     </item>
     <item>
-      <title>Saints coach Kellen Moore said Taliese Fuaga (knee) will not play in New Orleans’ Week 11 game against the Bears.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b23888c285039ddfd99d10d42072b763c60433b42a8e3e8a7d68c185c689c597</guid>
-      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Taliese Fuaga NO Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Asim Richards (knee) was also ruled out, leaving the Saints with 24-year-old UDFA Mason Murphy as a potential Week 11 starter at tackle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Triplett&lt;/p&gt;</description>
-      <rw:player>Taliese Fuaga</rw:player>
-      <rw:team>NO</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source>Mike Triplett</rw:source>
-      <rw:author />
-      <rw:date>Nov 20, 2026</rw:date>
-    </item>
-    <item>
       <title>ESPN’s Mike Reiss reports that A.J. Brown (hamstring) is expected to be sidelined for multiple weeks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:89b867301d7cd65430a187b75d181e17f65c387b2eeedad3c205ea6b96b526d9</guid>
@@ -730,6 +756,32 @@
       <rw:team>CAR</rw:team>
       <rw:position>Tight End</rw:position>
       <rw:source />
+      <rw:author />
+      <rw:date>Nov 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>Jets rule out Omar Cooper (ankle) for Week 11 against the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:e273f6158ee45267602076c0e875db2a5db9ed369cfff6289ceb519f678d14a1</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Omar Cooper NYJ Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Cooper and Isaiah Williams (ribs) will both miss this week’s game, leaving Garrett Wilson and Adonai Mitchell to lead the wide receiver corps. Both players’ target share projections should increase a tad. Cooper did not practice at all this week. He has dealt with multiple ankle injuries in his rookie season.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; New York Jets&lt;/p&gt;</description>
+      <rw:player>Omar Cooper</rw:player>
+      <rw:team>NYJ</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>New York Jets</rw:source>
+      <rw:author />
+      <rw:date>Nov 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>Saints coach Kellen Moore said Taliese Fuaga (knee) will not play in New Orleans’ Week 11 game against the Bears.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b23888c285039ddfd99d10d42072b763c60433b42a8e3e8a7d68c185c689c597</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Taliese Fuaga NO Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Asim Richards (knee) was also ruled out, leaving the Saints with 24-year-old UDFA Mason Murphy as a potential Week 11 starter at tackle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Triplett&lt;/p&gt;</description>
+      <rw:player>Taliese Fuaga</rw:player>
+      <rw:team>NO</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source>Mike Triplett</rw:source>
       <rw:author />
       <rw:date>Nov 20, 2026</rw:date>
     </item>
@@ -6448,58 +6500,6 @@
       <description>&lt;p&gt;&lt;strong&gt;Chris Brooks GB Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brooks returns to a backfield once again without Josh Jacobs, appearing likely to serve as the preferred passing down back while Kaleb Johnson handles early-down duties. Moore remains unlikely to be consistently involved in the offense but brings a sizable boost to the special teams unit. The top duo of Christian Watson and Matthew Golden should continue to dominate targets through the air for one of the most pass-heavy offenses in the league.&lt;/p&gt;</description>
       <rw:player>Chris Brooks</rw:player>
       <rw:team>GB</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Patriots placed RB TreVeyon Henderson (illness) on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:c4ba2754d73bedcc90522945b8af55989f12ebbff6d1432486e084e4dfa51b92</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;TreVeyon Henderson NE Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Henderson will now miss the coming four games, at minimum, after missing the previous two, with what the team is calling neurological symptoms. Whatever it is that Henderson is currently going through is clearly bigger than football. Rhamondre Stevenson is currently listed as questionable for Week 10 but is not expected to play, leaving the backfield in the hands of Corey Kiner in the immediate future. Here’s hoping for a speedy recovery for the electric running back.&lt;/p&gt;</description>
-      <rw:player>TreVeyon Henderson</rw:player>
-      <rw:team>NE</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Panthers activated WR Xavier Legette (knee) from injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:1e4e98ec6cb081e4ee82958629f1adbc428764ebaba668a3c2657b95c07d7865</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Xavier Legette CAR Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Legette will make his return to a passing offense currently dominated by Tetairoa McMillan, Jalen Coker, and tight end Darren Waller, unlikely to return a usable fantasy score in his first game since Week 2. He is not on the fantasy radar despite the plus matchup against the Saints.&lt;/p&gt;</description>
-      <rw:player>Xavier Legette</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Panthers downgraded Jonathon Brooks (core) to out for Week 10 against the Saints.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:490d3dc42f9ad67611e73143ee51f9e9f5f33e7b32eb00b46e11bdf0d8437bd6</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jonathon Brooks CAR Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brooks will miss his seventh consecutive game as he attempts to return from a core muscle injury. He managed a week of limited sessions before initially being listed as doubtful, ultimately ruled out. Chuba Hubbard will again serve as a legitimate workhorse in a plus matchup against the Saints and can be treated as a back-end RB1 in Week 10.&lt;/p&gt;</description>
-      <rw:player>Jonathon Brooks</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Cowboys placed RB Tyler Goodson (ankle/knee) on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9c67ebf8ccdb8a5341d1f5e87117851deb94666058b7e7a5f6bfea6d2b3b69e2</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Tyler Goodson DAL Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s yet another blow to the depth of a backfield devastated by injuries this season, leaving lead back Javonte Williams again positioned well to see a workhorse role against the 49ers. The team elevated running back Israel Abanikanda in an associated move, who is likely to serve as the primary change of pace option in Week 10.&lt;/p&gt;</description>
-      <rw:player>Tyler Goodson</rw:player>
-      <rw:team>DAL</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />

@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 02:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:58:43 +0000</lastBuildDate>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports that Bud Dupree has requested his release from the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:1e69f7cce2c6d12c29ac5c35a6c31fb0186f1f6a31e36a004a175b8df1884b30</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Bud Dupree LAC Outside Linebacker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Fowler also reveals that Dupree asked to be released in the offseason, but the Chargers have been unwilling to grant it. Dupree is playing infrequently and has just two quarterback pressures and one tackle. Releasing him would reduce their depth, but he is not a critical defender for this 1-8 squad. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Bud Dupree</rw:player>
+      <rw:team>LAC</rw:team>
+      <rw:position>Outside Linebacker</rw:position>
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Nov 20, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports that Mike Evans (Achilles) “is trending in the right direction” for Week 11 against the Vikings.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:98c53355ff8ed0f4b7c1e7fa6ba9d2204d7ab098d87e2ba57e17b6af0938c388</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Mike Evans SF Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapoport does note, however, that Evans is “a little sore” after returning to practice on Thursday. The 49ers will make a decision on Evans’ Week 11 status on Saturday. If active, Evans will carry some re-injury risk, but reports have consistently indicated that the 49ers learned a lot from Christian McCaffrey’s bilateral Achilles tendinitis in 2024. It seems safe to assume that if Evans is active, his Achilles tendon is in good shape. Evans may not immediately return to his pre-injury form against the Vikings’ elite defense, but he should be in fantasy football lineups.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Ian Rapoport&lt;/p&gt;</description>
+      <rw:player>Mike Evans</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Wide Receiver</rw:position>
+      <rw:source>Ian Rapoport</rw:source>
+      <rw:author />
+      <rw:date>Nov 20, 2026</rw:date>
+    </item>
     <item>
       <title>NFL Network’s Ian Rapoport reports that Puka Nacua’s (knee/toe) recovery timeline “does not match up” with a potential return for Super Bowl LXI.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -630,6 +656,19 @@
       <rw:date>Nov 20, 2026</rw:date>
     </item>
     <item>
+      <title>Saints coach Kellen Moore said Taliese Fuaga (knee) will not play in New Orleans’ Week 11 game against the Bears.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b23888c285039ddfd99d10d42072b763c60433b42a8e3e8a7d68c185c689c597</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Taliese Fuaga NO Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Asim Richards (knee) was also ruled out, leaving the Saints with 24-year-old UDFA Mason Murphy as a potential Week 11 starter at tackle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Triplett&lt;/p&gt;</description>
+      <rw:player>Taliese Fuaga</rw:player>
+      <rw:team>NO</rw:team>
+      <rw:position>Tackle</rw:position>
+      <rw:source>Mike Triplett</rw:source>
+      <rw:author />
+      <rw:date>Nov 20, 2026</rw:date>
+    </item>
+    <item>
       <title>ESPN’s Mike Reiss reports that A.J. Brown (hamstring) is expected to be sidelined for multiple weeks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
       <guid isPermaLink="false">urn:sha256:89b867301d7cd65430a187b75d181e17f65c387b2eeedad3c205ea6b96b526d9</guid>
@@ -769,19 +808,6 @@
       <rw:team>NYJ</rw:team>
       <rw:position>Wide Receiver</rw:position>
       <rw:source>New York Jets</rw:source>
-      <rw:author />
-      <rw:date>Nov 20, 2026</rw:date>
-    </item>
-    <item>
-      <title>Saints coach Kellen Moore said Taliese Fuaga (knee) will not play in New Orleans’ Week 11 game against the Bears.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b23888c285039ddfd99d10d42072b763c60433b42a8e3e8a7d68c185c689c597</guid>
-      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Taliese Fuaga NO Tackle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Asim Richards (knee) was also ruled out, leaving the Saints with 24-year-old UDFA Mason Murphy as a potential Week 11 starter at tackle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Mike Triplett&lt;/p&gt;</description>
-      <rw:player>Taliese Fuaga</rw:player>
-      <rw:team>NO</rw:team>
-      <rw:position>Tackle</rw:position>
-      <rw:source>Mike Triplett</rw:source>
       <rw:author />
       <rw:date>Nov 20, 2026</rw:date>
     </item>
@@ -6475,32 +6501,6 @@
       <rw:player>David Njoku</rw:player>
       <rw:team>LAC</rw:team>
       <rw:position>Tight End</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Ladd McConkey (back) is questionable for Week 10 against the Ravens.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:66ccfd2ae93717335c5153c6e882ee3106f9716e860f4dd5562e8f2853d8fe61</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Ladd McConkey LAC Wide Receiver&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McConkey heads into Monday Night Football listed as questionable after failing to practice through Friday. The veteran receiver missed Week 9 when it was revealed he had been dealing with back spasms during warmups. Fantasy managers are likely better off making alternate plans considering the Chargers play in the final game of the week.&lt;/p&gt;</description>
-      <rw:player>Ladd McConkey</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 14, 2026</rw:date>
-    </item>
-    <item>
-      <title>Packers activated RB Chris Brooks and WR Skyy Moore from injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:42ad99c33c6d88160392319c6589b2f2c4f08bdbe5e9e9aad73f315b7f438dc0</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Chris Brooks GB Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Brooks returns to a backfield once again without Josh Jacobs, appearing likely to serve as the preferred passing down back while Kaleb Johnson handles early-down duties. Moore remains unlikely to be consistently involved in the offense but brings a sizable boost to the special teams unit. The top duo of Christian Watson and Matthew Golden should continue to dominate targets through the air for one of the most pass-heavy offenses in the league.&lt;/p&gt;</description>
-      <rw:player>Chris Brooks</rw:player>
-      <rw:team>GB</rw:team>
-      <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Nov 14, 2026</rw:date>

@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 00:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:26:12 +0000</lastBuildDate>
+    <item>
+      <title>Roschon Johnson (ankle) was listed as a “DNP” on Monday’s estimated practice report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:c4f1ba6098fca7c577b0b29bee8d2c4469e12153e12834bf9023e3520651bcf6</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Roschon Johnson CHI Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Johnson departed the team’s Week 11 win over the Saints with an ankle injury and did not return, making his absence Monday notable on the short week. Expect D’Andre Swift and Kyle Monangai to dominate snaps and opportunities out of the backfield for the Bears in one of the biggest games of the season, with the winner left standing alone atop the competitive NFC North.&lt;/p&gt;</description>
+      <rw:player>Roschon Johnson</rw:player>
+      <rw:team>CHI</rw:team>
+      <rw:position>Running Back</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Nov 23, 2026</rw:date>
+    </item>
+    <item>
+      <title>Sam LaPorta (ankle) was listed as limited on Monday’s estimated practice report.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:b54039313941164a7dcd0fd0ed4ae51abe6f1781833f5f8ea47ff34ca7f5740e</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Sam LaPorta DET Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The ankle appears to be a non-issue, assuming LaPorta can manage to participate in practice Tuesday. The team will hold two more sessions ahead of Thursday’s divisional showdown against the Bears on Thanksgiving, a game that will decide which team stands alone atop the competitive NFC North with six weeks remaining in the regular season.&lt;/p&gt;</description>
+      <rw:player>Sam LaPorta</rw:player>
+      <rw:team>DET</rw:team>
+      <rw:position>Tight End</rw:position>
+      <rw:source />
+      <rw:author />
+      <rw:date>Nov 23, 2026</rw:date>
+    </item>
     <item>
       <title>Sam Darnold (quad/rib) was present at practice Monday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6476,32 +6502,6 @@
       <rw:team>ARI</rw:team>
       <rw:position>Outside Linebacker</rw:position>
       <rw:source>Bo Brack</rw:source>
-      <rw:author />
-      <rw:date>Nov 16, 2026</rw:date>
-    </item>
-    <item>
-      <title>Commanders head coach Dan Quinn said Jacory Croskey-Merritt (groin) is “trending in the right direction” to practice this week.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:dcd174719e53a33543aef7cdb78522ad20b35ea59a225ed421cb85527804ab36</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Jacory Croskey-Merritt WAS Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Quinn declined to commit to opening “Bill’s” 21-day return window, but sounded optimistic about doing so later in the week. The Commanders’ RB1 has missed the last four games with a groin injury he picked up in Week 5 and would be eligible to return as early as Week 11 if he were to be designated to return this week. The Commanders have struggled on the ground without JCM this season, as their running backs have combined to average just 3.7 YPC since Week 6 while finding the end zone once. If he’s able to play against the Bengals, JCM would have some appeal as an RB3/FLEX in a week that has six teams on bye.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nicki Jhabvala&lt;/p&gt;</description>
-      <rw:player>Jacory Croskey-Merritt</rw:player>
-      <rw:team>WAS</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source>Nicki Jhabvala</rw:source>
-      <rw:author />
-      <rw:date>Nov 16, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chargers activated TE David Njoku from injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:acbc627a1738008a78f34f74ef22fdb6713b2d6dfc521eafc3ac49ffb1e66250</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;David Njoku LAC Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Njoku will try to fight for fantasy relevancy going forward, but there’s no need to pretend he has it at the moment with all three Chargers tight ends healthy. They also activated LB Denzel Perryman off the same list and sent G/T Branson Taylor to injured reserve in their place.&lt;/p&gt;</description>
-      <rw:player>David Njoku</rw:player>
-      <rw:team>LAC</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source />
       <rw:author />
       <rw:date>Nov 16, 2026</rw:date>
     </item>

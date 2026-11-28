@@ -4,7 +4,33 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 28 Nov 2026 00:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:43:00 +0000</lastBuildDate>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports that Rams OG Bill Murray ruptured his Achilles tendon in the Rams’ Week 12 win over the Packers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:32a34d143c2da171a722186a789cdf104fae48369935b23185426d759283e09f</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Bill Murray&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is unfortunate. Murray, a backup, started at left guard and played well. He will now undergo surgery and begin rehab for the 2027 NFL season. The Rams’ offensive line is fairly banged up. Hopefully, the extra time off allows the unit to improve its health.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Jeremy Fowler&lt;/p&gt;</description>
+      <rw:player>Bill Murray</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Jeremy Fowler</rw:source>
+      <rw:author />
+      <rw:date>Nov 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>NFL on Prime’s James Palmer believes Brian Schottenheimer will remain the Cowboys’ head coach for the rest of the season.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:7c72d2ed50300df662c5719d099f53faae1a58c796344c0974ef7b6f2b8d1e1f</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Brian Schottenheimer DAL Head Coach&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Palmer’s report wasn’t entirely positive. He also believes that if the Cowboys’ performance does not improve, “there are going to be some decisions that Jerry Jones needs to make after the season.” It sounds like Schottenheimer may be coaching for his job for the rest of the year. Stay tuned.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; James Palmer&lt;/p&gt;</description>
+      <rw:player>Brian Schottenheimer</rw:player>
+      <rw:team>DAL</rw:team>
+      <rw:position>Head Coach</rw:position>
+      <rw:source>James Palmer</rw:source>
+      <rw:author />
+      <rw:date>Nov 27, 2026</rw:date>
+    </item>
     <item>
       <title>Drew Lock (elbow) is not on the Seahawks’ final injury report for Week 12 against the 49ers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -216,9 +242,9 @@
     <item>
       <title>49ers ruled out Brock Purdy (ankle) for Week 12 against the Seahawks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:384385721d1f20970191751966f9552d7fab34f810f7c789b67cd0b906d22776</guid>
+      <guid isPermaLink="false">urn:sha256:332ead63aed02afc47aa00f2a1d24a9f7481e746e24f31394c1a0a331203499a</guid>
       <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Brock Purdy SF Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mac Jones will start in Purdy’s stead. 49ers coach Kyle Shanahan said Purdy is dealing with a mid-ankle sprain, and the team is optimistic about his availability for Week 13 against the Giants. Jones piloted the offense efficiently last year and should be expected to do so again, albeit in a tough matchup this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Wagoner&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Brock Purdy SF Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mac Jones will start in Purdy’s stead. 49ers coach Kyle Shanahan said Purdy is dealing with a mid-ankle sprain and that surgery is not necessary. The team is optimistic about his availability for Week 13 against the Giants. Jones piloted the offense efficiently last year and should be expected to do so again, albeit in a tough matchup this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Wagoner&lt;/p&gt;</description>
       <rw:player>Brock Purdy</rw:player>
       <rw:team>SF</rw:team>
       <rw:position>Quarterback</rw:position>
@@ -730,6 +756,19 @@
       <rw:team>PIT</rw:team>
       <rw:position>Linebacker</rw:position>
       <rw:source>Nick Farbaugh</rw:source>
+      <rw:author />
+      <rw:date>Nov 27, 2026</rw:date>
+    </item>
+    <item>
+      <title>49ers ruled out Brock Purdy (ankle) for Week 12 against the Seahawks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:384385721d1f20970191751966f9552d7fab34f810f7c789b67cd0b906d22776</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Brock Purdy SF Quarterback&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mac Jones will start in Purdy’s stead. 49ers coach Kyle Shanahan said Purdy is dealing with a mid-ankle sprain, and the team is optimistic about his availability for Week 13 against the Giants. Jones piloted the offense efficiently last year and should be expected to do so again, albeit in a tough matchup this week.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Nick Wagoner&lt;/p&gt;</description>
+      <rw:player>Brock Purdy</rw:player>
+      <rw:team>SF</rw:team>
+      <rw:position>Quarterback</rw:position>
+      <rw:source>Nick Wagoner</rw:source>
       <rw:author />
       <rw:date>Nov 27, 2026</rw:date>
     </item>
@@ -6463,45 +6502,6 @@
       <rw:team>KC</rw:team>
       <rw:position>Running Back</rw:position>
       <rw:source />
-      <rw:author />
-      <rw:date>Nov 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>Saints declared LB Pete Werner, CB Martin Emerson Jr., RB Audric Estime, OT Asim Richards, OT Taliese Fuaga, C Erik McCoy, and QB Zach Wilson inactive for Week 11 against the Bears.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:9ad3f14e586e5f2b000b121060fac1976caacdbbb8549f12a5396e86ad053e95</guid>
-      <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Audric Estime NO Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Estime was seeing nearly half of the Saints’ backfield snaps up to last week. With Travis Etienne ramping back up from injury, the Saints choose to deactivate Estime, keeping Etienne as the primary back, Alvin Kamara as the pass-catching back, and rookie CJ Donaldson as the third-string in what has been a frustrating committee for fantasy purposes. Zach Wilson is the emergency third quarterback while Werner (hamstring), Emerson (concussion), Richards (knee), Fuaga (knee), and McCoy (biceps) are all out with injury, leaving the offensive line and defense short-handed against the Bears.&lt;/p&gt;</description>
-      <rw:player>Audric Estime</rw:player>
-      <rw:team>NO</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>Titans declared RB Nicholas Singleton, LB Mohamoud Diabate, CB Jaylon Jones, DT Jackie Marshall and OT Brandon Crenshaw-Dickson inactive for Week 11 against the Cowboys.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:b550527c48afa02d5fd2ce4125e057db776624c896b5468bf24665bcaaeb09ef</guid>
-      <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Nicholas Singleton TEN Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;With Tyjae Spears on injured reserve, it’s a poor sign for fifth-round rookie Singleton that he is still getting healthy scratched in Week 11.&lt;/p&gt;</description>
-      <rw:player>Nicholas Singleton</rw:player>
-      <rw:team>TEN</rw:team>
-      <rw:position>Running Back</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>Darren Waller (knee) is active for the Panthers’ Week 11 against the Ravens.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:89040e3b1da6052693c00370ba61fe4de089e934659d0440762647ff3c11d49f</guid>
-      <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Darren Waller CAR Tight End&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Waller was questionable with a knee injury entering the weekend, but will be good to go in what is somewhat of a revenge game against the team that drafted him in the sixth round back in 2015. The 34-year old tight end profiles as a boom-or-bust TE2 against a Ravens defense that has allowed the 10th-most PPR points per game (14.1) to opposing tight ends over its last five games. In addition to Waller, fellow tight end Tommy Tremble (knee) is also active, while TE Ja’Tavion Sanders, QB Haynes King, RB AJ Dillon, LB Bobby Okereke, C Sam Hecht, and DT TeRah Edwards will all be inactive for this one.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Carolina Panthers&lt;/p&gt;</description>
-      <rw:player>Darren Waller</rw:player>
-      <rw:team>CAR</rw:team>
-      <rw:position>Tight End</rw:position>
-      <rw:source>Carolina Panthers</rw:source>
       <rw:author />
       <rw:date>Nov 22, 2026</rw:date>
     </item>

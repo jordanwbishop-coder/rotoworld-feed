@@ -4,7 +4,20 @@
     <title>NBC Sports Rotoworld NFL Player News</title>
     <link>https://www.nbcsports.com/fantasy/football/player-news</link>
     <description>Unofficial personal Rotoworld NFL player-news feed.</description>
-    <lastBuildDate>Sat, 28 Nov 2026 03:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:52:13 +0000</lastBuildDate>
+    <item>
+      <title>The Ringer’s Tom Pelissero reports league sources “don’t foresee” QB Aaron Rodgers playing again, barring an injury-driven emergency.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+      <guid isPermaLink="false">urn:sha256:f1a6f7b09a6b0d024443bb010f868ebaca183358d72701c55b44f4fed99d6252</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Aaron Rodgers&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rodgers cleared waivers Thursday and no immediate suitors emerged. The 42-year-old free agent QB torched what was left of his Steelers career earlier this week when he issued an ultimatum to Steelers HC Mike McCarthy, got benched, appeared on the Pat McAfee Show and was released. Plenty of teams are missing their starting quarterbacks, but Pelissero says it’ll take an injury-driven emergency for Rodgers to play again. At this point, no team is desperate enough to dance with the devil.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Tom Pelissero&lt;/p&gt;</description>
+      <rw:player>Aaron Rodgers</rw:player>
+      <rw:team />
+      <rw:position />
+      <rw:source>Tom Pelissero</rw:source>
+      <rw:author />
+      <rw:date>Nov 28, 2026</rw:date>
+    </item>
     <item>
       <title>ESPN’s Jeremy Fowler reports that Rams OG Bill Murray ruptured his Achilles tendon in the Rams’ Week 12 win over the Packers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news</link>
@@ -6488,19 +6501,6 @@
       <rw:player>Roman Wilson</rw:player>
       <rw:team>PIT</rw:team>
       <rw:position>Wide Receiver</rw:position>
-      <rw:source />
-      <rw:author />
-      <rw:date>Nov 22, 2026</rw:date>
-    </item>
-    <item>
-      <title>Chiefs declared RB Kenneth Walker (groin) inactive for Kansas City’s Week 11 game against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news</link>
-      <guid isPermaLink="false">urn:sha256:4a86928830d991801f09fef8451f7d278bff0786d77810466b941f8b77962b7d</guid>
-      <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Kenneth Walker KC Running Back&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It’s Emmett Johnson szn once more. Also inactive for the Chiefs are QB Garrett Nussmeier (third quarterback), OL Jaylon Moore (ankle), OL Trey Smith (concussion), DT Omarr Norman-Lott (knee), DT Peter Woods (neck) and CB Melvin Smith. Norman-Lott and Woods were both questionable and will not play. The others were ruled out on Friday.&lt;/p&gt;</description>
-      <rw:player>Kenneth Walker</rw:player>
-      <rw:team>KC</rw:team>
-      <rw:position>Running Back</rw:position>
       <rw:source />
       <rw:author />
       <rw:date>Nov 22, 2026</rw:date>
